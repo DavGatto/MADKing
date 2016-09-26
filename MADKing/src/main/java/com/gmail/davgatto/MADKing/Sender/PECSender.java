@@ -22,11 +22,11 @@ public class PECSender {
 
 	private int port;
 	private String host;
-	private String from;
-	private boolean auth;
+//	private String from;
+	//private boolean auth;
 	private String username;
 	private String password;
-	private Protocol protocol;
+	//private Protocol protocol;
 	private boolean debug;
 
 	private String to;
@@ -50,21 +50,21 @@ public class PECSender {
 		this.host = host;
 	}
 
-	private String getFrom() {
-		return from;
-	}
+//	private String getFrom() {
+//		return from;
+//	}
 
-	private void setFrom(String from) {
-		this.from = from;
-	}
+//	private void setFrom(String from) {
+//		this.from = from;
+//	}
 
-	private boolean isAuth() {
-		return auth;
-	}
-
-	private void setAuth(boolean auth) {
-		this.auth = auth;
-	}
+//	private boolean isAuth() {
+//		return auth;
+//	}
+//
+//	private void setAuth(boolean auth) {
+//		this.auth = auth;
+//	}
 
 	private String getUsername() {
 		return username;
@@ -82,13 +82,13 @@ public class PECSender {
 		this.password = password;
 	}
 
-	private Protocol getProtocol() {
-		return protocol;
-	}
-
-	private void setProtocol(Protocol protocol) {
-		this.protocol = protocol;
-	}
+//	private Protocol getProtocol() {
+//		return protocol;
+//	}
+//
+//	private void setProtocol(Protocol protocol) {
+//		this.protocol = protocol;
+//	}
 
 	private boolean isDebug() {
 		return debug;
@@ -142,13 +142,13 @@ public class PECSender {
 
 		// setAuth(true);
 
-		if ("SMTP".equals(jsoMail.getString("protocol"))) {
-			setProtocol(Protocol.SMTP);
-		} else if ("TLS".equals(jsoMail.getString("protocol"))) {
-			setProtocol(Protocol.TLS);
-		} else {
-			setProtocol(Protocol.SMTPS);
-		}
+//		if ("SMTP".equals(jsoMail.getString("protocol"))) {
+//			setProtocol(Protocol.SMTP);
+//		} else if ("TLS".equals(jsoMail.getString("protocol"))) {
+//			setProtocol(Protocol.TLS);
+//		} else {
+//			setProtocol(Protocol.SMTPS);
+//		}
 
 		setDebug(debug);
 
@@ -169,9 +169,9 @@ public class PECSender {
 			setTo(pecIstruzione);
 			body += "\nDEBUG: Questa mail sarebbe stata inviata alla scuola " + jsoSchool.getString("codMec") + "\n";
 		}
-		setFrom(getUsername());
+//		setFrom(getUsername());
 
-		setAuth(true);
+		//setAuth(true);
 		setDebug(isDebug());
 
 		String basicAttachmentName = getAttachment();

@@ -33,29 +33,29 @@ public class App {
 					printHelp();
 					return;
 				}
-				if ("--teacherdetails=".equals(s.substring(0, 17))) {
+				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
 					if (Files.exists(Paths.get(s.substring(17)))) {
 						teacherJsonPath = s.substring(17);
-						System.out.println("Teacher details found at: " + teacherJsonPath);
+						System.out.println("MADking:MADMaker: Teacher details found at: " + teacherJsonPath);
 					} else {
 						System.out.println(
-								"WARNING!! Teacher details JSON file does not exist!\nUsing default teacher details (are you debugging me?)");
+								"MADking:MADMaker: WARNING!! Teacher details JSON file does not exist!\nUsing default teacher details (are you debugging me?)");
 					}
-				} else if ("--schools=".equals(s.substring(0, 10))) {
+				} else if (s.startsWith("--schools=")) {
 					schoolsarg = true;
 					if (Files.exists(Paths.get(s.substring(10)))) {
 						schoolsJsonPath = s.substring(10);
-						System.out.println("School list found at: " + schoolsJsonPath);
+						System.out.println("MADking:MADMaker: School list found at: " + schoolsJsonPath);
 					} else {
 						System.out.println(
-								"WARNING!! Schools JSON file does not exist!\nUsing default schools (are you debugging me?)");
+								"MADking:MADMaker: WARNING!! Schools JSON file does not exist!\nUsing default schools (are you debugging me?)");
 					}
-				} else if ("--directory=".equals(s.substring(0, 12))) {
+				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
-					System.out.println("Output directory set as " + targetDir);
+					System.out.println("MADking:MADMaker: Output directory set as " + targetDir);
 				} else {
-					System.out.println("Invalid argument: " + s + "\nAborting...\n\n");
+					System.out.println("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");
 					printHelp();
 					return;
 				}
@@ -63,22 +63,22 @@ public class App {
 			}
 			if (!teacherdetailsarg) {
 				System.out.println(
-						"WARNING!! Teacher details JSON file not specified!\nUsing default teacher details (are you debugging me?)");
+						"MADking:MADMaker: WARNING!! Teacher details JSON file not specified!\nUsing default teacher details (are you debugging me?)");
 			}
 			if (!schoolsarg) {
 				System.out.println(
-						"WARNING!! Schools JSON file not specified!\nUsing default schools (are you debugging me?)");
+						"MADking:MADMaker: WARNING!! Schools JSON file not specified!\nUsing default schools (are you debugging me?)");
 
 			}
 		} else {
 			System.out.println(
-					"WARNING!! With no argumnts, the program runs with default params.\nThis makes sense only for debug purposes");
+					"MADking:MADMaker: WARNING!! With no argumnts, the program runs with default params.\nThis makes sense only for debug purposes");
 		}
 
 		try {
 			Files.createDirectories(Paths.get(targetDir));
 		} catch (IOException e1) {
-			System.out.println("could not create directory " + targetDir);
+			System.out.println("MADking:MADMaker: could not create directory " + targetDir);
 			e1.printStackTrace();
 		}
 
@@ -89,33 +89,33 @@ public class App {
 			teacherDetails.setFromJsonObj(teacherJsonPath);
 			teacherSpecificMADPath += teacherDetails.getName().replaceAll("\\s|\'", "") + "_MAD.pdf";
 		} catch (IOException e) {
-			System.out.println("teacherDetails.json not found");
+			System.out.println("MADking:MADMaker: teacherDetails.json not found");
 			e.printStackTrace();
 		} catch (BadElementException e) {
-			System.out.println("teacherDetails.json could not be read properly");
+			System.out.println("MADking:MADMaker: teacherDetails.json could not be read properly");
 			e.printStackTrace();
 		}
 
 		try {
 			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, teacherSpecificMADPath,
 					BLANK_MAD_MODEL_PATH);
-			System.out.println("Teacher-specific MAD file created!");
+			System.out.println("MADking:MADMaker: Teacher-specific MAD file created!");
 		} catch (IOException e) {
-			System.out.println("IOExceprion occurred while generating teacher-specific MAD pdf file");
+			System.out.println("MADking:MADMaker: IOExceprion occurred while generating teacher-specific MAD pdf file");
 			e.printStackTrace();
 		} catch (DocumentException e) {
-			System.out.println("DocumentException occurred while generating teacher-specific MAD pdf file");
+			System.out.println("MADking:MADMaker: DocumentException occurred while generating teacher-specific MAD pdf file");
 			e.printStackTrace();
 		}
 
 		try {
 			SchoolSpecificMADMaker.generateSchoolSpecificMADFiles(schoolsJsonPath, teacherSpecificMADPath);
-			System.out.println("School-specific MAD files created!");
+			System.out.println("MADking:MADMaker: School-specific MAD files created!");
 		} catch (DocumentException e) {
-			System.out.println("DocumentException occurred while generating school-specific MAD pdf file");
+			System.out.println("MADking:MADMaker: DocumentException occurred while generating school-specific MAD pdf file");
 			e.printStackTrace();
 		} catch (IOException e) {
-			System.out.println("IOExceprion occurred while generating school-specific MAD pdf file");
+			System.out.println("MADking:MADMaker: IOExceprion occurred while generating school-specific MAD pdf file");
 			e.printStackTrace();
 		}
 

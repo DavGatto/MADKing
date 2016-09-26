@@ -37,60 +37,65 @@ public class App {
 					printHelp();
 					return;
 				}
-				if ("--teacherdetails=".equals(s.substring(0, 17))) {
+				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
 					if (Files.exists(Paths.get(s.substring(17)))) {
 						teacherJsonPath = s.substring(17);
+						System.out.println("MADKing:MADSender: Teacher details found at: " + teacherJsonPath);
 					} else {
 						System.out.println(
-								"WARNING!! Teacher details JSON file does not exist!\nUsing default teacher details (are you debugging me?)");
+								"MADKing:MADSender: WARNING!! Teacher details JSON file does not exist!\nUsing default teacher details (are you debugging me?)");
 					}
-				} else if ("--schools=".equals(s.substring(0, 10))) {
+				} else if (s.startsWith("--schools=")) {
 					schoolsarg = true;
 					if (Files.exists(Paths.get(s.substring(10)))) {
-						teacherJsonPath = s.substring(10);
+						schoolsJsonPath = s.substring(10);
+						System.out.println("MADKing:MADSender: School list found at: " + schoolsJsonPath);
 					} else {
 						System.out.println(
-								"WARNING!! Schools JSON file does not exist!\nUsing default schools (are you debugging me?)");
+								"MADKing:MADSender: WARNING!! Schools JSON file does not exist!\nUsing default schools (are you debugging me?)");
 					}
-				} else if ("--directory=".equals(s.substring(0, 12))) {
+				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
-				} else if ("--pecmaildetails=".equals(s.substring(0, 17))) {
+					System.out.println("MADKing:MADSender: MAD files directory set as " + targetDir);
+				} else if (s.startsWith("--pecmaildetails=")) {
 					pecarg = true;
 					if (Files.exists(Paths.get(s.substring(17)))) {
 						pecJsonPath = s.substring(17);
+						System.out.println("MADKing:MADSender: PEC details found at " + pecJsonPath);
 					} else {
 						System.out.println(
-								"WARNING!! PEC details JSON file does not exist!\nUsing default PEC details (are you debugging me?)");
+								"MADKing:MADSender: WARNING!! PEC details JSON file does not exist!\nUsing default PEC details (are you debugging me?)");
 					}
-				} else if ("--debug".equals(s.substring(0, 7))) {
+				} else if (s.startsWith("--debug")) {
 					debug = true;
-				} else if ("--simulate=".equals(s.substring(0, 11))) {
+					System.out.println("MADKing:MADSender: §§§§§§§§§§ Debug mode §§§§§§§§§§");
+				} else if (s.startsWith("--simulate=")) {
 					simulating = true;
 					targetMail = s.substring(11);
+					System.out.println("MADKing:MADSender: Simulated run -- actually sending to " + targetMail);
 				} else {
-					System.out.println("Invalid argument: " + s + "\nAborting...\n\n");
+					System.out.println("MADKing:MADSender: Invalid argument: " + s + "\nAborting...\n\n");
 					printHelp();
 					return;
 				}
-				if (!teacherdetailsarg) {
-					System.out.println(
-							"WARNING!! Teacher details JSON file not specified!\nUsing default teacher details (are you debugging me?)");
-				}
-				if (!schoolsarg) {
-					System.out.println(
-							"WARNING!! Schools JSON file not specified!\nUsing default schools (are you debugging me?)");
-				}
-				if (!pecarg) {
-					System.out.println(
-							"WARNING!! PEC details JSON file not specified!\nUsing default PEC details (are you debugging me?)");
-				}
+			}
+			if (!teacherdetailsarg) {
+				System.out.println(
+						"MADKing:MADSender: WARNING!! Teacher details JSON file not specified!\nUsing default teacher details (are you debugging me?)");
+			}
+			if (!schoolsarg) {
+				System.out.println(
+						"MADKing:MADSender: WARNING!! Schools JSON file not specified!\nUsing default schools (are you debugging me?)");
+			}
+			if (!pecarg) {
+				System.out.println(
+						"MADKing:MADSender: WARNING!! PEC details JSON file not specified!\nUsing default PEC details (are you debugging me?)");
 			}
 		} else
-
 		{
 			System.out.println(
-					"WARNING!! With no argumnts, the program runs with default params.\nThis makes sense only for debug purposes");
+					"MADKing:MADSender: WARNING!! With no argumnts, the program runs with default params.\nThis makes sense only for debug purposes");
 		}
 
 		try {
@@ -105,9 +110,10 @@ public class App {
 			PECSender sender = new PECSender(jsoMail, jsoTeach, targetDir, debug);
 
 			for (JsonValue jsoSchool : jsarr) {
-				System.out.println("Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
+				System.out.println(
+						"MADKing:MADSender: Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
 				sender.sendMail((JsonObject) jsoSchool, targetMail, simulating);
-				System.out.println("Sent!");
+				System.out.println("MADKing:MADSender: Sent!");
 			}
 
 		} catch (Exception e) {
