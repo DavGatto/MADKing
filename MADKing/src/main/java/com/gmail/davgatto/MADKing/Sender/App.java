@@ -95,7 +95,9 @@ public class App {
 		} else
 		{
 			System.out.println(
-					"MADKing:MADSender: WARNING!! With no argumnts, the program runs with default params.\nThis makes sense only for debug purposes");
+					"MADKing:MADSender: WARNING!! Sender won't run with no arguments\n\n");
+			printHelp();
+			return;
 		}
 
 		try {

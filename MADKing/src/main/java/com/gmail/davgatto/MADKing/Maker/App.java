@@ -72,7 +72,9 @@ public class App {
 			}
 		} else {
 			System.out.println(
-					"MADking:MADMaker: WARNING!! With no argumnts, the program runs with default params.\nThis makes sense only for debug purposes");
+					"MADking:MADMaker: WARNING!! Maker won't run with no arguments");
+			printHelp();
+			return;
 		}
 
 		try {
