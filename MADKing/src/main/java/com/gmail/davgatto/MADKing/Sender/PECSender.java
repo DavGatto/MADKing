@@ -159,11 +159,16 @@ public class PECSender {
 
 	}
 
-	public void sendMail(JsonObject jsoSchool, String pecIstruzione)
+	public void sendMail(JsonObject jsoSchool, String pecIstruzione, boolean simulating)
 			throws AddressException, MessagingException, IOException {
 
-		// setTo(jsoSchool.getString("codMec") + pecIstruzione);
-		setTo("davgatto@gmail.com");
+		String body = getBody();
+		if (!simulating) {
+			setTo(jsoSchool.getString("codMec") + pecIstruzione);
+		} else {
+			setTo(pecIstruzione);
+			body += "\nDEBUG: Questa mail sarebbe stata inviata alla scuola " + jsoSchool.getString("codMec") + "\n";
+		}
 		setFrom(getUsername());
 
 		setAuth(true);
@@ -178,86 +183,9 @@ public class PECSender {
 		attachments[0] = getAttachment();
 
 		sendEmailWithAttachments(getHost(), getPort() + "", getUsername(), getPassword(), getTo(),
-				getSubject() + "[" + jsoSchool.getString("codMec") + pecIstruzione + "]", getBody(), attachments);
+				getSubject() + "[" + jsoSchool.getString("codMec") + pecIstruzione + "]", body, attachments);
 
 		setAttachment(basicAttachmentName);
-
-		// Properties props = new Properties();
-		// props.put("mail.smtp.host", getHost());
-		// props.put("mail.smtp.port", getPort());
-		// props.put("mail.user", getUsername());
-		// props.put("mail.password", getPassword());
-		//
-		// switch (getProtocol()) {
-		// case SMTPS:
-		// props.put("mail.smtp.ssl.enable", true);
-		// break;
-		// case TLS:
-		// props.put("mail.smtp.starttls.enable", true);
-		// break;
-		// default:
-		// break;
-		// }
-		//
-		// Authenticator authenticator = null;
-		// if (isAuth()) {
-		// props.put("mail.smtp.auth", true);
-		// authenticator = new Authenticator() {
-		// private PasswordAuthentication pa = new
-		// PasswordAuthentication(getUsername(), getPassword());
-		//
-		// @Override
-		// public PasswordAuthentication getPasswordAuthentication() {
-		// return pa;
-		// }
-		// };
-		// }
-		//
-		// Session session = Session.getInstance(props, authenticator);
-		// session.setDebug(isDebug());
-		//
-		// // MimeMessage message = new MimeMessage(session);
-		// Message message = new MimeMessage(session);
-		// message.setFrom(new InternetAddress(getFrom()));
-		// // InternetAddress[] address = {new InternetAddress(getTo())};
-		// InternetAddress[] address = { new
-		// InternetAddress("davgatto@gmail.com") };
-		// message.setRecipients(Message.RecipientType.TO, address);
-		// message.setSubject(getSubject());
-		// message.setSentDate(new Date());
-		//
-		// // creates message part
-		// MimeBodyPart messageBodyPart = new MimeBodyPart();
-		// messageBodyPart.setContent(message,
-		// getBody() + "\nWOUDASEND: " + getTo() + " \nWOULDAATTACH: " +
-		// getAttachment());
-		//
-		// // creates multi-part
-		// Multipart multipart = new MimeMultipart();
-		// multipart.addBodyPart(messageBodyPart);
-		//
-		// // adds attachments
-		// if (getAttachment() != null) {
-		// MimeBodyPart attachPart = new MimeBodyPart();
-		//
-		// attachPart.attachFile(getAttachment());
-		//
-		// multipart.addBodyPart(attachPart);
-		//
-		// }
-		//
-		// // code to add attachment...will be revealed later
-		// //MimeBodyPart attachPart = new MimeBodyPart();
-		// //System.out.println(getAttachment());
-		// //attachPart.attachFile(getAttachment());
-		//
-		// // adds parts to the multipart
-		// //multipart.addBodyPart(messageBodyPart);
-		// //multipart.addBodyPart(attachPart);
-		//
-		// // sets the multipart as message's content
-		//// message.setContent(multipart);
-		//// Transport.send(message);
 
 	}
 
