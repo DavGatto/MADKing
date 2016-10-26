@@ -13,7 +13,7 @@ import com.itextpdf.text.Image;
 
 public final class TeacherSpecificMADMaker {
 
-	public static void generateTeacherSpecificMADFile(TeacherDetails td, String targetPath, String modelloMADPath)
+	public static void generateTeacherSpecificMADFile(TeacherDetails td, String anno_scolastico, String targetPath, String modelloMADPath)
 			throws IOException, DocumentException {
 
 		boolean female = false;
@@ -34,6 +34,9 @@ public final class TeacherSpecificMADMaker {
 		over.beginText();
 		over.setFontAndSize(bf, 10); // set font and size
 
+		over.setTextMatrix(450, 645);
+		over.showText(anno_scolastico);
+		
 		over.setTextMatrix(152, 615);
 		over.showText(td.getName());
 

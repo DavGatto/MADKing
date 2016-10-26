@@ -15,66 +15,74 @@ import com.itextpdf.text.DocumentException;
  */
 public class App {
 
-	public final static String BLANK_MAD_MODEL_PATH = "./configFiles/ModelloMAD.pdf";
+	public final static String BLANK_MAD_MODEL_PATH = "/ModelloMAD.pdf";
 	public final static String TARGET_FOLDER_PATH = "MADKing-ModuliCompilati";
-	public final static String TEACHER_DETAILS_JSON_PATH = "./JSONFiles/teacherDetails.json";
-	public final static String SCHOOLS_DETAILS_JSON_PATH = "./JSONFiles/schoolsDetails.json";
 
-	public static void main(String[] args) {
+
+	public static int makeMad(String[] args) {
 
 		String targetDir = TARGET_FOLDER_PATH;
 		boolean teacherdetailsarg = false;
-		String teacherJsonPath = TEACHER_DETAILS_JSON_PATH;
+		String teacherJsonPath = "";
 		boolean schoolsarg = false;
-		String schoolsJsonPath = SCHOOLS_DETAILS_JSON_PATH;
+		String schoolsJsonPath = "";
+		String annoScolastico = "";
+
 		if (args.length > 0) {
 			for (String s : args) {
 				if ("--help".equals(s.substring(0, 6))) {
 					printHelp();
-					return;
+					return 0;
 				}
 				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
-					if (Files.exists(Paths.get(s.substring(17)))) {
-						teacherJsonPath = s.substring(17);
+					teacherJsonPath = s.substring(17);
+					if (Files.exists(Paths.get(teacherJsonPath))) {
 						System.out.println("MADking:MADMaker: Teacher details found at: " + teacherJsonPath);
 					} else {
-						System.out.println(
-								"MADking:MADMaker: WARNING!! Teacher details JSON file does not exist!\nUsing default teacher details (are you debugging me?)");
+						System.out.println("MADKing:MADMaker: ERROR! Couldn't find Teacher details JSON file at: "
+								+ teacherJsonPath + "\nAborting...");
+						return -1;
 					}
+				} else if (s.startsWith("--as=")) {
+					annoScolastico = s.substring(5);
 				} else if (s.startsWith("--schools=")) {
 					schoolsarg = true;
-					if (Files.exists(Paths.get(s.substring(10)))) {
-						schoolsJsonPath = s.substring(10);
+					schoolsJsonPath = s.substring(10);
+					if (Files.exists(Paths.get(schoolsJsonPath))) {
 						System.out.println("MADking:MADMaker: School list found at: " + schoolsJsonPath);
 					} else {
-						System.out.println(
-								"MADking:MADMaker: WARNING!! Schools JSON file does not exist!\nUsing default schools (are you debugging me?)");
-					}
+						System.out.println("MADKing:MADMaker: ERROR!! Couldn't find schools JSON file at: "
+								+ schoolsJsonPath + "\nAborting...");
+						return -1;
+						}
 				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
 					System.out.println("MADking:MADMaker: Output directory set as " + targetDir);
+				} else if (s.startsWith("--pecmaildetails=") || s.startsWith("--debug")) {
+					// Do nothing
 				} else {
 					System.out.println("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");
 					printHelp();
-					return;
+					return -1;
 				}
 				
 			}
 			if (!teacherdetailsarg) {
-				System.out.println(
-						"MADking:MADMaker: WARNING!! Teacher details JSON file not specified!\nUsing default teacher details (are you debugging me?)");
+				System.out.println("MADKing:MADMaker: ERROR!! Teacher details JSON file not specified!\nAborting...");
+				printHelp();
+				return -1;
 			}
 			if (!schoolsarg) {
-				System.out.println(
-						"MADking:MADMaker: WARNING!! Schools JSON file not specified!\nUsing default schools (are you debugging me?)");
-
+				System.out.println("MADKing:MADMaker: ERROR!! Schools JSON file not specified!\nAborting...");
+				printHelp();
+				return -1;
 			}
 		} else {
 			System.out.println(
 					"MADking:MADMaker: WARNING!! Maker won't run with no arguments");
 			printHelp();
-			return;
+			return -1;
 		}
 
 		try {
@@ -99,7 +107,7 @@ public class App {
 		}
 
 		try {
-			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, teacherSpecificMADPath,
+			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, annoScolastico, teacherSpecificMADPath,
 					BLANK_MAD_MODEL_PATH);
 			System.out.println("MADking:MADMaker: Teacher-specific MAD file created!");
 		} catch (IOException e) {
@@ -121,12 +129,16 @@ public class App {
 			e.printStackTrace();
 		}
 
+		
+		return 0;
 	}
 
 	private static void printHelp() {
 		System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS] [OPTIONS]\n\n" + "PARAMS:\n"
 				+ "--teacherdetails\t\tPath to the JSON file containing teacher's details\n"
 				+ "--schools\t\tPath to the JSON file containing school list\n\n" + "OPTIONS:\n"
+				+ "--as\t\tScholastic Year\n"
 				+ "--directory\t\tAlternative directory for the generated pdf files");
 	}
+	
 }
