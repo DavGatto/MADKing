@@ -69,7 +69,7 @@ public class SchoolSpecificMADMaker {
 			PdfReader reader = new PdfReader(teacherSpecificMADPath);
 
 			String targetFilePath = teacherSpecificMADPath.replaceAll("_MAD.pdf",
-					"_" + school.getNome().replaceAll("\\s|\"|\'", "") + "-" + school.getCodMec() + "_MAD.pdf");
+					"_" + school.getCodMec() + "_MAD.pdf");
 
 			PdfStamper stamper = new PdfStamper(reader, new FileOutputStream(targetFilePath)); // output
 

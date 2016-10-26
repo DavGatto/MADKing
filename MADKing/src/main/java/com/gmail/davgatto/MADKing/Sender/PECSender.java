@@ -160,7 +160,7 @@ public class PECSender {
 
 		String basicAttachmentName = getAttachment();
 
-		setAttachment(basicAttachmentName + jsoSchool.getString("nome").replaceAll("\\s|\"|\'", "") + "-"
+		setAttachment(basicAttachmentName 
 				+ jsoSchool.getString("codMec") + "_MAD.pdf");
 
 		String[] attachments = new String[1];
