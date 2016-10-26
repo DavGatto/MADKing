@@ -1,0 +1,25 @@
+[
+	{
+		"codMec": "csps18000d",
+		"nome": "Liceo Scientifico Pitagora",
+		"comune": "Rende",
+		"provincia": "CS",
+		"tipo": "LSS"
+	}
+	,
+	{
+		"codMec": "cspc010007",
+		"nome": "Liceo Classico \"Bernardino Telesio\"",
+		"comune": "Cosenza",
+		"provincia": "CS",
+		"tipo": "LCS"
+	}
+	,
+	{
+		"codMec": "cstf01000c",
+		"nome": "ITI \"A. Monaco\"",
+		"comune": "Cosenza",
+		"provincia": "CS",
+		"tipo": "ITIS"
+	}
+]

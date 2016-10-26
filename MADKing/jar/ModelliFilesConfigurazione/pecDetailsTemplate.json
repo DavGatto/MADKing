@@ -1,0 +1,9 @@
+{
+	"username" : "<indirizzo PEC>",
+	"password" : "<password account PEC>",
+	"port" : "465",
+	"host" : "smtps.pec.aruba.it",
+	"protocol" : "SMTPS",
+	"subject" : "Messa a disposizione per supplenze <materie>",
+	"body" : "Salve,\nsono un/una laureato/a in <materia>.\nAllego modulo di messa a disposizione per supplenze in <materie insegnate>.\nSaluti\nNome Cognome"
+}
