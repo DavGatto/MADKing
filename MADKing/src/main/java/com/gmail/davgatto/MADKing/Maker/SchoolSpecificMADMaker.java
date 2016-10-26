@@ -1,5 +1,5 @@
 /**
- * 	MADMaker - Genera e invia tramite PEC moduli di MAD per supplenze nelle scuole itailane
+ * 	MADKing - Genera e invia tramite PEC moduli di MAD per supplenze nelle scuole itailane
  *  (No chance you need this program and do not speak Italian!)
  *  
  *   Copyright (C) 2016  Davide Gatto
@@ -7,8 +7,8 @@
  *   @author Davide Gatto
  *   @mail davgatto@gmail.com
  *   
- *   This file is part of MADMaker
- *   MADMaker is free software: you can redistribute it and/or modify
+ *   This file is part of MADKing
+ *   MADKing is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
  *   the Free Software Foundation, either version 3 of the License, or
  *   (at your option) any later version.
