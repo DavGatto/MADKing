@@ -97,7 +97,7 @@ public class App {
 
 		try {
 			teacherDetails.setFromJsonObj(teacherJsonPath);
-			teacherSpecificMADPath += teacherDetails.getName().replaceAll("\\s|\'", "") + "_MAD.pdf";
+			teacherSpecificMADPath += teacherDetails.getRecapitoName().replaceAll("\\s|\'", "") + "_MAD.pdf";
 		} catch (IOException e) {
 			System.out.println("MADking:MADMaker: teacherDetails.json not found");
 			e.printStackTrace();

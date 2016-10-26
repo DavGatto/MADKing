@@ -116,7 +116,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 		lblTarget = new Label("Cartella di lavoro");
 		add(lblTarget);
 
-		tfTarget = new TextField("/home/dave/Desktop/MK", fieldWidth);
+		tfTarget = new TextField("<Path>", fieldWidth);
 
 		add(tfTarget);
 
@@ -140,7 +140,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		lblSimMail = new Label("Indirizzo per invio simulato");
 		add(lblSimMail);
-		tfSimMail = new TextField("address@example.com", fieldWidth);
+		tfSimMail = new TextField("<Lascia vuoto per invio reale tramite PEC>", fieldWidth);
 		add(tfSimMail);
 
 		lblAnno = new Label("Anno Scolastico");
@@ -215,79 +215,87 @@ public class App extends Frame implements ActionListener, WindowListener {
 				}
 				return;
 			}
+		}
 
-			if (e.getSource() == btnSend) {
-				if (isDebug() && !getSimMail().isEmpty()) {
-					String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(),
-							"--schools=" + getSchools(), "--pecmaildetails=" + getPecDet(),
-							"--directory=" + getTarget() + "FilesGenerati", "--simulate=" + getSimMail(), "--debug" };
-					int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-					if (m == 0) {
-						System.out.println("MADKing: MADMaker successfully executed");
-					} else {
-						System.out.println("MADKing: MADMaker exit status: " + m);
-					}
-					int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-					if (s == 0) {
-						System.out.println("MADKing: MADSender successfully executed");
-					} else {
-						System.out.println("MADKing: MADSender exit status: " + m);
-					}
-					return;
-				} else if (isDebug() && getSimMail().isEmpty()) {
-					String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(),
-							"--schools=" + getSchools(), "--pecmaildetails=" + getPecDet(),
-							"--directory=" + getTarget() + "FilesGenerati", "--debug" };
-					int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-					if (m == 0) {
-						System.out.println("MADKing: MADMaker successfully executed");
-					} else {
-						System.out.println("MADKing: MADMaker exit status: " + m);
-					}
-					int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-					if (s == 0) {
-						System.out.println("MADKing: MADSender successfully executed");
-					} else {
-						System.out.println("MADKing: MADSender exit status: " + m);
-					}
-					return;
-				} else if (!isDebug() && !getSimMail().isEmpty()) {
-					String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(),
-							"--schools=" + getSchools(), "--pecmaildetails=" + getPecDet(),
-							"--directory=" + getTarget() + "FilesGenerati" };
-					int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-					if (m == 0) {
-						System.out.println("MADKing: MADMaker successfully executed");
-					} else {
-						System.out.println("MADKing: MADMaker exit status: " + m);
-					}
-					int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-					if (s == 0) {
-						System.out.println("MADKing: MADSender successfully executed");
-					} else {
-						System.out.println("MADKing: MADSender exit status: " + m);
-					}
-					return;
-				} else if (!isDebug() && getSimMail().isEmpty()) {
-					String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(),
-							"--schools=" + getSchools(), "--pecmaildetails=" + getPecDet(),
-							"--directory=" + getTarget() + "FilesGenerati" };
-					int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-					if (m == 0) {
-						System.out.println("MADKing: MADMaker successfully executed");
-					} else {
-						System.out.println("MADKing: MADMaker exit status: " + m);
-					}
-					int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-					if (s == 0) {
-						System.out.println("MADKing: MADSender successfully executed");
-					} else {
-						System.out.println("MADKing: MADSender exit status: " + m);
-					}
-					return;
+		if (e.getSource() == btnSend) {
+			if (isDebug() && !getSimMail().isEmpty()) {
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati",
+						"--simulate=" + getSimMail(), "--debug" };
+
+				System.out.println("### DEBUG: Passed args[]:");
+				for (String s : args) {
+					System.out.println(s);
 				}
-			}
 
+				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+				if (m == 0) {
+					System.out.println("MADKing: MADMaker successfully executed");
+				} else {
+					System.out.println("MADKing: MADMaker exit status: " + m);
+				}
+				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
+				if (s == 0) {
+					System.out.println("MADKing: MADSender successfully executed");
+				} else {
+					System.out.println("MADKing: MADSender exit status: " + m);
+				}
+				return;
+			} else if (isDebug() && getSimMail().isEmpty()) {
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati", "--debug" };
+
+				System.out.println("### DEBUG: Passed args[]:");
+				for (String s : args) {
+					System.out.println(s);
+				}
+
+				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+				if (m == 0) {
+					System.out.println("MADKing: MADMaker successfully executed");
+				} else {
+					System.out.println("MADKing: MADMaker exit status: " + m);
+				}
+				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
+				if (s == 0) {
+					System.out.println("MADKing: MADSender successfully executed");
+				} else {
+					System.out.println("MADKing: MADSender exit status: " + m);
+				}
+				return;
+			} else if (!isDebug() && !getSimMail().isEmpty()) {
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati" };
+				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+				if (m == 0) {
+					System.out.println("MADKing: MADMaker successfully executed");
+				} else {
+					System.out.println("MADKing: MADMaker exit status: " + m);
+				}
+				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
+				if (s == 0) {
+					System.out.println("MADKing: MADSender successfully executed");
+				} else {
+					System.out.println("MADKing: MADSender exit status: " + m);
+				}
+				return;
+			} else if (!isDebug() && getSimMail().isEmpty()) {
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati" };
+				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+				if (m == 0) {
+					System.out.println("MADKing: MADMaker successfully executed");
+				} else {
+					System.out.println("MADKing: MADMaker exit status: " + m);
+				}
+				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
+				if (s == 0) {
+					System.out.println("MADKing: MADSender successfully executed");
+				} else {
+					System.out.println("MADKing: MADSender exit status: " + m);
+				}
+				return;
+			}
 		}
 
 	}
