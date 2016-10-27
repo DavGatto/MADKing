@@ -136,7 +136,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 		lblTarget = new Label("Cartella di lavoro");
 		add(lblTarget);
 
-		tfTarget = new TextField("<Path>", fieldWidth);
+		tfTarget = new TextField(System.getProperty("user.home") + pathSeparator + "MakeMeMAD", fieldWidth);
 
 		add(tfTarget);
 
@@ -181,7 +181,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		addWindowListener(this);
 
-		setTitle("MADKing");
+		setTitle("MADKing -- Burn them all!");
 		setSize(650, 255);
 
 		setVisible(true);

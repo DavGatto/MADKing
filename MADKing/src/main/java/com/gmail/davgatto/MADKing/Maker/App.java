@@ -82,7 +82,7 @@ public class App {
 				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
 					System.out.println("MADking:MADMaker: Output directory set as " + targetDir);
-				} else if (s.startsWith("--pecmaildetails=") || s.startsWith("--debug")) {
+				} else if (s.startsWith("--pecmaildetails=") || s.startsWith("--debug") || s.startsWith("--simulate=")) {
 					// Do nothing
 				} else {
 					System.out.println("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");

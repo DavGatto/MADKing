@@ -36,8 +36,10 @@ import com.itextpdf.text.Image;
 
 public final class TeacherSpecificMADMaker {
 
-	public static void generateTeacherSpecificMADFile(TeacherDetails td, String anno_scolastico, String targetPath, String modelloMADPath)
-			throws IOException, DocumentException {
+	private static final int ROW_CHAR_NUM = 105;
+
+	public static void generateTeacherSpecificMADFile(TeacherDetails td, String anno_scolastico, String targetPath,
+			String modelloMADPath) throws IOException, DocumentException {
 
 		boolean female = false;
 
@@ -59,7 +61,7 @@ public final class TeacherSpecificMADMaker {
 
 		over.setTextMatrix(450, 645);
 		over.showText(anno_scolastico);
-		
+
 		over.setTextMatrix(152, 615);
 		over.showText(td.getName());
 
@@ -108,54 +110,88 @@ public final class TeacherSpecificMADMaker {
 			over.showText(td.getDegreeSubject());
 		} else {
 			over.setTextMatrix(280, 444);
-			over.showText(td.getDegreeSubject().substring(0,53));
+			over.showText(td.getDegreeSubject().substring(0, 53));
 			over.setTextMatrix(58, 431);
 			over.showText(td.getDegreeSubject().substring(53));
 		}
-		
+
 		over.setTextMatrix(400, 431);
 		over.showText(td.getDegreeDate());
-		
+
 		over.setTextMatrix(98, 420);
 		over.showText(td.getDegreeInstitute());
-		
+
 		if (td.getDegreeExams().length() <= 100) {
 			over.setTextMatrix(58, 396);
 			over.showText(td.getDegreeExams());
 		} else {
 			over.setTextMatrix(419, 408);
-			over.showText(td.getDegreeExams().substring(0,20));
+			over.showText(td.getDegreeExams().substring(0, 20));
 			over.setTextMatrix(56, 396);
-			over.showText(td.getDegreeExams().substring(20,110));
+			over.showText(td.getDegreeExams().substring(20, 110));
 			over.setTextMatrix(56, 385);
 			over.showText(td.getDegreeExams().substring(110));
 		}
-		
-		if (td.getSubjects().length() <= 85) {
+
+		if (td.getSubjects().length() <= ROW_CHAR_NUM) {
 			over.setTextMatrix(58, 276);
 			over.showText(td.getSubjects());
-		} else {
+		} else if (td.getSubjects().length() <= ROW_CHAR_NUM * 2) {
+			int bp = td.getSubjects().substring(0, ROW_CHAR_NUM).lastIndexOf(" ");
+			String firstLine = td.getSubjects().substring(0, bp);
+			String secondLine = td.getSubjects().substring(bp);
+
 			over.setTextMatrix(58, 276);
-			over.showText(td.getSubjects().substring(0,85));
-			over.setTextMatrix(56, 266);
-			over.showText(td.getSubjects().substring(85));
+			over.showText(firstLine);
+			over.setTextMatrix(56, 265);
+			over.showText(secondLine);
+		} else if (td.getSubjects().length() <= ROW_CHAR_NUM * 3) {
+			int bp = td.getSubjects().substring(0, ROW_CHAR_NUM).lastIndexOf(" ");
+			String firstLine = td.getSubjects().substring(0, bp);
+			int sbp = td.getSubjects().substring(0, bp + ROW_CHAR_NUM).lastIndexOf(" ");
+			String secondLine = td.getSubjects().substring(bp, sbp);
+			String thirdLine = td.getSubjects().substring(sbp);
+
+			over.setTextMatrix(58, 276);
+			over.showText(firstLine);
+			over.setTextMatrix(56, 265);
+			over.showText(secondLine);
+			over.setTextMatrix(56, 254);
+			over.showText(thirdLine);
+		} else {
+			int bp = td.getSubjects().substring(0, ROW_CHAR_NUM).lastIndexOf(" ");
+			String firstLine = td.getSubjects().substring(0, bp);
+			int sbp = td.getSubjects().substring(0, bp + ROW_CHAR_NUM).lastIndexOf(" ");
+			String secondLine = td.getSubjects().substring(bp, sbp);
+			int tbp = td.getSubjects().substring(0, sbp + ROW_CHAR_NUM).lastIndexOf(" ");
+			String thirdLine = td.getSubjects().substring(sbp, tbp);
+			String fourthLine = td.getSubjects().substring(tbp);
+
+			over.setTextMatrix(58, 276);
+			over.showText(firstLine);
+			over.setTextMatrix(56, 265);
+			over.showText(secondLine);
+			over.setTextMatrix(56, 254);
+			over.showText(thirdLine);
+			over.setTextMatrix(56, 243);
+			over.showText(fourthLine);
 		}
-		
+
 		over.setTextMatrix(58, 163);
 		over.showText(td.getRecapitoName());
-		
+
 		over.setTextMatrix(75, 143);
 		over.showText(td.getRecapitoAddress());
-		
+
 		over.setTextMatrix(83, 125);
 		over.showText(td.getRecapitoCAP());
-		
+
 		over.setTextMatrix(190, 125);
 		over.showText(td.getRecapitoTown());
-		
+
 		over.setTextMatrix(80, 107);
 		over.showText(td.getRecapitoTel());
-		
+
 		over.setTextMatrix(215, 107);
 		over.showText(td.getRecapitoCell());
 
@@ -164,7 +200,7 @@ public final class TeacherSpecificMADMaker {
 
 		bf = BaseFont.createFont(BaseFont.HELVETICA_BOLD, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
 		over.setFontAndSize(bf, 10);
-		
+
 		over.setTextMatrix(58, 509);
 		over.showText("X");
 
@@ -185,13 +221,13 @@ public final class TeacherSpecificMADMaker {
 
 		over.setTextMatrix(58, 301);
 		over.showText("X");
-		
+
 		over.endText();
-		
+
 		Image signature = td.getSignature();
 		signature.scaleToFit(250, 80);
-        signature.setAbsolutePosition(320,190);
-        over.addImage(signature);
+		signature.setAbsolutePosition(320, 170);
+		over.addImage(signature);
 
 		stamper.close();
 
