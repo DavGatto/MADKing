@@ -43,6 +43,8 @@ import javax.mail.internet.MimeMultipart;
 
 public class PECSender {
 
+	String pathSeparator = System.getProperty("file.separator");
+	
 	private int port;
 	private String host;
 	private String username;
@@ -141,7 +143,7 @@ public class PECSender {
 		setSubject(jsoMail.getString("subject"));
 		setBody(jsoMail.getString("body"));
 
-		setAttachment(folderPath + "/" + jsoTeach.getString("recapitoName").replaceAll("\\s|\'", "") + "_");
+		setAttachment(folderPath + pathSeparator + jsoTeach.getString("recapitoName").replaceAll("\\s|\'", "") + "_");
 
 	}
 
@@ -153,7 +155,7 @@ public class PECSender {
 			setTo(jsoSchool.getString("codMec") + pecIstruzione);
 		} else {
 			setTo(pecIstruzione);
-			body += "\nDEBUG: Questa mail sarebbe stata inviata alla scuola " + jsoSchool.getString("codMec") + "\n";
+			body += "\n \t DEBUG: Questa mail sarebbe stata inviata alla scuola " + jsoSchool.getString("codMec") + "\n";
 		}
 
 		setDebug(isDebug());

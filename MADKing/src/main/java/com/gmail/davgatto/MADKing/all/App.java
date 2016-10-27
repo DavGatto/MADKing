@@ -36,12 +36,9 @@ import java.awt.event.WindowListener;
 
 public class App extends Frame implements ActionListener, WindowListener {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
-	private static String pathSeparator = "/";
+	private static String pathSeparator = System.getProperty("file.separator");
 
 	private String teachDet;
 	private String schools;

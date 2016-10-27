@@ -46,9 +46,9 @@ sono divisi per provincia)
 
 """
 import json
-provincia = "CS"
+provincia = "CZ"
 
-inputFile = "/home/dave/Desktop/CS_allSchools.txt"
+inputFile = "/home/dave/Desktop/CZ_allSchools.txt"
 
 outputFile = "schoolsDetails.json"
 
