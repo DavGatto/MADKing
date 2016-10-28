@@ -169,7 +169,7 @@ public class PECSender {
 		attachments[0] = getAttachment();
 
 		sendEmailWithAttachments(getHost(), getPort() + "", getUsername(), getPassword(), getTo(),
-				getSubject() + "[" + jsoSchool.getString("codMec") + pecIstruzione + "]", body, attachments);
+				getSubject(), body, attachments);
 
 		setAttachment(basicAttachmentName);
 

@@ -33,6 +33,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
+import java.io.File;
 import java.nio.charset.Charset;
 
 public class App extends Frame implements ActionListener, WindowListener {
@@ -149,9 +150,9 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		add(tfTeachDet);
 
-		lblSchools = new Label("File dettagli scuole");
+		lblSchools = new Label("Dettagli scuole");
 		add(lblSchools);
-		tfSchools = new TextField("schoolsDetails.json", fieldWidth);
+		tfSchools = new TextField("file o cartella di files schoolDetails.json", fieldWidth);
 		add(tfSchools);
 
 		lblPecDet = new Label("File dettagli PEC");
@@ -209,13 +210,38 @@ public class App extends Frame implements ActionListener, WindowListener {
 		setSimMail(tfSimMail.getText());
 		setDebug(cbDebug.getState());
 
+		File schoolsFile = new File(getSchools());
+
+		if (schoolsFile.isFile()) {
+			executeWithSingleSchoolsFile(e, getSchools());
+		} else if (schoolsFile.isDirectory()) {
+			File[] directoryListing = schoolsFile.listFiles();
+			if (directoryListing != null) {
+				for (File schools : directoryListing) {
+					executeWithSingleSchoolsFile(e, schools.getPath());
+				}
+			} else {
+				System.err.println("Il percorso: " + getSchools() + " non è una directory valida");
+				return;
+			}
+		} else {
+			System.err.println("Il percorso: " + getSchools() + " non è una directory valida");
+			return;
+		}
+
+	}
+
+	private void executeWithSingleSchoolsFile(ActionEvent e, String schools) {
+		String dirName = "FilesGenerati" + pathSeparator + schools.substring(schools.indexOf("_schoolsDetails.json")-2, schools.indexOf("_schoolsDetails.json"));
 		if (e.getSource() == btnMake) {
 			if (isDebug()) {
 				System.out.println("##### DEBUG : Default Charset = " + Charset.defaultCharset());
 				System.out.println("##### DEBUG : file.encoding = " + System.getProperty("file.encoding"));
 
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati", "--debug" };
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+						"--pecmaildetails=" + getPecDet(),
+						"--directory=" + getTarget() + dirName,
+						"--debug" };
 				System.out.println("### DEBUG: Passed args[]:");
 				for (String s : args) {
 					System.out.println(s);
@@ -229,8 +255,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 				}
 				return;
 			} else if (!isDebug()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati" };
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
 					System.out.println("MADKing: MADMaker successfully executed");
@@ -243,8 +269,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		if (e.getSource() == btnSend) {
 			if (isDebug() && !getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati",
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
 						"--simulate=" + getSimMail(), "--debug" };
 
 				System.out.println("### DEBUG: Passed args[]:");
@@ -266,8 +292,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 				}
 				return;
 			} else if (isDebug() && getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati", "--debug" };
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName, "--debug" };
 
 				System.out.println("### DEBUG: Passed args[]:");
 				for (String s : args) {
@@ -288,8 +314,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 				}
 				return;
 			} else if (!isDebug() && !getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati" };
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
 					System.out.println("MADKing: MADMaker successfully executed");
@@ -304,8 +330,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 				}
 				return;
 			} else if (!isDebug() && getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati" };
+				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
 					System.out.println("MADKing: MADMaker successfully executed");
@@ -321,7 +347,6 @@ public class App extends Frame implements ActionListener, WindowListener {
 				return;
 			}
 		}
-
 	}
 
 	/* WindowEvent handlers */
