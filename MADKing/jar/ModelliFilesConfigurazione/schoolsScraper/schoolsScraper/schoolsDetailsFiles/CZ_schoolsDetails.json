@@ -1,0 +1,691 @@
+[
+	{
+		"codMec": "czic869004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO SOVERATO 1",
+		"indirizzo": "VIA  OLIMPIA N. 14",
+		"cap": "88068",
+		"comune": "SOVERATO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "cztl06000d",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "ITT \"MALAFARINA\" SOVERATO",
+		"indirizzo": "VIA TRENTO E TRIESTE, SNC",
+		"cap": "88068",
+		"comune": "SOVERATO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "cztd05000c",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITE \"ANTONINO CALABRETTA\" SOVERATO",
+		"indirizzo": "VIA        C. AMIRANTE 30",
+		"cap": "88068",
+		"comune": "SOVERATO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czrh04000q",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSEOA SOVERATO",
+		"indirizzo": "VIA G. LEOPARDI 4",
+		"cap": "88068",
+		"comune": "SOVERATO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czps08000c",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  \"A.GUARASCI\" SOVERATO",
+		"indirizzo": "VIA C.AMIRANTE  SNC",
+		"cap": "88068",
+		"comune": "SOVERATO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic81500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SOVERIA MANNELLI \"G.RODARI\"",
+		"indirizzo": "VIALE DEI PINI",
+		"cap": "88049",
+		"comune": "SOVERIA MANNELLI",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic87200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO DI SQUILLA",
+		"indirizzo": "VIA DAMIANO ASSANTI N. 15",
+		"cap": "88069",
+		"comune": "SQUILLACE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic87300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO DI TAVERNA",
+		"indirizzo": "PIAZZA DEL POPOLO",
+		"cap": "88055",
+		"comune": "TAVERNA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic86500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TIRIOLO -CAPOLUOGO- D.D.",
+		"indirizzo": "PIAZZA DELLA LIBERTA\\' N. 14",
+		"cap": "88056",
+		"comune": "TIRIOLO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic818007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BADOLATO",
+		"indirizzo": "VIA NAZIONALE",
+		"cap": "88060",
+		"comune": "BADOLATO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic839008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BORGIA \" G. SABATINI\"",
+		"indirizzo": "VIA  A. MORO, 10",
+		"cap": "88021",
+		"comune": "BORGIA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic842004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BOTRICELLO",
+		"indirizzo": "VIA RINASCIMENTO",
+		"cap": "88070",
+		"comune": "BOTRICELLO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic86000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CATANZARO CASALINUOVO SUD",
+		"indirizzo": "VIA        STRETTO ANTICO, 29",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "cztf010008",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ISTITUTO TECNICO \"E SCALFARO\" CATANZARO",
+		"indirizzo": "PIAZZA MATTEOTTI, 1",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czte01000d",
+		"tipo": "ISTITUTO TECNICO PER ATTIVITA\\' SOCIALI (GIA\\' ITF)",
+		"nome": "ITAS  \"CHIMIRRI\" CATANZARO",
+		"indirizzo": "VIA DOMENICO ROMEO, 25",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "cztd12000d",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC \"GRIMALDI - PACIOLI\" CATANZARO",
+		"indirizzo": "VIA SEBENICO, 39",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czta020006",
+		"tipo": "ISTITUTO TECNICO AGRARIO",
+		"nome": "ITA \"V.EMANUELE II\" CATANZARO",
+		"indirizzo": "VIA V. CORTESE 1",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czps03000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS \"L.  SICILIANI\" CATANZARO",
+		"indirizzo": "VIA TURCO, 7",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czpc060004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC \"P.GALLUPPI\" CATANZARO",
+		"indirizzo": "VIA DE GASPERI  N. 76",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czmm19300v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CENTRO PROV. ISTUZIONE ADULTI",
+		"indirizzo": "VIALE T. CAMPANELLA, 193",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis01700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"PETRUCCI-FERRARIS-MARESCA\"",
+		"indirizzo": "VIALE PIO X, 25",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis00900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"GIOVANNA DE NOBILI\" CATANZARO",
+		"indirizzo": "VIA PIAVE 1",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis001002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  \"FERMI\" CATANZARO",
+		"indirizzo": "VIA C. PISACANE S.N.C. CONTRADA GIOVINO",
+		"cap": "88063",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic85200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO \"G.PATARI- RODARI",
+		"indirizzo": "VIA DANIELE, 17",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czps02000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS \"GALILEI\" LAMEZIA TERME",
+		"indirizzo": "VIALE      LEONARDO DA VINCI 24",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czrh05000a",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IST. PROFESSIONALE ALBERGHIERO L.EINAUDI",
+		"indirizzo": "VIA LEONARDO DA VINCI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "cztd04000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T.E. \"V. DE FAZIO\" LAMEZIA TERME",
+		"indirizzo": "VIA LEONARDO DA VINCI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "cztl040008",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "ITG LAMEZIA TERME",
+		"indirizzo": "VIA SALVATORE MICELI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic82900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MAIDA",
+		"indirizzo": "VIA O. DE FIORE",
+		"cap": "88025",
+		"comune": "MAIDA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic83000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  DON G.MARAZITI MARCELLINARA",
+		"indirizzo": "VIA CARLO ALBERTO DALLA CHIESA N.12",
+		"cap": "88044",
+		"comune": "MARCELLINARA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic81400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MARTIRANO DON LORENZO MILANI",
+		"indirizzo": "VIA POGGIO",
+		"cap": "88040",
+		"comune": "MARTIRANO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic84600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTEPAONE LIDO",
+		"indirizzo": "VIA  A. PELAGGI N. 1",
+		"cap": "88060",
+		"comune": "MONTEPAONE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic83100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC NOCERA TERINESE",
+		"indirizzo": "VIA CUTURA",
+		"cap": "88047",
+		"comune": "NOCERA TIRINESE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic83600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PETRONA\\' \"C. ALVARO\"",
+		"indirizzo": "VIA ARENACCHIO",
+		"cap": "88050",
+		"comune": "PETRONA\\'",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic848003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SELLIA MARINA",
+		"indirizzo": "VIA FRISCHIA",
+		"cap": "88050",
+		"comune": "SELLIA MARINA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic813004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SERRASTRETTA",
+		"indirizzo": "VIA LEOPARDI",
+		"cap": "88040",
+		"comune": "SERRASTRETTA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis01100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  SERSALE -",
+		"indirizzo": "VIA C. BORELLI",
+		"cap": "88054",
+		"comune": "SERSALE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic835001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SERSALE \"G.BIANCO\"",
+		"indirizzo": "PIAZZA CASOLINI,115",
+		"cap": "88054",
+		"comune": "SERSALE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic83800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SIMERI CRICHI B.CITRINITI",
+		"indirizzo": "VIA F. CILEA, 39",
+		"cap": "88050",
+		"comune": "SIMERI E CRICHI",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic85300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CATANZARO  PASCOLI -ALDISIO",
+		"indirizzo": "VIA MARIO GRECO,31",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic855006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO  MANZONI CZ NORD",
+		"indirizzo": "VIA BAMBINELLO GESU\\'",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic856002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO \"DON MILANI\" SALA",
+		"indirizzo": "VIA DELLA STAZIONE, 93",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic85800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO MATER DOMINI",
+		"indirizzo": "VIA TOMMASO CAMPANELLA,125",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic85900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO   CZ EST",
+		"indirizzo": "VIA F. PAGLIA N. 23",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czvc01000a",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "CATANZARO CONVITTO NAZIONALE \"GALLUPPI\"",
+		"indirizzo": "CORSO MAZZINI,51",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic86100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO \"M. PRETI\" S.MARIA",
+		"indirizzo": "VIA MOLISE 1/B",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic86700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATANZARO V.VIVALDI",
+		"indirizzo": "VIA CROTONE,57",
+		"cap": "88100",
+		"comune": "CATANZARO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis007001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"ENZO FERRARI\" CHIARAVALLE CENTRALE",
+		"indirizzo": "VIA        STAGLIANO\\'",
+		"cap": "88064",
+		"comune": "CHIARAVALLE CENTRALE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic871004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPR. DI CHIARAVALLE N.2",
+		"indirizzo": "VIA MARTELLI,76",
+		"cap": "88064",
+		"comune": "CHIARAVALLE CENTRALE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic84300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CHIARAVALLE \"C. ALVARO\"",
+		"indirizzo": "PIAZZA CALVARIO",
+		"cap": "88064",
+		"comune": "CHIARAVALLE CENTRALE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic82400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CROPANI",
+		"indirizzo": "VIA TOMMASO CAMPANELLA",
+		"cap": "88051",
+		"comune": "CROPANI",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic82200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CURINGA",
+		"indirizzo": "VIA MAGGIORE PERUGINO",
+		"cap": "88022",
+		"comune": "CURINGA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic821003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DAVOLI MARINA",
+		"indirizzo": "VIA ALDO MORO N. 2",
+		"cap": "88060",
+		"comune": "DAVOLI",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis00300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  \"L.COSTANZO\" DECOLLATURA",
+		"indirizzo": "VIALE STAZIONE",
+		"cap": "88041",
+		"comune": "DECOLLATURA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic82500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FALERNA",
+		"indirizzo": "VIA ROSARIO  1",
+		"cap": "88042",
+		"comune": "FALERNA",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic84000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GIRIFALCO",
+		"indirizzo": "VIA  DE AMICIS 1/A",
+		"cap": "88024",
+		"comune": "GIRIFALCO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis00200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS GIRIFALCO",
+		"indirizzo": "VIA 25 APRILE",
+		"cap": "88024",
+		"comune": "GIRIFALCO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic82300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GUARDAVALLE \"ALDO MORO\"",
+		"indirizzo": "VIA RAFFAELE SALERNO,277",
+		"cap": "88065",
+		"comune": "GUARDAVALLE",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic84400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAMEZIA TERME \"GATTI\"",
+		"indirizzo": "VIA G.AMENDOLA ANG. VIA DEI BIZANTINI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic84900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAMEZIA T S. EUFEMIA LAMEZIA",
+		"indirizzo": "VIA DELLE NAZIONI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic850003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ICLAMEZIA T.NICOTERA- COSTABILE",
+		"indirizzo": "VIA GRAMSCI SN",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic862009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAMEZIA T. DON L. MILANI",
+		"indirizzo": "VIA MAGGIORDOMO",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic863005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAMEZIA T. MANZONI AUGRUSO",
+		"indirizzo": "VIA FRANCESCO FERLAINO",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic864001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  \"ARDITO- DON BOSCO\"",
+		"indirizzo": "VIALE  MICHELANGELO N. 1",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic868008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAMEZIA BORRELLO-FIORENTINO",
+		"indirizzo": "VIA MATARAZZO",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czic87400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"PERRI-PITAGORA\" L.T.",
+		"indirizzo": "CORSO NICOTERA, 69",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czis013008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  \"LEONARDO DA  VINCI\" LAMEZIA TERME",
+		"indirizzo": "VIA GIOVANNI GRONCHI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czpc030008",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC LICEO CLASSICO F. FIORENTINO",
+		"indirizzo": "VIA L. DA VINCI",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "czpm03000c",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO ST. \"T. CAMPANELLA\" LAMEZIA TERME",
+		"indirizzo": "VIA CAVALLERIZZA, SNC",
+		"cap": "88046",
+		"comune": "LAMEZIA TERME",
+		"provincia": "CZ"
+	}
+]

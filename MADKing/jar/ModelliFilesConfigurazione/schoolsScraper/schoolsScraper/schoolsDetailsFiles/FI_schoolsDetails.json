@@ -1,0 +1,1121 @@
+[
+	{
+		"codMec": "fiic867007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERRETO GUIDI",
+		"indirizzo": "VIA VITTORIO VENETO, 11",
+		"cap": "50050",
+		"comune": "CERRETO GUIDI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic825005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERTALDO",
+		"indirizzo": "VIA LEOPARDI",
+		"cap": "50052",
+		"comune": "CERTALDO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic81400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DESIDERIO DA SETTIGNANO",
+		"indirizzo": "VIALE DON BOSCO, 25",
+		"cap": "50062",
+		"comune": "DICOMANO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee210007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "EMPOLI II",
+		"indirizzo": "VIA TORRICELLI, 58/A",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis01400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VIRGILIO",
+		"indirizzo": "VIA CAVOUR  62",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis01600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ENRICO FERMI - LEONARDO DA VINCI",
+		"indirizzo": "VIA  BONISTALLO, 73",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fimm55200v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "BUSONI - VANGHETTI",
+		"indirizzo": "VIA LIGURIA,1",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis027001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IL PONTORMO",
+		"indirizzo": "VIA RAFFAELLO SANZIO, 159",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee22000t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "EMPOLI III",
+		"indirizzo": "VIA PONZANO, 43",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee20000l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "EMPOLI I",
+		"indirizzo": "VIA LEONARDO DA VINCI, 18",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis012007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. FERRARIS - F. BRUNELLESCHI",
+		"indirizzo": "VIA   RAFFAELLO SANZIO 187",
+		"cap": "50053",
+		"comune": "EMPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic820002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ERNESTO BALDUCCI",
+		"indirizzo": "VIA DEL PELAGACCIO, 1",
+		"cap": "50014",
+		"comune": "FIESOLE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic862004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FIGLINE VALDARNO",
+		"indirizzo": "VIA G. GARIBALDI, 24",
+		"cap": "50063",
+		"comune": "FIGLINE E INCISA VALDARNO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis01100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIORGIO VASARI",
+		"indirizzo": "PIAZZA CADUTI DI PIAN D\\'ALBERO",
+		"cap": "50063",
+		"comune": "FIGLINE VALDARNO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic812003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GANDHI",
+		"indirizzo": "VIA GOLUBOVICH,   4",
+		"cap": "50145",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic846006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANTONINO CAPONNETTO",
+		"indirizzo": "VIA BELMONTE, 40",
+		"cap": "50012",
+		"comune": "BAGNO A RIPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis02800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PIERO  GOBETTI  - ALESSANDRO  VOLTA",
+		"indirizzo": "VIA ROMA,  77/A",
+		"cap": "50012",
+		"comune": "BAGNO A RIPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic84500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERESA MATTEI",
+		"indirizzo": "VIA DEL PRATELLO, 15",
+		"cap": "50012",
+		"comune": "BAGNO A RIPOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic818002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BARBERINO DI MUGELLO",
+		"indirizzo": "VIA MONSIGNOR AGRESTI, 18",
+		"cap": "50031",
+		"comune": "BARBERINO DI MUGELLO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee13000g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "BORGO SAN LORENZO",
+		"indirizzo": "VIA LEONARDO DA VINCI, 1",
+		"cap": "50032",
+		"comune": "BORGO SAN LORENZO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis026005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIOTTO ULIVI",
+		"indirizzo": "VIA PIETRO CAIANI, 64/66",
+		"cap": "50032",
+		"comune": "BORGO SAN LORENZO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fimm20500p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS GIOVANNI DELLA CASA",
+		"indirizzo": "VIA        DON MINZONI         19",
+		"cap": "50032",
+		"comune": "BORGO SAN LORENZO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis02300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CHINO CHINI",
+		"indirizzo": "VIA P. CAIANI 68",
+		"cap": "50032",
+		"comune": "BORGO SAN LORENZO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic82700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALENZANO",
+		"indirizzo": "VIA MASCAGNI, 15",
+		"cap": "50041",
+		"comune": "CALENZANO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic82100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIORGIO LA PIRA",
+		"indirizzo": "VIUZZO DELLA COSTITUZIONE",
+		"cap": "50010",
+		"comune": "CAMPI BISENZIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic86400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAMPI BISENZIO CENTRO NORD",
+		"indirizzo": "VIA GARCIA LORCA, 15",
+		"cap": "50013",
+		"comune": "CAMPI BISENZIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic86500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RITA LEVI MONTALCINI",
+		"indirizzo": "VIA PRUNAIA",
+		"cap": "50013",
+		"comune": "CAMPI BISENZIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic81000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAPRAIA E LIMITE",
+		"indirizzo": "VIA F.LLI CERVI, 38",
+		"cap": "50050",
+		"comune": "CAPRAIA E LIMITE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00200l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ENRIQUES\"",
+		"indirizzo": "VIA DUCA D\\'AOSTA, 65",
+		"cap": "50051",
+		"comune": "CASTELFIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic87100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELFIORENTINO",
+		"indirizzo": "VIA C. BATTISTI, 7",
+		"cap": "50051",
+		"comune": "CASTELFIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic853009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COMPAGNI - CARDUCCI",
+		"indirizzo": "VIALE UGO BASSI, 24",
+		"cap": "50137",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic854005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PUCCINI",
+		"indirizzo": "VIALE D. GIANNOTTI, 41",
+		"cap": "50126",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic855001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BOTTICELLI",
+		"indirizzo": "VIA SVIZZERA, 7/9",
+		"cap": "50126",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic85600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OTTONE ROSAI",
+		"indirizzo": "VIA ARCOVATA, 4/6",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic85700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POLIZIANO",
+		"indirizzo": "VIALE MORGAGNI, 22",
+		"cap": "50134",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic85800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GUICCIARDINI",
+		"indirizzo": "VIA R. GIULIANI, 180",
+		"cap": "50141",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic859008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALAMANDREI",
+		"indirizzo": "VIA ANDREA CORSALI, 3",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic86000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BEATO ANGELICO",
+		"indirizzo": "VIA LEONCAVALLO, 12",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MACHIAVELLI",
+		"indirizzo": "VIA SANTO SPIRITO,39",
+		"cap": "50125",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis004008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ELSA MORANTE\"",
+		"indirizzo": "VIA CHIANTIGIANA, 26/A",
+		"cap": "50126",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00600x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS BENVENUTO CELLINI",
+		"indirizzo": "VIA MASACCIO, 8",
+		"cap": "50136",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00700q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO TECNICO AGRARIO STATALE",
+		"indirizzo": "VIA DELLE CASCINE N. 11",
+		"cap": "50144",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis013003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "SALVEMINI-D\\'AOSTA",
+		"indirizzo": "VIA  GIUSTI 27",
+		"cap": "50121",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis01700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS LEONARDO DA VINCI",
+		"indirizzo": "VIA DEL TERZOLLE, 91",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis019002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"GALILEO GALILEI\"",
+		"indirizzo": "VIA DI SCANDICCI, 151",
+		"cap": "50143",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic81300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "AMERIGO VESPUCCI",
+		"indirizzo": "VIA SGAMBATI, 30",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic83600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BARSANTI",
+		"indirizzo": "VIA LUNGA, 94",
+		"cap": "50142",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic83700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PIRANDELLO",
+		"indirizzo": "VIA SANTA MARIA A CINTOIA, 8",
+		"cap": "50142",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic838007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALLUZZO",
+		"indirizzo": "VIA MASSAPAGANI, 26",
+		"cap": "50125",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic839003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CENTRO STORICO - PESTALOZZI",
+		"indirizzo": "VIA DELLA COLONNA, 1",
+		"cap": "50121",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic840007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PIERO DELLA FRANCESCA",
+		"indirizzo": "VIA BUGIARDINI, 25",
+		"cap": "50143",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic841003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTAGNOLA - GRAMSCI",
+		"indirizzo": "VIA G. DA MONTORSOLI, 1",
+		"cap": "50142",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic84200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GHIBERTI",
+		"indirizzo": "VIA DI SCANDICCI, 20",
+		"cap": "50143",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic84300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OLTRARNO",
+		"indirizzo": "VIA DEI CARDATORI, 3",
+		"cap": "50124",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic847002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VERDI",
+		"indirizzo": "VIA C. MONTEVERDI, 1/E",
+		"cap": "50144",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic84800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PIERACCINI",
+		"indirizzo": "VIALE LAVAGNINI, 35",
+		"cap": "50129",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic84900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MASACCIO",
+		"indirizzo": "VIA L. LANDUCCI, 50",
+		"cap": "50136",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic85000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LE CURE",
+		"indirizzo": "VIA GOITO, 20",
+		"cap": "50133",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic85100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON MILANI",
+		"indirizzo": "VIA CAMBRAY DIGNY, 3",
+		"cap": "50136",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic85200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COVERCIANO",
+		"indirizzo": "VIA SALVI CRISTIANI, 3",
+		"cap": "50135",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis03100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PIERO CALAMANDREI",
+		"indirizzo": "VIA        MILAZZO, 13",
+		"cap": "50019",
+		"comune": "SESTO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee56000v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SESTO FIORENTINO III",
+		"indirizzo": "VIA M. D\\'AZEGLIO, 64/2",
+		"cap": "50019",
+		"comune": "SESTO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis018006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. M. ENRIQUES AGNOLETTI",
+		"indirizzo": "VIA        RAGIONIERI 47",
+		"cap": "50019",
+		"comune": "SESTO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic82200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SIGNA",
+		"indirizzo": "VIA ROMA, 230",
+		"cap": "50058",
+		"comune": "SIGNA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic81900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON LORENZO MILANI",
+		"indirizzo": "VIA S. ALLENDE, 40",
+		"cap": "50028",
+		"comune": "TAVARNELLE VAL DI PESA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic81500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VICCHIO",
+		"indirizzo": "VIALE BEATO ANGELICO, 22",
+		"cap": "50039",
+		"comune": "VICCHIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic868003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VINCI",
+		"indirizzo": "VIA VAL DI SOLE",
+		"cap": "50059",
+		"comune": "VINCI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fimm59000n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 2 FIRENZE",
+		"indirizzo": "VIA DI ROSANO 16/A",
+		"cap": "50065",
+		"comune": "PONTASSIEVE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00800g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ERNESTO BALDUCCI",
+		"indirizzo": "VIA ARETINA, 78A",
+		"cap": "50065",
+		"comune": "PONTASSIEVE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic82300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "REGGELLO",
+		"indirizzo": "VIA M. GUERRI, 46",
+		"cap": "50066",
+		"comune": "REGGELLO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic86300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RIGNANO-INCISA VALDARNO",
+		"indirizzo": "VIA DELLA PIEVE, 58/C",
+		"cap": "50067",
+		"comune": "RIGNANO SULL\\'ARNO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic83000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RUFINA",
+		"indirizzo": "VIA P. CALAMANDREI, 5",
+		"cap": "50068",
+		"comune": "RUFINA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic861008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN CASCIANO IN VAL DI PESA",
+		"indirizzo": "VIA EMPOLESE, 14",
+		"cap": "50026",
+		"comune": "SAN CASCIANO IN VAL DI PESA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic83500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VASCO PRATOLINI",
+		"indirizzo": "VIA VERDI, 11",
+		"cap": "50018",
+		"comune": "SCANDICCI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic83400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROSSELLA CASINI",
+		"indirizzo": "VIA SASSETTI, 1",
+		"cap": "50018",
+		"comune": "SCANDICCI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic833004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALTIERO  SPINELLI",
+		"indirizzo": "VIA NERUDA, 1",
+		"cap": "50018",
+		"comune": "SCANDICCI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fimm58900d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 FIRENZE",
+		"indirizzo": "VIA RIALDOLI S.N.C.",
+		"cap": "50018",
+		"comune": "SCANDICCI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00900b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "BERTRAND RUSSELL-ISAAC NEWTON",
+		"indirizzo": "VIA FABRIZIO DE ANDRE\\', 6",
+		"cap": "50018",
+		"comune": "SCANDICCI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic82900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SCARPERIA  SAN PIERO A SIEVE",
+		"indirizzo": "VIALE MATTEOTTI, 30",
+		"cap": "50038",
+		"comune": "SCARPERIA E SAN PIERO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee54000n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SESTO FIORENTINO I",
+		"indirizzo": "P.ZZA DE AMICIS, 21",
+		"cap": "50019",
+		"comune": "SESTO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic86600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "N. 1 SESTO",
+		"indirizzo": "VIA TOMMASEO, 27",
+		"cap": "50019",
+		"comune": "SESTO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fimm49500x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CAVALCANTI",
+		"indirizzo": "VIA        GUERRAZZI           178",
+		"cap": "50019",
+		"comune": "SESTO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fitn01000p",
+		"tipo": "ISTITUTO TECNICO PER IL TURISMO",
+		"nome": "MARCO POLO",
+		"indirizzo": "VIA  S.BARTOLO A CINTOIA,19/A",
+		"cap": "50142",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "five010004",
+		"tipo": "EDUCANDATO",
+		"nome": "SS. ANNUNZIATA",
+		"indirizzo": "PIAZZALE   POGGIO IMPERIALE",
+		"cap": "50125",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic81600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON LORENZO MILANI",
+		"indirizzo": "VIA MONTESSORI, 5",
+		"cap": "50033",
+		"comune": "FIRENZUOLA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis00300c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS \"A. CHECCHI\"",
+		"indirizzo": "V.LE A.GRAMSCI, 7",
+		"cap": "50054",
+		"comune": "FUCECCHIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic832008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTANELLI - PETRARCA",
+		"indirizzo": "VIA DELLA REPUBBLICA, 2",
+		"cap": "50054",
+		"comune": "FUCECCHIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiee260008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "FUCECCHIO",
+		"indirizzo": "VIA ROMA, 64",
+		"cap": "50054",
+		"comune": "FUCECCHIO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic809007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI F. GONNELLI",
+		"indirizzo": "VIA E. FERMI, 5",
+		"cap": "50050",
+		"comune": "GAMBASSI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic826001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GREVE IN CHIANTI",
+		"indirizzo": "VIALE G. DA VERRAZZANO, 8",
+		"cap": "50022",
+		"comune": "GREVE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic824009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRIMO LEVI",
+		"indirizzo": "VIA I MAGGIO, 47",
+		"cap": "50023",
+		"comune": "IMPRUNETA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic86900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LASTRA A SIGNA",
+		"indirizzo": "VIA  TOGLIATTI, 41",
+		"cap": "50055",
+		"comune": "LASTRA A SIGNA",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic80800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DINO CAMPANA",
+		"indirizzo": "VIA SAN BENEDETTO, 5",
+		"cap": "50034",
+		"comune": "MARRADI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic811007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BACCIO DA MONTELUPO",
+		"indirizzo": "VIA CAVERNI, 60",
+		"cap": "50056",
+		"comune": "MONTELUPO FIORENTINO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic817006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTESPERTOLI",
+		"indirizzo": "VIALE MATTEOTTI, 12",
+		"cap": "50025",
+		"comune": "MONTESPERTOLI",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic83100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PELAGO",
+		"indirizzo": "VIA G. BOCCACCIO, 13",
+		"cap": "50065",
+		"comune": "PELAGO",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiic870003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PONTASSIEVE",
+		"indirizzo": "VIA G. RENI, 4",
+		"cap": "50065",
+		"comune": "PONTASSIEVE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fiis02900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"SASSETTI - PERUZZI\"",
+		"indirizzo": "VIA SAN DONATO, 46/48/50",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fipc02000c",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC  DANTE",
+		"indirizzo": "VIA        PUCCINOTTI 55",
+		"cap": "50129",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fipc030003",
+		"tipo": "LICEO CLASSICO",
+		"nome": "GALILEO",
+		"indirizzo": "VIA        MARTELLI 9",
+		"cap": "50129",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fipc04000n",
+		"tipo": "LICEO CLASSICO",
+		"nome": "MICHELANGIOLO",
+		"indirizzo": "VIA        DELLA COLONNA 9",
+		"cap": "50121",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fipm02000l",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "GIOVANNI PASCOLI",
+		"indirizzo": "VIALE      DON MINZONI 58",
+		"cap": "50129",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fips030006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO LEONARDO DA VINCI",
+		"indirizzo": "VIA  G. DEI MARIGNOLLI 1",
+		"cap": "50127",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fips04000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "CASTELNUOVO",
+		"indirizzo": "VIA LA MARMORA, 20",
+		"cap": "50121",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fips100007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS ANTONIO GRAMSCI",
+		"indirizzo": "VIA  DEL MEZZETTA, 7",
+		"cap": "50135",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fips21000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO RODOLICO",
+		"indirizzo": "VIA BALDOVINETTI, 5-7",
+		"cap": "50143",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "firh01000p",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.S.E.O.A. AURELIO SAFFI",
+		"indirizzo": "VIA DEL MEZZETTA 15",
+		"cap": "50135",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "firh020009",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "\"BUONTALENTI\"",
+		"indirizzo": "VIA SAN BARTOLO A CINTOIA, 19/A",
+		"cap": "50142",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fisd03000l",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO DI PORTA ROMANA  E S.F.",
+		"indirizzo": "PIAZZALE DI PORTA ROMANA N.9",
+		"cap": "50125",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fisl01000t",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LEON BATTISTA ALBERTI",
+		"indirizzo": "VIA  S.GALLO, 68",
+		"cap": "50129",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fitd06000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "PEANO",
+		"indirizzo": "VIA  ANDREA DEL SARTO 6/A",
+		"cap": "50135",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+	,
+	{
+		"codMec": "fitf010003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ANTONIO MEUCCI",
+		"indirizzo": "VIA DEL FILARETE N. 17",
+		"cap": "50143",
+		"comune": "FIRENZE",
+		"provincia": "FI"
+	}
+]

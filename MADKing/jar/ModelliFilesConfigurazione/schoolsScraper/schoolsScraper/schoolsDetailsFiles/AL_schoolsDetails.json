@@ -1,0 +1,521 @@
+[
+	{
+		"codMec": "alic831006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOVI LIGURE 3 - IST. COMPR.",
+		"indirizzo": "VIA VERDI 113",
+		"cap": "15067",
+		"comune": "NOVI LIGURE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic829006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOVI LIGURE 1 - IST. COMPR.",
+		"indirizzo": "CORSO ITALIA, 58",
+		"cap": "15067",
+		"comune": "NOVI LIGURE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic83000a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOVI LIGURE 2 - IST. COMPR.",
+		"indirizzo": "VIA A. FERRANDO SCRIVIA 24",
+		"cap": "15067",
+		"comune": "NOVI LIGURE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alps050005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "EDOARDO AMALDI",
+		"indirizzo": "VIA        MAMELI 9",
+		"cap": "15067",
+		"comune": "NOVI LIGURE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "almm09800n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 2 ALESSANDRIA",
+		"indirizzo": "VIA RATTAZZI 15",
+		"cap": "15067",
+		"comune": "NOVI LIGURE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis017004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CIAMPINI - BOCCARDO",
+		"indirizzo": "VIA   VERDI   44",
+		"cap": "15067",
+		"comune": "NOVI LIGURE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic82100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OVADA \"S. PERTINI\"",
+		"indirizzo": "VIA DUCHESSA DI GALLIERA, 2",
+		"cap": "15076",
+		"comune": "OVADA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis00700d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CARLO BARLETTI",
+		"indirizzo": "VIA PASTORINO 12",
+		"cap": "15076",
+		"comune": "OVADA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic809001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RIVALTA B.DA - \"N. BOBBIO\"",
+		"indirizzo": "VIA        QUATTRO NOVEMBRE    2",
+		"cap": "15010",
+		"comune": "RIVALTA BORMIDA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic807009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SERRAVALLE SCRIVIA-M.BENEDICTA",
+		"indirizzo": "VIA        S. ROCCO             01",
+		"cap": "15069",
+		"comune": "SERRAVALLE SCRIVIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic810005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SPIGNO MONF. - IST. COMPR.",
+		"indirizzo": "V.LE BAROSIO,1",
+		"cap": "15018",
+		"comune": "SPIGNO MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic82200b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TICINETO - DON MILANI",
+		"indirizzo": "VIA        MAMELI              28",
+		"cap": "15040",
+		"comune": "TICINETO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic83500d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TORTONA \"B\" - IST. COMPR.",
+		"indirizzo": "VIALE KENNEDY, 14",
+		"cap": "15057",
+		"comune": "TORTONA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alps020009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GIUSEPPE PEANO",
+		"indirizzo": "VIALE  V. VENETO 3/A",
+		"cap": "15057",
+		"comune": "TORTONA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis008009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GUGLIELMO MARCONI\"",
+		"indirizzo": "VIALE EINAUDI  6",
+		"cap": "15057",
+		"comune": "TORTONA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic83400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TORTONA  \"A\" - IST. COMPR.",
+		"indirizzo": "CORSO CAVOUR 6 A",
+		"cap": "15057",
+		"comune": "TORTONA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alee03600b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 CIRCOLO  VALENZA",
+		"indirizzo": "VIALE OLIVA 9/12",
+		"cap": "15048",
+		"comune": "VALENZA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alee037007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 CIRCOLO VALENZA",
+		"indirizzo": "VIA P. DEMICHELIS 2",
+		"cap": "15048",
+		"comune": "VALENZA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis004002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "BENVENUTO CELLINI",
+		"indirizzo": "STRADA PONTECURONE N. 17",
+		"cap": "15048",
+		"comune": "VALENZA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "almm08400q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "VALENZA - G. PASCOLI",
+		"indirizzo": "VIALE L. OLIVA N. 14",
+		"cap": "15048",
+		"comune": "VALENZA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic823007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OZZANO M.TO/VIGNALE M.TO",
+		"indirizzo": "VIA MANZONI N. 38/3",
+		"cap": "15049",
+		"comune": "VIGNALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic81200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VIGUZZOLO - IST. COMPR.",
+		"indirizzo": "VIA MARCONI N.62",
+		"cap": "15058",
+		"comune": "VIGUZZOLO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic82600p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANDRIA - CARDUCCI/VOCHIERI",
+		"indirizzo": "PIAZZA M. D\\'AZEGLIO, 15",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic81300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARQUATA SCR. /VIGNOLE BORBERA",
+		"indirizzo": "VIA REGONCA, 20",
+		"cap": "15061",
+		"comune": "ARQUATA SCRIVIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic824003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALE M.TO 2 - I.C. \"F. NEGRI\"",
+		"indirizzo": "VIA  GONZAGA ,  21",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis009005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CESARE BALBO",
+		"indirizzo": "VIA  GALEOTTO DEL CARRETTO, 1",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis01300r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEARDI",
+		"indirizzo": "VIA   LEARDI, 1",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "almm09700t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 ALESSANDRIA",
+		"indirizzo": "VIA OLIVIERO CAPELLO  3",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic83300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALE M.  3 - IST. COMPR",
+		"indirizzo": "CORSO VERDI, 6",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic832002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALE M .TO1  I.C. A.D\\'ALENCON",
+		"indirizzo": "VIA G. DEL CARRETTO, 3",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "altf080003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ASCANIO SOBRERO",
+		"indirizzo": "VIA        CANDIANI D\\'OLIVOLA 19",
+		"cap": "15033",
+		"comune": "CASALE MONFERRATO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic816004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELLAZZO BORMIDA-POCHETTINO",
+		"indirizzo": "VIA  BOIDI 42",
+		"cap": "15073",
+		"comune": "CASTELLAZZO BORMIDA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic81900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELNUOVO-BASSA VALLE SCRIVIA",
+		"indirizzo": "VIALE  IV  NOVEMBRE , 63",
+		"cap": "15053",
+		"comune": "CASTELNUOVO SCRIVIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic811001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERRINA - ISTIT. COMPR.",
+		"indirizzo": "VIA DANTE ALIGHIERI, 21",
+		"cap": "15020",
+		"comune": "CERRINA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic81800q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FELIZZANO \"G. PASCOLI\"",
+		"indirizzo": "PIAZZA ERCOLE  6",
+		"cap": "15023",
+		"comune": "FELIZZANO",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic80600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GAVI -  C. DE SIMONI",
+		"indirizzo": "VIA        CAVALIERI V. VENETO 26",
+		"cap": "15066",
+		"comune": "GAVI",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic808005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MOLARE - SCUOLA MEDIA STATALE",
+		"indirizzo": "VIA SANTUARIO",
+		"cap": "15074",
+		"comune": "MOLARE",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic837005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ACQUI TERME 2 - IST. COMPR.",
+		"indirizzo": "VIA SAN DEFENDENTE N. 29",
+		"cap": "15011",
+		"comune": "ACQUI TERME",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis003006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"RITA LEVI MONTALCINI\"",
+		"indirizzo": "CORSO CARLO MARX 2",
+		"cap": "15011",
+		"comune": "ACQUI TERME",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic836009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ACQUI TERME 1 - IST. COMPR.",
+		"indirizzo": "VIA XX SETTEMBRE N. 20",
+		"cap": "15011",
+		"comune": "ACQUI TERME",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis00100e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. GUIDO  PARODI",
+		"indirizzo": "VIA DE GASPERI, 66",
+		"cap": "15011",
+		"comune": "ACQUI TERME",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis016008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "SALUZZO - PLANA",
+		"indirizzo": "VIA        FAA\\' DI BRUNO 85",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alps01000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GALILEO GALILEI",
+		"indirizzo": "SPALTO     BORGOGLIO 49",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis01800x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FERMI - NERVI",
+		"indirizzo": "VIA        A.MORBELLI  33",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "altf01000r",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ALESSANDRO VOLTA",
+		"indirizzo": "SPALTO     MARENGO 42",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alis00600n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEONARDO DA VINCI",
+		"indirizzo": "VIA        TROTTI 19",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic82500v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANDRIA \"G.GALILEI\"",
+		"indirizzo": "VIA G. GALILEI 14/16",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alee00700b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "5 CIRCOLO ALESSANDRIA",
+		"indirizzo": "VIA PARINI 35",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic815008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANDRIA - P. STRANEO",
+		"indirizzo": "VIA        PAOLO SACCO 11",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic82800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANDRIA - BOVIO/CAVOUR",
+		"indirizzo": "SPALTO ROVERETO, 63",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic81700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANDRIA SPINETTA M.GO",
+		"indirizzo": "VIA DEL FERRAIO 46",
+		"cap": "15122",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+	,
+	{
+		"codMec": "alic82700e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANDRIA  DE AMICIS/MANZONI",
+		"indirizzo": "PIAZZA VITTORIO VENETO N.5",
+		"cap": "15121",
+		"comune": "ALESSANDRIA",
+		"provincia": "AL"
+	}
+]

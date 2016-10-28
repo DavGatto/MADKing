@@ -1,0 +1,551 @@
+[
+	{
+		"codMec": "pric81000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. VAL CENO BARDI",
+		"indirizzo": "VIA CARDINALE SAMORE\\' 4",
+		"cap": "43032",
+		"comune": "BARDI",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric817009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  BEDONIA",
+		"indirizzo": "VIA VERDI",
+		"cap": "43041",
+		"comune": "BEDONIA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris00100x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"ZAPPA-FERMI\"",
+		"indirizzo": "VIA G.CACCHIOLI 9",
+		"cap": "43043",
+		"comune": "BORGO VAL DI TARO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric812006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BORGO VAL DI TARO",
+		"indirizzo": "P.ZA PEDRINI E BECCARELLI,1",
+		"cap": "43043",
+		"comune": "BORGO VAL DI TARO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric82200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BUSSETO",
+		"indirizzo": "VIALE PALLAVICINO, 2",
+		"cap": "43011",
+		"comune": "BUSSETO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric82400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COLLECCHIO \"E. GUATELLI\"",
+		"indirizzo": "VIA S. PROSPERO,11",
+		"cap": "43044",
+		"comune": "COLLECCHIO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric80700p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"BELLONI\"  COLORNO",
+		"indirizzo": "P.LE VITTORIO VENETO,1",
+		"cap": "43052",
+		"comune": "COLORNO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric81600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CORNIGLIO",
+		"indirizzo": "VIA MICHELI N? 20",
+		"cap": "43021",
+		"comune": "CORNIGLIO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric82300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  FELINO \"L. MALAGUZZI\"",
+		"indirizzo": "VIA ROMA,55",
+		"cap": "43035",
+		"comune": "FELINO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pree07500b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D. D.  FIDENZA",
+		"indirizzo": "VIA XXV APRILE,  24",
+		"cap": "43036",
+		"comune": "FIDENZA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prmm06400x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "FIDENZA - \"ZANI\"",
+		"indirizzo": "VIA GRAMSCI, 76",
+		"cap": "43036",
+		"comune": "FIDENZA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris00300g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"PACIOLO-D\\'ANNUNZIO\"",
+		"indirizzo": "VIA MANZONI 6",
+		"cap": "43036",
+		"comune": "FIDENZA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris00700v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"BERENINI\"",
+		"indirizzo": "VIA V.ALFIERI  N.4",
+		"cap": "43036",
+		"comune": "FIDENZA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric813002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  FONTANELLATO",
+		"indirizzo": "VIA BARABASCHI,1",
+		"cap": "43012",
+		"comune": "FONTANELLATO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris00800p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"CARLO EMILIO GADDA\" SEDE  FORNOVO TARO",
+		"indirizzo": "VIA NAZIONALE N. 6",
+		"cap": "43045",
+		"comune": "FORNOVO DI TARO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric839006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FORNOVO TARO \"L. MALERBA\"",
+		"indirizzo": "VIA G. MARCONI, 13",
+		"cap": "43045",
+		"comune": "FORNOVO DI TARO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric83800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LANGHIRANO \"FERMI FERRARI\"",
+		"indirizzo": "VIA XXV APRILE 3",
+		"cap": "43013",
+		"comune": "LANGHIRANO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric80900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MEDESANO",
+		"indirizzo": "VIA A. DE GASPERI 2",
+		"cap": "43014",
+		"comune": "MEDESANO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric80600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"BARILLI \" MONTECHIARUGOLO",
+		"indirizzo": "VIA PARMA, 70",
+		"cap": "43022",
+		"comune": "MONTECHIARUGOLO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric81500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C NEVIANO DEGLI  ARDUINI",
+		"indirizzo": "VIA CHIESA,10/A",
+		"cap": "43024",
+		"comune": "NEVIANO DEGLI ARDUINI",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric80800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NOCETO \"R.LEVI MONTALCINI\"",
+		"indirizzo": "VIA PASSO BUOLE  6",
+		"cap": "43015",
+		"comune": "NOCETO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric83600p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PARMIGIANINO",
+		"indirizzo": "PIAZZALE RONDANI,1",
+		"cap": "43100",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric83500v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. DI VIA BOCCHI   PARMA",
+		"indirizzo": "VIA I. BOCCHI 33",
+		"cap": "43126",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric834003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI VIA MONTEBELLO - PARMA",
+		"indirizzo": "VIA MONTEBELLO N. 18/A",
+		"cap": "43123",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric833007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIACOMO PUCCINI - PARMA",
+		"indirizzo": "VIA PUCCINI 23",
+		"cap": "43123",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prvc010008",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "\"M.LUIGIA\"",
+		"indirizzo": "B.GO LALATTA 14",
+		"cap": "43121",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric82900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. SALVO D\\'ACQUISTO PARMA",
+		"indirizzo": "VIA PELICELLI 8A",
+		"cap": "43124",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric82800q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALBERTELLI-NEWTON - PARMA",
+		"indirizzo": "VIA NEWTON,16",
+		"cap": "43123",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric82700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANVITALE-FRA SALIMBENE PR",
+		"indirizzo": "P.LE SANTAFIORA",
+		"cap": "43121",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric826004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MICHELI - PARMA",
+		"indirizzo": "VIA MICHELI 16/A",
+		"cap": "43122",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric825008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TOSCANINI - PARMA",
+		"indirizzo": "VIA CUNEO,3/A",
+		"cap": "43100",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric821001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"GIACOMO FERRARI\"",
+		"indirizzo": "VIA G.GALILEI 10/A",
+		"cap": "43126",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pree020007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. DI VIA F.LLI BANDIERA",
+		"indirizzo": "VIA F.LLI BANDIERA 4/A",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric83200b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VERDI CORCAGNANO PR",
+		"indirizzo": "VIA LANGHIRANO, 454/A",
+		"cap": "43100",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prtl01000a",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "\"RONDANI\"",
+		"indirizzo": "VIALE      MARIA LUIGIA 9/A",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prtf010006",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"LEONARDO DA VINCI\"",
+		"indirizzo": "VIA  TOSCANA 10",
+		"cap": "43122",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prtd04000q",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"BODONI\"",
+		"indirizzo": "VIALE  PIACENZA N. 14",
+		"cap": "43126",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prtd02000e",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"MELLONI\"",
+		"indirizzo": "VIALE      MARIA LUIGIA 9/A",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prsd01000e",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "TOSCHI",
+		"indirizzo": "VIALE TOSCHI 1",
+		"cap": "43121",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prri010009",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "\"PRIMO LEVI\"",
+		"indirizzo": "PIAZZALE SICILIA,5",
+		"cap": "43121",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prps05000e",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENT. MUS. SPORT \" BERTOLUCCI\"",
+		"indirizzo": "VIA TOSCANA, 10/A",
+		"cap": "43122",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris00400b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"PIETRO GIORDANI\"",
+		"indirizzo": "VIA LAZIO, 3",
+		"cap": "43122",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prmm07500a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA PARMA",
+		"indirizzo": "VIA LA SPEZIA 110",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prpc010001",
+		"tipo": "LICEO CLASSICO",
+		"nome": "\"ROMAGNOSI\"",
+		"indirizzo": "VIALE MARIA LUIGIA 1",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prpm010005",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"ALBERTINA SANVITALE\"",
+		"indirizzo": "P.LE S. SEPOLCRO 3",
+		"cap": "43121",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prps030009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"MARCONI\"",
+		"indirizzo": "VIA COSTITUENTE  4/A",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "prps04000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"ULIVI\"",
+		"indirizzo": "VIALE MARIA LUIGIA N.3",
+		"cap": "43125",
+		"comune": "PARMA",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris006003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE \"MAGNAGHI\"",
+		"indirizzo": "VIALE ROMAGNOSI 7",
+		"cap": "43039",
+		"comune": "SALSOMAGGIORE TERME",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric820005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SALSOMAGGIORE",
+		"indirizzo": "VIA DON MINZONI 8 BIS",
+		"cap": "43039",
+		"comune": "SALSOMAGGIORE TERME",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pris00200q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.S. \"GALILEI-BOCCHIALINI-SOLARI\"",
+		"indirizzo": "VIA MARTIRI DI CEFALONIA   14",
+		"cap": "43017",
+		"comune": "SAN SECONDO PARMENSE",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric83000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN SECONDO PARMENSE",
+		"indirizzo": "P.LE BERNINI, 11",
+		"cap": "43017",
+		"comune": "SAN SECONDO PARMENSE",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric805003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  SISSA TRECASALI",
+		"indirizzo": "PIAZZALE RODARI,1            1",
+		"cap": "43018",
+		"comune": "SISSA TRECASALI",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric81400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SORBOLO",
+		"indirizzo": "VIA GARIBALDI,29",
+		"cap": "43058",
+		"comune": "SORBOLO",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric818005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  TORRILE",
+		"indirizzo": "VIA GIUFFREDI, 12",
+		"cap": "43056",
+		"comune": "TORRILE",
+		"provincia": "PR"
+	}
+	,
+	{
+		"codMec": "pric819001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TRAVERSETOLO",
+		"indirizzo": "VIA SAN MARTINO 82",
+		"cap": "43029",
+		"comune": "TRAVERSETOLO",
+		"provincia": "PR"
+	}
+]

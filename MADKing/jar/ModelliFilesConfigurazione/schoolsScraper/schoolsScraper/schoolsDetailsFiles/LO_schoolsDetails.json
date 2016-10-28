@@ -1,0 +1,291 @@
+[
+	{
+		"codMec": "lois00400e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ALESSANDRO VOLTA",
+		"indirizzo": "VIALE      GIOVANNI XXIII N 9",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic814001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LODI III",
+		"indirizzo": "VIA SALVEMINI, 1",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic813005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI LODI IV",
+		"indirizzo": "VIA S. GIACOMO,37",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic812009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO DI LODI 2",
+		"indirizzo": "VIALE ITALIA",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic81100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO LODI I",
+		"indirizzo": "VIA        GORINI            15",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC- ANTONIO GRAMSCI",
+		"indirizzo": "PIAZZA SAN GIOVANNI DA LODI ANTICA 4",
+		"cap": "26855",
+		"comune": "LODI VECCHIO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic806002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC- ALDO MORO",
+		"indirizzo": "VIA        MANFREDI  29",
+		"cap": "26847",
+		"comune": "MALEO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ANTONIO GRAMSCI",
+		"indirizzo": "VIA ADA NEGRI 44",
+		"cap": "26837",
+		"comune": "MULAZZANO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lois00200v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE",
+		"indirizzo": "VIALE EUROPA",
+		"cap": "26866",
+		"comune": "SANT\\'ANGELO LODIGIANO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic81600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC RICCARDO MORZENTI",
+		"indirizzo": "VIA BRACCHI SNC",
+		"cap": "26866",
+		"comune": "SANT\\'ANGELO LODIGIANO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic81500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CARLO COLLODI",
+		"indirizzo": "VIALE MONTE GRAPPA N. 69",
+		"cap": "26866",
+		"comune": "SANT\\'ANGELO LODIGIANO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic81000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI SOMAGLIA",
+		"indirizzo": "VIA AUTOSTRADA DEL SOLE, 4",
+		"cap": "26867",
+		"comune": "SOMAGLIA",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic800003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FEDERICO FELLINI",
+		"indirizzo": "VIA DANTE N. 7",
+		"cap": "26838",
+		"comune": "TAVAZZANO CON VILLAVESCO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic805006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC- ZELO BUON PERSICO",
+		"indirizzo": "VIA F.LLI CERVI, 1",
+		"cap": "26839",
+		"comune": "ZELO BUON PERSICO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC - BORGHETTO LODIGIANO",
+		"indirizzo": "VIA GARIBALDI 90",
+		"cap": "26812",
+		"comune": "BORGHETTO LODIGIANO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lois00300p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. CESARIS",
+		"indirizzo": "VIALE   CADORNA",
+		"cap": "26841",
+		"comune": "CASALPUSTERLENGO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI CASALPUSTERLENGO",
+		"indirizzo": "VIA OLIMPO 6",
+		"cap": "26841",
+		"comune": "CASALPUSTERLENGO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC- ROMEO FUSARI",
+		"indirizzo": "VIA        DE GASPERI          30",
+		"cap": "26823",
+		"comune": "CASTIGLIONE D\\'ADDA",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lota01000l",
+		"tipo": "ISTITUTO TECNICO AGRARIO",
+		"nome": "I.T.A.\"A. TOSI\"",
+		"indirizzo": "VIALE MARCONI, 60",
+		"cap": "26845",
+		"comune": "CODOGNO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lops02000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO DI CODOGNO",
+		"indirizzo": "VIA GIOVANNI XXIII, 7",
+		"cap": "26845",
+		"comune": "CODOGNO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lois001003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS CODOGNO",
+		"indirizzo": "VIALE      DELLA RESISTENZA 11",
+		"cap": "26845",
+		"comune": "CODOGNO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic81700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI CODOGNO",
+		"indirizzo": "VIA CAVOUR 24",
+		"cap": "26845",
+		"comune": "CODOGNO",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC- MARIA SCOGLIO",
+		"indirizzo": "VIALE DELLA PACE",
+		"cap": "26814",
+		"comune": "LIVRAGA",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lotd010003",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "AGOSTINO BASSI",
+		"indirizzo": "VIA       PORTA REGALE 2",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "loic80100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI LODI V",
+		"indirizzo": "VIALE      DANTE               1",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lorc01000q",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "IPSCT L.EINAUDI",
+		"indirizzo": "VIA SPEZZAFERRI 7",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lops010007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GIOVANNI GANDINI",
+		"indirizzo": "VIALE      GIOVANNI XXIII   1",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lopm010008",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "MAFFEO VEGIO",
+		"indirizzo": "VIA        CARDUCCI 3",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+	,
+	{
+		"codMec": "lomm022001",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 LODI",
+		"indirizzo": "VIA SALVEMINI N. 3",
+		"cap": "26900",
+		"comune": "LODI",
+		"provincia": "LO"
+	}
+]

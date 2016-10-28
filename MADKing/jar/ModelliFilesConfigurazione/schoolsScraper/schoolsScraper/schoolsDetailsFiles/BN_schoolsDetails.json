@@ -1,0 +1,531 @@
+[
+	{
+		"codMec": "bnic826006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.MARCO DEI C.",
+		"indirizzo": "PIAZZA RIMEMBRANZA 22",
+		"cap": "82029",
+		"comune": "SAN MARCO DEI CAVOTI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic841008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"S.G. BOSCO\" S.SALVATORE T.",
+		"indirizzo": "VIA        BAGNI",
+		"cap": "82030",
+		"comune": "SAN SALVATORE TELESINO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic827002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC N. 2 S.AGATA DEI G.",
+		"indirizzo": "VIALE VITTORIO EMANUELE III",
+		"cap": "82019",
+		"comune": "SANT\\'AGATA DE\\' GOTI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic839008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC N.1 \"A. ORIANI\" S.AGATA",
+		"indirizzo": "VIALE VITTORIO EMANUELE III",
+		"cap": "82019",
+		"comune": "SANT\\'AGATA DE\\' GOTI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis013008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"A.M.DE\\' LIGUORI\" S.AGATA DE\\' GOTI",
+		"indirizzo": "VIA        S. ANTONIO ABATE, 32 BIS",
+		"cap": "82019",
+		"comune": "SANT\\'AGATA DE\\' GOTI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic81000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.ANGELO A C.",
+		"indirizzo": "VIA CAPOFERRI,15",
+		"cap": "82010",
+		"comune": "SANT\\'ANGELO A CUPOLO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic82900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TELESE",
+		"indirizzo": "VIALE MINIERI 131",
+		"cap": "82037",
+		"comune": "TELESE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis00200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.\" TELESI@ \"",
+		"indirizzo": "VIA CAIO PONZIO TELESINO , 26",
+		"cap": "82037",
+		"comune": "TELESE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis00800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"A. LOMBARDI\"  AIROLA",
+		"indirizzo": "LARGO ANGELO RAFFAELE CAPONE",
+		"cap": "82011",
+		"comune": "AIROLA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic862009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  P. PIO AIROLA",
+		"indirizzo": "VIA N. ROMANO N. 54",
+		"cap": "82011",
+		"comune": "AIROLA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic842004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"L. VANVITELLI\" AIROLA",
+		"indirizzo": "P.ZZA ANNUNZIATA,3",
+		"cap": "82011",
+		"comune": "AIROLA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic85200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"A. MANZONI\"  AMOROSI",
+		"indirizzo": "VIA A. MANZONI N.8",
+		"cap": "82031",
+		"comune": "AMOROSI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic81700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"E.FALCETTI\" APICE",
+		"indirizzo": "PIAZZA DELLA SAPIENZA",
+		"cap": "82021",
+		"comune": "APICE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bntf010008",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"G.B.B.LUCARELLI\" BENEVENTO",
+		"indirizzo": "VIALE S.LORENZO 6",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnvc01000a",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "\"P.GIANNONE\" BENEVENTO",
+		"indirizzo": "PIAZZA ROMA 27",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnrh030005",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSAR \"LE STREGHE\" BENEVENTO",
+		"indirizzo": "VIA SANTA COLOMBA 52/A",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnps010006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"G.RUMMO\" BENEVENTO",
+		"indirizzo": "VIA        SANTA COLOMBA,52",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnpm02000t",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"G.GUACCI\"  BENEVENTO",
+		"indirizzo": "VIA  NICOLA CALANDRA",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnpc02000n",
+		"tipo": "LICEO CLASSICO",
+		"nome": "\"P.  GIANNONE BENEVENTO",
+		"indirizzo": "PIAZZA     RISORGIMENTO 4",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis027006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"PALMIERI-RAMPONE-POLO\" BENEVENTO",
+		"indirizzo": "VIA TRAIANO BOCCALINI 25",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis01600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"G. GALILEI - M. VETRONE\" BENEVENTO",
+		"indirizzo": "PIAZZA RISORGIMENTO",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis014004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"G. ALBERTI\" BENEVENTO",
+		"indirizzo": "PIAZZA     RISORGIMENTO",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis01100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"VIRGILIO\"",
+		"indirizzo": "VIA TIENGO, 1",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic86100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"PASCOLI\"    BENEVENTO",
+		"indirizzo": "PIAZZA RISORGIMENTO, 2",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic86000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"S. ANGELO A SASSO\"  BN",
+		"indirizzo": "VIA G. PASCOLI, 2",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic85800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"SAN FILIPPO\"  BENEVENTO",
+		"indirizzo": "VIA PORT\\'ARSA",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic84500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"F. TORRE\" BENEVENTO",
+		"indirizzo": "VIA        NICOLA SALA         32",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic84400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"G.B.LUCARELLI\" BENEVENTO",
+		"indirizzo": "VIA V. GIOBERTI 17",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic84300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G. MOSCATI\" BENEVENTO",
+		"indirizzo": "COSIMO  NUZZOLO,37",
+		"cap": "82100",
+		"comune": "BENEVENTO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic850003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VITULANO",
+		"indirizzo": "VIALE BRACANELLI",
+		"cap": "82038",
+		"comune": "CAUTANO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic812008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"L. SETTEMBRINI\" S.LEUCIO S.",
+		"indirizzo": "PIAZZA MUNICIPIO",
+		"cap": "82010",
+		"comune": "CEPPALONI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic813004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"A.MAZZARELLA\" CERRETO S.",
+		"indirizzo": "VIA TINTA, 1",
+		"cap": "82032",
+		"comune": "CERRETO SANNITA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis022003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"M. CARAFA - N. GIUSTINIANI\" CERRETO S.",
+		"indirizzo": "PIAZZA L. SODO, 2",
+		"cap": "82032",
+		"comune": "CERRETO SANNITA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic833009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COLLE SANNITA",
+		"indirizzo": "VIA DEI LIGURI BEBIANI",
+		"cap": "82024",
+		"comune": "COLLE SANNITA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic81400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. KENNEDY CUSANO MUTRI",
+		"indirizzo": "VIA ORTICELLI           26",
+		"cap": "82033",
+		"comune": "CUSANO MUTRI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic83700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  \"L. DA VINCI\" DUGENTA",
+		"indirizzo": "VIA NAZIONALE",
+		"cap": "82030",
+		"comune": "DUGENTA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis02300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FAICCHIO",
+		"indirizzo": "VIA RAFFAELE DELCOGLIANO",
+		"cap": "82030",
+		"comune": "FAICCHIO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic834005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FOGLIANISE - TOCCO C.",
+		"indirizzo": "VIA LA RIOLA",
+		"cap": "82030",
+		"comune": "FOGLIANISE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic84600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"A. DE BLASIO\" GUARDIA S.",
+		"indirizzo": "VIA CAMPOPIANO, 4",
+		"cap": "82034",
+		"comune": "GUARDIA SANFRAMONDI",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic83800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"F.DE SANCTIS\" MOIANO",
+		"indirizzo": "VIA PERAINE SNC",
+		"cap": "82010",
+		"comune": "MOIANO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic85400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  1 MONTESARCHIO",
+		"indirizzo": "VIA GIACOMO MATTEOTTI, 1",
+		"cap": "82016",
+		"comune": "MONTESARCHIO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis02600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ALDO MORO",
+		"indirizzo": "VIA  CAPONE, 4",
+		"cap": "82016",
+		"comune": "MONTESARCHIO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis00300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"E. FERMI\"  MONTESARCHIO",
+		"indirizzo": "VIA VITULANESE",
+		"cap": "82016",
+		"comune": "MONTESARCHIO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic855006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. 2 MONTESARCHIO",
+		"indirizzo": "VIA  VITULANESE,48",
+		"cap": "82016",
+		"comune": "MONTESARCHIO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis01200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"DON PEPPINO DIANA\"  MORCONE",
+		"indirizzo": "PIAZZA MANENTE",
+		"cap": "82026",
+		"comune": "MORCONE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic819003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"DE FILIPPO\" MORCONE",
+		"indirizzo": "VIA DEGLI ITALICI, 33",
+		"cap": "82026",
+		"comune": "MORCONE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic82300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PIETRELCINA",
+		"indirizzo": "VIALE CAPPUCCINI N.114/116",
+		"cap": "82020",
+		"comune": "PIETRELCINA",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic84900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  PONTE",
+		"indirizzo": "VIA DOMENICO OCONE",
+		"cap": "82030",
+		"comune": "PONTE",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic804009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"S@MNIUM\"  PONTELANDOLFO",
+		"indirizzo": "VIA SANT\\'ANNA, 4",
+		"cap": "82027",
+		"comune": "PONTELANDOLFO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnis00400d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"E. MEDI\" SAN BARTOLOMEO IN GALDO",
+		"indirizzo": "VIA TORRE 10",
+		"cap": "82028",
+		"comune": "SAN BARTOLOMEO IN GALDO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic82500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.BARTOLOMEO IN GALDO",
+		"indirizzo": "VIA COSTA 5",
+		"cap": "82028",
+		"comune": "SAN BARTOLOMEO IN GALDO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic85700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" RITA LEVI MONTALCINI \"",
+		"indirizzo": "VIA G. BOCCHINI ,37",
+		"cap": "82018",
+		"comune": "SAN GIORGIO DEL SANNIO",
+		"provincia": "BN"
+	}
+	,
+	{
+		"codMec": "bnic848003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. O. FRAGNITO  S. GIORGIO M.",
+		"indirizzo": "VIA MONTEDORO,1",
+		"cap": "82020",
+		"comune": "SAN GIORGIO LA MOLARA",
+		"provincia": "BN"
+	}
+]

@@ -1,0 +1,141 @@
+[
+	{
+		"codMec": "isic829002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST OMNICOMPRENSIVO G D\\'AGNILLO",
+		"indirizzo": "C.SO VITTORIO EMANUELE 73-AGNONE (IS)",
+		"cap": "86081",
+		"comune": "AGNONE",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic81200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MOLISE ALTISSIMO \"",
+		"indirizzo": "COSTA OSPEDALE N. 16",
+		"cap": "86083",
+		"comune": "CAROVILLI",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic815004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMP. COLLI A VOLTURNO",
+		"indirizzo": "VIA ROMA",
+		"cap": "86073",
+		"comune": "COLLI A VOLTURNO",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic82600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. \"COLOZZA\"",
+		"indirizzo": "CORSO VITTORIO EMANUELE N. 70",
+		"cap": "86095",
+		"comune": "FROSOLONE",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "ismm11100p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "C.P.I.A.",
+		"indirizzo": "CORSO  GARIBALDI, 43",
+		"cap": "86170",
+		"comune": "ISERNIA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic83400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMPRENSIVO\"S.G.BOSCO\"",
+		"indirizzo": "CORSO GARIBALDI",
+		"cap": "86170",
+		"comune": "ISERNIA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isis01400c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS \" CUOCO/MANUPPELLA\"",
+		"indirizzo": "VIA LEOPARDI, 1",
+		"cap": "86170",
+		"comune": "ISERNIA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic822007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. \"GIOVANNI XXIII\"",
+		"indirizzo": "CORSO      GARIBALDI           43",
+		"cap": "86170",
+		"comune": "ISERNIA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isis01300l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS \"FERMI/MATTEI\" ISERNIA",
+		"indirizzo": "CORSO RISORGIMENTO, 225",
+		"cap": "86170",
+		"comune": "ISERNIA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isis01200r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS \"MAJORANA/FASCITELLI\" ISERNIA",
+		"indirizzo": "CORSO RISORGIMENTO, 353",
+		"cap": "86170",
+		"comune": "ISERNIA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic83300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO MONTAQUILA",
+		"indirizzo": "LARGO      GARIBALDI           1",
+		"cap": "86070",
+		"comune": "MONTAQUILA",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isis003002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS   \"A. GIORDANO\"",
+		"indirizzo": "VIA MAIELLA N. 41/43",
+		"cap": "86079",
+		"comune": "VENAFRO",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic82500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMPR.ST. \"LEOPOLDO PILLA\"",
+		"indirizzo": "VIA COLONIA GIULIA,129",
+		"cap": "86079",
+		"comune": "VENAFRO",
+		"provincia": "IS"
+	}
+	,
+	{
+		"codMec": "isic83200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON GIULIO TESTA",
+		"indirizzo": "VIA MACCHIAVELLI SNC",
+		"cap": "86079",
+		"comune": "VENAFRO",
+		"provincia": "IS"
+	}
+]

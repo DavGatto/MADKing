@@ -1,0 +1,581 @@
+[
+	{
+		"codMec": "chic818001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.OMNICOMPR.\"CIAMPOLI-SPAVENTA\"",
+		"indirizzo": "VIA D. CIAMPOLI N? 2",
+		"cap": "66041",
+		"comune": "ATESSA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic81900r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  BUCCHIANICO",
+		"indirizzo": "VIA S. CHIARA, 70",
+		"cap": "66011",
+		"comune": "BUCCHIANICO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis00300b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ALGERI MARINO  CASOLI",
+		"indirizzo": "VIA DEL CAMPO, 35",
+		"cap": "66043",
+		"comune": "CASOLI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic80600p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASOLI  \"G. DE PETRA\"",
+		"indirizzo": "VIA SAN  NICOLA, 34",
+		"cap": "66043",
+		"comune": "CASOLI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic81400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  CASTEL FRENTANO",
+		"indirizzo": "VIA CAVALIERI VITTORIO VENETO, 1",
+		"cap": "66032",
+		"comune": "CASTEL FRENTANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic816009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTIGLIONE M.M.-CARUNCHIO",
+		"indirizzo": "VIA ISTONIA  N. 26",
+		"cap": "66033",
+		"comune": "CASTIGLIONE MESSER MARINO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic83600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  CHIETI  N.3",
+		"indirizzo": "VIA AMITERNO,150",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chtd11000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "GALIANI - DE STERLICH",
+		"indirizzo": "VIA UMBERTO RICCI N. 22",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chps01000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "F. MASCI   CHIETI",
+		"indirizzo": "VIA VERNIA 26",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chpm02000g",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "I. GONZAGA",
+		"indirizzo": "VIA DEI CELESTINI  N. 4",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis01600d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "U. POMILIO  CHIETI",
+		"indirizzo": "VIA COLONNETTA 124",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis012006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\" L. SAVOIA\"",
+		"indirizzo": "VIA E. GAETANI D\\'ARAGONA 21",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic838006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  CHIETI  N.1",
+		"indirizzo": "VIA G.CARLO SPATOCCO, 46",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic83700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  CHIETI  N.4",
+		"indirizzo": "PIAZZA CARAFA",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chvc010004",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "G. B. VICO",
+		"indirizzo": "CORSO MARRUCINO 135/37",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic832007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  SAN SALVO  N.1",
+		"indirizzo": "VIA SCOPELLITI",
+		"cap": "66050",
+		"comune": "SAN SALVO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic812002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. S.VITO CHIET.G.D\\'ANNUNZIO",
+		"indirizzo": "VIA MICHELANGELO        1",
+		"cap": "66038",
+		"comune": "SAN VITO CHIETINO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chta02000x",
+		"tipo": "ISTITUTO TECNICO AGRARIO",
+		"nome": "IST.  OMNICOMPR,  \" RIDOLFI -ZIMARINO \"",
+		"indirizzo": "C.DA COLLE COMUNE, 1",
+		"cap": "66020",
+		"comune": "SCERNI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic81300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  TOLLO  \"N. NICOLINI\"",
+		"indirizzo": "VIA        CAVOUR N.2",
+		"cap": "66010",
+		"comune": "TOLLO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic817005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"P.BORRELLI\"  TORNARECCIO",
+		"indirizzo": "VIALE DON BOSCO, 10",
+		"cap": "66046",
+		"comune": "TORNARECCIO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chps030005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "POLO LICEALE STATALE \"R. MATTIOLI\"",
+		"indirizzo": "VIA S. ROCCO",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chtd04000g",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"F.PALIZZI\"  VASTO",
+		"indirizzo": "VIA DEI CONTI RICCI",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chee07200q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.D. VASTO NUOVA DIREZ.DID.",
+		"indirizzo": "VIA STIRLING, 1",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic83400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  VASTO  \"G.ROSSETTI\"",
+		"indirizzo": "VIA  BACHELET",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis013002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ITI-LICEO SCIENTIFICO \" MATTEI \"",
+		"indirizzo": "VIA SAN ROCCO",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis01400t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  PANTINI-PUDENTE",
+		"indirizzo": "VIA MADONNA DELL\\'ASILO, 39",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic833003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  VASTO  N.1",
+		"indirizzo": "VIA MADONNA DELL ASILO,35",
+		"cap": "66054",
+		"comune": "VASTO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chrh01000n",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "G. MARCHITELLI",
+		"indirizzo": "VIA ROMA, 22 BIS",
+		"cap": "66047",
+		"comune": "VILLA SANTA MARIA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis019001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CESARE DE TITTA-FERMI\"",
+		"indirizzo": "PIAZZA  MARTIRI 6 OTTOBRE 1",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic839002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LANCIANO \"DON L.MILANI\"",
+		"indirizzo": "VIA NAPOLI 83",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic82200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MIGLIANICO",
+		"indirizzo": "VIA M. ZANNOLLI, 35",
+		"cap": "66010",
+		"comune": "MIGLIANICO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic824008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTEODORISIO",
+		"indirizzo": "PIAZZA UMBERTO I,24",
+		"cap": "66050",
+		"comune": "MONTEODORISIO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic82300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORSOGNA",
+		"indirizzo": "CORSO UMBERTO 1",
+		"cap": "66036",
+		"comune": "ORSOGNA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic84200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. ORTONA  N.2",
+		"indirizzo": "VIA MAZZINI, 24",
+		"cap": "66026",
+		"comune": "ORTONA A MARE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic841002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. ORTONA  N.1",
+		"indirizzo": "PIAZZA S.GIUSEPPE",
+		"cap": "66026",
+		"comune": "ORTONA A MARE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis018005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ACCIAIUOLI-EINAUDI\"  ORTONA",
+		"indirizzo": "VIA MAZZINI, 26",
+		"cap": "66026",
+		"comune": "ORTONA A MARE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic809006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  PAGLIETA \"B. CROCE\"",
+		"indirizzo": "PIAZZA F. DE SANCTIS  4",
+		"cap": "66020",
+		"comune": "PAGLIETA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic825004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PALENA-TORRIC. PELIGNA",
+		"indirizzo": "VIA FRENTANA,2",
+		"cap": "66017",
+		"comune": "PALENA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic82600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  QUADRI  \"B.CROCE\"",
+		"indirizzo": "VIA DELLA STAZIONE, N.64",
+		"cap": "66040",
+		"comune": "QUADRI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic81000a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIPA TEATINA M.BUONARROTI",
+		"indirizzo": "VIA N. MARCONE  40",
+		"cap": "66010",
+		"comune": "RIPA TEATINA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic811006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.GALILEI - S.GIOV.TEATINO",
+		"indirizzo": "VIA VENEZIA,15",
+		"cap": "66020",
+		"comune": "SAN GIOVANNI TEATINO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis00700p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "R. MATTIOLI  S. SALVO",
+		"indirizzo": "VIA MONTE GRAPPA 69",
+		"cap": "66050",
+		"comune": "SAN SALVO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic84300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  SAN SALVO  N.2",
+		"indirizzo": "VIA RUFFILLI, SNC",
+		"cap": "66050",
+		"comune": "SAN SALVO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic83500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  CHIETI  N.2",
+		"indirizzo": "VIA ARNIENSE, 2",
+		"cap": "66100",
+		"comune": "CHIETI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic83000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FARA FILIORUM PETRI",
+		"indirizzo": "VIA SAN NICOLA 2",
+		"cap": "66010",
+		"comune": "FARA FILIORUM PETRI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic80700e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FOSSACESIA \"P.D.POLLIDORI\"",
+		"indirizzo": "PIAZZA FANTINI N.1",
+		"cap": "66022",
+		"comune": "FOSSACESIA",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic82800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FRANCAVILLA \"F. MASCI\"",
+		"indirizzo": "VIA ZARA",
+		"cap": "66023",
+		"comune": "FRANCAVILLA AL MARE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic82700q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. F.P.MICHETTI",
+		"indirizzo": "VIALE G. D\\'ANNUNZIO 56/B",
+		"cap": "66023",
+		"comune": "FRANCAVILLA AL MARE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis017009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE \"A. VOLTA\"",
+		"indirizzo": "VIA GIORGIO CIRILLO",
+		"cap": "66023",
+		"comune": "FRANCAVILLA AL MARE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chtd07000b",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ISTITUTO OMNICOMPRENSIVO \"G. SPATARO\"",
+		"indirizzo": "VIA PROVINCIALE",
+		"cap": "66052",
+		"comune": "GISSI",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chmm062004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "I. OMNICOMPR N. DA GUARDIAGRELE",
+		"indirizzo": "VIA        G.FARINA 1",
+		"cap": "66016",
+		"comune": "GUARDIAGRELE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chee03600l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.D.GUARDIAGRELE  M.DELLA PORTA",
+		"indirizzo": "VIA CAVALIERI,  71",
+		"cap": "66016",
+		"comune": "GUARDIAGRELE",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chps02000e",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "G.GALILEI DI LANCIANO",
+		"indirizzo": "VIA DON MINZONI,11",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis00900a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "V.EMANUELE II LANCIANO",
+		"indirizzo": "VIA BOLOGNA N. 8",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chis01100a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "DA VINCI - DE GIORGIO  LANCIANO",
+		"indirizzo": "VIA GUIDO ROSATO,5",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic840006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LANCIANO  N.1",
+		"indirizzo": "VIA MARCONI N. 1",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic83100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LANCIANO   UMBERTO I",
+		"indirizzo": "PIAZZA UNITA \\' D\\'ITALIA, 1",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+	,
+	{
+		"codMec": "chic80800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LANCIANO  \"G. D\\'ANNUNZIO\"",
+		"indirizzo": "VIA MASCIANGELO  5",
+		"cap": "66034",
+		"comune": "LANCIANO",
+		"provincia": "CH"
+	}
+]

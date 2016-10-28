@@ -1,0 +1,1171 @@
+[
+	{
+		"codMec": "viic82300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ALTAVILLA VICENTINA- MARCONI",
+		"indirizzo": "PIAZZA DELLA LIBERTA\\'21",
+		"cap": "36077",
+		"comune": "ALTAVILLA VICENTINA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic84600c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ALTISSIMO \"UNGARETTI\"",
+		"indirizzo": "VIA BAUCI,27",
+		"cap": "36070",
+		"comune": "ALTISSIMO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ARSIERO  \"P.MAROCCO\"",
+		"indirizzo": "VIA ROMA 33",
+		"cap": "36011",
+		"comune": "ARSIERO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitf010009",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI  \"GALILEO GALILEI\"",
+		"indirizzo": "VIALE VICENZA 49/A",
+		"cap": "36071",
+		"comune": "ARZIGNANO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic87900q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" GOFFREDO  PARISE\"",
+		"indirizzo": "VIA IV MARTIRI, 71",
+		"cap": "36071",
+		"comune": "ARZIGNANO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic885003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 1 ARZIGNANO",
+		"indirizzo": "CORSO MAZZINI 85",
+		"cap": "36071",
+		"comune": "ARZIGNANO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis00200v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  \" LEONARDO DA VINCI\"",
+		"indirizzo": "VIA FORTIS 3",
+		"cap": "36071",
+		"comune": "ARZIGNANO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis006006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS \" MARIO RIGONI STERN \"",
+		"indirizzo": "VIA        MATTEOTTI, 155",
+		"cap": "36012",
+		"comune": "ASIAGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ASIAGO",
+		"indirizzo": "VIA  BERTACCHI 14",
+		"cap": "36012",
+		"comune": "ASIAGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic87300r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"RAMIRO FABIANI\"-BARBARANO",
+		"indirizzo": "VIA IV NOVEMBRE , 82",
+		"cap": "36021",
+		"comune": "BARBARANO VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 1  BASSANO DEL GRAPPA",
+		"indirizzo": "PIAZZALE TRENTO , 21",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitd05000d",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITET \"LUIGI EINAUDI\"",
+		"indirizzo": "VIA S. TOMMASO D\\'AQUINO N. 8",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vips010007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  JACOPO DA PONTE",
+		"indirizzo": "VIALE SAN TOMMASO D AQUINO 12",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vipc04000x",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC    \"G.B. BROCCHI\"",
+		"indirizzo": "VIALE 11 FEBBRAIO, 65",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88100q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 3  BASSANO DEL GRAPPA",
+		"indirizzo": "COLOMBARE 4",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85100x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MASON  \"DON L. MILANI\"",
+		"indirizzo": "VIA NOGAREDO, 33",
+		"cap": "36064",
+		"comune": "MASON VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic856003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTEBELLO VICENTINO",
+		"indirizzo": "VIA G. GENTILE, 7",
+		"cap": "36054",
+		"comune": "MONTEBELLO VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis007002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"S. CECCATO\" MONTECCHIO M.",
+		"indirizzo": "PIAZZALE COLLODI, 7",
+		"cap": "36075",
+		"comune": "MONTECCHIO MAGGIORE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic876008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ANNA FRANK- MONTECCHIO M.1",
+		"indirizzo": "VIA LORENZONI N. 2",
+		"cap": "36075",
+		"comune": "MONTECCHIO MAGGIORE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic877004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTECCHIO M.2 ALTE CECCATO",
+		"indirizzo": "VIA ARCHIMEDE 38",
+		"cap": "36075",
+		"comune": "MONTECCHIO MAGGIORE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic826007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"G.TOALDO\" - MONTEGALDA",
+		"indirizzo": "V.LE DINO CATTANEO, 51",
+		"cap": "36047",
+		"comune": "MONTEGALDA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic850004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S. \"DON BOSCO\"",
+		"indirizzo": "VIA A. VIVALDI, 2",
+		"cap": "36010",
+		"comune": "MONTICELLO CONTE OTTO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic80700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MUSSOLENTE  \"GIARDINO\"",
+		"indirizzo": "VIA PIO X,2",
+		"cap": "36065",
+		"comune": "MUSSOLENTE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic82200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO \"P. ANTONIBON\"",
+		"indirizzo": "VIA SATURNO, 4",
+		"cap": "36055",
+		"comune": "NOVE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "visd020008",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO  \"G.DE FABRIS\"",
+		"indirizzo": "VIA GIOVE, 1",
+		"cap": "36055",
+		"comune": "NOVE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis00400e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS   \"U. MASOTTO\"",
+		"indirizzo": "VIA  VERONESE 3",
+		"cap": "36025",
+		"comune": "NOVENTA VICENTINA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic83300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC NOVENTA VIC. \"A.FOGAZZARO\"",
+		"indirizzo": "VIA G. MARCONI N.13",
+		"cap": "36025",
+		"comune": "NOVENTA VICENTINA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic827003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PIOVENE ROCCHETTE- FOGAZZARO",
+		"indirizzo": "VIALE MATTEOTTI, N. 8",
+		"cap": "36013",
+		"comune": "PIOVENE-ROCCHETTE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic814001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"A. PALLADIO\" - POIANA",
+		"indirizzo": "VIA D. ALIGHIERI 4",
+		"cap": "36026",
+		"comune": "POIANA MAGGIORE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic848004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC RECOARO TERME \"FLORIANI\"",
+		"indirizzo": "VIA E.POZZA, 12",
+		"cap": "36076",
+		"comune": "RECOARO TERME",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "virh010001",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSA \"PELLEGRINO ARTUSI\"",
+		"indirizzo": "VIA PRALONGHI  5",
+		"cap": "36076",
+		"comune": "RECOARO TERME",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC - ROMANO D\\'EZZELINO",
+		"indirizzo": "VIA VELO,67",
+		"cap": "36060",
+		"comune": "ROMANO D\\'EZZELINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ROSA\\' \"A.G.RONCALLI\"",
+		"indirizzo": "VIA MONS. FILIPPI,7/9",
+		"cap": "36027",
+		"comune": "ROSA\\'",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ROSSANO V.TO \" G. RODARI\"",
+		"indirizzo": "VIA STAZIONE 12/A",
+		"cap": "36028",
+		"comune": "ROSSANO VENETO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SANDRIGO \"G.ZANELLA\"",
+		"indirizzo": "VIA   ALDO MORO, 53",
+		"cap": "36066",
+		"comune": "SANDRIGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic835002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SANTORSO  \"G.B.CIPANI\"",
+		"indirizzo": "VIA DEL GRUMO  8",
+		"cap": "36014",
+		"comune": "SANTORSO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic83800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SARCEDO \"T. VECELLIO\"",
+		"indirizzo": "VIA TIZIANO VECELLIO, 28",
+		"cap": "36030",
+		"comune": "SARCEDO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic813005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"MUTTONI\". SAREGO",
+		"indirizzo": "VIA DAMIANO CHIESA, 5",
+		"cap": "36040",
+		"comune": "SAREGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic842005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 1 SCHIO\"DON A. BATTISTELLA\"",
+		"indirizzo": "VIA VERCELLI, 1",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic843001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  3   \"IL TESSITORE\"",
+		"indirizzo": "VIA DEI BOLDU\\' 32",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic855007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"A. FUSINATO\" SCHIO",
+		"indirizzo": "VIA VECELLIO, 22",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viri03000n",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPS   \"G. B. GARBIN\"",
+		"indirizzo": "VIA TITO LIVIO, 7",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitd030008",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITCG  \"L. E V. PASINI\"",
+		"indirizzo": "VIA TITO LIVIO, 1",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis00900n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS    \"MARTINI\" SCHIO",
+		"indirizzo": "VIA PIETRO MARASCHIN 9",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vipc05000e",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC   \"GIACOMO ZANELLA\"",
+		"indirizzo": "PIAZZA     SUMMANO",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88200g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 2   BASSANO DEL GRAPPA",
+		"indirizzo": "VIA MONS. RODOLFI",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitf05000q",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI   \"E. FERMI\" BASSANO DEL GRAPPA",
+		"indirizzo": "VIA S. CROCE 14",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis014005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.  \" ALBERTO PAROLINI\"",
+		"indirizzo": "VIA SAN BORTOLO, 19",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis01700l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"REMONDINI\"",
+		"indirizzo": "VIA TRAVETTORE, 33",
+		"cap": "36061",
+		"comune": "BASSANO DEL GRAPPA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic820008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BOLZANO VICENTINO\"G.ZANELLA\"",
+		"indirizzo": "PIAZZALE UBALDO OPPI,  4",
+		"cap": "36050",
+		"comune": "BOLZANO VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis021008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.  \"ANDREA SCOTTON\"",
+		"indirizzo": "VIA ROMA 56",
+		"cap": "36042",
+		"comune": "BREGANZE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic81000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \" LAVERDA\"  BREGANZE",
+		"indirizzo": "PIAZZA DEGLI ALPINI,12",
+		"cap": "36042",
+		"comune": "BREGANZE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic841009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"GALILEI\"   BRENDOLA",
+		"indirizzo": "VIA DEL DONATORE, 20",
+		"cap": "36040",
+		"comune": "BRENDOLA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic81500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"ALIGHIERI\" CALDOGNO",
+		"indirizzo": "VIA PAGELLO, 4",
+		"cap": "36030",
+		"comune": "CALDOGNO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic864002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAMISANO VICENTINO",
+		"indirizzo": "VIA EUROPA,45",
+		"cap": "36043",
+		"comune": "CAMISANO VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic80900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"REZZARA\" CARRE\\'",
+		"indirizzo": "VIA MONTE PAU\\' 1",
+		"cap": "36010",
+		"comune": "CARRE\\'",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASSOLA - \" MARCONI\"",
+		"indirizzo": "VIALE SAN GIUSEPPE, 65",
+		"cap": "36022",
+		"comune": "CASSOLA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic812009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASTELGOMBERTO - \"FERMI\"",
+		"indirizzo": "VIA EUROPA, 14",
+		"cap": "36070",
+		"comune": "CASTELGOMBERTO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic87800x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"A.FAEDO\"  CHIAMPO",
+		"indirizzo": "VIA FANTE D\\'ITALIA  N. 31",
+		"cap": "36072",
+		"comune": "CHIAMPO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic847008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COGOLLO \" DON CARLO FRIGO \"",
+		"indirizzo": "VIA COLOMBARA,5",
+		"cap": "36010",
+		"comune": "COGOLLO DEL CENGIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic82400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORNEDO \"CROSARA\"",
+		"indirizzo": "VIA G.G.TRISSINO,1",
+		"cap": "36073",
+		"comune": "CORNEDO VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic81600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COSTABISSARA  \"UNGARETTI\"",
+		"indirizzo": "VIA MONTE PRIAFORA\\' 6",
+		"cap": "36030",
+		"comune": "COSTABISSARA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic821004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CREAZZO  \"MANZONI\"",
+		"indirizzo": "VIA MANZONI,1",
+		"cap": "36051",
+		"comune": "CREAZZO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic86000p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DUEVILLE \"RONCALLI\"",
+		"indirizzo": "VIA ROSSI 38",
+		"cap": "36031",
+		"comune": "DUEVILLE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88700p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GALLIO",
+		"indirizzo": "VIA ROMA 1",
+		"cap": "36032",
+		"comune": "GALLIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic83200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G.GALILEI\"",
+		"indirizzo": "VIA ALDO MORO, 65",
+		"cap": "36033",
+		"comune": "ISOLA VICENTINA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic834006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LONGARE \"BIZIO\"",
+		"indirizzo": "VIA RAGAZZI DEL 99,2",
+		"cap": "36023",
+		"comune": "LONGARE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vita01000l",
+		"tipo": "ISTITUTO TECNICO AGRARIO",
+		"nome": "ITA \"ALBERTO TRENTIN\"",
+		"indirizzo": "VIA SAN GIOVANNI, 46",
+		"cap": "36045",
+		"comune": "LONIGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis01100n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE DI LONIGO",
+		"indirizzo": "VIA SCORTEGAGNA 37",
+		"cap": "36045",
+		"comune": "LONIGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic818008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LONIGO    \"RIDOLFI\"",
+		"indirizzo": "VIALE DELLA REPUBBLICA N.4",
+		"cap": "36045",
+		"comune": "LONIGO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic82500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LUGO DI VICENZA \"NODARI\"",
+		"indirizzo": "VIA MATTEOTTI,26",
+		"cap": "36030",
+		"comune": "LUGO DI VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic84400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LUSIANA  \"POZZA\"",
+		"indirizzo": "VIA SETTE COMUNI,18",
+		"cap": "36046",
+		"comune": "LUSIANA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic80800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"CISCATO\" MALO",
+		"indirizzo": "VIA MARANO,53",
+		"cap": "36034",
+		"comune": "MALO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic85400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MARANO VICENTINO",
+		"indirizzo": "P.ZZA SILVA 68",
+		"cap": "36035",
+		"comune": "MARANO VICENTINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic884007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO  MAROSTICA",
+		"indirizzo": "VIA NATALE DALLE LASTE 2",
+		"cap": "36063",
+		"comune": "MAROSTICA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vimm141007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA DI VICENZA",
+		"indirizzo": "VIA PALEMONE, 20",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vipc010004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC   \" ANTONIO PIGAFETTA\"",
+		"indirizzo": "CONTRA\\'    CORDENONS 1",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vipm010008",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IM  \"DON GIUSEPPE FOGAZZARO\"",
+		"indirizzo": "CONTRA\\' BURCI 21",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vips02000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS   \"P. LIOY\"",
+		"indirizzo": "CONTRA\\' CORDENONS, 7",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vips05000n",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  \"G.B.QUADRI\"",
+		"indirizzo": "VIALE GIOSUE\\' CARDUCCI 17",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "virf020004",
+		"tipo": "IST  PROF  FEMMINILE",
+		"nome": "IPSS \"B. MONTAGNA\"",
+		"indirizzo": "VIA MORA , 93",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viri05000v",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPSIA \"F. LAMPERTICO\"",
+		"indirizzo": "VIALE G. G. TRISSINO 30",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic86100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 6 - F. MUTTONI",
+		"indirizzo": "VIA MASSARIA,62",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic86200a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 9   VIA BELLINI",
+		"indirizzo": "VIA BELLINI,106",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis01600r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"ALMERICO DA SCHIO\"",
+		"indirizzo": "VIA BADEN POWELL, 33",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic84000d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 3 - \"V. SCAMOZZI\"",
+		"indirizzo": "VIA EINAUDI, 74",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic81100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VILLAVERLA  \"GOLDONI\"",
+		"indirizzo": "VIA GIOVANNI XXIII,9",
+		"cap": "36030",
+		"comune": "VILLAVERLA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vips040003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  \"NICOLO\\' TRON\"",
+		"indirizzo": "VIA        LUZIO",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitf03000e",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI  \"SILVIO DE PRETTO\"",
+		"indirizzo": "VIA  XXIX APRILE,40",
+		"cap": "36015",
+		"comune": "SCHIO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic89000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" VAL LIONA \"  SOSSANO",
+		"indirizzo": "VIA S.G.BOSCO,  4",
+		"cap": "36040",
+		"comune": "SOSSANO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic83700n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SOVIZZO",
+		"indirizzo": "VIA ALFIERI, 3",
+		"cap": "36050",
+		"comune": "SOVIZZO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic82900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC\"F.D\\'ASSISI\" TEZZE SUL BRENTA",
+		"indirizzo": "VIA DON ANTONIO BELLUZZO 3",
+		"cap": "36056",
+		"comune": "TEZZE SUL BRENTA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88300b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC THIENE",
+		"indirizzo": "PIAZZA  SCALCERLE 8",
+		"cap": "36016",
+		"comune": "THIENE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vipc02000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC     \"F. CORRADINI\"",
+		"indirizzo": "VIA  MILANO   1",
+		"cap": "36016",
+		"comune": "THIENE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitd02000n",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITCG AULO CECCATO",
+		"indirizzo": "VIA VANZETTI,14",
+		"cap": "36016",
+		"comune": "THIENE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitf06000a",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITT  \"G. CHILESOTTI\"",
+		"indirizzo": "VIA DEI TIGLI,10",
+		"cap": "36016",
+		"comune": "THIENE",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic83600t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"M. PASUBIO\"- TORREBELVICINO",
+		"indirizzo": "VIA DANTE,1",
+		"cap": "36036",
+		"comune": "TORREBELVICINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic863006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TORRI DI Q.  VIA IPPOCASTANI",
+		"indirizzo": "VIA IPPOCASTANI",
+		"cap": "36040",
+		"comune": "TORRI DI QUARTESOLO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic819004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  \"A. FOGAZZARO\" TRISSINO",
+		"indirizzo": "VIA ROMA, 29",
+		"cap": "36070",
+		"comune": "TRISSINO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic82800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 1 VALDAGNO",
+		"indirizzo": "VIA PASUBIO 171",
+		"cap": "36078",
+		"comune": "VALDAGNO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic88000x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 2  VALDAGNO",
+		"indirizzo": "VIA LUNGO AGNO MANZONI, 17",
+		"cap": "36078",
+		"comune": "VALDAGNO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis00300p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS    \"L. LUZZATTI\"",
+		"indirizzo": "VIALE TRENTO 1",
+		"cap": "36078",
+		"comune": "VALDAGNO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis001003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"G.G.TRISSINO\"",
+		"indirizzo": "VIA LUNGO AGNO A. MANZONI, 18",
+		"cap": "36078",
+		"comune": "VALDAGNO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitf040005",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI \"V.E.MARZOTTO\"",
+		"indirizzo": "VIALE  CARDUCCI 9",
+		"cap": "36078",
+		"comune": "VALDAGNO",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic84900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BOMBIERI VALSTAGNA",
+		"indirizzo": "VIA FERRAZZI, 6",
+		"cap": "36020",
+		"comune": "VALSTAGNA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic86600n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 8 - VIA PRATI",
+		"indirizzo": "VIA PRATI,13",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic868009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 7 - VIALE  FIUME",
+		"indirizzo": "VIALE  FIUME, 97",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic869005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 10 - VIA COLOMBO",
+		"indirizzo": "VIA COLOMBO, 31",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic870009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 5",
+		"indirizzo": "CONTRA\\' S. MARIA NOVA, 7",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic871005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 1 - CONTRA  BURCI",
+		"indirizzo": "CONTRA BURCI, 20",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic872001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA 2 - VIA PIOVENE",
+		"indirizzo": "VIA PIOVENE, 31",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitd010003",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITE  \"  A. FUSINIERI\"",
+		"indirizzo": "VIA D\\'ANNUNZIO 15",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitd09000x",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC \"G. PIOVENE\"",
+		"indirizzo": "CORSO SS.  FELICE E FORTUNATO 225",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "vitf02000x",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI  \"ALESSANDRO ROSSI\"",
+		"indirizzo": "VIA LEGIONE GALLIENO 52",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis013009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"A CANOVA\"",
+		"indirizzo": "VIALE ASTICHELLO ,195",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viic839009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VICENZA  4 - \" BAROLINI\"",
+		"indirizzo": "VIA PALEMONE, 20",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+	,
+	{
+		"codMec": "viis019008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS   \"S. BOSCARDIN\"    VICENZA",
+		"indirizzo": "VIA BADEN POWELL,35",
+		"cap": "36100",
+		"comune": "VICENZA",
+		"provincia": "VI"
+	}
+]

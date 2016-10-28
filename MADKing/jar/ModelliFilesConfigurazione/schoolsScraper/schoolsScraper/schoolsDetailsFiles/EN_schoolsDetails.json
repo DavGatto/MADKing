@@ -1,0 +1,371 @@
+[
+	{
+		"codMec": "enic81900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. GIUSTI SINOPOLI",
+		"indirizzo": "PIAZZA EUROPA, 4",
+		"cap": "94011",
+		"comune": "AGIRA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis00800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FORTUNATO   FEDELE",
+		"indirizzo": "PIAZZA     EUROPA",
+		"cap": "94011",
+		"comune": "AGIRA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic809003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"F.CORDOVA\"  (AIDONE)",
+		"indirizzo": "VIA TERRANOVA  N.89",
+		"cap": "94010",
+		"comune": "AIDONE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic80500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\\'E.PANTANO\\'   (ASSORO)",
+		"indirizzo": "VIA  PIETRO NENNI  1",
+		"cap": "94010",
+		"comune": "ASSORO",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic823009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "EUROPA    (BARRAFRANCA)",
+		"indirizzo": "CORSO GARIBALDI N. 420",
+		"cap": "94012",
+		"comune": "BARRAFRANCA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis00200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIOVANNI FALCONE",
+		"indirizzo": "VIA PIO LA TORRE 11",
+		"cap": "94012",
+		"comune": "BARRAFRANCA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic824005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S.G.BOSCO\"  (BARRAFRANCA)",
+		"indirizzo": "VIA MAZZINI 62",
+		"cap": "94012",
+		"comune": "BARRAFRANCA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic803004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G.VERGA  (CALASCIBETTA)",
+		"indirizzo": "VIA        MADDALENA",
+		"cap": "94010",
+		"comune": "CALASCIBETTA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic80600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "E.FERMI",
+		"indirizzo": "VIA        LUIGI STURZO, S.N.C.",
+		"cap": "94010",
+		"comune": "CATENANUOVA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic81300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "F.ANSALDI CENTURIPE",
+		"indirizzo": "VIA  G.LEOPARDI 12",
+		"cap": "94010",
+		"comune": "CENTURIPE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic82100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "E.DE AMICIS",
+		"indirizzo": "VIA LIBERTA\\' 36",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic81500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SANTA CHIARA",
+		"indirizzo": "PIAZZA VI DICEMBRE S.N.C.",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis004004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"FEDERICO II\"",
+		"indirizzo": "VIA        NICOSIA, 2",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis011007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "NAPOLEONE COLAJANNI",
+		"indirizzo": "VIA VALVERDE 1",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis02100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ABRAMO LINCOLN\"",
+		"indirizzo": "VIA SALVATORE MAZZA, 3/5",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic810007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VINCENZO GUARNACCIA",
+		"indirizzo": "VIA MARCONI 12",
+		"cap": "94016",
+		"comune": "PIETRAPERZIA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic816006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"G.F.INGRASSIA\"",
+		"indirizzo": "VIA MONS. PIEMONTE N.2",
+		"cap": "94017",
+		"comune": "REGALBUTO",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis01300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ETTORE MAJORANA",
+		"indirizzo": "VIA ALDO MORO N.147",
+		"cap": "94018",
+		"comune": "TROINA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic81800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON BOSCO",
+		"indirizzo": "VIA R.SANZIO,N.21",
+		"cap": "94018",
+		"comune": "TROINA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enee091002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "BORGO   (TROINA)",
+		"indirizzo": "VIA GINO ABBATE N.16",
+		"cap": "94018",
+		"comune": "TROINA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic817002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"G.MAZZINI\"",
+		"indirizzo": "VIA MAZZINI 133",
+		"cap": "94019",
+		"comune": "VALGUARNERA CAROPEPE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic80400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO  DE SIMONE",
+		"indirizzo": "VIA CREMA 96",
+		"cap": "94010",
+		"comune": "VILLAROSA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic82000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "F. P. NEGLIA - N. SAVARESE",
+		"indirizzo": "VIALE  ALDO MORO, 1",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enps01000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS PIETRO FARINATO",
+		"indirizzo": "VIALE DIAZ, 61",
+		"cap": "94100",
+		"comune": "ENNA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enee05600p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "N. VACCALLUZZO",
+		"indirizzo": "CORSO UMBERTO 339",
+		"cap": "94013",
+		"comune": "LEONFORTE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enee05700e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "BRANCIFORTI (LEONFORTE)",
+		"indirizzo": "VIA SANTANGELO 2",
+		"cap": "94013",
+		"comune": "LEONFORTE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis018002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ENRICO MEDI\"",
+		"indirizzo": "VIA ANTONIO VIVALDI",
+		"cap": "94013",
+		"comune": "LEONFORTE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic82200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DANTE ALIGHIERI",
+		"indirizzo": "VIA RESISTENZA N.1",
+		"cap": "94013",
+		"comune": "LEONFORTE",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis01900t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"FRATELLI TESTA\"",
+		"indirizzo": "VIALE ITRIA SNC",
+		"cap": "94014",
+		"comune": "NICOSIA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis00600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ALESSANDRO VOLTA",
+		"indirizzo": "VIALE VITTORIO VENETO 59",
+		"cap": "94014",
+		"comune": "NICOSIA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enee061006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIREZ. DID. 1 CIRCOLO CARMINE",
+		"indirizzo": "LARGO PECULIO, 25",
+		"cap": "94014",
+		"comune": "NICOSIA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enmm110005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "D.ALIGHIERI",
+		"indirizzo": "PIAZZA MARCONI 6",
+		"cap": "94014",
+		"comune": "NICOSIA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enee062002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIREZ. DID. 2? CIRC. SAN FELICE",
+		"indirizzo": "LARGO SAN VINCENZO N. 2",
+		"cap": "94014",
+		"comune": "NICOSIA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis00700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "E. MAIORANA - GEN. A.CASCINO",
+		"indirizzo": "PIAZZA SENATORE MARESCALCHI, 2",
+		"cap": "94015",
+		"comune": "PIAZZA ARMERINA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic82600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FALCONE-CASCINO",
+		"indirizzo": "VIA GEN. CIANCIO N.15",
+		"cap": "94015",
+		"comune": "PIAZZA ARMERINA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enic825001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CHINNICI-RONCALLI",
+		"indirizzo": "VIA PETRARCA SNC",
+		"cap": "94015",
+		"comune": "PIAZZA ARMERINA",
+		"provincia": "EN"
+	}
+	,
+	{
+		"codMec": "enis017006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEONARDO DA VINCI",
+		"indirizzo": "VIA    VITTORIO    ALFIERI N.6",
+		"cap": "94015",
+		"comune": "PIAZZA ARMERINA",
+		"provincia": "EN"
+	}
+]

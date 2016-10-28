@@ -1,0 +1,671 @@
+[
+	{
+		"codMec": "coic80100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN FEDELE",
+		"indirizzo": "VIA MAGISTRI INTELVESI 11",
+		"cap": "22028",
+		"comune": "SAN FEDELE INTELVI",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic817001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TAVERNERIO",
+		"indirizzo": "VIA RISORGIMENTO N. 22",
+		"cap": "22038",
+		"comune": "TAVERNERIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic82100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO DI TURATE",
+		"indirizzo": "VIA  GIUSEPPE GARIBALDI,  39",
+		"cap": "22078",
+		"comune": "TURATE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic83300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. UGGIATE TREVANO",
+		"indirizzo": "VIA ROMA 2",
+		"cap": "22029",
+		"comune": "UGGIATE-TREVANO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic82600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VALMOREA",
+		"indirizzo": "VIA ROMA 636",
+		"cap": "22070",
+		"comune": "VALMOREA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic837006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VERTEMATE",
+		"indirizzo": "VIA        VIGNA               03",
+		"cap": "22070",
+		"comune": "VERTEMATE CON MINOPRIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic85400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTIT. COMPRENSIVO VILLAGUARDIA",
+		"indirizzo": "VIA VITTORIO VENETO, 4",
+		"cap": "22079",
+		"comune": "VILLA GUARDIA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic81200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COMO  ALBATE",
+		"indirizzo": "PIAZZA IV NOVEMBRE, 1",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic809002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COMO LAGO",
+		"indirizzo": "VIA        BRAMBILLA           49",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic808006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COMO LORA-LIPOMO",
+		"indirizzo": "VIA   MANTEGAZZA N. 16",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic84300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO COMO REBBIO",
+		"indirizzo": "VIA CUZZI, 6",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cotd01000g",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "CAIO PLINIO SECONDO",
+		"indirizzo": "VIA ITALIA LIBERA 1",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "corc010008",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "G.PESSINA",
+		"indirizzo": "VIA        MILANO    N. 182",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cops030001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "PAOLO GIOVIO",
+		"indirizzo": "VIA        PASQUALE PAOLI 28",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "copm02000b",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO TERESA CICERI",
+		"indirizzo": "VIA        CARDUCCI 9",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "copc020007",
+		"tipo": "LICEO CLASSICO",
+		"nome": "ALESSANDRO VOLTA",
+		"indirizzo": "VIA CESARE CANTU\\' 57",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "comm15400t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 COMO",
+		"indirizzo": "VIA LUCINI",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois009006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEONARDO DA VINCI - RIPAMONTI",
+		"indirizzo": "VIA        BELVEDERE 18",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois00700e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PAOLO  CARCANO",
+		"indirizzo": "VIA CASTELNUOVO, 5",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic852008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. COMO CENTRO CITTA\\'",
+		"indirizzo": "VIA GRAMSCI, 6",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic84800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COMO NORD",
+		"indirizzo": "VIA BROGEDA 21",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic845005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COMO BORGOVICO",
+		"indirizzo": "VIA BORGOVICO 193",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic816005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALBAVILLA",
+		"indirizzo": "VIA P. PORRO N. 16",
+		"cap": "22031",
+		"comune": "ALBAVILLA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic82700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. APPIANO GENTILE",
+		"indirizzo": "VIA CHERUBINO FERRARIO, 4",
+		"cap": "22070",
+		"comune": "APPIANO GENTILE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic803003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ASSO",
+		"indirizzo": "VIALE RIMEMBRANZE, 17",
+		"cap": "22033",
+		"comune": "ASSO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic80600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BELLAGIO",
+		"indirizzo": "VIA VITALI N.9",
+		"cap": "22021",
+		"comune": "BELLAGIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic83000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CADORAGO",
+		"indirizzo": "VIA ALFIERI 1",
+		"cap": "22071",
+		"comune": "CADORAGO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cosd02000r",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO \"F. MELOTTI\"",
+		"indirizzo": "VIA F. ANDINA, 8",
+		"cap": "22063",
+		"comune": "CANTU\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic823008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.CANTU\\' 1^",
+		"indirizzo": "VIA MANZONI, 19",
+		"cap": "22063",
+		"comune": "CANTU\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois003007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A.SANT\\'ELIA",
+		"indirizzo": "VIA SESIA",
+		"cap": "22063",
+		"comune": "CANTU\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic83900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CANTU\\' 3",
+		"indirizzo": "VIA PITAGORA 12",
+		"cap": "22063",
+		"comune": "CANTU\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic838002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CANTU\\' 2",
+		"indirizzo": "VIA        FOSSANO,34",
+		"cap": "22063",
+		"comune": "CANTU\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cops04000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ENRICO FERMI",
+		"indirizzo": "VIA        GIOVANNI XXIII",
+		"cap": "22063",
+		"comune": "CANTU\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic811002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CAPIAGO INTIMIANO",
+		"indirizzo": "PIAZZA IV NOVEMBRE SNC",
+		"cap": "22070",
+		"comune": "CAPIAGO INTIMIANO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic84700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.CERMENATE",
+		"indirizzo": "VIA ALFIERI",
+		"cap": "22072",
+		"comune": "CERMENATE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic844009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CERNOBBIO",
+		"indirizzo": "VIA REGINA 5",
+		"cap": "22012",
+		"comune": "CERNOBBIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic81300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COMO PRESTINO/BRECCIA",
+		"indirizzo": "VIA PICCHI N. 6",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cotf01000t",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "MAGISTRI CUMACINI",
+		"indirizzo": "VIA COLOMBO",
+		"cap": "22100",
+		"comune": "COMO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic84200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CUCCIAGO-GRANDATE-CASNATE",
+		"indirizzo": "VIA SANT\\'ARIALDO 27",
+		"cap": "22060",
+		"comune": "CUCCIAGO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic82000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DONGO",
+		"indirizzo": "VIA IGINIO GENTILE",
+		"cap": "22014",
+		"comune": "DONGO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois004003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. D. ROMAGNOSI",
+		"indirizzo": "VIA CARDUCCI 5",
+		"cap": "22036",
+		"comune": "ERBA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic85600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  G. PUECHER DI ERBA",
+		"indirizzo": "VIA        MAINONI             3",
+		"cap": "22036",
+		"comune": "ERBA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cops02000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS GALILEO GALILEI",
+		"indirizzo": "VIA VOLONTARI DELLA LIBERTA\\' 18/C",
+		"cap": "22036",
+		"comune": "ERBA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "copm030002",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE \" CARLO PORTA \" ERBA",
+		"indirizzo": "PIAZZA SAN G.B.DE LA SALLE, N. 2",
+		"cap": "22036",
+		"comune": "ERBA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic832003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FALOPPIO",
+		"indirizzo": "VIA BERNASCHINA,55",
+		"cap": "22020",
+		"comune": "FALOPPIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic82200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FENEGRO\\'",
+		"indirizzo": "VIA DELL\\'ARTE, 1",
+		"cap": "22070",
+		"comune": "FENEGRO\\'",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic846001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FIGINO SERENZA",
+		"indirizzo": "VIA EUROPA, 25",
+		"cap": "22060",
+		"comune": "FIGINO SERENZA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic83600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FINO MORNASCO",
+		"indirizzo": "VIA LEONARDO DA VINCI",
+		"cap": "22073",
+		"comune": "FINO MORNASCO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic81900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GRAVEDONA ED UNITI",
+		"indirizzo": "VIA MAGLIO 25/27",
+		"cap": "22015",
+		"comune": "GRAVEDONA ED UNITI",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic824004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S. INVERIGO",
+		"indirizzo": "VIA MONTE BARRO, 2",
+		"cap": "22044",
+		"comune": "INVERIGO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic83500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LOMAZZO",
+		"indirizzo": "VIA        PITAGORA",
+		"cap": "22074",
+		"comune": "LOMAZZO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic84100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LURAGO D\\'ERBA",
+		"indirizzo": "PIAZZALE CARLO PORTA, 14",
+		"cap": "22040",
+		"comune": "LURAGO D\\'ERBA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic85500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LURATE CACCIVIO",
+		"indirizzo": "LARGO CADUTI PER LA PACE",
+		"cap": "22075",
+		"comune": "LURATE CACCIVIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois00200b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. JEAN MONNET",
+		"indirizzo": "VIA SANTA CATERINA N. 3",
+		"cap": "22066",
+		"comune": "MARIANO COMENSE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic853004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO \"IV NOVEMB",
+		"indirizzo": "VIA PASSALACQUA TROTTI 10",
+		"cap": "22066",
+		"comune": "MARIANO COMENSE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic85100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. \"DON MILANI\"",
+		"indirizzo": "VIA BELLINI,4",
+		"cap": "22066",
+		"comune": "MARIANO COMENSE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois00100g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MENAGGIO",
+		"indirizzo": "VIA MALAGRIDA P. G., 3",
+		"cap": "22017",
+		"comune": "MENAGGIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic85000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MENAGGIO",
+		"indirizzo": "VIA LUSARDI 7",
+		"cap": "22017",
+		"comune": "MENAGGIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic840002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONS. A. PIROVANO",
+		"indirizzo": "VIA CRISPI 22",
+		"cap": "22046",
+		"comune": "MERONE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic83400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MOZZATE",
+		"indirizzo": "VIALE  LIBERTA\\', 3",
+		"cap": "22076",
+		"comune": "MOZZATE",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "cois011006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIUSEPPE TERRAGNI",
+		"indirizzo": "VIA SEGANTINI N. 41",
+		"cap": "22077",
+		"comune": "OLGIATE COMASCO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic80700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. OLGIATE COMASCO",
+		"indirizzo": "PIAZZA     VOLTA               4/A",
+		"cap": "22077",
+		"comune": "OLGIATE COMASCO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic84900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DELLA TREMEZZINA",
+		"indirizzo": "VIA PROVINCIALE -  LOC. OSSUCCIO",
+		"cap": "22010",
+		"comune": "OSSUCCIO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic80400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PONTE LAMBRO",
+		"indirizzo": "VIA TRIESTE N. 33",
+		"cap": "22037",
+		"comune": "PONTE LAMBRO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic815009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PORLEZZA",
+		"indirizzo": "VIA OSTENO 7",
+		"cap": "22018",
+		"comune": "PORLEZZA",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic802007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PUSIANO",
+		"indirizzo": "VIA        MAZZINI             39",
+		"cap": "22030",
+		"comune": "PUSIANO",
+		"provincia": "CO"
+	}
+	,
+	{
+		"codMec": "coic831007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ROVELLASCA",
+		"indirizzo": "P.ZA RISORGIMENTO N. 14",
+		"cap": "22069",
+		"comune": "ROVELLASCA",
+		"provincia": "CO"
+	}
+]

@@ -1,0 +1,981 @@
+[
+	{
+		"codMec": "veic818001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RUFINO TURRANIO",
+		"indirizzo": "PIAZZA MATTEOTTI N, 55",
+		"cap": "30023",
+		"comune": "CONCORDIA SAGITTARIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic867006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DOLO",
+		"indirizzo": "VIA IV NOVEMBRE, 2",
+		"cap": "30031",
+		"comune": "DOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "verh03000v",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "C. MUSATTI",
+		"indirizzo": "VIA RINASCITA, 3",
+		"cap": "30031",
+		"comune": "DOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vetd06000r",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "MARIA LAZZARI",
+		"indirizzo": "VIA CURZIO FRASIO N.  27",
+		"cap": "30031",
+		"comune": "DOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veps07000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GALILEO GALILEI",
+		"indirizzo": "VIA CURZIO FRASIO N. 27",
+		"cap": "30031",
+		"comune": "DOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82900b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "EDMONDO DE AMICIS",
+		"indirizzo": "VIA P. SEPULCRI 8",
+		"cap": "30020",
+		"comune": "ERACLEA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic811006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON AGOSTINO TONIATTI",
+		"indirizzo": "VIA NIEVO N. 20",
+		"cap": "30025",
+		"comune": "FOSSALTA DI PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic86500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FOSSO\\'",
+		"indirizzo": "V.LE CADUTI VIA FANI N. 8",
+		"cap": "30030",
+		"comune": "FOSSO\\'",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic81500d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ITALO CALVINO",
+		"indirizzo": "PIAZZA MATTEOTTI  N. 12",
+		"cap": "30016",
+		"comune": "IESOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic804003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GABRIELE D\\'ANNUNZIO",
+		"indirizzo": "VIA DEL BERSAGLIERE N. 10",
+		"cap": "30016",
+		"comune": "IESOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "verh020008",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "ELENA  CORNARO",
+		"indirizzo": "VIALE MARTIN LUTHER KING N. 5",
+		"cap": "30016",
+		"comune": "IESOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIAN FRANCESCO MALIPIERO",
+		"indirizzo": "VIALE DELLA CULTURA N. 14",
+		"cap": "30020",
+		"comune": "MARCON",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic83700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. S. - G.MATTEOTTI - MAERNE",
+		"indirizzo": "VIA MANZONI, 11",
+		"cap": "30030",
+		"comune": "MARTELLAGO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic838006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  C.GOLDONI",
+		"indirizzo": "VIA TRENTO 26",
+		"cap": "30030",
+		"comune": "MARTELLAGO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic80600p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ENRICO MATTEI",
+		"indirizzo": "VIA ROMA, N. 27",
+		"cap": "30020",
+		"comune": "MEOLO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vepc050007",
+		"tipo": "LICEO CLASSICO",
+		"nome": "XXV APRILE",
+		"indirizzo": "VIA MARTIRI N. 13",
+		"cap": "30026",
+		"comune": "PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vepm030006",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "MARCO BELLI",
+		"indirizzo": "PIAZZA MARCONI N. 10",
+		"cap": "30026",
+		"comune": "PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANGELO RONCALLI",
+		"indirizzo": "VIA ROMA N. 21",
+		"cap": "30020",
+		"comune": "QUARTO D\\'ALTINO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic80700e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DANTE ALIGHIERI",
+		"indirizzo": "VIA MEUCCI N. 2",
+		"cap": "30030",
+		"comune": "SALZANO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic809006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IPPOLITO NIEVO",
+		"indirizzo": "VIALE LIBERTA\\'  N.  30",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vetf060003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "VITO  VOLTERRA",
+		"indirizzo": "VIA MILANO N. 9",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vetd030001",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "LEON BATTISTA ALBERTI",
+		"indirizzo": "VIA PERUGIA N. 1",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veps04000q",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GALILEO  GALILEI",
+		"indirizzo": "VIA PERUGIA N. 8",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vepc06000t",
+		"tipo": "LICEO CLASSICO",
+		"nome": "EUGENIO MONTALE",
+		"indirizzo": "VIALE LIBERTA\\' N. 28",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis021001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "C. SCARPA - E. MATTEI",
+		"indirizzo": "VIA PERUGIA N. 7",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LUCIA  SCHIAVINATO",
+		"indirizzo": "VIA REPUBBLICA N.  74",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic824008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROMOLO  ONOR",
+		"indirizzo": "VIA NAZARIO SAURO N. 11",
+		"cap": "30027",
+		"comune": "SAN DONA\\' DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic832007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. S.MICHELE AL TAGLIAMENTO",
+		"indirizzo": "CORSO DEL POPOLO N. 81",
+		"cap": "30028",
+		"comune": "SAN MICHELE AL TAGLIAMENTO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82100r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "F. E  P.  CORDENONS",
+		"indirizzo": "VIALE RIMEMBRANZE N. 4",
+		"cap": "30036",
+		"comune": "SANTA MARIA DI SALA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic86300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RITA LEVI MONTALCINI",
+		"indirizzo": "VIA F.LLI MARTINA,20",
+		"cap": "30029",
+		"comune": "SANTO STINO DI LIVENZA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic868002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  LUIGI NONO MIRA  I",
+		"indirizzo": "VIA ENRICO TOTI N. 37/A",
+		"cap": "30034",
+		"comune": "MIRA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic86900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ADELE ZARA",
+		"indirizzo": "VIA MARMOLADA, 20",
+		"cap": "30034",
+		"comune": "MIRA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MIRANO 2",
+		"indirizzo": "VIA C.BATTISTI, 107",
+		"cap": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis02700x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEVI-PONTI",
+		"indirizzo": "VIA MATTEOTTI, 42 A/1",
+		"cap": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GIOVANNI GABRIELI\"",
+		"indirizzo": "VIA PAGANINI, 2/A",
+		"cap": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis02800q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"8 MARZO-LORENZ\"",
+		"indirizzo": "VIA MATTEOTTI 42/A/3",
+		"cap": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis00300b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ETTORE MAJORANA",
+		"indirizzo": "VIA MATTEOTTI, 44",
+		"cap": "30035",
+		"comune": "MIRANO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ENRICO TOTI",
+		"indirizzo": "VIA MARCONI N. 3",
+		"cap": "30024",
+		"comune": "MUSILE DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic86600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.ELISABETTA \"BETTY\" PIERAZZO",
+		"indirizzo": "VIA G.B.ROSSI 25",
+		"cap": "30033",
+		"comune": "NOALE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic817005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOVENTA DI PIAVE",
+		"indirizzo": "VIA GUAIANE",
+		"cap": "30020",
+		"comune": "NOVENTA DI PIAVE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic83000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI XXIII",
+		"indirizzo": "VIA VESCOVO, N. 3",
+		"cap": "30030",
+		"comune": "PIANIGA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIOVANNI PASCOLI",
+		"indirizzo": "VIA CAMILLO VALLE N. 15",
+		"cap": "30026",
+		"comune": "PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic859007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.PORTOGRUARO 2 \"D.BERTOLINI\"",
+		"indirizzo": "VIA LIGURIA, 32",
+		"cap": "30026",
+		"comune": "PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis012006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GINO  LUZZATTO",
+		"indirizzo": "VIA GALILEI N. 5",
+		"cap": "30026",
+		"comune": "PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis013002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEONARDO  DA VINCI",
+		"indirizzo": "VIA GALILEI N. 1",
+		"cap": "30026",
+		"comune": "PORTOGRUARO",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic816009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALDO MORO",
+		"indirizzo": "VIA MARIA MONTESSORI  N. 7",
+		"cap": "30010",
+		"comune": "CAMPAGNA LUPIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic80800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DIEGO VALERI",
+		"indirizzo": "VIA ROMA, 47",
+		"cap": "30010",
+		"comune": "CAMPOLONGO MAGGIORE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic820001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANTONIO GRAMSCI",
+		"indirizzo": "VIA MATTEOTTI N. 51",
+		"cap": "30010",
+		"comune": "CAMPONOGARA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic81900r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANDREA  PALLADIO",
+		"indirizzo": "VIALE BUONARROTI  N. 6",
+		"cap": "30021",
+		"comune": "CAORLE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic833003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DANIELE  MANIN",
+		"indirizzo": "VIA  PISANI N. 1",
+		"cap": "30013",
+		"comune": "CAVALLINO - TREPORTI",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAVARZERE",
+		"indirizzo": "VIA  DANTE ALIGHIERI N. 36",
+		"cap": "30014",
+		"comune": "CAVARZERE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic80500v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GUGLIELMO MARCONI",
+		"indirizzo": "VIA DANTE ALIGHIERI N. 277",
+		"cap": "30022",
+		"comune": "CEGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIOGGIA 3",
+		"indirizzo": "VIA ALDO MORO 1097",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis02200r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CESTARI-RIGHI",
+		"indirizzo": "BORGO SAN GIOVANNI N.  12/A",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis00200g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. VERONESE - G. MARCONI",
+		"indirizzo": "VIA  TOGLIATTI, 833-  LOC B.GO S. GIOVANNI",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic853008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIOGGIA 2",
+		"indirizzo": "VIA S. MARCO 25",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIOGGIA 5",
+		"indirizzo": "VIA TIRRENO 98",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic85100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIOGGIA 1",
+		"indirizzo": "VIA GIUSEPPE MAZZINI 12",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic84900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIOGGIA 4",
+		"indirizzo": "VIA LAGUNA 428",
+		"cap": "30015",
+		"comune": "CHIOGGIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic825004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IPPOLITO NIEVO",
+		"indirizzo": "VIA TORINO N. 4",
+		"cap": "30020",
+		"comune": "CINTO CAOMAGGIORE",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic83600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALILEO  GALILEI",
+		"indirizzo": "VIA VENEZIA N. 46",
+		"cap": "30037",
+		"comune": "SCORZE\\'",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic83500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\" A. MARTINI\"",
+		"indirizzo": "VIA VERDI, 1",
+		"cap": "30030",
+		"comune": "SCORZE\\'",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic861007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MARGHERITA HACK",
+		"indirizzo": "VIA FREGENE 15",
+		"cap": "30038",
+		"comune": "SPINEA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic86000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SPINEA 1",
+		"indirizzo": "VIA BUONARROTI 48/A",
+		"cap": "30038",
+		"comune": "SPINEA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic86400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"ALVISE PISANI\"",
+		"indirizzo": "VIA FOSSOLOVARA, 37",
+		"cap": "30039",
+		"comune": "STRA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic847001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CRISTOFORO  COLOMBO",
+		"indirizzo": "VIA  BOSSO N. 28",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic870002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. F. GRIMANI",
+		"indirizzo": "VIA CANAL  N. 5",
+		"cap": "30175",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic87100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.   C.BASEGGIO",
+		"indirizzo": "VIA TRIESTE  N. 203",
+		"cap": "30175",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic87200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. C. GIULIO  CESARE",
+		"indirizzo": "VIA CAPPUCCINA N. 68/D",
+		"cap": "30172",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic87300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LEONARDO DA VINCI",
+		"indirizzo": "VIA VIRGILIO N. 1",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic874009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VIALE SAN MARCO",
+		"indirizzo": "VIALE  SAN MARCO N. 67",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic81000a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANTONIO GRAMSCI",
+		"indirizzo": "VIA PASSO CAMPALTO N.  3/O",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis004007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LUIGI LUZZATTI",
+		"indirizzo": "VIA PERLAN N. 17",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis00800e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VENDRAMIN CORNER",
+		"indirizzo": "CASTELLO 787/A",
+		"cap": "30122",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis01600d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FRANCESCO  ALGAROTTI",
+		"indirizzo": "SESTIERE DI CANNAREGIO N. 349-351",
+		"cap": "30121",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic845009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON LORENZO MILANI",
+		"indirizzo": "VIA VICINALE VOLPI N.  22",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic84400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SILVIO TRENTIN",
+		"indirizzo": "VIA CAVALLETTO N. 16",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic84200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN GIROLAMO",
+		"indirizzo": "SESTIERE DI CANNAREGIO N. 3022/A",
+		"cap": "30121",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic841002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRANCESCO MOROSINI",
+		"indirizzo": "SESTIERE DI SANTA  CROCE  N.   1882",
+		"cap": "30125",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic840006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"FRANCA ONGARO\"",
+		"indirizzo": "VIA  SANDRO GALLO N. 34",
+		"cap": "30126",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic839002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DANTE ALIGHIERI",
+		"indirizzo": "SESTIERE DI SAN MARCO, N. 3042",
+		"cap": "30124",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic83400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ILARIA ALPI",
+		"indirizzo": "VIA GOBBI 13/D",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic875005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  L.SPALLANZANI",
+		"indirizzo": "VIA CIMA D\\'ASTA, 8",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis018005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\" ANDREA GRITTI \"",
+		"indirizzo": "VIA LUDOVICO ANTONIO MURATORI 7",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis019001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ANTONIO  PACINOTTI",
+		"indirizzo": "VIA CANEVE  N. 93",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "verh04000d",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "ANDREA BARBARIGO",
+		"indirizzo": "CASTELLO 6395/C",
+		"cap": "30122",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis02300l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. BRUNO-FRANCHETTI",
+		"indirizzo": "VIA BAGLIONI  N. 26",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis02400c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "M.POLO-LICEO ARTISTICO",
+		"indirizzo": "DORSODURO, 1073",
+		"cap": "30123",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veis026004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "BENEDETTI-TOMMASEO",
+		"indirizzo": "SESTIERE DI CASTELLO N. 2835",
+		"cap": "30122",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vemm161005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA DI VENEZIA",
+		"indirizzo": "VIALE S. MARCO, 67",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vesd020001",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO STATALE \"M. GUGGENHEIM\"",
+		"indirizzo": "DORSODURO, 2613",
+		"cap": "30123",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vepm02000g",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "I.I.S. LUIGI  STEFANINI",
+		"indirizzo": "VIA DEL MIGLIO N. 30",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veps05000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "UGO  MORIN",
+		"indirizzo": "VIA ASSEGGIANO N.  39",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic82700q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIULIO CESARE PAROLARI",
+		"indirizzo": "VIA CASTELLANA, 154/A",
+		"cap": "30174",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vetf04000t",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "CARLO  ZUCCANTE",
+		"indirizzo": "VIA BAGLIONI N. 22",
+		"cap": "30173",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "vevc010004",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "M. FOSCARINI",
+		"indirizzo": "CANNAREGIO 4941",
+		"cap": "30131",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic81400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. U. FOSCOLO MURANO-BURANO",
+		"indirizzo": "FONDAMENTA COLLEONI N. 15",
+		"cap": "30141",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+	,
+	{
+		"codMec": "veic846005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRANCESCO  QUERINI",
+		"indirizzo": "VIA CATALANI  N. 9",
+		"cap": "30171",
+		"comune": "VENEZIA",
+		"provincia": "VE"
+	}
+]
