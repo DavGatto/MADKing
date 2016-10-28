@@ -24,6 +24,7 @@
 package com.gmail.davgatto.MADKing.Sender;
 
 import java.io.FileReader;
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
@@ -32,6 +33,8 @@ import javax.json.JsonArray;
 import javax.json.JsonObject;
 import javax.json.JsonReader;
 import javax.json.JsonValue;
+
+import com.gmail.davgatto.MADKing.Maker.Utils;
 
 public class App {
 
@@ -85,6 +88,15 @@ public class App {
 					pecJsonPath = s.substring(17);
 					if (Files.exists(Paths.get(pecJsonPath))) {
 						System.out.println("MADKing:MADSender: PEC details found at " + pecJsonPath);
+						if(Utils.IS_NOT_UTF8){
+							System.out.println("PEC JSON file encoding appears to be not UTF-8. Rewriting it as such...");
+							try {
+								Utils.encodeFile(pecJsonPath);
+							} catch (IOException e) {
+								System.err.println("ERROR while encoding file: "+ pecJsonPath);
+								e.printStackTrace();
+							}
+						}
 					} else {
 						System.out.println("MADKing:MADSender: ERROR!! Couldn't find PEC details JSON file at "
 								+ pecJsonPath + "\nAborting...");

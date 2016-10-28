@@ -24,22 +24,19 @@
 package com.gmail.davgatto.MADKing.Maker;
 
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
 import com.itextpdf.text.BadElementException;
 import com.itextpdf.text.DocumentException;
 
-/**
- * Questo programma genera moduli personalizzati di MAD (messa a disposizione
- * per le supplenze) Released under GPL licence
- * 
- * @author Davide Gatto -davgatto@gmail.com
- */
 public class App {
 
 	public final static String BLANK_MAD_MODEL_PATH = "/ModelloMAD.pdf";
 	public final static String TARGET_FOLDER_PATH = "MADKing-ModuliCompilati";
+	public final static String FILE_SEPARATOR = System.getProperty("file.separator");
+
 
 
 	public static int makeMad(String[] args) {
@@ -62,6 +59,15 @@ public class App {
 					teacherJsonPath = s.substring(17);
 					if (Files.exists(Paths.get(teacherJsonPath))) {
 						System.out.println("MADking:MADMaker: Teacher details found at: " + teacherJsonPath);
+						if(Utils.IS_NOT_UTF8){
+							System.out.println("Teacher JSON file encoding appears to be not UTF-8. Rewriting it as such...");
+							try {
+								Utils.encodeFile(teacherJsonPath);
+							} catch (IOException e) {
+								System.err.println("ERROR while encoding file: "+ teacherJsonPath);
+								e.printStackTrace();
+							}
+						}
 					} else {
 						System.out.println("MADKing:MADMaker: ERROR! Couldn't find Teacher details JSON file at: "
 								+ teacherJsonPath + "\nAborting...");
@@ -74,6 +80,15 @@ public class App {
 					schoolsJsonPath = s.substring(10);
 					if (Files.exists(Paths.get(schoolsJsonPath))) {
 						System.out.println("MADking:MADMaker: School list found at: " + schoolsJsonPath);
+						if(Utils.IS_NOT_UTF8){
+							System.out.println("Schools JSON file encoding appears to be not UTF-8. Rewriting it as such...");
+							try {
+								Utils.encodeFile(schoolsJsonPath);
+							} catch (IOException e) {
+								System.err.println("ERROR while encoding file: "+ schoolsJsonPath);
+								e.printStackTrace();
+							}
+						}
 					} else {
 						System.out.println("MADKing:MADMaker: ERROR!! Couldn't find schools JSON file at: "
 								+ schoolsJsonPath + "\nAborting...");
@@ -116,7 +131,7 @@ public class App {
 		}
 
 		TeacherDetails teacherDetails = new TeacherDetails();
-		String teacherSpecificMADPath = targetDir + "/";
+		String teacherSpecificMADPath = targetDir + FILE_SEPARATOR;
 
 		try {
 			teacherDetails.setFromJsonObj(teacherJsonPath);

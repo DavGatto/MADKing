@@ -33,6 +33,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
+import java.nio.charset.Charset;
 
 public class App extends Frame implements ActionListener, WindowListener {
 
@@ -210,6 +211,9 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		if (e.getSource() == btnMake) {
 			if (isDebug()) {
+				System.out.println("##### DEBUG : Default Charset = " + Charset.defaultCharset());
+				System.out.println("##### DEBUG : file.encoding = " + System.getProperty("file.encoding"));
+
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + getSchools(),
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + "FilesGenerati", "--debug" };
 				System.out.println("### DEBUG: Passed args[]:");
