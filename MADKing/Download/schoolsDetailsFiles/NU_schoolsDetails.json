@@ -1,0 +1,491 @@
+[
+	{
+		"codMec": "nups010009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L. SC. \"GALILEO GALILEI\" MACOMER",
+		"indirizzo": "VIA NENNI",
+		"cap": "08015",
+		"comune": "MACOMER",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic872003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MACOMER 1 - \"GIANNINO CARIA\"",
+		"indirizzo": "VIA ROMA 20",
+		"cap": "08015",
+		"comune": "MACOMER",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis01900a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS - \"S. SATTA\" MACOMER",
+		"indirizzo": "VIALE S.ANTONIO, 4",
+		"cap": "08015",
+		"comune": "MACOMER",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic86700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MACOMER 2 - \"BINNA-DALMASSO\"",
+		"indirizzo": "VIA BECHI LUSERNA",
+		"cap": "08015",
+		"comune": "MACOMER",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis014007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IPSIA - NUORO - \" ALESSANDRO VOLTA \"",
+		"indirizzo": "VIA SENATORE P.MASTINO 50",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic87600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NUORO 4 - \"MONTE GURTEI\"",
+		"indirizzo": "VIA CARBONIA, 1",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic87500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NUORO 3 - \"MARIANGELA MACCIONI\"",
+		"indirizzo": "VIA AOSTA, 28",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic87400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NUORO 2 - \"PIETRO  BORROTZU\"",
+		"indirizzo": "VIA GRAMSCI, 68",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic87300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NUORO 1 - \"FERDINANDO PODDA\"",
+		"indirizzo": "VIA MATTEOTTI, 2",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "numm07000c",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA  NUORO - SASSARI",
+		"indirizzo": "VIA TOSCANA 29 C/O ITC CHIRONI",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nupc010006",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L. CLASS. \"GIORGIO ASPRONI\" NUORO",
+		"indirizzo": "VIA DANTE, 42",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nupm03000g",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO SC. UM. E MUSIC. \"S. SATTA\" NUORO",
+		"indirizzo": "VIA A. DEFFENU, 13",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nups090006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L. SC. E LING. \"E. FERMI\"  NUORO",
+		"indirizzo": "VIA VENETO 31",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nutd010005",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC/1  \"G.P. CHIRONI\"  NUORO",
+		"indirizzo": "VIA TOSCANA,  29",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nutd090002",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC/2   \"SALVATORE  SATTA\"     NUORO",
+		"indirizzo": "VIA BISCOLLAI, 1",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic86500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ATZARA",
+		"indirizzo": "VIA DANTE, 1",
+		"cap": "08030",
+		"comune": "ATZARA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic86200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BARI SARDO",
+		"indirizzo": "VIA VERDI, 18",
+		"cap": "08042",
+		"comune": "BARI SARDO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic863008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO BAUNEI",
+		"indirizzo": "VIA PEDRA NIEDDA",
+		"cap": "08040",
+		"comune": "BAUNEI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic85400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BITTI",
+		"indirizzo": "VIA MINERVA,38",
+		"cap": "08021",
+		"comune": "BITTI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic82400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BOLOTANA - \"B. R. MOTZO\"",
+		"indirizzo": "VIA GIUSEPPE MAZZINI S.N.C.",
+		"cap": "08011",
+		"comune": "BOLOTANA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic835004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DESULO",
+		"indirizzo": "VIA CAGLIARI, 66",
+		"cap": "08032",
+		"comune": "DESULO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic871007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DORGALI - \"G.M. GISELLU\"",
+		"indirizzo": "VIA LAMARMORA 56",
+		"cap": "08022",
+		"comune": "DORGALI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic880002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FONNI",
+		"indirizzo": "VIA  SORABILE",
+		"cap": "08023",
+		"comune": "FONNI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic821006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GAVOI",
+		"indirizzo": "VIA SALVATORE CANIO",
+		"cap": "08020",
+		"comune": "GAVOI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic83200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ILBONO - \"G. DELEDDA\"",
+		"indirizzo": "VIA ELINI",
+		"cap": "08040",
+		"comune": "ILBONO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic830001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IRGOLI - \"SORO DELITALA\"",
+		"indirizzo": "VIA VERDI, 1",
+		"cap": "08020",
+		"comune": "IRGOLI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis006008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L.SC.-A.BUSINCO-JERZU",
+		"indirizzo": "VIA BUSINCO S.N.",
+		"cap": "08044",
+		"comune": "JERZU",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic86000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "JERZU",
+		"indirizzo": "VIA ANTONIO MELIS, 47",
+		"cap": "08044",
+		"comune": "JERZU",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis01600v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L. DA VINCI-LANUSEI",
+		"indirizzo": "VIA L.DA VINCI",
+		"cap": "08045",
+		"comune": "LANUSEI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic864004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LANUSEI",
+		"indirizzo": "VIA MARCONI, 150",
+		"cap": "08045",
+		"comune": "LANUSEI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nurh030008",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSAR - TORTOLI\\'",
+		"indirizzo": "VIA SANTA CHIARA",
+		"cap": "08048",
+		"comune": "TORTOLI\\'",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic87000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TORTOLI\\' 2 - \"MONTE ATTU\"",
+		"indirizzo": "VIA FLEMING, 1",
+		"cap": "08048",
+		"comune": "TORTOLI\\'",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis007004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO D\\'ISTRUZIONE SUPERIORE I.T.I.",
+		"indirizzo": "VIA  A. SCORCU, 12/A",
+		"cap": "08048",
+		"comune": "TORTOLI\\'",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic850006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLAGRANDE STRISAILI",
+		"indirizzo": "VIA ROMA, 39",
+		"cap": "08049",
+		"comune": "VILLAGRANDE STRISAILI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis00300r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.\"FRANCESCO CIUSA\" NUORO",
+		"indirizzo": "VIALE COSTITUZIONE, 33",
+		"cap": "08100",
+		"comune": "NUORO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic86800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OLIENA",
+		"indirizzo": "VIALE ITALIA, 15",
+		"cap": "08025",
+		"comune": "OLIENA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic82300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ORANI",
+		"indirizzo": "VIA NUORO",
+		"cap": "08026",
+		"comune": "ORANI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic82900r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ORGOSOLO",
+		"indirizzo": "VIA UNGARETTI, 8",
+		"cap": "08027",
+		"comune": "ORGOSOLO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic877006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OROSEI - \"G.A. MUGGIANU\"",
+		"indirizzo": "VIA VERDI,  21/23",
+		"cap": "08028",
+		"comune": "OROSEI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic827005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OROTELLI",
+		"indirizzo": "VIA SAN COSTANTINO S.N.",
+		"cap": "08020",
+		"comune": "OROTELLI",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nutd10000b",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITCG \"L. OGGIANO\" SINISCOLA",
+		"indirizzo": "VIA PIETRO MICCA",
+		"cap": "08029",
+		"comune": "SINISCOLA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis01800e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. SINISCOLA",
+		"indirizzo": "VIA CARLO ALBERTO DALLA CHIESA, SN",
+		"cap": "08029",
+		"comune": "SINISCOLA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic878002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SINISCOLA 1 \"S. PELLICO\"",
+		"indirizzo": "VIA S. PELLICO, 1",
+		"cap": "08029",
+		"comune": "SINISCOLA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic87900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SINISCOLA 2 - \"SA SEDDA\"",
+		"indirizzo": "VIA SARCIDANO",
+		"cap": "08029",
+		"comune": "SINISCOLA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuis01200g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTIT ISTRUZ SUPER COSTA AZARA",
+		"indirizzo": "CORSO IV NOVEMBRE",
+		"cap": "08038",
+		"comune": "SORGONO",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic849002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERTENIA",
+		"indirizzo": "VIA DON MANCA",
+		"cap": "08047",
+		"comune": "TERTENIA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic85200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TONARA",
+		"indirizzo": "VIA S. ANTONIO",
+		"cap": "08039",
+		"comune": "TONARA",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic84100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TORPE\\' - \"E. D\\'ARBOREA\"",
+		"indirizzo": "VIA ELEONORA D\\'ARBOREA, 7",
+		"cap": "08020",
+		"comune": "TORPE\\'",
+		"provincia": "NU"
+	}
+	,
+	{
+		"codMec": "nuic869007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TORTOLI\\' 1 - \"MONS. VIRGILIO\"",
+		"indirizzo": "VIA MONSIGNOR VIRGILIO, 7",
+		"cap": "08048",
+		"comune": "TORTOLI\\'",
+		"provincia": "NU"
+	}
+]

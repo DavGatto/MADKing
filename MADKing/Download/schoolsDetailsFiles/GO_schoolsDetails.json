@@ -1,0 +1,251 @@
+[
+	{
+		"codMec": "goic800006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PASCOLI GIOVANNI",
+		"indirizzo": "VIALE ROMA 21",
+		"cap": "34071",
+		"comune": "CORMONS",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic81100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.DOBERDO\\' IN LINGUA SLOVENA",
+		"indirizzo": "PIAZZA SAN MARTINO,1",
+		"cap": "34070",
+		"comune": "DOBERDO\\' DEL LAGO",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic806005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENS. LIVIO VERNI",
+		"indirizzo": "VIA MADONNINA, N.2",
+		"cap": "34070",
+		"comune": "FOGLIANO REDIPUGLIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois00400n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS I. CANKAR  (LINGUA SLOVENA)",
+		"indirizzo": "VIA PUCCINI N.14",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois007005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GABRIELE D\\'ANNUNZIO",
+		"indirizzo": "VIA ITALICO BRASS, 22",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois001006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS DANTE ALIGHIERI",
+		"indirizzo": "VIALE XX SETTEMBRE 11",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois008001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GALILEO GALILEI",
+		"indirizzo": "VIA PUCCINI, 22",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic814004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GORIZIA 2",
+		"indirizzo": "LARGO CULIAT, 2",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic813008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO GORIZIA 1",
+		"indirizzo": "VIA CODELLI, 16",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois00300t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS  R.M. COSSAR-L. DA VINCI",
+		"indirizzo": "VIALE VIRGILIO,  2",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois002002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "SIMON GREGORCIC (L.SLOVENA)",
+		"indirizzo": "VIA PUCCINI 14",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic81000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PERCO",
+		"indirizzo": "VIA ROMANA, 32",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic81200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI LINGUA SLOVENA -GORIZIA",
+		"indirizzo": "VIA DEI GRABIZIO N.38",
+		"cap": "34170",
+		"comune": "GORIZIA",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic80200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRANCESCO ULDARICO DELLA TORRE",
+		"indirizzo": "VIA        ROMA                22",
+		"cap": "34072",
+		"comune": "GRADISCA D\\'ISONZO",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois006009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS G. BRIGNOLI - L. EINAUDI - G. MARCONI",
+		"indirizzo": "VIA     ROMA, 9",
+		"cap": "34072",
+		"comune": "GRADISCA D\\'ISONZO",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic80900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARCO POLO",
+		"indirizzo": "VIA        MARCHESINI          34",
+		"cap": "34073",
+		"comune": "GRADO",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic801002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"CELSO MACOR\"",
+		"indirizzo": "VIA ROMA,  N.9",
+		"cap": "34070",
+		"comune": "MARIANO DEL FRIULI",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic80400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RANDACCIO GIOVANNI",
+		"indirizzo": "VIA CANALETTO 10",
+		"cap": "34074",
+		"comune": "MONFALCONE",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic80300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIACICH EZIO",
+		"indirizzo": "VIALE O. COSULICH, 1",
+		"cap": "34074",
+		"comune": "MONFALCONE",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gomm04000n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 GORIZIA",
+		"indirizzo": "VIA S. AMBROGIO 60",
+		"cap": "34074",
+		"comune": "MONFALCONE",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois00900r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MICHELANGELO BUONARROTI",
+		"indirizzo": "VIA        MATTEOTTI 8",
+		"cap": "34074",
+		"comune": "MONFALCONE",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "gois01100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"S. PERTINI\" MONFALCONE",
+		"indirizzo": "VIA ARRIGO BOITO 56",
+		"cap": "34074",
+		"comune": "MONFALCONE",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic805009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPR. LEONARDO DA VINCI",
+		"indirizzo": "VIA G. D\\' ANNUNZIO N. 18",
+		"cap": "34077",
+		"comune": "RONCHI DEI LEGIONARI",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic80800r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALIGHIERI DANTE",
+		"indirizzo": "VIA GRAMSCI, 12",
+		"cap": "34075",
+		"comune": "SAN CANZIAN D\\'ISONZO",
+		"provincia": "GO"
+	}
+	,
+	{
+		"codMec": "goic807001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DANTE ALIGHIERI",
+		"indirizzo": "PIAZZALE UNICEF 1",
+		"cap": "34079",
+		"comune": "STARANZANO",
+		"provincia": "GO"
+	}
+]

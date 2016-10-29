@@ -1,0 +1,891 @@
+[
+	{
+		"codMec": "moic85100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "4 I.C. MODENA",
+		"indirizzo": "VIA        DIVISIONE ACQUI     160",
+		"cap": "41100",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois018002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "F.CORNI LICEO  E TECNICO",
+		"indirizzo": "LARGO      A. MORO 25",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois02100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "F.SELMI",
+		"indirizzo": "VIALE LEONARDO DA VINCI 300",
+		"cap": "41100",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois02200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A.VENTURI",
+		"indirizzo": "VIA RAINUSSO, 66",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "momm173008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 MODENA",
+		"indirizzo": "VIA MONTE KOSICA 76",
+		"cap": "41121",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mopc020008",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.A.  MURATORI - SAN CARLO",
+		"indirizzo": "VIA        CITTADELLA 50",
+		"cap": "41123",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mopm01000t",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "CARLO SIGONIO",
+		"indirizzo": "VIA DEL LANCILLOTTO 4",
+		"cap": "41122",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mops02000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ALESSANDRO TASSONI",
+		"indirizzo": "V.LE       REITER 66",
+		"cap": "41121",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mops050007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "WILIGELMO",
+		"indirizzo": "VIALE CORASSORI 101",
+		"cap": "41100",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "morc08000g",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "CATTANEO  DELEDDA- SOCIO  COMM ARTIGIAN.",
+		"indirizzo": "STRADA DEGLI SCHIOCCHI 110",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mori02000l",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "FERMO CORNI",
+		"indirizzo": "VIALE      TASSONI 3",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "motd03000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "J.BAROZZI",
+		"indirizzo": "VIALE      MONTE KOSICA 136",
+		"cap": "41121",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "motf080005",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ENRICO FERMI",
+		"indirizzo": "VIA LUOSI 23",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "motl010003",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "G. GUARINI",
+		"indirizzo": "VIALE CORASSORI 95",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic811003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTEFIORINO",
+		"indirizzo": "VIA ROCCA 3",
+		"cap": "41045",
+		"comune": "MONTEFIORINO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic83300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FERRARI  MARANELLO",
+		"indirizzo": "VIA  CLAUDIA, 232",
+		"cap": "41053",
+		"comune": "MARANELLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic83600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  MARANO SUL PANARO",
+		"indirizzo": "VIA  ROMA,  21",
+		"cap": "41054",
+		"comune": "MARANO SUL PANARO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois00600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIUSEPPE LUOSI",
+		"indirizzo": "VIA 29 MAGGIO 12-14",
+		"cap": "41037",
+		"comune": "MIRANDOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moee040005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. MIRANDOLA",
+		"indirizzo": "VIA GIOLITTI, 24",
+		"cap": "41037",
+		"comune": "MIRANDOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois00800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE STATALE\"G. GALILEI\"",
+		"indirizzo": "VIA BAROZZI 4",
+		"cap": "41037",
+		"comune": "MIRANDOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "momm15100b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "F.MONTANARI",
+		"indirizzo": "VIA T. NUVOLARI, N. 4",
+		"cap": "41037",
+		"comune": "MIRANDOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic840003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "3 I.C. MODENA",
+		"indirizzo": "VIA GIARDINI 468 -SCALA I",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "1  I.C. MODENA",
+		"indirizzo": "VIA  AMUNDSEN            80",
+		"cap": "41123",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2 I.C. MODENA",
+		"indirizzo": "VIA FERMO CORNI, 70",
+		"cap": "41126",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "5 I.C. MODENA",
+		"indirizzo": "VIA        BISI                140",
+		"cap": "41125",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "6 I.C. MODENA",
+		"indirizzo": "VIA        VALLI               40",
+		"cap": "41125",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic845006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "8 I.C. MODENA",
+		"indirizzo": "VIALE      REITER              81",
+		"cap": "41121",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic846002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "7 I.C. MODENA",
+		"indirizzo": "VIA NICOLI, 152",
+		"cap": "41124",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO 9",
+		"indirizzo": "VIA DEL CARSO 7",
+		"cap": "41123",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "10 I.C. MODENA",
+		"indirizzo": "STRADA ALBARETO, 93",
+		"cap": "41122",
+		"comune": "MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic85000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. 1 BOMPORTO- BASTIGLIA",
+		"indirizzo": "VIA G. VERDI 10",
+		"cap": "41030",
+		"comune": "BOMPORTO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic84900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2  I.C. RAVARINO",
+		"indirizzo": "VIA ROMA 129",
+		"cap": "41017",
+		"comune": "BOMPORTO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic80400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"S.G. BOSCO\"CAMPOGALLIANO",
+		"indirizzo": "VIA BARCHETTA, 2",
+		"cap": "41011",
+		"comune": "CAMPOGALLIANO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mori030007",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "G.VALLAURI",
+		"indirizzo": "VIA PERUZZI 13",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "motf030004",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI LEONARDO DA VINCI",
+		"indirizzo": "VIA PERUZZI 9",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic83900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARPI 3",
+		"indirizzo": "VIA BORTOLAMASI 22",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois003008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ANTONIO MEUCCI",
+		"indirizzo": "VIA        DELLO SPORT 3",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mops030002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "MANFREDO FANTI",
+		"indirizzo": "VIALE PERUZZI 7",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic823009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARPI ZONA CENTRO",
+		"indirizzo": "VIA G.FASSI 1",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic82200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARPI ZONA NORD",
+		"indirizzo": "VIA  MAGAZZENO, 17/A",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic817002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARPI 2",
+		"indirizzo": "VIA MELVIN JONES 1",
+		"cap": "41012",
+		"comune": "CARPI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois011007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LAZZARO SPALLANZANI",
+		"indirizzo": "VIA        SOLIMEI 23",
+		"cap": "41013",
+		"comune": "CASTELFRANCO EMILIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic809003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  GUINIZELLI - CASTELFRANCO",
+		"indirizzo": "VIA RISORGIMENTO , 58",
+		"cap": "41013",
+		"comune": "CASTELFRANCO EMILIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic825001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.MARCONI - CASTELFRANCO",
+		"indirizzo": "VIA MARCONI,  1",
+		"cap": "41013",
+		"comune": "CASTELFRANCO EMILIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic82100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.LEOPARDI -CASTELNUOVO R.",
+		"indirizzo": "PIAZZA BRODOLINI 10",
+		"cap": "41051",
+		"comune": "CASTELNUOVO RANGONE",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic82600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FRATELLI CERVI - NONANTOLA",
+		"indirizzo": "VIA VITTORIO VENETO 1",
+		"cap": "41015",
+		"comune": "NONANTOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic80500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GASPARINI\" NOVI DI MODENA",
+		"indirizzo": "VIALE MARTIRI DELLA LIBERTA 18B",
+		"cap": "41016",
+		"comune": "NOVI DI MODENA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois009007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"GUGLIELMO MARCONI\"",
+		"indirizzo": "VIA MATTEOTTI 4",
+		"cap": "41026",
+		"comune": "PAVULLO NEL FRIGNANO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "momm10600d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "MONTECUCCOLI",
+		"indirizzo": "VIALE      MARCONI             17",
+		"cap": "41026",
+		"comune": "PAVULLO NEL FRIGNANO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moee045008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. PAVULLO NEL FRIGNANO",
+		"indirizzo": "VIA GIARDINI 3",
+		"cap": "41026",
+		"comune": "PAVULLO NEL FRIGNANO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois004004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. A. CAVAZZI",
+		"indirizzo": "VIA        MATTEOTTI 2",
+		"cap": "41026",
+		"comune": "PAVULLO NEL FRIGNANO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic80600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIEVEPELAGO",
+		"indirizzo": "VIALE A. FERRARI 1",
+		"cap": "41027",
+		"comune": "PIEVEPELAGO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic81500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. F.BERTI - PRIGNANO S/S",
+		"indirizzo": "VIA ALCIDE DE GASPERI 15",
+		"cap": "41048",
+		"comune": "PRIGNANO SULLA SECCHIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic810007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. A. PACINOTTI - S.CESARIO",
+		"indirizzo": "LARGO ALDO MORO 35",
+		"cap": "41018",
+		"comune": "SAN CESARIO SUL PANARO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic81900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN FELICE SUL PANARO",
+		"indirizzo": "V.LE MARTIRI DELLA LIBERTA\\' , 151",
+		"cap": "41038",
+		"comune": "SAN FELICE SUL PANARO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic837007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. S.PROSPERO - MEDOLLA",
+		"indirizzo": "VIA CHILETTI, 16/B",
+		"cap": "41030",
+		"comune": "SAN PROSPERO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mops080003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "A.F.FORMIGGINI SCIENTIFICO E CLASSICO",
+		"indirizzo": "VIA BOLOGNA",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "motd01000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "A. BAGGI",
+		"indirizzo": "VIA S.LUCA",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois01900t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. VOLTA  LICEO E TECNICO",
+		"indirizzo": "PIAZZA FALCONE E BORSELLINO N. 5",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois01600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "E. MORANTE - TECNICO E PROFESSIONALE",
+		"indirizzo": "VIA SELMI  N. 16",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic82000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTELVETRO",
+		"indirizzo": "VIA PALONA, 11/B",
+		"cap": "41014",
+		"comune": "CASTELVETRO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic838003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GIACOMO MASI\" CAVEZZO",
+		"indirizzo": "VIA   1? MAGGIO , 148",
+		"cap": "41032",
+		"comune": "CAVEZZO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic824005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SERGIO NERI -CONCORDIA S/S",
+		"indirizzo": "VIA DEL VOLONTARIATO 9",
+		"cap": "41033",
+		"comune": "CONCORDIA SULLA SECCHIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mota03000b",
+		"tipo": "ISTITUTO TECNICO AGRARIO",
+		"nome": "ISTITUTO TECNICO STATALE IGNAZIO CALVI",
+		"indirizzo": "VIA DIGIONE 20",
+		"cap": "41034",
+		"comune": "FINALE EMILIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic83500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. E.CASTELFRANCHI  FINALE E.",
+		"indirizzo": "VIA COMUNALE ROVERE 10/G",
+		"cap": "41034",
+		"comune": "FINALE EMILIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mops04000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "MORANDO MORANDI",
+		"indirizzo": "VIA DIGIONE 20",
+		"cap": "41034",
+		"comune": "FINALE EMILIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic831008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. F. BURSI FIORANO M.",
+		"indirizzo": "VIA GHIARELLA, 213",
+		"cap": "41042",
+		"comune": "FIORANO MODENESE",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic832004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FIORANO MODENESE 1^",
+		"indirizzo": "VIA N. MACHIAVELLI 12",
+		"cap": "41042",
+		"comune": "FIORANO MODENESE",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moee03600d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. FORMIGINE 1^",
+		"indirizzo": "VIA H.PAGANI,23",
+		"cap": "41043",
+		"comune": "FORMIGINE",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moee037009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. FORMIGINE 2^",
+		"indirizzo": "VIA ERRI BILLO\\' 49",
+		"cap": "41043",
+		"comune": "FORMIGINE",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "momm06800x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "FIORI",
+		"indirizzo": "VIA        DONATI              8",
+		"cap": "41043",
+		"comune": "FORMIGINE",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic81200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. R.MONTECUCCOLI - GUIGLIA",
+		"indirizzo": "VIA SAN GEMINIANO 301",
+		"cap": "41052",
+		"comune": "GUIGLIA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic803004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G. DOSSETTI - LAMA MOCOGNO",
+		"indirizzo": "VIA MONTE SABOTINO, 18",
+		"cap": "41023",
+		"comune": "LAMA MOCOGNO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois017006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. FERRARI",
+		"indirizzo": "VIA        D. FERRARI 2",
+		"cap": "41053",
+		"comune": "MARANELLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic83400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"ING. CARLO STRADI\" MARANELLO",
+		"indirizzo": "VIA ARRIGO BOITO, 27",
+		"cap": "41053",
+		"comune": "MARANELLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic83000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SASSUOLO 1^ CENTRO EST",
+		"indirizzo": "VIA MAZZINI , 62",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic829008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SASSUOLO 2^ NORD",
+		"indirizzo": "VIA ZANELLA , 7",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic82800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SASSUOLO 3^ SUD",
+		"indirizzo": "VIA MERCADANTE , 4",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic82700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SASSUOLO 4^ OVEST",
+		"indirizzo": "LARGO P.BEZZI 6",
+		"cap": "41049",
+		"comune": "SASSUOLO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic81400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAVIGNANO SUL PANARO",
+		"indirizzo": "VIA DON GHERARDI, 1",
+		"cap": "41056",
+		"comune": "SAVIGNANO SUL PANARO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic816006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SERRAMAZZONI",
+		"indirizzo": "VIA XXIV MAGGIO, 329*",
+		"cap": "41028",
+		"comune": "SERRAMAZZONI",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic80700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SESTOLA",
+		"indirizzo": "VIA GUIDELLINA 5-7-9",
+		"cap": "41029",
+		"comune": "SESTOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic808007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SOLIERA",
+		"indirizzo": "VIA ROMA, 134",
+		"cap": "41019",
+		"comune": "SOLIERA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic81800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"FABRIANI\" SPILAMBERTO",
+		"indirizzo": "VIA MARCONI,  6",
+		"cap": "41057",
+		"comune": "SPILAMBERTO",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois00700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "AGOSTINO PARADISI",
+		"indirizzo": "VIA RESISTENZA 700",
+		"cap": "41058",
+		"comune": "VIGNOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "momm152007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "L.A. MURATORI",
+		"indirizzo": "VIA RESISTENZA 462",
+		"cap": "41058",
+		"comune": "VIGNOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "mois00200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PRIMO LEVI",
+		"indirizzo": "VIA RESISTENZA 800",
+		"cap": "41058",
+		"comune": "VIGNOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moee06000a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D.  VIGNOLA",
+		"indirizzo": "VIALE MAZZINI 18",
+		"cap": "41058",
+		"comune": "VIGNOLA",
+		"provincia": "MO"
+	}
+	,
+	{
+		"codMec": "moic81300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MARTIRI D. LIBERTA\\'- ZOCCA",
+		"indirizzo": "PIAZZA MARTIRI, 61",
+		"cap": "41059",
+		"comune": "ZOCCA",
+		"provincia": "MO"
+	}
+]

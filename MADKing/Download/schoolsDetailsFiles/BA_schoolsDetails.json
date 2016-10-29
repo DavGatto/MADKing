@@ -1,0 +1,2581 @@
+[
+	{
+		"codMec": "baic89400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "1 CD DE AMICIS -  S.M.S.\"GIOVAN",
+		"indirizzo": "P.ZZA DI VAGNO 18",
+		"cap": "70021",
+		"comune": "ACQUAVIVA DELLE FONTI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais026004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"C. COLAMONICO - N. CHIARULLI \"",
+		"indirizzo": "VIA PROF. COLAMONICO, 5",
+		"cap": "70021",
+		"comune": "ACQUAVIVA DELLE FONTI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapm05000b",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "DON LORENZO MILANI",
+		"indirizzo": "VIA   ROMA, 193",
+		"cap": "70021",
+		"comune": "ACQUAVIVA DELLE FONTI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais033007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"ROSA LUXEMBURG\"",
+		"indirizzo": "VIA PRIMOCIELO C.N.",
+		"cap": "70021",
+		"comune": "ACQUAVIVA DELLE FONTI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic89500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2 C.D.\" CAPORIZZI\" - S.M.S. \"L",
+		"indirizzo": "VIA FRATELLI CAPORIZZI, 36",
+		"cap": "70021",
+		"comune": "ACQUAVIVA DELLE FONTI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic83500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI FALCONE",
+		"indirizzo": "PIAZZA TRIESTE, 14",
+		"cap": "70010",
+		"comune": "ADELFIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic83400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "1 C.D. \"VIA VENETO\" - S.M.\"GIOV",
+		"indirizzo": "VIA V.VENETO 126",
+		"cap": "70010",
+		"comune": "ADELFIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic820001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MOREA - TINELLI",
+		"indirizzo": "VIA DANTE ALIGHIERI, 35",
+		"cap": "70011",
+		"comune": "ALBEROBELLO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82100r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.G. BOSCO - T. FIORE",
+		"indirizzo": "P.ZZA DE NAPOLI 2",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee19200t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "6 C.D.\"DON L.MILANI\" - ALTAMURA",
+		"indirizzo": "ALTAMURA",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee18600e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "V  C. D. SAN FRANCESCO D\\'ASSISI",
+		"indirizzo": "VIA POMPEI 52",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee046007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "3 C.D. \"RONCALLI\" - ALTAMURA",
+		"indirizzo": "VIA MINNITI",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee04400g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. \"IV NOVEMBRE\" - ALTAMURA",
+		"indirizzo": "VIALE MARTIRI 1799, 8",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee04500b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 C.D. \"GARIBALDI\"- ALTAMURA",
+		"indirizzo": "VIA OFANTO 21",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batd02000a",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "F. M. GENCO",
+		"indirizzo": "PIAZZA     LAUDATI 1",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee04900p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D.\"OBERDAN\" - ANDRIA",
+		"indirizzo": "VIALE ROMA 26",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee05600t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "8 CIRCOLO DIDATTICO \"ROSMINI\"",
+		"indirizzo": "C.SO ITALIA, N. 7",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batf060003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "SEN. O. IANNUZZI",
+		"indirizzo": "VIALE      GRAMSCI 40",
+		"cap": "70031",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm294009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "PADRE NICOLO\\' VACCINA",
+		"indirizzo": "CORSO CAVOUR 194",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee19800r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "3 C.D. \"R. COTUGNO\"",
+		"indirizzo": "VIALE GRAMSCI 44",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic86000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2CD DON BOSCO SANTO- SM MANZONI",
+		"indirizzo": "PIAZZA SAN GIOVANNI BOSCO 9",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic89300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO IMBRIANI",
+		"indirizzo": "VIA COMUNI DI PUGLIA 100",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic86400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.D.\"IANNUZZI\" - SM \"DI DONNA",
+		"indirizzo": "PIAZZALE ANTONIO MARIANO 1",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic86300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "5 C.D. \"VERDI\" - S.M. \"CAFARO\"",
+		"indirizzo": "VIA VERDI 65",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais04400n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GIUSEPPE COLASANTO\"",
+		"indirizzo": "VIA PAGANINI",
+		"cap": "70031",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee011008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "11 C.D. \"S.FILIPPO NERI\" BARI",
+		"indirizzo": "VIALE SALANDRA 18",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee01400q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.D. 14 RE DAVID - BARI",
+		"indirizzo": "VIA OMODEO, 27",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee017007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "17 C.D.\"POGGIOFRANCO\" - BARI",
+		"indirizzo": "VIA GIACOMO TAURO 2",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee026002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD MONTE SAN MICHELE",
+		"indirizzo": "C.SO A.DE GASPERI, 345",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee02700t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "27 CIRCOLO DIDATTICO - BARI",
+		"indirizzo": "VIA DUCA D\\'AOSTA, 2",
+		"cap": "70128",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps200003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS   FEDERICO II  DI  SVEVIA",
+		"indirizzo": "VIA PARISI - POLIVALENTE",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc030002",
+		"tipo": "LICEO CLASSICO",
+		"nome": "CAGNAZZI",
+		"indirizzo": "PIAZZA     ZANARDELLI",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm29800l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 2  BARI",
+		"indirizzo": "VIA OFANTO, 21",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm287006",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S. OTTAVIO SERENA -PACELLI",
+		"indirizzo": "VIA G. B. CASTELLI, 64",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm06300x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.S. PRIMO GRADO  PADRE PIO",
+		"indirizzo": "VIA  RENO",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm059008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S. MERCADANTE",
+		"indirizzo": "PIAZZA ZANARDELLI,29",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais02200r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "P.L.NERVI-G.GALILEI (ITG - ITI)",
+		"indirizzo": "VIALE PADRE PIO DA PIETRELCINA SN",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais004007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MICHELE DE NORA",
+		"indirizzo": "VIA LAGO PASSARELLO, 3",
+		"cap": "70022",
+		"comune": "ALTAMURA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais04300t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.  \"R. LOTTI  - UMBERTO I\"",
+		"indirizzo": "VIA C.  VIOLANTE, 1",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic862003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "4 C.D.\"A. MARIANO\"-S.M. \"FERMI\"",
+		"indirizzo": "VIA MALPIGHI, 23",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05600x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"ETTORE CARAFA\"",
+		"indirizzo": "VIA BISCEGLIE S.N.C.",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm301007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 BAT",
+		"indirizzo": "VIA COMUNI DI PUGLIA, 4",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps080006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "NUZZI",
+		"indirizzo": "VIA CINZIO VIOLANTE, 18",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc04000l",
+		"tipo": "LICEO CLASSICO",
+		"nome": "CARLO TROYA",
+		"indirizzo": "VIA        RAFFAELLO SANZIO",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm29300d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS V. EMANUELE III - ALIGHIERI",
+		"indirizzo": "P.ZZA TRIESTE E TRENTO, 6",
+		"cap": "76123",
+		"comune": "ANDRIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic846005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "16 CD CEGLIE-SM MANZONI-LUCAREL",
+		"indirizzo": "VIA DOMENICO DI VENERE 21/23",
+		"cap": "70129",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic847001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MAZZINI - MODUGNO\"",
+		"indirizzo": "VIA SUPPA N. 7",
+		"cap": "70122",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic88400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"JAPIGIA I - VERGA CENTRALE\" BA",
+		"indirizzo": "VIA PEUCETIA 50",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic88600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. JAPIGIA 2 - TORRE A MARE",
+		"indirizzo": "VIA ATTILIO CORRUBIA, 1",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic889003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. \"UMBERTO FRACCACRETA\"",
+		"indirizzo": "VIA VOLPE, 16",
+		"cap": "70128",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais00800e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "EUCLIDE (ITG - ITN)",
+		"indirizzo": "VIA PREZZOLINI",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais03200b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"ETTORE MAJORANA\"",
+		"indirizzo": "VIA TRAMONTE, 2",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais03700e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "R. GORJUX - N. TRIDENTE - C. VIVANTE",
+		"indirizzo": "VIA RAFFAELE BOVIO S.N.",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais047005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"DE NITTIS - PASCALI\"",
+		"indirizzo": "VIA        TIMAVO, 25",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais04900r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ELENA DI SAVOIA - P. CALAMANDREI",
+		"indirizzo": "VIA CALDAROLA -  POLIVALENTE JAPIGIA",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05900b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ITC E LICEO LINGUISTICO \"MARCO POLO\"",
+		"indirizzo": "VIALE GIUSEPPE  BARTOLO, 4/6",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais06100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.\"GIULIO CESARE\"",
+		"indirizzo": "VIALE EINAUDI 66",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais062007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ITC E LICEO LINGUISTICO \"ROMANAZZI\"",
+		"indirizzo": "VIA        CELSO ULPIANI 6",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais063003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GUGLIELMO MARCONI",
+		"indirizzo": "PIAZZA CARLO POERIO, 2",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais06600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PANETTI - PITAGORA (ITI-ITG)",
+		"indirizzo": "VIA        RE DAVID 186",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm003008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CARDUCCI",
+		"indirizzo": "VIA        S.FRANCESCO D\\'ASSISI, 63",
+		"cap": "70122",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm02200n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "MICHELANGELO",
+		"indirizzo": "VIA GEN.LE N. STRAZIOTA, 1",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm03600g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "FIORE",
+		"indirizzo": "VIA   MARTIN LUTHER KING  38/40",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm244008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "\"AMEDEO D\\'AOSTA\"",
+		"indirizzo": "VIA OBERDAN, 8",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm29700r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 BARI",
+		"indirizzo": "LARGO URBANO II",
+		"cap": "70122",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc13000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO STATALE  Q. ORAZIO FLACCO",
+		"indirizzo": "VIA PIZZOLI, N. 58",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc150004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "SOCRATE",
+		"indirizzo": "VIA SAN T. D\\'AQUINO, 4",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapm010001",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "G. BIANCHI DOTTULA",
+		"indirizzo": "CORSO      MAZZINI 114",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps01000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO STATALE \"A. SCACCHI\"",
+		"indirizzo": "CORSO CAVOUR 241",
+		"cap": "70121",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps05000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "FERMI",
+		"indirizzo": "VIA RAFFAELE BOVIO, 19/A",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps060001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "SALVEMINI",
+		"indirizzo": "VIA PREZZOLINI, 9",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "barf010006",
+		"tipo": "IST  PROF  FEMMINILE",
+		"nome": "I.P.S.S.S.S. \"S. DE LILLA\"",
+		"indirizzo": "VIA CELSO ULPIANI N.8",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "barh01000n",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "A. PEROTTI",
+		"indirizzo": "VIA        NICEFORO 8",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bari040001",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "L.SANTARELLA",
+		"indirizzo": "VIA DI VAGNO, 10",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batd13000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"LENOCI\"",
+		"indirizzo": "CENTRO STUDI POLIVALENTE JAPIGIA",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bavc010004",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "D. CIRILLO",
+		"indirizzo": "VIA D. CIRILLO, 33",
+		"cap": "70126",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee061009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "3 CD \"N. FRAGGIANNI\"",
+		"indirizzo": "VIA VITRANI N.1",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee063001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "5 C.D. G. MODUGNO",
+		"indirizzo": "VIA OFANTO, 1",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bari05000g",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I.P.S.I.A. \"ARCHIMEDE \"",
+		"indirizzo": "VIA  MADONNA DELLA CROCE, 223",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps150007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"C. CAFIERO\"",
+		"indirizzo": "VIA DANTE ALIGHIERI, 1",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc01000r",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC A. CASARDI",
+		"indirizzo": "VIA        FERDINANDO D\\'ARAGONA N. 100",
+		"cap": "70051",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm30000b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS BALDACCHINI - MANZONI",
+		"indirizzo": "VIA ACHILLE BRUNI   6",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm08100d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "MORO",
+		"indirizzo": "VIA        DIMICCOLI",
+		"cap": "70051",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm07800n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "FIERAMOSCA",
+		"indirizzo": "VIA ZANARDELLI   3",
+		"cap": "70051",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais048001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"FERMI - PIER LUIGI NERVI - CASSANDRO\"",
+		"indirizzo": "VIA MADONNA DELLA CROCE, 265",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais046009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "N. GARRONE",
+		"indirizzo": "VIA CASSANDRO, 2",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic89200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "D\\'AZEGLIO - DE NITTIS",
+		"indirizzo": "VIA XXIV MAGGIO, 1",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic867006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S. \"PIETRO PAOLO MENNEA\"",
+		"indirizzo": "VIA CANOSA, 161",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic86600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MUSTI - DIMICCOLI\"",
+		"indirizzo": "VIA PALESTRO, 84",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee06500l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "7 C.D. \"GIOVANNI PAOLO II\"",
+		"indirizzo": "VIA DEI PINI, N.1",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic803007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ICS.UMBERTO I - S.M. S. NICOLA",
+		"indirizzo": "LARGO S.SABINO 1",
+		"cap": "70122",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic80600p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"FALCONE-BORSELLINO\"",
+		"indirizzo": "VIA CASSALA, 15",
+		"cap": "70132",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic80700e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S.G. BOSCO - MELO DA BARI\"",
+		"indirizzo": "PIAZZA REDENTORE N. 185",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic812002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"DON LORENZO MILANI\"",
+		"indirizzo": "VIA DELLE REGIONI, 62",
+		"cap": "70132",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic81300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"NICOLA ZINGARELLI\"",
+		"indirizzo": "VIA  SERGIO PANSINI  N.3",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic81400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BALILLA - M.R. IMBRIANI",
+		"indirizzo": "LARGO CARABELLESE 1",
+		"cap": "70121",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic81500d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIUSEPPE GARIBALDI",
+		"indirizzo": "VIA BOVIO, 43/D",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic816009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DUSE",
+		"indirizzo": "STRADA S.GIROLAMO              38",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic817005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DE AMICIS - LATERZA",
+		"indirizzo": "VIA RE DAVID 179",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic818001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"MASSARI\" - \"GALILEI\"",
+		"indirizzo": "VIA DANIELE PETRERA, 80",
+		"cap": "70124",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic81900r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CLEMENTINA PERONE - LEVI",
+		"indirizzo": "VIA BRIGATA REGINA, 27",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic84200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  ARISTIDE GABELLI",
+		"indirizzo": "VIA LUCCA S.N.",
+		"cap": "70127",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic84300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"B. GRIMALDI\" - S.M. \"LOMBARDI\"",
+		"indirizzo": "VIA LOMBARDIA, 2",
+		"cap": "70123",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic84400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "EL/7  - SM SANTOMAURO",
+		"indirizzo": "VIA VASSALLO,16",
+		"cap": "70125",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic845009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"G.PAOLO II - DE MARINIS\"",
+		"indirizzo": "VIA FRANCESCO PEPE, 2",
+		"cap": "70131",
+		"comune": "BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee06400r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "6 C.D.\"GIRONDI\"",
+		"indirizzo": "VIA ZANARDELLI,   29",
+		"cap": "76121",
+		"comune": "BARLETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee07100x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "4 C.D. \"DON P.UVA\" BISCEGLIE",
+		"indirizzo": "VIA DE D. FRAGATELLA 15",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps030005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"LEONARDO DA VINCI\"",
+		"indirizzo": "VIA CALA DELL\\'ARCIPRETE, 1",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm089004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "R. MONTERISI",
+		"indirizzo": "VIA      VINCENZO CALACE     5",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm29100t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CESARE BATTISTI - FERRARIS",
+		"indirizzo": "VIA POZZO MARRONE N. 84",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee070004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "3 CD S.GIOVANNI BOSCO BISCEGLIE",
+		"indirizzo": "VIA AMANDO VESCOVO,2",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee06900x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "IICD.PROF.ARC.CAPUTI BISCEGLIE",
+		"indirizzo": "VIA XXV APRILE, 4",
+		"cap": "70052",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee068004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. \"DE AMICIS\" - BISCEGLIE",
+		"indirizzo": "VIA XXIV MAGGIO 93",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05700q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. DELL\\'OLIO",
+		"indirizzo": "VIA  MAURO GIULIANI 10",
+		"cap": "76011",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais03600p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"SERGIO COSMAI\"",
+		"indirizzo": "VIA VILLA FRISARI, 22",
+		"cap": "70052",
+		"comune": "BISCEGLIE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps24000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"E. AMALDI\"",
+		"indirizzo": "VIA ABBRUZZESE, 38",
+		"cap": "70020",
+		"comune": "BITETTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"C.CIANCIOTTA - G.MODUGNO\"",
+		"indirizzo": "VIA G.MARCONI 11",
+		"cap": "70020",
+		"comune": "BITETTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic809006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"MODUGNO-RUTIGLIANO-ROGAD \"",
+		"indirizzo": "VIA PROF. A. AMENDOLAGINE",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic80800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON TONINO BELLO (PALOMBAIO)",
+		"indirizzo": "VIA SEN SYLOS LABINI",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee55900n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C. D. \" GIUSEPPE CAIATI\"",
+		"indirizzo": "VIA TOMMASO TTAETTA, 99",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee076003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 CD.\"N.FORNELLI\" - BITONTO",
+		"indirizzo": "VIA REPUBBLICA ITALIANA, 116",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic84800r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SYLOS",
+		"indirizzo": "VIA  MATTEOTTI, 139",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batd220004",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC \"VITALE GIORDANO\"",
+		"indirizzo": "PIAZZALE GIANNI RODARI S.N.C.",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps12000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GALILEO GALILEI",
+		"indirizzo": "VIA GENERALE PLANELLI",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"V.F.CASSANO - A. DE RENZIO\"",
+		"indirizzo": "VIA G. SALVEMINI, 7",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc18000x",
+		"tipo": "LICEO CLASSICO",
+		"nome": "CARMINE SYLOS",
+		"indirizzo": "PIAZZA  CARMINE SYLOS 6",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais06700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VOLTA - DE GEMMIS",
+		"indirizzo": "VIA G.  MATTEOTTI, 197",
+		"cap": "70032",
+		"comune": "BITONTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic83600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"RITA LEVI-MONTALCINI\"",
+		"indirizzo": "VIA MERCADANTE 9",
+		"cap": "70020",
+		"comune": "BITRITTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps04000q",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ENRICO FERMI - CANOSA DI P.",
+		"indirizzo": "VIA        L. SETTEMBRINI 101",
+		"cap": "76012",
+		"comune": "CANOSA DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais00700p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L. EINAUDI (ITET - IPAA)",
+		"indirizzo": "VIA        SETTEMBRINI 160",
+		"cap": "76012",
+		"comune": "CANOSA DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic853008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARCONI  M.CARELLA PMA LOSITO",
+		"indirizzo": "VIA GIUNIO OSPITALE N? 7",
+		"cap": "76012",
+		"comune": "CANOSA DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\\'FOSCOLO - DE MURO LOMANTO\\'",
+		"indirizzo": "VIA SANTA LUCIA, 36",
+		"cap": "76012",
+		"comune": "CANOSA DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. BOVIO - CD \"MAZZINI\"",
+		"indirizzo": "VIA BOVIO, 52",
+		"cap": "76012",
+		"comune": "CANOSA DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic824008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. D.SAVIO-RITA LEVI MONTALCINI",
+		"indirizzo": "VIA MAGLIANO  S.N.",
+		"cap": "70010",
+		"comune": "CAPURSO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S.GIOVANNI BOSCO\" - VENISTI",
+		"indirizzo": "VIA CELLAMARE 2",
+		"cap": "70010",
+		"comune": "CAPURSO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm109004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS \"D.ALIGHIERI\"",
+		"indirizzo": "VIA        PENDE               2",
+		"cap": "70010",
+		"comune": "CASAMASSIMA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee197001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 CD GIANNI RODARI",
+		"indirizzo": "VIA BOCCACCIO 43",
+		"cap": "70010",
+		"comune": "CASAMASSIMA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee088009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. \"MARCONI\" CASAMASSIMA",
+		"indirizzo": "VIA G.MARCONI 39",
+		"cap": "70010",
+		"comune": "CASAMASSIMA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais03100g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"LEONARDO DA VINCI\" (LS - LC)",
+		"indirizzo": "VIA PADRE ANGELO CENTRULLO, S.C.",
+		"cap": "70020",
+		"comune": "CASSANO DELLE MURGE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic825004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"PEROTTI\" - \"RUFFO\"",
+		"indirizzo": "VIA CONVENTO 156",
+		"cap": "70020",
+		"comune": "CASSANO DELLE MURGE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"G. TAURO - S. VITERBO\"",
+		"indirizzo": "PIAZZA CADUTI CASTELLANESI, 35",
+		"cap": "70013",
+		"comune": "CASTELLANA GROTTE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais069002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\" CONSOLI - PINTO\"",
+		"indirizzo": "VIA ROSATELLA N.C.",
+		"cap": "70013",
+		"comune": "CASTELLANA GROTTE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batf04000t",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "LUIGI DELL\\'ERBA",
+		"indirizzo": "VIA  DELLA RESISTENZA,N. 40",
+		"cap": "70013",
+		"comune": "CASTELLANA GROTTE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82700q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "A.ANGIULLI -DE BELLIS",
+		"indirizzo": "VIA POERIO  31",
+		"cap": "70013",
+		"comune": "CASTELLANA GROTTE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic804003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"NICOLA RONCHI\"",
+		"indirizzo": "PIAZZA RISORGIMENTO",
+		"cap": "70010",
+		"comune": "CELLAMARE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapm04000r",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "S. BENEDETTO",
+		"indirizzo": "VIA        POSITANO N. 8",
+		"cap": "70014",
+		"comune": "CONVERSANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee09500c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 CD. \"VIA FIRENZE\" CONVERSANO",
+		"indirizzo": "VIA FIRENZE 12",
+		"cap": "70014",
+		"comune": "CONVERSANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm25600e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CARELLI - FORLANI",
+		"indirizzo": "VIA  RISORGIMENTO  22",
+		"cap": "70014",
+		"comune": "CONVERSANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais07200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"S. SIMONE - D. MOREA\"",
+		"indirizzo": "VIA        LUIGI GALLO 2",
+		"cap": "70014",
+		"comune": "CONVERSANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee09400l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 CD. \"FALCONE\" -  CONVERSANO",
+		"indirizzo": "VIA PADRE M. ACCOLTI GIL, 2",
+		"cap": "70014",
+		"comune": "CONVERSANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batd09000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "PADRE A. M. TANNOIA",
+		"indirizzo": "VIA        XXIV MAGGIO, 62",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais054008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ALFREDO ORIANI - L. TANDOI",
+		"indirizzo": "VIA SANTA FAUSTINA KOWALSKA,1",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais039006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. FEDERICO II, STUPOR MUNDI",
+		"indirizzo": "VIA        TEANO",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic88000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CIFARELLI - SANTARELLA",
+		"indirizzo": "VIA ALDO MORO 100/A",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic87900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SM IMBRIANI L.PICCARRETA",
+		"indirizzo": "VIA GEN. AMEGLIO, 71",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic87800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BATTISTI - GIOVANNI XXIII",
+		"indirizzo": "VIALE A. DIAZ 30",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee09800x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 CD.\"FORNELLI\" - CORATO",
+		"indirizzo": "VIA V.VENETO 170",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic868002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"D.F. TATTOLI - DE GASPERI\"",
+		"indirizzo": "VIA LAGO DI VITI, 19",
+		"cap": "70033",
+		"comune": "CORATO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82900b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LOSAPIO - S.FILIPPO NERI",
+		"indirizzo": "PIAZZA C. A. DALLA CHIESA, 11",
+		"cap": "70023",
+		"comune": "GIOIA DEL COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic82800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARANO - MAZZINI",
+		"indirizzo": "PIAZZA UMBERTO I, 7",
+		"cap": "70023",
+		"comune": "GIOIA DEL COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais00200g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "RICCIOTTO CANUDO",
+		"indirizzo": "VIA ALDO MORO, SN",
+		"cap": "70023",
+		"comune": "GIOIA DEL COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic890007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.G.BOSCO-BUONARROTI",
+		"indirizzo": "PIAZZA GARIBALDI, 36",
+		"cap": "70054",
+		"comune": "GIOVINAZZO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic891003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON SAVERIO BAVARO - MARCONI",
+		"indirizzo": "VIALE ALDO MORO, 4",
+		"cap": "70054",
+		"comune": "GIOVINAZZO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic888007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. INGANNAMORTE",
+		"indirizzo": "VIA   FRANCESCO BARACCA   62",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic88700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON MONTEMURRO\"",
+		"indirizzo": "VIA TRIPOLI, 56/B",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee145008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.D.\"DE GASPERI\" NOICATTARO",
+		"indirizzo": "VIA DE GASPERI 13",
+		"cap": "70016",
+		"comune": "NOICATTARO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic870002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DAVANZATI MASTROM",
+		"indirizzo": "VIALE DELLA RESISTENZA N. 4",
+		"cap": "70027",
+		"comune": "PALO DEL COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic86900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2 C.D.\"ANTENORE\" - SM \"GUACCERO",
+		"indirizzo": "VIALE ITALIA,31",
+		"cap": "70027",
+		"comune": "PALO DEL COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic87100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.D. S.G. BOSCO - SM  2  GRUPPO",
+		"indirizzo": "VIALE RIMEMBRANZA, 4",
+		"cap": "70044",
+		"comune": "POLIGNANO A MARE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic87200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SARNELLI-DE DONATO-RODARI",
+		"indirizzo": "VIA POMPEO SARNELLI, 255",
+		"cap": "70044",
+		"comune": "POLIGNANO A MARE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais07300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.P.S.S.E.O.A. - I.P.S.S. DE LILLA",
+		"indirizzo": "VIA DON LUIGI STURZO N.C.",
+		"cap": "70044",
+		"comune": "POLIGNANO A MARE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais034003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"MAJORANA - LATERZA\"",
+		"indirizzo": "VIA FOGGIA LAROSA,3",
+		"cap": "70017",
+		"comune": "PUTIGNANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais02300l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "AGOSTINO AGHERBINO (IPSIA - IPSSCT)",
+		"indirizzo": "VIA  DIAZ, 30",
+		"cap": "70017",
+		"comune": "PUTIGNANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"G. MINZELE - G. PARINI\"",
+		"indirizzo": "VIA PETRUZZI 18",
+		"cap": "70017",
+		"comune": "PUTIGNANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic859007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DE GASPERI-STEFANO DA PUTIGNANO",
+		"indirizzo": "VIA A. DE GASPERI, 9",
+		"cap": "70017",
+		"comune": "PUTIGNANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee15500v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D.\"SETTANNI\" - RUTIGLIANO",
+		"indirizzo": "CORSO CAIROLI, 10",
+		"cap": "70018",
+		"comune": "RUTIGLIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee190006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2  C.D. \"A. MORO\" - RUTIGLIANO",
+		"indirizzo": "VIA PASCOLI, 31",
+		"cap": "70018",
+		"comune": "RUTIGLIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm18600d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS A. MANZONI",
+		"indirizzo": "VIA V. CAMPANELLA N? 9",
+		"cap": "70018",
+		"comune": "RUTIGLIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais068006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ILARIA ALPI - E.MONTALE\"",
+		"indirizzo": "VIA CONVERSANO, KM. 0,500",
+		"cap": "70018",
+		"comune": "RUTIGLIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm281007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "COTUGNO - CARDUCCI - GIOV. 23",
+		"indirizzo": "VIA  S. TEN VITO IPPEDICO   11",
+		"cap": "70037",
+		"comune": "RUVO DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm279007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "F. CASAVOLA - F. D\\'ASSISI",
+		"indirizzo": "VIA ENRICO FERMI",
+		"cap": "70026",
+		"comune": "MODUGNO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee12000x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. \"DE AMICIS\" MODUGNO",
+		"indirizzo": "PIAZZA DE AMICIS, 4",
+		"cap": "70026",
+		"comune": "MODUGNO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee124007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I C.D.\"M. MONTESSORI\"  MOLA",
+		"indirizzo": "VIA E.TOTI 51",
+		"cap": "70042",
+		"comune": "MOLA DI BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee125003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2CD\"S. GIUSEPPE\"",
+		"indirizzo": "VIA PIO LA TORRE N.29",
+		"cap": "70042",
+		"comune": "MOLA DI BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais02800q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IISS \"ITIS L.DA VINCI-LICEO E. MAJORANA\"",
+		"indirizzo": "VIA ALDO MORO, 1/19",
+		"cap": "70042",
+		"comune": "MOLA DI BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm25700a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ALIGHIERI - TANZI",
+		"indirizzo": "VIA  DEL FRASCINARO N. 6",
+		"cap": "70042",
+		"comune": "MOLA DI BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais01100a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.(L.S. - L.C.)",
+		"indirizzo": "VIA TOGLIATTI",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batd04000g",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITET \"GAETANO SALVEMINI\"",
+		"indirizzo": "VIA TEN. ANGELO LUSITO, 94",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"R.SCARDIGNO-SAN D. SAVIO\"",
+		"indirizzo": "VIA NICOLO\\' MAGGIALETTI SNC",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2 C.D.\"BATTISTI\" - SM \"PASCOLI\"",
+		"indirizzo": "VIA F.CAVALLOTTI 30",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic85500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "1 CD. \"MANZONI\" - SM \"POLI\"",
+		"indirizzo": "VIA C.ALBERTO 35",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic854004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"AZZOLLINI-GIAQUINTO\"",
+		"indirizzo": "VIA CADUTI SUL MARE,SNC",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic882008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN GIOVANNI BOSCO",
+		"indirizzo": "C.SO FORNARI N. 168",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "barh04000d",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.S.A.R. DI MOLFETTA",
+		"indirizzo": "CORSO FORNARI, 1",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapm02000g",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "VITO FORNARI",
+		"indirizzo": "VIA        GENERALE AMATO 37",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais06400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GALILEO FERRARIS\"",
+		"indirizzo": "VIA P. TOGLIATTI, 4",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais042002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"AMERIGO VESPUCCI\"",
+		"indirizzo": "LOCALITA\\' PRIMA CALA",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais041006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"MONS. ANTONIO BELLO\"",
+		"indirizzo": "VIALE 25 APRILE",
+		"cap": "70056",
+		"comune": "MOLFETTA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic87300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "2 C.D.\"G.MODUGNO\"- SM \"GALILEI\"",
+		"indirizzo": "VIA EUROPA LIBERA 3",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05300c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.  \"LUIGI RUSSO\" - MONOPOLI",
+		"indirizzo": "VIA PROCACCIA, 111",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic874009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "3C.D.\"VIA M. JONES\"- SM \"COMES\"",
+		"indirizzo": "VIA MELVIN JONES N 11",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic875005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"CD VIA DIETA - SM SOFO\"",
+		"indirizzo": "VIA DIETA DI MONOPOLI, 2",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic876001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "4 CD \"C. BREGANTE\"- SM \"VOLTA\"",
+		"indirizzo": "VIA GOBETTI 45",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais00100q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS G.GALILEI",
+		"indirizzo": "VIA SAN MARCO, 1",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais02700x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"VITO SANTE LONGO\"  - ISTITUTI TECNICI",
+		"indirizzo": "VIA CESARE BECCARIA, N.C.",
+		"cap": "70043",
+		"comune": "MONOPOLI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic838006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.M. PASCOLI - 1?  CIRCOLO",
+		"indirizzo": "VIA SOLDATO RAFFAELE TINELLI",
+		"cap": "70015",
+		"comune": "NOCI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05200l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"L. DA VINCI - G.GALILEI\"",
+		"indirizzo": "VIA REPUBBLICA, 36/H",
+		"cap": "70015",
+		"comune": "NOCI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic83700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"SM GALLO - 2 CIRCOLO\"",
+		"indirizzo": "VIA REPUBBLICA, N.C.",
+		"cap": "70015",
+		"comune": "NOCI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic840006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "1 C.D.\"GRAMSCI\" - S.M. PENDE",
+		"indirizzo": "VIALE XX SETTEMBRE",
+		"cap": "70016",
+		"comune": "NOICATTARO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic839002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.M. G.PASCOLI - EE-AA PARCHITE",
+		"indirizzo": "VIA  MANZONI",
+		"cap": "70016",
+		"comune": "NOICATTARO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic88100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SGBOSCO-BENEDETTO13-POGGIORSINI",
+		"indirizzo": "C.SO VITTORIO EMANUELE, 32/34",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic811006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"SANTOMASI SCACCHI\"",
+		"indirizzo": "CORSO  ALDO MORO, 51",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee20100b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "S. DOMENICO SAVIO-TOMMASO FIORE",
+		"indirizzo": "VIA ANTONIO PUNZI, 78",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps07000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "G. TARANTINO",
+		"indirizzo": "VIA QUASIMODO, 4",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee110009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 C.D. \"DON SAVERIO VALERIO\"",
+		"indirizzo": "VIA S. PERTINI, N. 2",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais013002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. (I.T.C. - I.P.S.I.A.)",
+		"indirizzo": "VIA VITTORIO BACHELET S.N.",
+		"cap": "70024",
+		"comune": "GRAVINA IN PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee10500t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DEVITOFRANCESCO",
+		"indirizzo": "P.ZZA UGENTI 17",
+		"cap": "70025",
+		"comune": "GRUMO APPULA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic883004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI XXIII -BINETTO",
+		"indirizzo": "PIAZZA DA VINCI, 1",
+		"cap": "70025",
+		"comune": "GRUMO APPULA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais02400c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "BASILE CARAMIA",
+		"indirizzo": "VIA CISTERNINO 284",
+		"cap": "70010",
+		"comune": "LOCOROTONDO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic83100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARCONI - OLIVA",
+		"indirizzo": "PIAZZA A.MITRANO, 30",
+		"cap": "70010",
+		"comune": "LOCOROTONDO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic80000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"PIETROCOLA - MAZZINI\"",
+		"indirizzo": "PIAZZA ALDO MORO, 9",
+		"cap": "76013",
+		"comune": "MINERVINO MURGE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee12200g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "3 C.D.\"DON LORENZO MILANI\"",
+		"indirizzo": "VIA MAGNA GRECIA, 1",
+		"cap": "70026",
+		"comune": "MODUGNO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee12100q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 C.D.\"VIA NAPOLI\" MODUGNO",
+		"indirizzo": "VIA CARDUCCI 2",
+		"cap": "70026",
+		"comune": "MODUGNO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais02900g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"TOMMASO FIORE\"",
+		"indirizzo": "VIA PADRE ANNIBALE MARIA DI FRANCIA 4",
+		"cap": "70026",
+		"comune": "MODUGNO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm146003",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ALIGHIERI",
+		"indirizzo": "VIA X MARZO, 55",
+		"cap": "70026",
+		"comune": "MODUGNO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic833003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RESTA - DE DONATO GIANNINI",
+		"indirizzo": "VIA MOLA N.2",
+		"cap": "70010",
+		"comune": "TURI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic88500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"CAPOZZI\" - \"GALILEI\"",
+		"indirizzo": "VIA UGO LA MALFA 2",
+		"cap": "70010",
+		"comune": "VALENZANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee18400v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. PAPA GIOVANNI XXIII",
+		"indirizzo": "VIA ALDO MORO N. 68",
+		"cap": "70010",
+		"comune": "VALENZANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps09000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "O. TEDONE (L. SCIENTIFICO E LINGUISTICO)",
+		"indirizzo": "VIA  A.VOLTA, 13",
+		"cap": "70037",
+		"comune": "RUVO DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee15800a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 C.D. \"S.G.BOSCO\"",
+		"indirizzo": "C.SO A.JATTA, 34/D",
+		"cap": "70037",
+		"comune": "RUVO DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee15700e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. \"BOVIO\" RUVO",
+		"indirizzo": "LARGO DI VAGNO 13",
+		"cap": "70037",
+		"comune": "RUVO DI PUGLIA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic80500v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CIRCOLO DIDATTICO-SC.SEC.IGRADO",
+		"indirizzo": "VIA ENRICO DALFINO, 1",
+		"cap": "70010",
+		"comune": "SAMMICHELE DI BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic832007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S.G.BOSCO\"  - MANZONI",
+		"indirizzo": "VIA A.DIAZ 89",
+		"cap": "70028",
+		"comune": "SANNICANDRO DI BARI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee16300t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD 2  \"S.F.D\\'ASSISI\"  SANTERAMO",
+		"indirizzo": "VIA S.D.SAVIO 22",
+		"cap": "70029",
+		"comune": "SANTERAMO IN COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm282003",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S. G. BOSCO - F. NETTI",
+		"indirizzo": "VIA SPAVENTA 33",
+		"cap": "70029",
+		"comune": "SANTERAMO IN COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais01600d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"PIETRO SETTE\"",
+		"indirizzo": "VIA F.LLI KENNEDY,7",
+		"cap": "70029",
+		"comune": "SANTERAMO IN COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee162002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D.\"HERO PARADISO\" SANTERAMO",
+		"indirizzo": "P.ZZA S. GASPARE, 4",
+		"cap": "70029",
+		"comune": "SANTERAMO IN COLLE",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic80100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.D. MAZZINI - S.M. DE CESARE",
+		"indirizzo": "VIA NAZARIO SAURO 2",
+		"cap": "76014",
+		"comune": "SPINAZZOLA",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee167005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D.\"DON PAPPAGALLO\" TERLIZZI",
+		"indirizzo": "VIALE ROMA 59A",
+		"cap": "70038",
+		"comune": "TERLIZZI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee168001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD SAN G.BOSCO",
+		"indirizzo": "VIA MILLICO 13",
+		"cap": "70038",
+		"comune": "TERLIZZI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm290002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GESMUNDO - MORO-FIORE",
+		"indirizzo": "VIA        SALAMONE            29",
+		"cap": "70038",
+		"comune": "TERLIZZI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. L. ST. T. FIORE - L.C. C. SYLOS",
+		"indirizzo": "VIALE A. GRAMSCI",
+		"cap": "70038",
+		"comune": "TERLIZZI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baic87700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"S.G.BOSCO-MANZONI\"TORITTO",
+		"indirizzo": "VIA MONTESSORI S.N.C.",
+		"cap": "70020",
+		"comune": "TORITTO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee174008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "3 C.D.\"D\\'ANNUNZIO\" TRANI (BT)",
+		"indirizzo": "VIA PEDAGGIO S. CHIARA, 75",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee175004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "4 C.D. \"G. BELTRANI \"",
+		"indirizzo": "VIA LA PIRA 6",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee17200l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D. \"DE AMICIS\"",
+		"indirizzo": "VIA DE ROGGIERO, 56",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee17300c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 C.D. \"MONS. PETRONELLI\" TRANI",
+		"indirizzo": "VIA MONS.PETRONELLI 22",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bapc21000e",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LIC. CL. LING. SC. UMANE \"F. DE SANCTIS\"",
+		"indirizzo": "VIA TASSELGARDO, 1",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm302003",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S.G ROCCA-BOVIO-PALUMBO",
+		"indirizzo": "VIA        TASSELGARDO         1",
+		"cap": "70059",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm209001",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.S. 1 GRADO  E. BALDASSARRE",
+		"indirizzo": "PIAZZA DANTE, 26",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais05800g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. MORO",
+		"indirizzo": "VIA GRAN BRETAGNA",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps11000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "VALDEMARO VECCHI",
+		"indirizzo": "VIA GRECIA, 12",
+		"cap": "76125",
+		"comune": "TRANI",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baps270009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "CARTESIO CLASS-LING-SCIENT-SCIEN. APPLIC",
+		"indirizzo": "VIA DON DATTOLI N.C.",
+		"cap": "70019",
+		"comune": "TRIGGIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bamm29200n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "DE AMICIS - DI ZONNO",
+		"indirizzo": "VIA A. DE GASPERI, 11",
+		"cap": "70019",
+		"comune": "TRIGGIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "batd21000d",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ANTONIO DE VITI DE MARCO",
+		"indirizzo": "VIA DON VITANGELO DATTOLI",
+		"cap": "70019",
+		"comune": "TRIGGIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee17800g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 C.D.\"GIOVANNI 23\"",
+		"indirizzo": "VIA SAN PIETRO, 9",
+		"cap": "70019",
+		"comune": "TRIGGIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "baee17700q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 C.D.\"S.G.BOSCO\"  TRIGGIANO",
+		"indirizzo": "VIA PETRARCA 79",
+		"cap": "70019",
+		"comune": "TRIGGIANO",
+		"provincia": "BA"
+	}
+	,
+	{
+		"codMec": "bais071002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"PERTINI - ANELLI\"",
+		"indirizzo": "VIA DELLE GINESTRE, 5",
+		"cap": "70010",
+		"comune": "TURI",
+		"provincia": "BA"
+	}
+]

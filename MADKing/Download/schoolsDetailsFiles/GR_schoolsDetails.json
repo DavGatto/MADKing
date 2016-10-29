@@ -1,0 +1,331 @@
+[
+	{
+		"codMec": "grmm09000t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 GROSSETO",
+		"indirizzo": "VIA DAVIDE LAZZARETTI N. 4",
+		"cap": "58031",
+		"comune": "ARCIDOSSO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris003001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. STAT.ISTR.SUP. \"L.DA VINCI-E.FERMI\"",
+		"indirizzo": "VIA RISORGIMENTO, 28",
+		"cap": "58031",
+		"comune": "ARCIDOSSO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric81100q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"VANNINI-LAZZARETTI\" C.PIANO",
+		"indirizzo": "VIA DI MONTAGNA,1/A",
+		"cap": "58033",
+		"comune": "CASTEL DEL PIANO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric80900q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"O.ORSINI\" C.PESCAIA",
+		"indirizzo": "VIALE KENNEDY, 14",
+		"cap": "58043",
+		"comune": "CASTIGLIONE DELLA PESCAIA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric81700p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"TOZZI\" C.PAGANICO",
+		"indirizzo": "VIA MALAVOLTI, 31",
+		"cap": "58045",
+		"comune": "CIVITELLA PAGANICO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric827009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FOLLONICA 1",
+		"indirizzo": "VIA GORIZIA  11",
+		"cap": "58022",
+		"comune": "FOLLONICA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris001009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE  FOLLONICA",
+		"indirizzo": "VIA DE GASPERI, N.8",
+		"cap": "58022",
+		"comune": "FOLLONICA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric828005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LEOPOLDO II DI LORENA",
+		"indirizzo": "VIA BALDUCCI, 2",
+		"cap": "58022",
+		"comune": "FOLLONICA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric81800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"G.PASCOLI\" GAVORRANO",
+		"indirizzo": "VIA DELLE SCUOLE, 14",
+		"cap": "58023",
+		"comune": "GAVORRANO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric829001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GROSSETO 2",
+		"indirizzo": "PIAZZA FRATELLI ROSSELLI, 14",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "grpm01000e",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE - A.ROSMINI",
+		"indirizzo": "VIALE PORCIATTI, 2",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris01200q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "POLO BIANCIARDI GROSSETO",
+		"indirizzo": "PIAZZA DE MARIA 31",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris01100x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "POLO TECNOLOGICO MANETTI-PORCIATTI",
+		"indirizzo": "VIA BRIGATE PARTIGIANE, 19",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris00600c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTR.SUP -LEOPOLDO II DI LORENA",
+		"indirizzo": "VIA DEI BARBERI",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris00400r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTR.SUPERIORE - P.ALDI",
+		"indirizzo": "PIAZZA E.BENCI",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric81900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROCCASTRADA",
+		"indirizzo": "VIA SALVO D\\'ACQUISTO",
+		"cap": "58036",
+		"comune": "ROCCASTRADA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric822006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \" M.PRATESI\" SANTA FIORA",
+		"indirizzo": "VIALE MARCONI, 4",
+		"cap": "58037",
+		"comune": "SANTA FIORA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris007008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE F. ZUCCARELLI SORANO",
+		"indirizzo": "PIAZZA DELLA FORTEZZA N .1",
+		"cap": "58010",
+		"comune": "SORANO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric83300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GROSSETO 5",
+		"indirizzo": "VIA ROVETTA 35",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric83200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GROSSETO 4",
+		"indirizzo": "VIA EINAUDI, 6/A",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric831001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GROSSETO 3",
+		"indirizzo": "VIA SICILIA, 16",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric830005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GROSSETO 1 ALBERTO MANZI",
+		"indirizzo": "VIA CORELLI, 3",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "grtd03000e",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ISIS - V.FOSSOMBRONI",
+		"indirizzo": "VIA SICILIA, 45",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric82600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GROSSETO 6",
+		"indirizzo": "VIA GARIGLIANO, 16",
+		"cap": "58100",
+		"comune": "GROSSETO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric82100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"PIETRO ALDI\" MANCIANO",
+		"indirizzo": "PIAZZA DANTE ALIGHIERI, 1",
+		"cap": "58014",
+		"comune": "MANCIANO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris008004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTR.SUP. - BERNARDINO LOTTI",
+		"indirizzo": "VIA DELLA MANGANELLA, 3-5",
+		"cap": "58024",
+		"comune": "MASSA MARITTIMA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric815003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"DON C.BRESCHI\"MASSA M.MA",
+		"indirizzo": "VIALE MARTIRI NICCIOLETA, 7",
+		"cap": "58024",
+		"comune": "MASSA MARITTIMA",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gris00900x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. SUP. -R.DEL ROSSO  G. DA VERRAZZANO",
+		"indirizzo": "VIA PANORAMICA 81",
+		"cap": "58019",
+		"comune": "MONTE ARGENTARIO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric82500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTE ARGENTARIO - GIGLIO",
+		"indirizzo": "VIA MARTIRI D\\'UNGHERIA 31",
+		"cap": "58019",
+		"comune": "MONTE ARGENTARIO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric81300b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"G.MAZZINI\" PORTO S.STEFANO",
+		"indirizzo": "VIA DELL\\'APPETITO N.120",
+		"cap": "58019",
+		"comune": "MONTE ARGENTARIO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric82400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"DON  MILANI\" ORBETELLO",
+		"indirizzo": "VIA POLA,11",
+		"cap": "58015",
+		"comune": "ORBETELLO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric81600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"G.CIVININI\" ALBINIA",
+		"indirizzo": "PIAZZA CAVALIERI V.VENETO, 7",
+		"cap": "58010",
+		"comune": "ORBETELLO",
+		"provincia": "GR"
+	}
+	,
+	{
+		"codMec": "gric82000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"UMBERTO I\" PITIGLIANO",
+		"indirizzo": "PIAZZA DANTE ALIGHIERI 19",
+		"cap": "58017",
+		"comune": "PITIGLIANO",
+		"provincia": "GR"
+	}
+]

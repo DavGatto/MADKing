@@ -1,0 +1,451 @@
+[
+	{
+		"codMec": "noic81100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI XXIII - GRIGNASCO",
+		"indirizzo": "LARGO FERRARI, 3",
+		"cap": "28075",
+		"comune": "GRIGNASCO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic819001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DEL VERGANTE - INVORIO",
+		"indirizzo": "VIA PULAZZINI, 15",
+		"cap": "28045",
+		"comune": "INVORIO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic817009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GAUDENZIO FERRARI . MOMO",
+		"indirizzo": "VIA MARCONI, 9",
+		"cap": "28015",
+		"comune": "MOMO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic826004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DUCA D\\'AOSTA - NOVARA",
+		"indirizzo": "BALUARDO MASSIMO D\\'AZEGLIO  1",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "notf040002",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"G.FAUSER\"",
+		"indirizzo": "VIA RICCI, 14",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "notf03000b",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI OMAR",
+		"indirizzo": "BALUARDO LA MARMORA, 12",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "notd09000r",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T.E. \"MOSSOTTI\"",
+		"indirizzo": "VIALE CURTATONE 5",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nosl010001",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "\"FELICE CASORATI\"",
+		"indirizzo": "VIA GREPPI, 18",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "norc01000l",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "ISTITUTO PROFESSIONALE G. RAVIZZA",
+		"indirizzo": "BALUARDO D\\'AZEGLIO, 3",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nops010004",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ALESSANDRO  ANTONELLI",
+		"indirizzo": "VIA TOSCANA, 20",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nopm010005",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO DELLE SCIENZE UMANE C.T. BELLINI\"",
+		"indirizzo": "BALUARDO LAMARMORA, 10",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic82300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BELLINI - NOVARA",
+		"indirizzo": "VIA VALLAURI, 4",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic82400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FORNARA - OSSOLA  - NOVARA",
+		"indirizzo": "VIA PREMUDA",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic825008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"RITA  LEVI-MONTALCINI\"",
+		"indirizzo": "VIA RIVOLTA 4",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "novc010008",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "C. ALBERTO",
+		"indirizzo": "VIA DELL\\'ARCHIVIO N  6",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic821001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI XXIII - ARONA",
+		"indirizzo": "VIA MONTE ROSA, 36",
+		"cap": "28041",
+		"comune": "ARONA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nois00400b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"E.FERMI\"",
+		"indirizzo": "VIA  MONTENERO, 15/A",
+		"cap": "28041",
+		"comune": "ARONA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic813002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANTONELLI - BELLINZAGO NOV.SE",
+		"indirizzo": "VIA VESCOVO BOVIO 9",
+		"cap": "28043",
+		"comune": "BELLINZAGO NOVARESE",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic81400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. DA BIANDRATE - BIANDRATE",
+		"indirizzo": "VIA GREPPI, 12",
+		"cap": "28061",
+		"comune": "BIANDRATE",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nops04000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"G.GALILEI\"",
+		"indirizzo": "VIA ALDO MORO, 13",
+		"cap": "28021",
+		"comune": "BORGOMANERO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nomm184002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "IST. SEC. I GR \"PIERO GOBETTI\"",
+		"indirizzo": "VIALE DANTE, 13",
+		"cap": "28021",
+		"comune": "BORGOMANERO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noee01500q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CIRCOLO DIDATTICO BORGOMANERO",
+		"indirizzo": "PIAZZA MATTEOTTI",
+		"cap": "28021",
+		"comune": "BORGOMANERO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "notf02000r",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "L.DA VINCI-S.COMM.LE ANNESSA",
+		"indirizzo": "VIA ALDO MORO, 13",
+		"cap": "28021",
+		"comune": "BORGOMANERO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic81000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "F. TADINI - CAMERI",
+		"indirizzo": "VIA MARE\\', 36",
+		"cap": "28062",
+		"comune": "CAMERI",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic80700p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "P. FORNARA - CARPIGNANO SESIA",
+		"indirizzo": "VIA E. PIAZZA, 5",
+		"cap": "28064",
+		"comune": "CARPIGNANO SESIA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic82200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BELFANTI - CASTELLETTO TICINO",
+		"indirizzo": "VIA XXV APRILE, 14",
+		"cap": "28053",
+		"comune": "CASTELLETTO TICINO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic80900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "P. RAMATI - CERANO",
+		"indirizzo": "V.LE MARCHETTI, 20",
+		"cap": "28065",
+		"comune": "CERANO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic818005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ITALO CALVINO - GALLIATE",
+		"indirizzo": "LARGO PIAVE  4",
+		"cap": "28066",
+		"comune": "GALLIATE",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic820005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"E. MONTALE\" DI GATTICO",
+		"indirizzo": "V.LE DEL  BORGARINO 20",
+		"cap": "28013",
+		"comune": "GATTICO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic80800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. PASCOLI",
+		"indirizzo": "VIA PER AUZATE, 6",
+		"cap": "28024",
+		"comune": "GOZZANO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic82700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARGHERITA HACK",
+		"indirizzo": "BALUARDO  PARTIGIANI, 4",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic82800q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ACHILLE BOROLI",
+		"indirizzo": "VIA MAGALOTTI, 13",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic83100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO BOTTACCHI",
+		"indirizzo": "VIA JUVARRA, 7/A",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nois00300g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"BONFANTINI\"",
+		"indirizzo": "CORSO RISORGIMENTO 405",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nois006003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. I. S. PIER LUIGI NERVI",
+		"indirizzo": "VIA S.BERNARDINO DA SIENA, 10",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nomm188009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 NOVARA",
+		"indirizzo": "VIA AQUILEIA 1",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nopc07000l",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO E LINGUISTICO C.ALBERTO",
+		"indirizzo": "BALUARDO LA MARMORA, 8/C",
+		"cap": "28100",
+		"comune": "NOVARA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noee035001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CIRCOLO DIDATTICO OLEGGIO",
+		"indirizzo": "VIA GRAMSCI N.77",
+		"cap": "28047",
+		"comune": "OLEGGIO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic81600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "E.S.VERJUS - OLEGGIO",
+		"indirizzo": "VIALE PAGANINI, 21",
+		"cap": "28047",
+		"comune": "OLEGGIO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic812006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. CURIONI - ROMAGNANO SESIA",
+		"indirizzo": "VICOLO ASILO, 3",
+		"cap": "28078",
+		"comune": "ROMAGNANO SESIA",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "nois00200q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"PASCAL\"",
+		"indirizzo": "STRADA PROV.LE PER NOVARA, 4",
+		"cap": "28068",
+		"comune": "ROMENTINO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic804007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO SAN GIULIO",
+		"indirizzo": "VIA TORCHIO, 10",
+		"cap": "28017",
+		"comune": "SAN MAURIZIO D\\'OPAGLIO",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic82900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. \"RACHEL BEHAR\"",
+		"indirizzo": "VIA MEZZANO, 41",
+		"cap": "28069",
+		"comune": "TRECATE",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic83000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO \"C. MUSSO\"",
+		"indirizzo": "VIA ANDANTE 14",
+		"cap": "28069",
+		"comune": "TRECATE",
+		"provincia": "NO"
+	}
+	,
+	{
+		"codMec": "noic80600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VARALLO POMBIA",
+		"indirizzo": "VIA CIRCONVALLAZIONE, 46",
+		"cap": "28040",
+		"comune": "VARALLO POMBIA",
+		"provincia": "NO"
+	}
+]

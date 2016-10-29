@@ -1,0 +1,421 @@
+[
+	{
+		"codMec": "pnic82300r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ROVEREDO IN P.\"GIOV.CADELLI\"",
+		"indirizzo": "VIA DON A. COJAZZI, 1",
+		"cap": "33080",
+		"comune": "ROVEREDO IN PIANO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis00200x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS G.A. PUJATI",
+		"indirizzo": "VIALE    ZANCANARO 58",
+		"cap": "33077",
+		"comune": "SACILE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic834007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SACILE",
+		"indirizzo": "VIALE ZANCANARO 56",
+		"cap": "33077",
+		"comune": "SACILE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis006007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. SACILE - BRUGNERA",
+		"indirizzo": "VIA   STADIO N. 9",
+		"cap": "33077",
+		"comune": "SACILE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis01100p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICEI  LE FILANDIERE",
+		"indirizzo": "VIA PATRIARCATO N.24",
+		"cap": "33078",
+		"comune": "SAN VITO AL TAGLIAMENTO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis007003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS \"P.SARPI\"",
+		"indirizzo": "VIA BRIGATA OSOPPO 9",
+		"cap": "33078",
+		"comune": "SAN VITO AL TAGLIAMENTO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic82900q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.VITO AL TAGLIAMEN.\"M.HACK\"",
+		"indirizzo": "VIA STAZIONE, 21",
+		"cap": "33078",
+		"comune": "SAN VITO AL TAGLIAMENTO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic826008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SPILIMBERGO",
+		"indirizzo": "VIA DUCA D\\'AOSTA 4",
+		"cap": "33097",
+		"comune": "SPILIMBERGO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis00400g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"IL TAGLIAMENTO\"",
+		"indirizzo": "VIA DEGLI ALPINI, 1",
+		"cap": "33097",
+		"comune": "SPILIMBERGO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic813006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TRAVESIO",
+		"indirizzo": "VIA ROMA 12 A",
+		"cap": "33090",
+		"comune": "TRAVESIO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic820009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VALVASONE ARZENE \"MEDUNA T.\"",
+		"indirizzo": "VIA SANT\\'ELENA, 6",
+		"cap": "33098",
+		"comune": "VALVASONE ARZENE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic819005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ZOPPOLA",
+		"indirizzo": "VIA GIARDINI, 31",
+		"cap": "33080",
+		"comune": "ZOPPOLA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic80800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC AVIANO",
+		"indirizzo": "VIA STRETTA, 1",
+		"cap": "33081",
+		"comune": "AVIANO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic81500t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC AZZANO DECIMO\"N.CANTARUTTI\"",
+		"indirizzo": "VIA CAPITANO MONTICCO, 3",
+		"cap": "33082",
+		"comune": "AZZANO DECIMO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic82500c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BRUGNERA \"VILLA VARDA\"",
+		"indirizzo": "VIA GALILEI N. 5",
+		"cap": "33070",
+		"comune": "BRUGNERA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic81600n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CANEVA\"ANDREA ZANZOTTO\"",
+		"indirizzo": "VIA MARCONI, 77",
+		"cap": "33070",
+		"comune": "CANEVA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic821005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASARSA DELIZ.\"P.P.PASOLINI\"",
+		"indirizzo": "VIA ALDO MORO N.1",
+		"cap": "33072",
+		"comune": "CASARSA DELLA DELIZIA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic81700d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CHIONS",
+		"indirizzo": "VIA G.B. COSSETTI, 22",
+		"cap": "33083",
+		"comune": "CHIONS",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic827004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORDENONS \"ALBERTO MANZI\"",
+		"indirizzo": "VIA MONTELLO, 2",
+		"cap": "33084",
+		"comune": "CORDENONS",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnsd020009",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "ISA  ENRICO GALVANI",
+		"indirizzo": "VIA        SCLAVONS N. 34",
+		"cap": "33084",
+		"comune": "CORDENONS",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic80900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORDOVADO \"I.NIEVO\"",
+		"indirizzo": "VIA ROMA, 9",
+		"cap": "33075",
+		"comune": "CORDOVADO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic818009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FIUME VENETO\"P.BAGELLARDO\"",
+		"indirizzo": "P.ZZA MARCONI,57",
+		"cap": "33080",
+		"comune": "FIUME VENETO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic81100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FONTANAFREDDA\"R.L.MONTALCINI",
+		"indirizzo": "VIA BUONARROTI, 15",
+		"cap": "33074",
+		"comune": "FONTANAFREDDA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic82800x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MANIAGO \"MARGHERITA HACK\"",
+		"indirizzo": "VIA DANTE 48",
+		"cap": "33085",
+		"comune": "MANIAGO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis00300q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  E. TORRICELLI",
+		"indirizzo": "VIA        UDINE  7",
+		"cap": "33085",
+		"comune": "MANIAGO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic81000p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MEDUNO \"A. ANDREUZZI\"",
+		"indirizzo": "VIA ROMA, 9",
+		"cap": "33092",
+		"comune": "MEDUNO",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic81200a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTEREALE\"P.D.M.TUROLDO\"",
+		"indirizzo": "VIA STAZIONE, 32",
+		"cap": "33086",
+		"comune": "MONTEREALE VALCELLINA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic814002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PASIANO\"CARD.C.COSTANTINI\"",
+		"indirizzo": "VIA COLETTI, 35",
+		"cap": "33087",
+		"comune": "PASIANO DI PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic822001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PORCIA \"JACOPO DI PORCIA\"",
+		"indirizzo": "VIA CARTIERA N. 20",
+		"cap": "33080",
+		"comune": "PORCIA",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis001004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.   \"G. LEOPARDI-E. MAJORANA\"",
+		"indirizzo": "PIAZZA MAESTRI DEL LAVORO N. 2",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pntd05000e",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITSSE \"ODORICO MATTIUSSI\"",
+		"indirizzo": "VIA FONTANE 2",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnps010008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS M. GRIGOLETTI",
+		"indirizzo": "VIA  INTERNA, 12",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnmm164001",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 PORDENONE",
+		"indirizzo": "VIA CONCORDIA SAGITTARIA,1",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis00900p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  IPSIA L. ZANUSSI",
+		"indirizzo": "VIA        MOLINARI 46/A",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnis00800v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  IPSCT F. FLORA",
+		"indirizzo": "VIA G. FERRARIS N. 2",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pntf01000a",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITST  KENNEDY",
+		"indirizzo": "VIA  INTERNA N.7",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic83300b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC RORAI-CAPPUCCINI",
+		"indirizzo": "VIA MAGGIORE, 22",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic83200g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PORDENONE CENTRO",
+		"indirizzo": "VIA GOZZI, 4",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic83100q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PORDENONE - TORRE",
+		"indirizzo": "VIA GENERAL CANTORE 35",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic83000x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PORDENONE SUD",
+		"indirizzo": "VIA GOLDONI, 37",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pntl01000e",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "ITS SETT.TEC.C.A.T GEOMETRI. S. PERTINI",
+		"indirizzo": "VIA INTERNA N.2",
+		"cap": "33170",
+		"comune": "PORDENONE",
+		"provincia": "PN"
+	}
+	,
+	{
+		"codMec": "pnic82400l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PRATA DI PORDEN.\"F.DA PRATA\"",
+		"indirizzo": "VIA MARTIRI DELLA LIBERTA\\' N. 32",
+		"cap": "33080",
+		"comune": "PRATA DI PORDENONE",
+		"provincia": "PN"
+	}
+]

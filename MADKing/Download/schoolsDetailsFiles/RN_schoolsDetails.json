@@ -1,0 +1,391 @@
+[
+	{
+		"codMec": "rnmm034002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 RIMINI",
+		"indirizzo": "PIAZZALE BORNACCINI 1",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnpc01000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO \"G.CESARE - M.VALGIMIGLI\"",
+		"indirizzo": "VIA BRIGHENTI, 38",
+		"cap": "47921",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnps05000c",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"A. SERPIERI\"",
+		"indirizzo": "VIA SACRAMORA 52",
+		"cap": "47922",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic80100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S. GIOVANNI IN MARIGNANO",
+		"indirizzo": "VIA  FERRARA 30",
+		"cap": "47842",
+		"comune": "SAN GIOVANNI IN MARIGNANO",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnee018005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "2 CIRCOLO SANTARCANGELO DI R.",
+		"indirizzo": "VIA SANTARCANGIOLESE, 1733",
+		"cap": "47822",
+		"comune": "SANTARCANGELO DI ROMAGNA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnee01600d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "1 CIRCOLO SANTARCANGELO DI R.",
+		"indirizzo": "VIA  DANIELE FELICI, 45",
+		"cap": "47822",
+		"comune": "SANTARCANGELO DI ROMAGNA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnmm01900x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S. \"TERESA FRANCHINI\"",
+		"indirizzo": "VIA FELICE ORSINI 21",
+		"cap": "47822",
+		"comune": "SANTARCANGELO DI ROMAGNA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnis006001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.S. \"L. EINAUDI - R. MOLARI\"",
+		"indirizzo": "VIA FELICE ORSINI 19",
+		"cap": "47822",
+		"comune": "SANTARCANGELO DI ROMAGNA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic803009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PONTE SUL MARECCHIA",
+		"indirizzo": "VIA DEI MARTIRI  N. 45",
+		"cap": "47826",
+		"comune": "VERUCCHIO",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic81500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC IGEA",
+		"indirizzo": "VIA NICOLO\\' ZENO N. 21",
+		"cap": "47814",
+		"comune": "BELLARIA-IGEA MARINA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic81000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BELLARIA",
+		"indirizzo": "VIA  NICOLO\\' ZENO,  21",
+		"cap": "47814",
+		"comune": "BELLARIA-IGEA MARINA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic804005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CATTOLICA",
+		"indirizzo": "VIA DEL PARTIGIANO  10",
+		"cap": "47841",
+		"comune": "CATTOLICA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic820003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC OSPEDALETTO",
+		"indirizzo": "VIA DON MILANI 4",
+		"cap": "47853",
+		"comune": "CORIANO",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic809008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORIANO",
+		"indirizzo": "VIA  F. SANTI,        3",
+		"cap": "47853",
+		"comune": "CORIANO",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic80700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MISANO ADRIATICO",
+		"indirizzo": "VIA DON LORENZO MILANI 12",
+		"cap": "47843",
+		"comune": "MISANO ADRIATICO",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic80200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONDAINO",
+		"indirizzo": "VIA FONTE LEALI 392",
+		"cap": "47836",
+		"comune": "MONDAINO",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnis00200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.S. \"P. GOBETTI\"",
+		"indirizzo": "LARGO CENTRO STUDI 12/14",
+		"cap": "47833",
+		"comune": "MORCIANO DI ROMAGNA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic80800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VALLE DEL CONCA MORCIANO",
+		"indirizzo": "VIA CARDUCCI 2",
+		"cap": "47833",
+		"comune": "MORCIANO DI ROMAGNA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnis00300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.S. \"TONINO GUERRA\" POLO SCOLAST",
+		"indirizzo": "PIAZZALE LORENZO MONI, 3",
+		"cap": "47863",
+		"comune": "NOVAFELTRIA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic811008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC NOVAFELTRIA \"A. BATTELLI\"",
+		"indirizzo": "VIA DELLA MATERNITA\\', 43",
+		"cap": "47863",
+		"comune": "NOVAFELTRIA",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic812004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PENNABILLI",
+		"indirizzo": "PIAZZA MONTEFELTRO, 6",
+		"cap": "47864",
+		"comune": "PENNABILLI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnrh01000q",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.S.A.R.  \"S. SAVIOLI\"",
+		"indirizzo": "VIALE  PIACENZA 35",
+		"cap": "47838",
+		"comune": "RICCIONE",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic81400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC N. 1 RICCIONE",
+		"indirizzo": "VIALE L. EINAUDI N. 25",
+		"cap": "47838",
+		"comune": "RICCIONE",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic81300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"GIANFRANCO ZAVALLONI\"",
+		"indirizzo": "VIALE CAPRI N. 8",
+		"cap": "47838",
+		"comune": "RICCIONE",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnps060003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"A. VOLTA - F. FELLINI\"",
+		"indirizzo": "VIALE PIACENZA 28",
+		"cap": "47838",
+		"comune": "RICCIONE",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic81900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ALIGHIERI",
+		"indirizzo": "VIA COLETTI 102",
+		"cap": "47921",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic818003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FERMI",
+		"indirizzo": "VIA MORRI, 4",
+		"cap": "47922",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rntn01000q",
+		"tipo": "ISTITUTO TECNICO PER IL TURISMO",
+		"nome": "I.T.T. \"M. POLO\"",
+		"indirizzo": "VIALE REGINA MARGHERITA 20/22",
+		"cap": "47924",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic81600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC XX SETTEMBRE",
+		"indirizzo": "VIA ARNALDO DA BRESCIA, 4",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic80600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"ALBERTO MARVELLI\"-RIMINI-",
+		"indirizzo": "VIA COVIGNANO, 238",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic805001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MIRAMARE -RIMINI-",
+		"indirizzo": "VIA PESCARA N. 33",
+		"cap": "47924",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnee01500n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CIRCOLO DIDATTICO 6 RIMINI",
+		"indirizzo": "VIA G. B. CASTI N.13",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnic817007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CENTRO STORICO",
+		"indirizzo": "P.ZZA GRAMSCI 3/4",
+		"cap": "47921",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rntf010004",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "I.T.T.S. \"O. BELLUZZI - L. DA VINCI\"",
+		"indirizzo": "VIA ADA NEGRI, 34",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rntd01000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T.S.E.  \"R. VALTURIO\"",
+		"indirizzo": "VIA G.DELEDDA N.4 CENTRO STUDI  LOC. COLONNELLA",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnri010007",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "\"L.B. ALBERTI\"",
+		"indirizzo": "VIA TAMBRONI, 24",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnrh030001",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.S.A.R.  \"S.P. MALATESTA\"",
+		"indirizzo": "VIALE REGINA MARGHERITA 4",
+		"cap": "47924",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnps02000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO \"A. EINSTEIN\"",
+		"indirizzo": "VIA AGNESI 2/B",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+	,
+	{
+		"codMec": "rnmm02100x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S. \"A. BERTOLA\"",
+		"indirizzo": "VIA EUTERPE, 16",
+		"cap": "47923",
+		"comune": "RIMINI",
+		"provincia": "RN"
+	}
+]
