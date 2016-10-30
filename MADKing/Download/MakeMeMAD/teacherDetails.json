@@ -5,7 +5,7 @@
   "birthDate" : "<data di nascita in formato GG/MM/AAAA",
   "residTown" : "<comune di residenza>",
   "residAddress" : "<indirizzo di residenza>",
-  "militare" : "<esentato/a>",
+  "militare" : "<esente, di solito. Vedi modulo non compilato per capire di cosa si tratta>",
   "degreeSubject" : "<titolo di studio>",
   "degreeExams" : "<eventuali esami da specidficare>",
   "degreeDate" : "<data di conseguimento titolo in formato GG/MM/AAAA",

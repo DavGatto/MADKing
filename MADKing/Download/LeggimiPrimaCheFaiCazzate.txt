@@ -1,0 +1,151 @@
+GUIDA MINIMALE ALL'USO DI MADKing:
+
+IMPORTANTE: MADKing non è un prodotto né un servizio: è un 
+			attrezzo che ho costruito perché mi serviva.
+			Se usi MADKing è come se usassi un martello
+			che ti ho prestato io:
+				SÌ TI FÀ MALA, SÙ CAZZI TOI.
+
+-- Guida istantanea per utenti particolarmente svelti:
+	Il programma usa le informazioni contenuti in alcuni
+	file json. Due devi compilarli con i tuoi dati
+	anagrafici e quelli della tua PEC, gli altri
+	contengono dati sulle scuole. Il programma invierà
+	la tua MAD a tutte le scuole descritte nei file json
+	contenuti nella cartella che gli indicherai.
+	Occhio che l'invio massivo è molto massivo (vedi
+	avvertenze).
+
+
+-- Guida passo-passo per utenti saggi:
+
+1 - Scarica la cartella Downolad
+2 - copia la cartella Download/MakeMeMad nella tua home,
+	oppure altrove sul tuo hard disk
+3 - in MakeMeMad, apri i file teacherDetails.json e
+	pecDetails.json con un editor di testo decente,
+	possibilmente che riconosca il linguaggio JSON,
+	e compila i campi come indicato dentro ai file stessi.
+	Se usi windows, evita caratteri accentati e raddoppia
+	il carattere backslash (\) quando inserisci il percorso
+	alla tua firma. La firma deve avere sfondo trasparente.
+	Se hai un amico che usa Linux o Mac, vedi un po' se ti
+	presta il computer
+4 - apri un terminale nella cartella Download (che dovrebbe
+	contenere MADKing.jar) e lancia:
+		java -jar MADKing.jar
+	NB se non hai installato la JRE non funzionerà nulla.
+	Installala.
+5 - dovrebbe comparire un form molto brutto e in buona parte
+	già compilato. Assicurati che modo che:
+	a - il primo campo contenga il percorso alla cartella di lavoro
+	b - il secondo campo contenga il nome del file json nel quale
+		hai scritto il tuoi dati anagrafici
+	c - il terzo campo ne parliamo dopo che è importante
+	d - il quarto contenga il nome del file dove hai scritto i
+		dati della tua PEC
+	e - il quinto campo contenga la tua mail non-pec (poi ti spiego)
+	f - il sesto l'anno scolastico in corso
+	
+6 - Adesso farai un invio simulato in una provincia con poche scuole:
+	a - nel terzo campo scrivi
+		schoolsDetailsFiles/KR_schoolsDetails.json
+	b - metti la spunta su Debug
+	c - MI RACCOMANDO, il punto 'e' di sopra
+	d - clicca su Crea (senza inviare)
+	e - controlla che sia comparsa la cartella MADKing/FilesGenerati/KR
+		contenente una caterva di pdf. Aprine uno e controlla che sia
+		tutto a posto: è una delle MAD che invierai
+	f - a questo punto clicca su Invia
+	g - nel terminale vedrai che il programma scrive "Attempting to send
+		to gnegnegne", seguito da "Sent!". Dopo un paio di righe ti
+		conviene dare CTRL-C, altrimenti la tua casella e-mail riceverà
+		una mail dalla tua PEC per ogni singola scuola della provincia di
+		Crotone
+	h - controlla che le mail che ti sei inviato da solo siano esattamente
+		come quelle che vorresti inviare alle scuole
+		
+7 - Se è andato tutto bene, sei pronto per l'invio vero e proprio.
+	Il campo "Dettagli scuole" può accettare sia un singolo file
+	che una cartella, e ovviamente nel secondo caso il programma
+	farà il suo noioso lavoro su tutti i file della cartella.
+	Affincheè l'invio non sia simulato ma reale, cancella tutto
+	nel campo "Indirizzo per invio simulato".
+	Puoi inviare quindi a (tutta!) una singola provincia, oppure
+	indicare la cartella schoolsDetailsFiles e catapultare su
+	tutto il Paese, oppure copiare i file json relativi alle provincie
+	che ti interessano dentro una cartella e indicare quella al
+	programma. Puoi anche modificare i files json, basta che
+	rispetti la sintassi di quelli che hai già
+	
+
+AVVERTENZE: l'Invio Supermassiccio a tutte le scuole italiane che ho fatto
+			io richiede quasi tre ore, durante le quali la vostra casella
+			PEC viene subissata di conferme di accettazione e di consegna
+			oppure mancata consegna. Non so cosa succede se la casella si
+			riempie (cosa che farà senz'altro se non cancellate tutti i
+			messaggi ogni volta che sta per riempirsi), cioè non so se
+			questo possa causare un blocco degli invii in corso.
+			Inoltre fai attenzione al traffico dati: ho generato circa
+			5 GB di pdf, e ho appizzato 3,50€ perché mi ero dimenticato
+			che stavo usando una connessione con limite giornaliero
+			(se un amico non mi avesse fatto notare la cazzata che stavo
+			facendo ne avrei spesi molti molti di più)
+
+Se qualcosa va storto, cerca di cavartela da solo.
+Se proprio non va, copia tutto l'output che compare nel terminale e
+mandami una mail (davgatto@gmail.com).
+Non garantisco niente, ma se trovo il tempo risolvo.
+
+
+Il programma è rilasciato con licenza GNU GPL 
+(vedi <http://www.gnu.org/licenses/>); in breve:
+puoi usarlo, copiarlo e distribuirlo e puoi anche modificarlo,
+a patto che le versioni modificate siano chiaramente contrassegnate
+come tali e che siano a loro volta software libero.
+Il funzionamento non è garantito e l'autore declina ogni responsabilità
+su eventuali danni provocati dal software.
+
+Chi trova lavoro mi offre da bere (postilla alla licenza, non so cosa ne
+pensi Linus Torvalds - al quale devo molte birre, dovessi beccarlo)
+
+
+NOTE PER CHI SA PROGRAMMARE (OPPURE VORREBBE IMPARARE)
+
+MADKing è nato come esercizio per imparare a modificare PDF con java, 
+questo spiega perché funziona impacchiando cose su un modello di MAD
+piuttosto che generare direttamente l'intero file, cosa che sarebbe più logica
+e risolverebbe problemi di spazio sul foglio (e questo è già un consiglio
+per eventuali sviluppatori di buon cuore)..
+Inizialmente doveva comporsi di due moduli senza GUI, MADMaker per preparare
+i pdf e MADSender per spedirli, poi ho scritto l'orribile GUI e i due
+rami originali hanno perso il main, per questo il codice vi sembrerà un po'
+demenziale (la GUI a quel punto doveva passare gli argomenti come array
+di stringhe, cosa che non avrebbe avuto alcun senso se avessi immaginato
+da subito di fare un form).
+Per ottenere l'abominevole lista di tutte le scuole italiane ho scritto
+uno scraper in Python (con Scrapy, il sito scrappato è indicato nei commenti
+agli script che stanno in MADKing/jar/WebScrapers) e uno script che pettina il
+tutto in json. Anche qui ci sarebbe ampio margine di miglioramento, ma sono
+fiducioso che qualcuno del progetto OpenData un giorno si accorgerà
+che il loro splendido database di scuole (che non ho usato) è reso
+quasi inutile da un bug che fa sì che al momento di esportare i dati
+(che sarebbero già in json, 'tacci loro!) ('tacci loro dei dati, eh!,
+non del team di OpenData, che ovviamente ha tutta la mia stima)
+al momento di esportare i dati, dicevo, per qualche motivo esporta
+sempre la stessa lista di scuole di Torino (oppure magari sono io
+che sono una scimmia, può anche darsi).
+Ad ogni modo, i file json delle scuole contengono anche campi che il
+programma non utilizza, in particolare il tipo di istituto, cosa
+che si potrebbe usare per permettereall'utente di selezionare i tipi
+di scuola ai quali vuole mandare la MAD (io l'ho mandata anche alle
+elementari, per esempio - per loro è solo UNA e-mail da cancellare!)
+Poi ci starebbe la documentazione, una GUI guardabile e chissà che altro.
+
+
+Ci sono i giro dei lordoni che offrono questo servizio a prezzi tipo venti
+o settanta euro, lucrando su di noi aspiranti prof disoccupati nel più
+becero dei modi dal momento che i contratti che si ottengono con MAD
+sono forse l'ultima forma di lavoro ufficialmente precario ancora legale
+in Italia.
+					"Burn them all!"	[Cit.]
