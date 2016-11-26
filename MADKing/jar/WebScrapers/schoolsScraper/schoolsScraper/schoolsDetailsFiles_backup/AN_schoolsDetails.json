@@ -1,0 +1,741 @@
+[
+	{
+		"codMec": "anis00400l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VANVITELLI - STRACCA - ANGELINI",
+		"indirizzo": "VIA U. TREVI 4",
+		"cap": "60131",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic80800q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARCEVIA",
+		"indirizzo": "VIA C. BATTISTI, 5",
+		"cap": "60011",
+		"comune": "ARCEVIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic81500v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAMERANO",
+		"indirizzo": "VIA DANTE ALIGHIERI,  3",
+		"cap": "60021",
+		"comune": "CAMERANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic84100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELFIDARDO \"MAZZINI\"",
+		"indirizzo": "CORSO XVIII SETTEMBRE, 25",
+		"cap": "60022",
+		"comune": "CASTELFIDARDO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83100r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELFIDARDO \"PAOLO SOPRANI\"",
+		"indirizzo": "VIA F.LLI ROSSELLI  18",
+		"cap": "60022",
+		"comune": "CASTELFIDARDO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic827005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERRETO D\\'ESI \"ITALO CARLONI\"",
+		"indirizzo": "VIA XXIV MAGGIO",
+		"cap": "60043",
+		"comune": "CERRETO D\\'ESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic850006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. \"RITA LEVI-MONTALCINI\"",
+		"indirizzo": "VIA PAGANINI  5",
+		"cap": "60033",
+		"comune": "CHIARAVALLE",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic85200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CHIARAVALLE \"MARIA MONTESSORI\"",
+		"indirizzo": "VIA G. LEOPARDI,8",
+		"cap": "60033",
+		"comune": "CHIARAVALLE",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic834008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CORINALDO",
+		"indirizzo": "VIALE DANTE, 45",
+		"cap": "60013",
+		"comune": "CORINALDO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"LUIGI BARTOLINI\"",
+		"indirizzo": "VIA N.SAURO 31",
+		"cap": "60034",
+		"comune": "CUPRAMONTANA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic84500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FABRIANO EST \"ALDO MORO\"",
+		"indirizzo": "VIA ALDO MORO",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic828001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FABRIANO \"F. IMONDI ROMAGNOLI\"",
+		"indirizzo": "PIAZZA F.LLI ROSSELLI N. 13",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anpc03000b",
+		"tipo": "LICEO CLASSICO",
+		"nome": "FRANCESCO STELLUTI",
+		"indirizzo": "VIA        RINALDA PAVONI 18",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01800e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MERLONI - MILIANI",
+		"indirizzo": "LARGO      SALVO D\\'ACQUISTO  2",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anps05000q",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "VITO VOLTERRA",
+		"indirizzo": "VIA RINALDA PAVONI, 14",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anpc060007",
+		"tipo": "LICEO CLASSICO",
+		"nome": "VITTORIO EMANUELE II",
+		"indirizzo": "CORSO      MATTEOTTI,  48",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis02100a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GALILEO GALILEI",
+		"indirizzo": "VIALE DEL LAVORO  38",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LORETO \"GIANNUARIO SOLARI\"",
+		"indirizzo": "VIA        BRAMANTE            119",
+		"cap": "60025",
+		"comune": "LORETO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis00800x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"A.EINSTEIN - A.NEBBIA\"",
+		"indirizzo": "VIA        ABRUZZO, SNC",
+		"cap": "60025",
+		"comune": "LORETO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83700q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MOIE \"CARLO URBANI\"",
+		"indirizzo": "VIA  VENEZIA, 14",
+		"cap": "60030",
+		"comune": "MAIOLATI SPONTINI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTEROBERTO \"BENIAMINO GIGLI\"",
+		"indirizzo": "VIA TRENTO 54",
+		"cap": "60030",
+		"comune": "MONTE ROBERTO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic851002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTE SAN VITO",
+		"indirizzo": "VIA PIANA DI CARDINALE, 46",
+		"cap": "60037",
+		"comune": "MONTE SAN VITO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic82300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTEMARCIANO - MARINA",
+		"indirizzo": "VIA G.B. MAROTTI, 26",
+		"cap": "60018",
+		"comune": "MONTEMARCIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic814003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NUMANA \"GIOVANNI PAOLO II\"",
+		"indirizzo": "VIA CONERO 9",
+		"cap": "60026",
+		"comune": "NUMANA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic842007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OSIMO  \"CAIO GIULIO CESARE\"",
+		"indirizzo": "PIAZZALE   BELLINI 1",
+		"cap": "60027",
+		"comune": "OSIMO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic843003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OSIMO  BRUNO DA OSIMO",
+		"indirizzo": "VIA S. LUCIA 10",
+		"cap": "60027",
+		"comune": "OSIMO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic84400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OSIMO \"F.LLI TRILLINI\"",
+		"indirizzo": "VIA ALDO MORO, 72",
+		"cap": "60027",
+		"comune": "OSIMO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis00900q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CORRIDONI - CAMPANA",
+		"indirizzo": "VIA        MOLINO MENSA",
+		"cap": "60027",
+		"comune": "OSIMO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01100q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. I. S.   OSIMO \"LAENG\" - CASTELFIDARDO",
+		"indirizzo": "VIA MOLINO MENSA, 1B",
+		"cap": "60027",
+		"comune": "OSIMO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic81000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OSTRA",
+		"indirizzo": "VIALE MATTEOTTI 29",
+		"cap": "60010",
+		"comune": "OSTRA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic80300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POLVERIGI \"M. RICCI\"",
+		"indirizzo": "VIA MARCONI, 22",
+		"cap": "60020",
+		"comune": "POLVERIGI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic805008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOACCHINO ROSSINI",
+		"indirizzo": "VIA DELL\\'UNIONE    N. 4",
+		"cap": "60030",
+		"comune": "SAN MARCELLO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic806004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SASSOFERRATO \"BARTOLO DA SASS.\"",
+		"indirizzo": "P.LE PARTIGIANI DEL MONTE STREGA,1",
+		"cap": "60041",
+		"comune": "SASSOFERRATO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic84700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SENIGALLIA CENTRO - FAGNANI",
+		"indirizzo": "VIA MAIERINI, 9",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anps010009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "E. MEDI",
+		"indirizzo": "VIALE IV NOVEMBRE, 21",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SENIGALLIA MARCHETTI",
+		"indirizzo": "VIALE DEI  GERANI              1",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "antd02000q",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ENZO FERRUCCIO CORINALDESI",
+		"indirizzo": "VIA    T.D\\'AQUINO  4",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic848006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SENIGALLIA \"MARIO GIACOMELLI\"",
+		"indirizzo": "VIA PUCCINI, 22",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic849002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SENIGALLIA SUD  - BELARDI",
+		"indirizzo": "VIA MARCHE  42",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01600v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"BETTINO PADOVANO\"",
+		"indirizzo": "VIA ROSMINI, 22/B",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01900a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. PANZINI",
+		"indirizzo": "VIA CAPANNA 62/A",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anpc040002",
+		"tipo": "LICEO CLASSICO",
+		"nome": "GIULIO PERTICARI",
+		"indirizzo": "VIA T. D\\'AQUINO, 2",
+		"cap": "60019",
+		"comune": "SENIGALLIA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic80900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.SAN QUIRICO\"DON M.COSTANTINI\"",
+		"indirizzo": "VIA GRAMSCI 20",
+		"cap": "60048",
+		"comune": "SERRA SAN QUIRICO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic835004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"NORI DE\\' NOBILI\" TRECASTELLI",
+		"indirizzo": "VIALE UMBERTO I  N.18",
+		"cap": "60012",
+		"comune": "TRECASTELLI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic84600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FABRIANO OVEST \"MARCO POLO\"",
+		"indirizzo": "VIA LUIGI FABBRI, 1",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01700p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. MOREA - VIVARELLI",
+		"indirizzo": "VIA        P. MATTARELLA, 20",
+		"cap": "60044",
+		"comune": "FABRIANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic82500d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FALCONARA CENTRO",
+		"indirizzo": "VIA REPUBBLICA 6",
+		"cap": "60015",
+		"comune": "FALCONARA MARITTIMA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic826009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"GALILEO FERRARIS\"",
+		"indirizzo": "VIA        TITO SPERI      32",
+		"cap": "60015",
+		"comune": "FALCONARA MARITTIMA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic82400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FALCONARA RAFFAELLO SANZIO",
+		"indirizzo": "VIA MARCONI",
+		"cap": "60015",
+		"comune": "FALCONARA MARITTIMA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis002001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"LIVIO CAMBI - DONATELLO SERRANI\"",
+		"indirizzo": "VIA        S. DI SANTAROSA    2/A",
+		"cap": "60015",
+		"comune": "FALCONARA MARITTIMA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic80700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FILOTTRANO \"BELTRAMI\"",
+		"indirizzo": "VIA M.L. KING  1",
+		"cap": "60024",
+		"comune": "FILOTTRANO",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis001005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"E.PIERALISI\"",
+		"indirizzo": "VIA        R. SANZIO 8",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic84000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "JESI \"SAN FRANCESCO\"",
+		"indirizzo": "VIALE VERDI N.29",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "antf03000l",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "GUGLIELMO MARCONI",
+		"indirizzo": "VIA        R. SANZIO 8",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic830001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"FEDERICO II\" JESI",
+		"indirizzo": "PIAZZALE SAN SAVINO 1",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic82900r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "JESI \"CARLO URBANI\"",
+		"indirizzo": "VIA XX LUGLIO",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic83900b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "JESI \"LORENZO LOTTO\"",
+		"indirizzo": "CORSO      MATTEOTTI           96",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "antd05000g",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "P. CUPPARI",
+		"indirizzo": "VIA LA MALFA 36",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anps040005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS LEONARDO DA VINCI",
+		"indirizzo": "VIALE      VERDI   23",
+		"cap": "60035",
+		"comune": "JESI",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis014007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. VOLTERRA - ELIA",
+		"indirizzo": "VIA ESINO, 36",
+		"cap": "60126",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic813007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA \"NOVELLI NATALUCCI\"",
+		"indirizzo": "VIA FANTI, 10",
+		"cap": "60121",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anmm077007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA SEDE ANCONA",
+		"indirizzo": "VIA ESINO, 36",
+		"cap": "60126",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic81100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA \"AUGUSTO SCOCCHERA\"",
+		"indirizzo": "VIA CADORE 1",
+		"cap": "60123",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anpc010006",
+		"tipo": "LICEO CLASSICO",
+		"nome": "CARLO RINALDINI",
+		"indirizzo": "VIA        CANALE 1",
+		"cap": "60125",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anps03000e",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "G. GALILEI",
+		"indirizzo": "VIA       S.ALLENDE GOSSENS",
+		"cap": "60131",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic80400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA - ANCONA NORD",
+		"indirizzo": "VIA VOLTA 1/A",
+		"cap": "60126",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic82000a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA - GRAZIE TAVERNELLE",
+		"indirizzo": "VIA G. VERGA, 2",
+		"cap": "60128",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic819006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA - QUARTIERI NUOVI",
+		"indirizzo": "VIA  L. LANZI",
+		"cap": "60131",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic81800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA - POSATORA PIANO ARCHI",
+		"indirizzo": "VIA        URBINO, 22",
+		"cap": "60126",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic81700e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCONA - PINOCCHIO MONTESICURO",
+		"indirizzo": "VIA MONTAGNOLA 105",
+		"cap": "60127",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anic81600p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"CITTADELLA - MARGHERITA HACK\"",
+		"indirizzo": "VIA TIZIANO, 50",
+		"cap": "60125",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "ansd01000q",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO \"EDGARDO MANNUCCI\"",
+		"indirizzo": "VIA        MICHELANGELO BUONARROTI  12",
+		"cap": "60125",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01200g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L.DI SAVOIA - G. BENINCASA",
+		"indirizzo": "VIA MARCELLO MARINI 33-35",
+		"cap": "60129",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+	,
+	{
+		"codMec": "anis01300b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"PODESTI - CALZECCHI ONESTI\"",
+		"indirizzo": "STRADA DI PASSO VARANO, 17",
+		"cap": "60131",
+		"comune": "ANCONA",
+		"provincia": "AN"
+	}
+]

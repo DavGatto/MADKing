@@ -1,0 +1,271 @@
+[
+	{
+		"codMec": "vbic805003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"INNOCENZO IX\"",
+		"indirizzo": "VIA INNOCENZO IX N. 2",
+		"cap": "28861",
+		"comune": "BACENO",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic81000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"FOGAZZARO\"",
+		"indirizzo": "VIA BRERA N. 12",
+		"cap": "28831",
+		"comune": "BAVENO",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic80300b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"CARMINE\"",
+		"indirizzo": "VIA A. ZAMMARETTI 4",
+		"cap": "28822",
+		"comune": "CANNOBIO",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic80800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"FRATELLI CASETTI\"",
+		"indirizzo": "VIA COMBATTENTI N. 1 - FRAZ. PREGLIA",
+		"cap": "28865",
+		"comune": "CREVOLADOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbee00200n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD \"DOMODOSSOLA I\"",
+		"indirizzo": "VIA ROSMINI N. 16",
+		"cap": "28845",
+		"comune": "DOMODOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbee00300d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD \"DOMODOSSOLA II\"",
+		"indirizzo": "VIA SAN FRANCESCO N. 44",
+		"cap": "28845",
+		"comune": "DOMODOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbps030009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS \"SPEZIA\"",
+		"indirizzo": "VIA MENOTTI N. 5/7",
+		"cap": "28845",
+		"comune": "DOMODOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbis00300g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"MARCONI-GALLETTI-EINAUDI\"",
+		"indirizzo": "VIA ALDO OLIVA N. 15",
+		"cap": "28845",
+		"comune": "DOMODOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbmm01700a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS DI DOMODOSSOLA",
+		"indirizzo": "VIA TERRACINI N. 23",
+		"cap": "28845",
+		"comune": "DOMODOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic80900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"GALILEO GALILEI\"",
+		"indirizzo": "VIA PARIANI N. 25",
+		"cap": "28883",
+		"comune": "GRAVELLONA TOCE",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbis00400b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"DALLA CHIESA-SPINELLI\"",
+		"indirizzo": "VIA COLOMBERA N. 8",
+		"cap": "28887",
+		"comune": "OMEGNA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic819001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI CRUSINALLO-CASALE C.C.",
+		"indirizzo": "VIA MONTE MASSONE N. 5",
+		"cap": "28887",
+		"comune": "OMEGNA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbis00100x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"GOBETTI\"",
+		"indirizzo": "VIA XI SETTEMBRE N. 11",
+		"cap": "28887",
+		"comune": "OMEGNA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic818005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI OMEGNA CIREGGIO",
+		"indirizzo": "VIA LEONARDO DA VINCI N. 47",
+		"cap": "28887",
+		"comune": "OMEGNA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic817009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"FILIPPO MARIA BELTRAMI\"",
+		"indirizzo": "VIA DE AMICIS N. 7",
+		"cap": "28887",
+		"comune": "OMEGNA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic81600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ALTO VERBANO",
+		"indirizzo": "VIALE  MARSAGLIA N. 7",
+		"cap": "28818",
+		"comune": "PREMENO",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic804007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"A. TESTORE\"",
+		"indirizzo": "VIA TORINO N. 11",
+		"cap": "28857",
+		"comune": "SANTA MARIA MAGGIORE",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic81100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"C. REBORA\"",
+		"indirizzo": "VIALE VIRGILIO N. 1",
+		"cap": "28838",
+		"comune": "STRESA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbis006003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  \"MAGGIA\"",
+		"indirizzo": "VIALE MAINARDI N. 5",
+		"cap": "28838",
+		"comune": "STRESA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbis00200q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"FERRINI-FRANZOSINI\"",
+		"indirizzo": "VIA MASSARA N. 8",
+		"cap": "28922",
+		"comune": "VERBANIA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic81400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI VERBANIA TROBASO",
+		"indirizzo": "VIA REPUBBLICA  N. 6",
+		"cap": "28923",
+		"comune": "VERBANIA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic813002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"RINA MONTI STELLA\"",
+		"indirizzo": "VIA MARCONI N. 6",
+		"cap": "28922",
+		"comune": "VERBANIA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic81500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DI VERBANIA INTRA",
+		"indirizzo": "VIA ROSMINI N. 6",
+		"cap": "28900",
+		"comune": "VERBANIA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbps02000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO CL - SC - SC UMANE \"B. CAVALIERI\"",
+		"indirizzo": "VIA MADONNA DI CAMPAGNA N. 18",
+		"cap": "28922",
+		"comune": "VERBANIA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbis00700v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"L. COBIANCHI\"",
+		"indirizzo": "PIAZZA MARTIRI DI TRAREGO 8",
+		"cap": "28921",
+		"comune": "VERBANIA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic812006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"BAGNOLINI\"",
+		"indirizzo": "VIA BOLDRINI N. 28",
+		"cap": "28844",
+		"comune": "VILLADOSSOLA",
+		"provincia": "VB"
+	}
+	,
+	{
+		"codMec": "vbic80600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"VALTOCE\"",
+		"indirizzo": "VIA ARCH. VIETTI VIOLI N. 17/25",
+		"cap": "28805",
+		"comune": "VOGOGNA",
+		"provincia": "VB"
+	}
+]

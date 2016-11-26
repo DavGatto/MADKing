@@ -1,0 +1,611 @@
+[
+	{
+		"codMec": "brtf010004",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITT GIORGI BRINDISI",
+		"indirizzo": "VIA        AMALFI 2",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric817007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CASALE\"",
+		"indirizzo": "VIA        PRIMO LONGOBARDO",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brrh01000q",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSEOA  \"S. PERTINI\" - BRINDISI",
+		"indirizzo": "VIA  APPIA, 356",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brrf010008",
+		"tipo": "IST  PROF  FEMMINILE",
+		"nome": "IPSSS -MORVILLO FALCONE-BR",
+		"indirizzo": "VIA GALANTI, 1",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brps09000v",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS -E. FERMI-MONTICELLI - BRINDISI",
+		"indirizzo": "VIALE      PORTA PIA 39",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brpm010003",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO-LING-S.U.-E.S.-E.PALUMBO-BRINDISI",
+		"indirizzo": "VIA ACHILLE GRANDI 17",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brmm07900g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 BRINDISI",
+		"indirizzo": "VIA DALMAZIA, 1",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris01700b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"E. MAJORANA\"",
+		"indirizzo": "VIA MONTEBELLO, 11",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris01600g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CARNARO-MARCONI-FLACCO-BELLUZZI BRINDISI",
+		"indirizzo": "VIA   N. BRANDI, 11",
+		"cap": "72011",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris01400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IISS  \"C. DE MARCO-VALZANI\"-BRINDISI",
+		"indirizzo": "VIA        NICOLA BRANDI, 1",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris00200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS -MARZOLLA-SIMONE-DURANO - BRINDISI",
+		"indirizzo": "VIA NARDELLI, 2",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric83500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CENTRO\" BRINDISI",
+		"indirizzo": "VIA FERRANTE FORNARI, 25",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brri010007",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPSIA -G.FERRARIS-BRINDISI",
+		"indirizzo": "VIA        ADAMELLO   N.18",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric81000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO \"BOZZANO\"",
+		"indirizzo": "VIALE      ALDO MORO           2",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric811008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"SANT\\'ELIA - COMMENDA",
+		"indirizzo": "VIA MANTEGNA 8",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric812004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"SANTA CHIARA\"",
+		"indirizzo": "VIALE TOGLIATTI, 4",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric81300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"COMMENDA\"",
+		"indirizzo": "VIA MECENATE, 68",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric81400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CENTRO 1\" - BRINDISI",
+		"indirizzo": "CORSO ROMA,89",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric81500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CAPPUCCINI\"",
+		"indirizzo": "VIA DON L. GUANELLA, 1",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric81600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"PARADISO - TUTURANO\"",
+		"indirizzo": "PIAZZA GRAZIA DELEDDA",
+		"cap": "72100",
+		"comune": "BRINDISI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric818003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAROVIGNO",
+		"indirizzo": "VIA GIOSUE\\' CARDUCCI, 1",
+		"cap": "72012",
+		"comune": "CAROVIGNO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRIMO I.C. CEGLIE MESSAPICA",
+		"indirizzo": "VIA MACHIAVELLI 40",
+		"cap": "72013",
+		"comune": "CEGLIE MESSAPICA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris006001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS- AGOSTINELLI -CEGLIE M.",
+		"indirizzo": "VIA  OVIDIO, S.N.",
+		"cap": "72013",
+		"comune": "CEGLIE MESSAPICA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SECONDO I.C. CEGLIE MESSAPICA",
+		"indirizzo": "VIA FRANCAVILLA, 1",
+		"cap": "72013",
+		"comune": "CEGLIE MESSAPICA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric80200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. \"MANZONI-ALIGHIERI\"",
+		"indirizzo": "VIA CASTEL FIDARDO, 70",
+		"cap": "72020",
+		"comune": "CELLINO SAN MARCO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric820003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CISTERNINO",
+		"indirizzo": "VIA ROMA 110",
+		"cap": "72014",
+		"comune": "CISTERNINO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brpm04000v",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO POL.  D. QUIRICO PUNZI",
+		"indirizzo": "VIA MADONNA DEL SOCCORSO -CISTERNINO-",
+		"cap": "72014",
+		"comune": "CISTERNINO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric80700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO ERCHIE",
+		"indirizzo": "VIA BOCCACCIO,13",
+		"cap": "72020",
+		"comune": "ERCHIE",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris00900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS -G.SALVEMINI-FASANO -",
+		"indirizzo": "VIA        GIUSEPPE ATTOMA",
+		"cap": "72015",
+		"comune": "FASANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bree02300l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "II CD -GIOV. XXIII-FASANO",
+		"indirizzo": "VIA MIGNOZZI 96",
+		"cap": "72015",
+		"comune": "FASANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric80800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"D.ALIGHIERI\" V.CASTELLI",
+		"indirizzo": "VIA FRIULI VENEZIA GIULIA N. 1",
+		"cap": "72029",
+		"comune": "VILLA CASTELLI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brmm07700x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SSS 1 GRADO G.BIANCO-G.PASCOLI",
+		"indirizzo": "VIA GIOVANNI XXIII, 64",
+		"cap": "72015",
+		"comune": "FASANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bree02200r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I CD - COLLODI - FASANO",
+		"indirizzo": "VIA COLLODI 3",
+		"cap": "72015",
+		"comune": "FASANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris00300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IISS -L. DA VINCI - FASANO -",
+		"indirizzo": "VIA ATTOMA,9",
+		"cap": "72015",
+		"comune": "FASANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric80600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.GALILEI  PEZZE DI GRECO",
+		"indirizzo": "VIA        C.BECCARIA",
+		"cap": "72010",
+		"comune": "FASANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERZO I.C. FRANCAVILLA F.NA",
+		"indirizzo": "VIALE G. ABBADESSA, 11",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brps030007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS -F. RIBEZZO  - FRANCAVILLA F.",
+		"indirizzo": "VIA        FABIO FILZI 48",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric832009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SECONDO ISTITUTO COMPRENSIVO",
+		"indirizzo": "VIALE VINCENZO LILLA",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brtf02000p",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITST  -FERMI - FRANCAVILLA F.",
+		"indirizzo": "VIA        CAPITANO DI CASTRI",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brtd01000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITES-G.CALO\\'  - FRANCAVILLA FONTANA",
+		"indirizzo": "VIA GORIZIA, 71",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric83100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRIMO I.C. FRANCAVILLA FONTANA",
+		"indirizzo": "VIA ORATORIO DELLA MORTE, 2-4",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris00800l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS-V. LILLA  - FRANCAVILLA F.",
+		"indirizzo": "VIALE      LILLA 23/A",
+		"cap": "72021",
+		"comune": "FRANCAVILLA FONTANA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric83000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I C   LATIANO",
+		"indirizzo": "PIAZZA RUBINO, 1",
+		"cap": "72022",
+		"comune": "LATIANO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris01100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS- E. FERDINANDO - MESAGNE",
+		"indirizzo": "VIA ESCHILO",
+		"cap": "72023",
+		"comune": "MESAGNE",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bree03100g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I CD - G.CARDUCCI -MESAGNE",
+		"indirizzo": "VIA MARCONI",
+		"cap": "72023",
+		"comune": "MESAGNE",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brmm06500n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS MATERDONA - MORO MESAGNE",
+		"indirizzo": "VIA        CARDUCCI",
+		"cap": "72023",
+		"comune": "MESAGNE",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bree03200b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "II CD - GIOV.XXIII - MESAGNE",
+		"indirizzo": "VIA MAJA MATERDONA 66",
+		"cap": "72023",
+		"comune": "MESAGNE",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric826002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SECONDO I.C. ORIA",
+		"indirizzo": "VIA CAMILLO CAVOUR,1",
+		"cap": "72024",
+		"comune": "ORIA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric825006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRIMO I.C. ORIA",
+		"indirizzo": "VIA RENATO LOMBARDI 7",
+		"cap": "72024",
+		"comune": "ORIA",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bree03000q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.D. \"PESSINA-VITALE\" OSTUNI",
+		"indirizzo": "PIAZZA ITALIA, 11",
+		"cap": "72017",
+		"comune": "OSTUNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris004009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS -L. PEPE - A.CALAMO- OSTUNI",
+		"indirizzo": "VIA        T. NOBILE",
+		"cap": "72017",
+		"comune": "OSTUNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "brmm07800q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SC. SECONDARIA I GRADO OSTUNI",
+		"indirizzo": "VIA CARLO ALBERTO, 2",
+		"cap": "72017",
+		"comune": "OSTUNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bree04000a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.D. \"GIOVANNI XXIII\" OSTUNI",
+		"indirizzo": "VIA DANIELE MANIN 32",
+		"cap": "72017",
+		"comune": "OSTUNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bris00700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS -PANTANELLI-MONNET - OSTUNI",
+		"indirizzo": "VIA DOMENICO SILLETTI N. 1",
+		"cap": "72017",
+		"comune": "OSTUNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric80000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC-GIOV. XXIII-S. MICHELE S.NO",
+		"indirizzo": "VIA GIOVANNI XXIII, 12",
+		"cap": "72018",
+		"comune": "SAN MICHELE SALENTINO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN.PANCRAZIO S.NO",
+		"indirizzo": "VIA S.PASQUALE",
+		"cap": "72026",
+		"comune": "SAN PANCRAZIO SALENTINO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. S.PIETRO VERNOTICO",
+		"indirizzo": "VIA MONTE PIANA",
+		"cap": "72027",
+		"comune": "SAN PIETRO VERNOTICO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SECONDO I.C. S.VITO D. NORMANNI",
+		"indirizzo": "VIA 25 LUGLIO",
+		"cap": "72019",
+		"comune": "SAN VITO DEI NORMANNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric82100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRIMO I.C. S.VITO DEI NORMANNI",
+		"indirizzo": "VIA SAN DOMENICO",
+		"cap": "72019",
+		"comune": "SAN VITO DEI NORMANNI",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric80100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC-VALESIUM-  TORCHIAROLO",
+		"indirizzo": "PIAZZA     MUNICIPIO           6",
+		"cap": "72020",
+		"comune": "TORCHIAROLO",
+		"provincia": "BR"
+	}
+	,
+	{
+		"codMec": "bric805001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MAZZINI\" TORRE S.S.",
+		"indirizzo": "VIA PROVINCIALE PER ERCHIE",
+		"cap": "72028",
+		"comune": "TORRE SANTA SUSANNA",
+		"provincia": "BR"
+	}
+]

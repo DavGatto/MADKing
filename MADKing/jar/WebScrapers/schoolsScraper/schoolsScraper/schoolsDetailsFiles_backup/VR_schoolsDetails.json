@@ -1,0 +1,1081 @@
+[
+	{
+		"codMec": "vris01900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "COPERNICO - PASOLI",
+		"indirizzo": "VIA ANTI, 5",
+		"cap": "37132",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrmm136004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA DI VERONA",
+		"indirizzo": "VIA PORTA CATENA 4",
+		"cap": "37138",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrpc020003",
+		"tipo": "LICEO CLASSICO",
+		"nome": "SCIPIONE MAFFEI",
+		"indirizzo": "VIA        ABRAMO MASSALONGO 4",
+		"cap": "37121",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrpm01000l",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "CARLO MONTANARI",
+		"indirizzo": "VICOLO     STIMATE 4",
+		"cap": "37122",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrps020006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GALILEI",
+		"indirizzo": "VIA  S. GIACOMO 11",
+		"cap": "37135",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrps03000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GIROLAMO FRACASTORO",
+		"indirizzo": "VIA MOSCHINI, 11/A",
+		"cap": "37129",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrps04000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"A. MESSEDAGLIA\"",
+		"indirizzo": "VIA DON G. BERTONI 3/B",
+		"cap": "37122",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrrh02000x",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "ANGELO BERTI",
+		"indirizzo": "VIA AEROP. ANGELO BERARDI, 51",
+		"cap": "37139",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrri01000r",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "GIOVANNI GIORGI",
+		"indirizzo": "VIA RISMONDO, 10",
+		"cap": "37129",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrsl03000n",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LICEO ARTISTICO DI VERONA",
+		"indirizzo": "VIA        DELLE COSTE 6",
+		"cap": "37138",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89600t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VIGASIO",
+		"indirizzo": "VIA E. BASSINI 6",
+		"cap": "37068",
+		"comune": "VIGASIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric84600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VILLA BARTOLOMEA",
+		"indirizzo": "CORSO FRACCAROLI, 58",
+		"cap": "37049",
+		"comune": "VILLA BARTOLOMEA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris00700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CARLO ANTI - LICEO - ITI - PROFESSIONALE",
+		"indirizzo": "VIA MAGENTA 7B",
+		"cap": "37069",
+		"comune": "VILLAFRANCA DI VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrps06000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ENRICO MEDI",
+		"indirizzo": "VIA        MAGENTA 7/A",
+		"cap": "37069",
+		"comune": "VILLAFRANCA DI VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VILLAFRANCA CAVALCHINI MORO",
+		"indirizzo": "CORSO VITTORIO EMANUELE, N.113",
+		"cap": "37069",
+		"comune": "VILLAFRANCA DI VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrrh03000e",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "LUIGI CARNACINA",
+		"indirizzo": "VIA EUROPA UNITA",
+		"cap": "37011",
+		"comune": "BARDOLINO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric83400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BARDOLINO",
+		"indirizzo": "VIA  D.ALIGHIERI, 16",
+		"cap": "37011",
+		"comune": "BARDOLINO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric845001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BOSCO CHIESANUOVA",
+		"indirizzo": "PIAZZETTA ALPINI 5",
+		"cap": "37021",
+		"comune": "BOSCO CHIESANUOVA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric872009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BOVOLONE",
+		"indirizzo": "VIA  FRATELLI BANDIERA 8",
+		"cap": "37051",
+		"comune": "BOVOLONE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric81300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BUSSOLENGO",
+		"indirizzo": "VIA CARLO ALBERTO DALLA CHIESA, 13",
+		"cap": "37012",
+		"comune": "BUSSOLENGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric881004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 22 BUTTAPIETRA -  MONTALCINI",
+		"indirizzo": "VIALE DELL\\'AGRICOLTURA, 3",
+		"cap": "37060",
+		"comune": "BUTTAPIETRA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric85300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CALDIERO",
+		"indirizzo": "VIA        CONTI DA PRATO      9",
+		"cap": "37042",
+		"comune": "CALDIERO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CAPRINO VERONESE",
+		"indirizzo": "VIA S. PERTINI, 22",
+		"cap": "37013",
+		"comune": "CAPRINO VERONESE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric85600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASALEONE",
+		"indirizzo": "PIAZZA DELLA PACE, 2",
+		"cap": "37052",
+		"comune": "CASALEONE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric85900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASTEL D\\'AZZANO",
+		"indirizzo": "VIA        MARCONI            76",
+		"cap": "37060",
+		"comune": "CASTEL D\\'AZZANO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric837002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASTELNUOVO DEL GARDA",
+		"indirizzo": "VIA DEGLI STUDI N. 1",
+		"cap": "37014",
+		"comune": "CASTELNUOVO DEL GARDA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric83300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CAVAION",
+		"indirizzo": "VIA        CAVALLINE           57",
+		"cap": "37010",
+		"comune": "CAVAION VERONESE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric85500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CEREA",
+		"indirizzo": "VIA GANDHI 1",
+		"cap": "37053",
+		"comune": "CEREA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris00100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LEONARDO  DA VINCI",
+		"indirizzo": "VIA        GHANDI",
+		"cap": "37053",
+		"comune": "CEREA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COLOGNA VENETA",
+		"indirizzo": "VIA  RINASCIMENTO       45",
+		"cap": "37044",
+		"comune": "COLOGNA VENETA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DOSSOBUONO DI VILLAFRANCA",
+		"indirizzo": "VIA        DEI MILLE           10",
+		"cap": "37062",
+		"comune": "VILLAFRANCA DI VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric84700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ZEVIO",
+		"indirizzo": "VIA F.LLI STEVANI, 24",
+		"cap": "37059",
+		"comune": "ZEVIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric894006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VERONELLA ZIMELLA",
+		"indirizzo": "VIA G. PASCOLI 219",
+		"cap": "37040",
+		"comune": "ZIMELLA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric87000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COLOGNOLA AI COLLI",
+		"indirizzo": "VIALE IV NOVEMBRE 7",
+		"cap": "37030",
+		"comune": "COLOGNOLA AI COLLI",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric849008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DOLCE\\' PERI",
+		"indirizzo": "VIA BRENNERO",
+		"cap": "37020",
+		"comune": "DOLCE\\'",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric83200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FUMANE - \"LORENZI B.\"",
+		"indirizzo": "VIA PIO BRUGNOLI ,  36",
+		"cap": "37022",
+		"comune": "FUMANE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric84800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GARDA",
+		"indirizzo": "VIA GIOVANNI PASCOLI, 7",
+		"cap": "37016",
+		"comune": "GARDA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris017001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"MARIE CURIE\" GARDA-BUSSOLENGO",
+		"indirizzo": "VIA BERTO BARBARANI, 20",
+		"cap": "37016",
+		"comune": "GARDA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric815005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GREZZANA",
+		"indirizzo": "VIALE RIMEMBRANZA 24",
+		"cap": "37023",
+		"comune": "GREZZANA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ISOLA DELLA SCALA",
+		"indirizzo": "VIALE RIMEMBRANZA 44",
+		"cap": "37063",
+		"comune": "ISOLA DELLA SCALA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris01200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"STEFANI - BENTEGODI\"",
+		"indirizzo": "VIA RIMEMBRANZA 53",
+		"cap": "37063",
+		"comune": "ISOLA DELLA SCALA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris011002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ETTORE BOLISANI\"",
+		"indirizzo": "VIALE RIMEMBRANZA 42",
+		"cap": "37063",
+		"comune": "ISOLA DELLA SCALA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric852004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAVAGNO",
+		"indirizzo": "VIA        CASALE  1",
+		"cap": "37030",
+		"comune": "LAVAGNO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 01 LEGNAGO",
+		"indirizzo": "VIA        XX SETTEMBRE        39",
+		"cap": "37045",
+		"comune": "LEGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrra02000q",
+		"tipo": "IST  PROF  PER L\\'AGRICOLTURA",
+		"nome": "IST. PROF.LE DI STATO \"G.MEDICI\"",
+		"indirizzo": "VIA NINO BIXIO, 49",
+		"cap": "37045",
+		"comune": "LEGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris01400d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G.SILVA-M.RICCI",
+		"indirizzo": "VIA NINO BIXIO 53",
+		"cap": "37045",
+		"comune": "LEGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrpc01000c",
+		"tipo": "LICEO CLASSICO",
+		"nome": "GIOVANNI COTTA",
+		"indirizzo": "VIA DON BOSCO 5",
+		"cap": "37045",
+		"comune": "LEGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89700n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 02 LEGNAGO",
+		"indirizzo": "VIA GIORDANO BRUNO 3",
+		"cap": "37045",
+		"comune": "LEGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris008006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GUARINO VERONESE",
+		"indirizzo": "VIA CAVALIERI DI VITTORIO VENETO 28",
+		"cap": "37047",
+		"comune": "SAN BONIFACIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris00400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"M.O. LUCIANO DAL CERO\"",
+		"indirizzo": "VIA        FIUME     28/BIS",
+		"cap": "37047",
+		"comune": "SAN BONIFACIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric8ab00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 01 SAN BONIFACIO",
+		"indirizzo": "VIA FIUME 61/B",
+		"cap": "37047",
+		"comune": "SAN BONIFACIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric8aa00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 02 SAN BONIFACIO",
+		"indirizzo": "PIAZ.LE MICHELANGELO 1",
+		"cap": "37047",
+		"comune": "SAN BONIFACIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric81700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SAN GIOVANNI ILARIONE",
+		"indirizzo": "VIALE    A. DE GASPERI 39",
+		"cap": "37035",
+		"comune": "SAN GIOVANNI ILARIONE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric8ad009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 02 S.GIOVANNI LUPAT - M.HACK",
+		"indirizzo": "VIA UGO FOSCOLO, 13",
+		"cap": "37057",
+		"comune": "SAN GIOVANNI LUPATOTO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric8ac00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 01  SAN GIOVANNI LUPATOTO",
+		"indirizzo": "VIA CA\\' DEI SORDI 18",
+		"cap": "37057",
+		"comune": "SAN GIOVANNI LUPATOTO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric84000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.MARTINO B.A.",
+		"indirizzo": "VIA GOTTARDI, 2 B",
+		"cap": "37036",
+		"comune": "SAN MARTINO BUON ALBERGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.PIETRO IN CARIANO",
+		"indirizzo": "VIA MARA, 3",
+		"cap": "37029",
+		"comune": "SAN PIETRO IN CARIANO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris016005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"L. CALABRESE - P. LEVI\"",
+		"indirizzo": "VIA MARA, 6",
+		"cap": "37029",
+		"comune": "SAN PIETRO IN CARIANO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric873005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SANGUINETTO",
+		"indirizzo": "VIA GIUSEPPE SINOPOLI, 38",
+		"cap": "37058",
+		"comune": "SANGUINETTO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric85000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S.AMBROGIO V.P",
+		"indirizzo": "VIA GROLA",
+		"cap": "37015",
+		"comune": "SANT\\'AMBROGIO DI VALPOLICELLA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SOAVE",
+		"indirizzo": "VIALE      VITTORIA            93",
+		"cap": "37038",
+		"comune": "SOAVE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric85400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  SOMMACAMPAGNA",
+		"indirizzo": "VIA BASSA, 6",
+		"cap": "37066",
+		"comune": "SOMMACAMPAGNA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric814009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SONA",
+		"indirizzo": "VIA        PERGOLESI           13",
+		"cap": "37060",
+		"comune": "SONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric83800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LUGAGNANO DI SONA",
+		"indirizzo": "VIA        CARDUCCI            10",
+		"cap": "37060",
+		"comune": "SONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric860003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TREGNAGO - BADIA CALAVENA",
+		"indirizzo": "VIA ARCH. G.C. PELLEGRINI CIPOLLA  8",
+		"cap": "37039",
+		"comune": "TREGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric865006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VALEGGIO SUL MINCIO",
+		"indirizzo": "VIA BERTO BARBARANI, 4",
+		"cap": "37067",
+		"comune": "VALEGGIO SUL MINCIO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrve01000p",
+		"tipo": "EDUCANDATO",
+		"nome": "AGLI ANGELI",
+		"indirizzo": "VIA CESARE BATTISTI 8",
+		"cap": "37122",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric851008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 10 BORGO ROMA EST",
+		"indirizzo": "VIA        B.GIULIARI          40",
+		"cap": "37134",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric830007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 13 CADIDAVID",
+		"indirizzo": "VIA        TURAZZA             12",
+		"cap": "37135",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric83900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VR 06 CHIEVO BASSONA B.GO N.",
+		"indirizzo": "VIA        PUGLIE,7/E",
+		"cap": "37139",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrtl01000t",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "CANGRANDE DELLA SCALA",
+		"indirizzo": "CORSO      PORTA NUOVA 66",
+		"cap": "37122",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrtf03000v",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "GUGLIELMO MARCONI",
+		"indirizzo": "PIAZZALE   GUARDINI, 1",
+		"cap": "37138",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrtd13000d",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "LORGNA-PINDEMONTE",
+		"indirizzo": "CORSO CAVOUR, 19",
+		"cap": "37121",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrtd10000n",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "MARCO POLO",
+		"indirizzo": "VIA        MOSCHINI 11/B",
+		"cap": "37129",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vrtd05000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "LUIGI EINAUDI",
+		"indirizzo": "VIA        S.GIACOMO 13",
+		"cap": "37135",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric87500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 02 SAVAL-PARONA",
+		"indirizzo": "VIA R.FRANCHETTI 17",
+		"cap": "37138",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric87600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  VR 04 PONTE CRENCANO",
+		"indirizzo": "VIA V. SANTINI 74",
+		"cap": "37124",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric87700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 05 SANTA LUCIA",
+		"indirizzo": "VIA MONS. LORENZO BELLOMI, 1",
+		"cap": "37137",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris003003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.S. \"M. MINGHETTI\"",
+		"indirizzo": "VIA        FRATTINI",
+		"cap": "37045",
+		"comune": "LEGNAGO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric84100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MALCESINE",
+		"indirizzo": "VIA CAMPOGRANDE, 1",
+		"cap": "37018",
+		"comune": "MALCESINE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric84200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MINERBE",
+		"indirizzo": "VIA VERDI, 114",
+		"cap": "37046",
+		"comune": "MINERBE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric831003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTECCHIA DI CR. E RONCA\\'",
+		"indirizzo": "VIA SAN PIETRO, N. 75",
+		"cap": "37030",
+		"comune": "MONTECCHIA DI CROSARA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric844005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTEFORTE D\\'ALPONE",
+		"indirizzo": "VIA NOVELLA 4",
+		"cap": "37032",
+		"comune": "MONTEFORTE D\\'ALPONE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric895002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MOZZECANE",
+		"indirizzo": "VIA     DANTE ALIGHIERI",
+		"cap": "37060",
+		"comune": "MOZZECANE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric86400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC NEGRAR",
+		"indirizzo": "VIA  DEGLI ALPINI, 1",
+		"cap": "37024",
+		"comune": "NEGRAR",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric857007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC NOGARA",
+		"indirizzo": "VIA G. GALILEI,6",
+		"cap": "37054",
+		"comune": "NOGARA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric843009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC OPPEANO",
+		"indirizzo": "VIA A.MORO, 12",
+		"cap": "37050",
+		"comune": "OPPEANO",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric836006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 02 PESCANTINA",
+		"indirizzo": "VIA BORGO 70",
+		"cap": "37026",
+		"comune": "PESCANTINA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric899009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 01 PESCANTINA",
+		"indirizzo": "VIA PONTE, 154",
+		"cap": "37026",
+		"comune": "PESCANTINA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric83500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PESCHIERA DEL GARDA",
+		"indirizzo": "VIA GARIBALDI, 2",
+		"cap": "37019",
+		"comune": "PESCHIERA DEL GARDA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric866002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  POVEGLIANO \"BALLADORO\"",
+		"indirizzo": "VIA COLOMBO 20",
+		"cap": "37064",
+		"comune": "POVEGLIANO VERONESE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric816001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC RONCO ALL\\'ADIGE",
+		"indirizzo": "VIALE      VITTORIO VENETO     19",
+		"cap": "37055",
+		"comune": "RONCO ALL\\'ADIGE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric87100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SALIZZOLE",
+		"indirizzo": "PIAZZA CASTELLO 5",
+		"cap": "37056",
+		"comune": "SALIZZOLE",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric878008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "STADIO - BORGO  MILANO",
+		"indirizzo": "VIA SCARABELLO,18",
+		"cap": "37138",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric879004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 08 CENTRO STORICO",
+		"indirizzo": "VIA        DIETRO S.EUFEMIA    14",
+		"cap": "37121",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric880008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 09 VALDONEGA",
+		"indirizzo": "VIA BRECCIA SAN GIORGIO 1",
+		"cap": "37129",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric88200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 11 BORGO ROMA OVEST",
+		"indirizzo": "VIA UDINE, 2",
+		"cap": "37135",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric88300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 12 GOLOSINE",
+		"indirizzo": "VIA VELINO, 20",
+		"cap": "37136",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric88400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 14  SAN MASSIMO",
+		"indirizzo": "VIA POLE, 3",
+		"cap": "37139",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric88500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MAD. DI CAMPAGNA - S.MICHELE",
+		"indirizzo": "VIA MONTE BIANCO, 14",
+		"cap": "37132",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric887003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 16 VALPANTENA",
+		"indirizzo": "P.ZZA PENNE MOZZE,2",
+		"cap": "37142",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric88800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 17 MONTORIO",
+		"indirizzo": "VIA DEI GELSI, 20",
+		"cap": "37141",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric88900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 18 VERONETTA- PORTO",
+		"indirizzo": "VIA G.TREZZA, 13",
+		"cap": "37129",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89000v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 15 BORGO VENEZIA",
+		"indirizzo": "VIA CESARE BETTELONI,21",
+		"cap": "37131",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89100p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 19 SANTA CROCE",
+		"indirizzo": "VIA S.FELICE EXTRA 15",
+		"cap": "37131",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vric89200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VR 03 S.BERNARDINO-B.GO TN",
+		"indirizzo": "VIA G.CARLO CAMOZZINI 5",
+		"cap": "37126",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris009002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS M.SANMICHELI",
+		"indirizzo": "PIAZZA     BERNARDI 2",
+		"cap": "37129",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+	,
+	{
+		"codMec": "vris01800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. FERRARIS - E. FERMI",
+		"indirizzo": "VIA  DEL PONTIERE , 40",
+		"cap": "37122",
+		"comune": "VERONA",
+		"provincia": "VR"
+	}
+]

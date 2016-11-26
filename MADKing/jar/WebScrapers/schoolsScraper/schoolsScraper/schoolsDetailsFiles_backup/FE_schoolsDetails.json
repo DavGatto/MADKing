@@ -1,0 +1,411 @@
+[
+	{
+		"codMec": "feis008008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTRUZ.SUP.\\'REMO BRINDISI\\'",
+		"indirizzo": "VIA M.M.BOIARDO,10",
+		"cap": "44029",
+		"comune": "COMACCHIO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic82500t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COPPARO",
+		"indirizzo": "VIA VITTORIO VENETO, 23",
+		"cap": "44034",
+		"comune": "COPPARO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"F. DE PISIS\" - FERRARA",
+		"indirizzo": "V.LE KRASNODAR, 102",
+		"cap": "44124",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \\'G. PERLASCA\\' - FERRARA",
+		"indirizzo": "VIA POLETTI, 65",
+		"cap": "44122",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81100x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"C.GOVONI\" - FERRARA",
+		"indirizzo": "VIA FORTEZZA, 20",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic810004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"A.COSTA\" - FERRARA",
+		"indirizzo": "VIA PREVIATI, 31",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic80900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DANTE ALIGHIERI\" FERRARA",
+		"indirizzo": "VIA CAMPOSABBIONARIO, 11/A",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic808004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ALBERTO MANZI - S.BARTOLOMEO",
+		"indirizzo": "VIA MASI, 114",
+		"cap": "44124",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic807008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON L. MILANI\" - FERRARA",
+		"indirizzo": "VIA PACINOTTI, 48",
+		"cap": "44123",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic80000d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"C.TURA\" PONTELAGOSCURO",
+		"indirizzo": "VIA MONTEFIORINO, 30",
+		"cap": "44123",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feps01000n",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"A.ROITI\"",
+		"indirizzo": "V.LE LEOPARDI, 64",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "fetd08000q",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC E PER P.A. CLE \"V.BACHELET\" - FE",
+		"indirizzo": "VIA R.BOVELLI, 7- 13",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "fepc020005",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO \"L.ARIOSTO\"",
+		"indirizzo": "VIA ARIANUOVA, 19",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "femm07000r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA FERRARA",
+		"indirizzo": "VIA CAMILLA RAVERA, 11",
+		"cap": "44122",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis01300q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. DI ISTRUZIONE SUPERIORE \"L.EINAUDI\"",
+		"indirizzo": "VIA SAVONAROLA,32",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis01200x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. \"N.COPERNICO-A.CARPEGGIANI\"",
+		"indirizzo": "VIA PONTEGRADELLA, 25",
+		"cap": "44123",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis011004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"O.VERGANI\"",
+		"indirizzo": "VIA SOGARI, 3",
+		"cap": "44121",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis00700c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.  ISTRUZIONE SUPERIORE \"G. CARDUCCI\"",
+		"indirizzo": "VIA DELLA CANAPA, 75",
+		"cap": "44122",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis009004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. ISTRUZ. SUP.  \"G.B.ALEOTTI\"",
+		"indirizzo": "VIA C.RAVERA, 11",
+		"cap": "44122",
+		"comune": "FERRARA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  OSTELLATO",
+		"indirizzo": "VIA MARCAVALLO 35-B",
+		"cap": "44020",
+		"comune": "FISCAGLIA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic801009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"A. MANZONI\" MESOLA",
+		"indirizzo": "VIA A. GRAMSCI, 38",
+		"cap": "44026",
+		"comune": "MESOLA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic80500l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. POGGIO RENATICO",
+		"indirizzo": "VIA S. D\\'ACQUISTO, 5/7",
+		"cap": "44028",
+		"comune": "POGGIO RENATICO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic824002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PORTOMAGGIORE",
+		"indirizzo": "P.ZZA XX SETTEMBRE, 17",
+		"cap": "44015",
+		"comune": "PORTOMAGGIORE",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic80600c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"D.ALIGHIERI\" S.AGOSTINO",
+		"indirizzo": "V.LE EUROPA, 49",
+		"cap": "44047",
+		"comune": "SANT\\'AGOSTINO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic803001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON CHENDI\" TRESIGALLO",
+		"indirizzo": "VIA FRANCESCHINI,2",
+		"cap": "44039",
+		"comune": "TRESIGALLO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic80400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"A. COSTA\" VIGARANO M.DA",
+		"indirizzo": "VIA G. MATTEOTTI, 27",
+		"cap": "44049",
+		"comune": "VIGARANO MAINARDA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis00100d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO DI ISTRUZIONE SUPERIORE ARGENTA",
+		"indirizzo": "VIA MATTEOTTI, 16",
+		"cap": "44011",
+		"comune": "ARGENTA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic823006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.1 - ARGENTA",
+		"indirizzo": "VIA XVIII APRILE 2/A",
+		"cap": "44011",
+		"comune": "ARGENTA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic82200a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.2 - ARGENTA",
+		"indirizzo": "VIA  MATTEOTTI 24/D",
+		"cap": "44011",
+		"comune": "ARGENTA",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic802005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"T.BONATI\" - BONDENO",
+		"indirizzo": "VIA MONS. U.GARDENGHI,5",
+		"cap": "44012",
+		"comune": "BONDENO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic816003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.3 - CENTO LOC. RENAZZO",
+		"indirizzo": "VIA RENAZZO 66",
+		"cap": "44045",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis00600l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.T. \"U.BASSI - P.BURGATTI\"",
+		"indirizzo": "VIA RIGONE,1",
+		"cap": "44042",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "fepc01000e",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC  LICEO GINNASIO \"G.CEVOLANI\"",
+		"indirizzo": "VIA MATTEOTTI, 17",
+		"cap": "44042",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \\'IL GUERCINO\\'",
+		"indirizzo": "VIA D.ALIGHIERI, 6",
+		"cap": "44042",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N. 4 CENTO -",
+		"indirizzo": "VIA SALVI, 15",
+		"cap": "44041",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis01400g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTRUZIONE SUPERIORE \"F.LLI TADDIA\"",
+		"indirizzo": "VIA BARUFFALDI, 10",
+		"cap": "44042",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic81900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \\'GIOVANNI PASCOLI\\'",
+		"indirizzo": "VIA PRATO FIORITO, 78 - PENZALE",
+		"cap": "44042",
+		"comune": "CENTO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feis004001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS I.T.C.G. G.MONACO DI POMPOSA",
+		"indirizzo": "VIALE RESISTENZA, 3",
+		"cap": "44021",
+		"comune": "CODIGORO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic815007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CODIGORO",
+		"indirizzo": "VIA MASSARENTI, 1",
+		"cap": "44021",
+		"comune": "CODIGORO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic82100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COMACCHIO",
+		"indirizzo": "VIA FATTIBELLO",
+		"cap": "44022",
+		"comune": "COMACCHIO",
+		"provincia": "FE"
+	}
+	,
+	{
+		"codMec": "feic82000p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PORTO GARIBALDI",
+		"indirizzo": "VIA PASTRENGO, 1",
+		"cap": "44029",
+		"comune": "COMACCHIO",
+		"provincia": "FE"
+	}
+]

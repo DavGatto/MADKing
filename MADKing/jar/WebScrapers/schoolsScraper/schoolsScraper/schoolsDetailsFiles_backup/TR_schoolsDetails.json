@@ -1,0 +1,341 @@
+[
+	{
+		"codMec": "tric81400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ACQUASPARTA",
+		"indirizzo": "VIA DANTE ALGHIERI 12",
+		"cap": "05021",
+		"comune": "ACQUASPARTA",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric81700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALLERONA \"M.CAPPELLETTI\"",
+		"indirizzo": "VIA S. ABBONDIO, 1",
+		"cap": "05011",
+		"comune": "ALLERONA",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tree01500a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. AMELIA \"J. ORSINI\"",
+		"indirizzo": "VIA CINQUE FONTI 94",
+		"cap": "05022",
+		"comune": "AMELIA",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris00600n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.O. AMELIA",
+		"indirizzo": "VIA I MAGGIO 224",
+		"cap": "05022",
+		"comune": "AMELIA",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric803002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ARRONE \"G.FANCIULLI\"",
+		"indirizzo": "VIA MATTEOTTI 3/A",
+		"cap": "05031",
+		"comune": "ARRONE",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric810005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ATTIGLIANO - GUARDEA",
+		"indirizzo": "VIA MONSERRATO, 38",
+		"cap": "05012",
+		"comune": "ATTIGLIANO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric815008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. OMNICOMPR.R.LAPORTA",
+		"indirizzo": "VIA GIOVANNI XXIII,13",
+		"cap": "05015",
+		"comune": "FABRO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric816004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTECASTRILLI \"F.PETRUCCI",
+		"indirizzo": "VIA TEN. F. PETRUCCI, 16",
+		"cap": "05026",
+		"comune": "MONTECASTRILLI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric82000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NARNI SCALO",
+		"indirizzo": "VIA DEL PARCO, 13",
+		"cap": "05036",
+		"comune": "NARNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris00100e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "NARNI I.I.S. SC. MAG. GEOM.  GANDHI",
+		"indirizzo": "VIA   DEI GAROFANI N.4",
+		"cap": "05035",
+		"comune": "NARNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric82100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NARNI CENTRO",
+		"indirizzo": "VIA AURELIO SAFFI, 45",
+		"cap": "05035",
+		"comune": "NARNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric823007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORVIETO - BASCHI",
+		"indirizzo": "PIAZZA MARCONI, 4",
+		"cap": "05018",
+		"comune": "ORVIETO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric82200b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORVIETO  - MONTECCHIO",
+		"indirizzo": "VIA DEI TIGLI, 2",
+		"cap": "05018",
+		"comune": "ORVIETO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris009005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ORVIETO I.I.S. SCIENTIFICO E TECNICO",
+		"indirizzo": "VIA   DEI TIGLI",
+		"cap": "05019",
+		"comune": "ORVIETO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris00200a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ORVIETO I.I.S. ART. CLASS. E PROF.LE",
+		"indirizzo": "VIA        MARSCIANO 1",
+		"cap": "05018",
+		"comune": "ORVIETO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tree00500q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TERNI  A. MORO",
+		"indirizzo": "VIA PASCARELLA N.20",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "trri030005",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I.O. TERNI \"IPSIA\" - C.P.I.A.",
+		"indirizzo": "VIALE      B. BRIN 32",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tree00100c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TERNI \"G.MAZZINI\"",
+		"indirizzo": "VIA CARRARA",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tree00400x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TERNI S.GIOVANNI",
+		"indirizzo": "VIA LIUTPRANDO, 32",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric824003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN VENANZO",
+		"indirizzo": "VIALE GORIZIA 4",
+		"cap": "05010",
+		"comune": "SAN VENANZO",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "trps03000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "TERNI \"R. DONATELLI\"",
+		"indirizzo": "VIA DELLA VITTORIA 35",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "trps020009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "TERNI LICEO SCIENTIFICO \"G. GALILEI\"",
+		"indirizzo": "VIA        I MAGGIO 78",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "trpm01000q",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEI  STATALI \" F. ANGELONI\"",
+		"indirizzo": "VIA        CESARE BATTISTI 100",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "trmm045005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TERNI \"L. DA VINCI E O. NUCULA\"",
+		"indirizzo": "VIA LUIGI LANZI N. 15",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris012001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. TECNICO TECNOLOGICO ALLIEVI SANGALLO",
+		"indirizzo": "VIA C. BATTISTI 131",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris011005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "TERNI I.I.S.  CLASSICO E ARTISTICO",
+		"indirizzo": "VIALE      ANTONIO FRATTI 12",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tris00700d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "TERNI I.I.S. PROF.LE E TECN. COMM.LE",
+		"indirizzo": "L.GO PAOLUCCI  1",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric81800q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"FELICE FATATI\"",
+		"indirizzo": "VIA DELLE TERRE ARNOLFE N.10",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric81300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERNI \"B.BRIN\"",
+		"indirizzo": "VIA LIUTPRANDO, 28/G",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric81200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERNI \"GIOVANNI XXIII*\"",
+		"indirizzo": "VIA DELLA PERNICE, 8",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric811001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERNI A.DE FILIS",
+		"indirizzo": "VIA ROBERTO ANTIOCHIA, 4",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric809001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERNI \"G.OBERDAN\"",
+		"indirizzo": "VIA TRE VENEZIE 1",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tric80400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERNI \"G.MARCONI\"",
+		"indirizzo": "VIALE ROSSINI, 87",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+	,
+	{
+		"codMec": "tree009003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TERNI \"DON MILANI\"",
+		"indirizzo": "VIA VODICE, 23",
+		"cap": "05100",
+		"comune": "TERNI",
+		"provincia": "TR"
+	}
+]

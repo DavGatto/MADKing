@@ -1,0 +1,1271 @@
+[
+	{
+		"codMec": "caic81300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARBUS   \"PIETRO LEO\"",
+		"indirizzo": "VIA COSTITUZIONE 5",
+		"cap": "09031",
+		"comune": "ARBUS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm031009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "G.PASCOLI+ C.NIVOLA (ASSEMINI)",
+		"indirizzo": "CORSO AMERICA, N. 3",
+		"cap": "09032",
+		"comune": "ASSEMINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee037009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ASSEMINI 1 CIRCOLO",
+		"indirizzo": "VIA DI VITTORIO, 5",
+		"cap": "09032",
+		"comune": "ASSEMINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee038005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ASSEMINI 2  \"DIONIGI SCALAS\"",
+		"indirizzo": "CORSO EUROPA 35",
+		"cap": "09032",
+		"comune": "ASSEMINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee017004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "IS MIRRIONIS (CAGLIARI)",
+		"indirizzo": "VIA BASILICATA 24",
+		"cap": "09127",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee09300n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "VIA CASTIGLIONE",
+		"indirizzo": "VIA CASTIGLIONE",
+		"cap": "09131",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee09800r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIR. DID. STAT. GIOVANNI LILLIU",
+		"indirizzo": "VIA GARAVETTI 1",
+		"cap": "09129",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic81200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.RANDACCIO+TUVERI+DON MILANI",
+		"indirizzo": "VIA VENEZIA",
+		"cap": "09126",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic854001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.COLOMBO (CAGLIARI)",
+		"indirizzo": "VIA        DEL SOLE, 20",
+		"cap": "09126",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic86400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  PIRRI  1 - PIRRI 2",
+		"indirizzo": "VIA DEI PARTIGIANI, 1",
+		"cap": "09134",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic867003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SATTA+SPANO+ DE AMICIS",
+		"indirizzo": "VIA GIO\\'-MARIA ANGIOY 8",
+		"cap": "09123",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic86800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"VIA STOCCOLMA\" -  (CAGLIARI)",
+		"indirizzo": "VIA STOCCOLMA N.1",
+		"cap": "09129",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87000v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MULINU BECCIU MAMELI",
+		"indirizzo": "VIA DESSI DELIPERI, 26",
+		"cap": "09121",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic89300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"S. CATERINA \"",
+		"indirizzo": "VIA  CANELLES, 1",
+		"cap": "09124",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais00200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "AZUNI (CAGLIARI)",
+		"indirizzo": "VIA IS MAGLIAS 132",
+		"cap": "09122",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "casl01000n",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LIC.ARTISTICO \"FOISO FOIS\"CAGLIARI",
+		"indirizzo": "VIA SANT\\'EUSEBIO 2/4",
+		"cap": "09127",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catd220001",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T.C.  \"MARTINI\" CAGLIARI",
+		"indirizzo": "VIA SAN EUSEBIO 10",
+		"cap": "09127",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catf01000v",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"SCANO\" (CAGLIARI)",
+		"indirizzo": "VIA        CESARE CABRAS",
+		"cap": "09042",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catf04000p",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\" M. GIUA\"",
+		"indirizzo": "VIA        MONTECASSINO",
+		"cap": "09134",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cavc010001",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "CONV.NAZIONALE \"VITTORIO EMANUE",
+		"indirizzo": "VIA        MANNO               14",
+		"cap": "09100",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee088006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CAPOTERRA 2",
+		"indirizzo": "VIA CAPRERA",
+		"cap": "09012",
+		"comune": "CAPOTERRA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm03900x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CAPOTERRA",
+		"indirizzo": "VIA  AMENDOLA, 12",
+		"cap": "09012",
+		"comune": "CAPOTERRA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee039001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CAPOTERRA 1",
+		"indirizzo": "VIA LA MARMORA",
+		"cap": "09012",
+		"comune": "CAPOTERRA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais00100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GRAMSCI- AMALDI (CARBONIA)",
+		"indirizzo": "VIA DELLE CERNITRICI SNC",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais011007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.-I.T.C.  N. 2 BECCARIA - CARBONIA",
+		"indirizzo": "VIA UMBRIA,27",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catd020007",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "G. M. ANGIOJ  CARBONIA",
+		"indirizzo": "VIA COSTITUENTE",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87100p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARBONIA - \"SATTA\"",
+		"indirizzo": "VIA MAZZINI N.66",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic817002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARBONIA DON MILANI",
+		"indirizzo": "VIA DALMAZIA SNC",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87600t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARBONIA- DELEDDA-PASCOLI",
+		"indirizzo": "VIA BALILLA",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cari04000t",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPSIA \"EMANUELA LOI\"",
+		"indirizzo": "VIA DALMAZIA SNC",
+		"cap": "09013",
+		"comune": "CARBONIA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais00700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"BACAREDDA\" - \"ATZENI\"",
+		"indirizzo": "VIA GRANDI SNC",
+		"cap": "09131",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais02300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. I. S.  BUCCARI + MARCONI",
+		"indirizzo": "VIALE COLOMBO 60",
+		"cap": "09125",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais026001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IM DE SANCTIS / ITAS DELEDDA",
+		"indirizzo": "VIA        CORNALIAS  N. 169",
+		"cap": "09121",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm002009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ALFIERI+ CONSERVATORIO CAGLIARI",
+		"indirizzo": "VIA DE GIOANNIS",
+		"cap": "09125",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm008008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "UGO FOSCOLO ( CAGLIARI)",
+		"indirizzo": "VIALE  MARCONI, 82",
+		"cap": "09131",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm202003",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1  CAGLIARI",
+		"indirizzo": "VIA BLIGNY 2",
+		"cap": "09100",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "capc03000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC G.M.DETTORI",
+		"indirizzo": "VIA CUGIA N. 2",
+		"cap": "09129",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "capc050004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC PINTOR (CAGLIARI)",
+		"indirizzo": "VIALE TRENTO 103",
+		"cap": "09123",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "capm02000c",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"D\\'ARBOREA\"",
+		"indirizzo": "VIA        CARBONI BOY 1",
+		"cap": "09129",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps02000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SCIENTIFICO \"ALBERTI\" CAGLIAR",
+		"indirizzo": "VIALE      COLOMBO 37",
+		"cap": "09125",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps04000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SCIENTIFICO \"MICHELANGELO\" CA",
+		"indirizzo": "VIA DEI DONORATICO, S.N.",
+		"cap": "09131",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps050007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ANTONIO PACINOTTI",
+		"indirizzo": "VIA LIGURIA 9",
+		"cap": "09127",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps13000v",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "CLASSICO SCIENTIFICO \"EUCLIDE\"",
+		"indirizzo": "VIA A. LIGAS SN  -CAGLIARI",
+		"cap": "09121",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "carf010003",
+		"tipo": "IST  PROF  FEMMINILE",
+		"nome": "\"PERTINI\" (CAGLIARI)",
+		"indirizzo": "PROL. VIA VESALIO",
+		"cap": "09134",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cari010002",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "A.MEUCCI (CAGLIARI)",
+		"indirizzo": "VIA        BAINSIZZA 30",
+		"cap": "09123",
+		"comune": "CAGLIARI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic888004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. IGLESIAS- \"E. D\\'ARBOREA\"",
+		"indirizzo": "VIA ISONZO N.5",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic88900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  IGLESIAS ALLORI",
+		"indirizzo": "VIA ROMA, 64",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais01300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"G.ASPRONI\"",
+		"indirizzo": "LOCALITA\\' SU PARDU",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cari02000l",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I.P.I.A. \"FERRARIS\" IGLESIAS",
+		"indirizzo": "VIA        CANEPA",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "capm04000n",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"C.BAUDI DI VESME\" IGLESIAS",
+		"indirizzo": "VIA   MONSIGNOR AGOSTINO SABA, ZONA SAN SALVATORE",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais02700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.T.MINERARIO \"ASPRONI\" /ITCG FERMI",
+		"indirizzo": "VIA        ROMA 45",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps14000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"PITAGORA\" ISILI",
+		"indirizzo": "VIA EMILIO LUSSU, 2",
+		"cap": "08033",
+		"comune": "ISILI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catd23000g",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITCG \"G. ZAPPA\" ISILI",
+		"indirizzo": "VIA GIUSEPPINO CEDDA, 11",
+		"cap": "08033",
+		"comune": "ISILI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic8ab00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ISILI",
+		"indirizzo": "VIA GRAZIA DELEDDA 11",
+		"cap": "08033",
+		"comune": "ISILI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic829008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MANDAS",
+		"indirizzo": "VIALE EUROPA  N. 9",
+		"cap": "09040",
+		"comune": "MANDAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic80700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "A. MANZONI MARACALAGONIS",
+		"indirizzo": "VIA GARIBALDI, 50",
+		"cap": "09040",
+		"comune": "MARACALAGONIS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO MONASTIR",
+		"indirizzo": "VIA GRAZIA DELEDDA 6",
+		"cap": "09023",
+		"comune": "MONASTIR",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "carh050001",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSAR \"A. GRAMSCI\" MONSERRATO",
+		"indirizzo": "VIA DECIO MURE",
+		"cap": "09042",
+		"comune": "MONSERRATO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic879009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONSERRATO 1-2  LA MARMORA",
+		"indirizzo": "VIA TONARA, 20",
+		"cap": "09042",
+		"comune": "MONSERRATO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais00600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.T.C.GEOMETRI \"L. EINAUDI\" MUR",
+		"indirizzo": "VIALE   RINASCITA, S.N.C.",
+		"cap": "09043",
+		"comune": "MURAVERA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic82000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO CARLOFORTE",
+		"indirizzo": "VIA S. CRISTINA 88",
+		"cap": "09014",
+		"comune": "CARLOFORTE",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic84300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DECIMOMANNU  -\"L. DA VINCI\"",
+		"indirizzo": "VIA        E. D\\'ARBOREA 39",
+		"cap": "09033",
+		"comune": "DECIMOMANNU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catd10000v",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"ENRICO MATTEI\"  DECIMOMANNU",
+		"indirizzo": "VIA UGO FOSCOLO 46",
+		"cap": "09033",
+		"comune": "DECIMOMANNU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic84200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DECIMOPUTZU IST. COMPR.",
+		"indirizzo": "VIA        DONIZETTI, 42",
+		"cap": "09010",
+		"comune": "DECIMOPUTZU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DOLIANOVA",
+		"indirizzo": "VIALE EUROPA 5",
+		"cap": "09041",
+		"comune": "DOLIANOVA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic875002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DOMUSNOVAS IST. COMPR.",
+		"indirizzo": "VIA CAGLIARI, 104",
+		"cap": "09015",
+		"comune": "DOMUSNOVAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais01400p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.T.AGRARIO \"DUCA DEGLI ABRUZZI\"",
+		"indirizzo": "VIA DELL\\'ACQUEDOTTO ROMANO-ZONA INDUSTRIALE",
+		"cap": "09034",
+		"comune": "ELMAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic84400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ELMAS  \"MONS. SABA\"",
+		"indirizzo": "VIA BUSCAGLIA N. 23",
+		"cap": "09030",
+		"comune": "ELMAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic808007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"SAN GIOVANNI BOSCO\"",
+		"indirizzo": "VIA DELLE AIE 2",
+		"cap": "09035",
+		"comune": "GONNOSFANADIGA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic82800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO ST GUASILA",
+		"indirizzo": "VIA   RAIMONDO SCINTU, 24",
+		"cap": "09040",
+		"comune": "GUASILA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais02200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GUSPINI",
+		"indirizzo": "VIA BANFI,  24",
+		"cap": "09036",
+		"comune": "GUSPINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic88400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C-FERMI  + DA VINCI(GUSPINI)",
+		"indirizzo": "VIA MARCHESI N.1",
+		"cap": "09036",
+		"comune": "GUSPINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais009007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "M. BUONARROTI  (GUSPINI)",
+		"indirizzo": "VIA        SPANO 7",
+		"cap": "09036",
+		"comune": "GUSPINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee046004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CIRCOLO DIDATTICO GUSPINI",
+		"indirizzo": "VIA G. DELEDDA 2",
+		"cap": "09036",
+		"comune": "GUSPINI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic887008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. IGLESIAS- \"C. NIVOLA\"",
+		"indirizzo": "VIA PACINOTTI SNC",
+		"cap": "09016",
+		"comune": "IGLESIAS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee032006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SELARGIUS 1",
+		"indirizzo": "VIA PARIGI,2",
+		"cap": "09047",
+		"comune": "SELARGIUS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic83000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SENORBI\\'",
+		"indirizzo": "VIA  CAMPIOOI",
+		"cap": "09040",
+		"comune": "SENORBI\\'",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "catd050003",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"LUIGI EINAUDI\" SENORBI\\'",
+		"indirizzo": "PIAZZA DEL POPOLO, 1",
+		"cap": "09040",
+		"comune": "SENORBI\\'",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic866007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SERRAMANNA",
+		"indirizzo": "VIA SICILIA N. 4",
+		"cap": "09038",
+		"comune": "SERRAMANNA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm20300v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 2 SERRAMANNA-ORISTANO",
+		"indirizzo": "CORSO REPUBBLICA 12",
+		"cap": "09038",
+		"comune": "SERRAMANNA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee033002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SESTU 1",
+		"indirizzo": "VIA REPUBBLICA, 6",
+		"cap": "09028",
+		"comune": "SESTU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic89400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  GRAMSCI+ RODARI-SESTU",
+		"indirizzo": "VIA DANTE 1",
+		"cap": "09028",
+		"comune": "SESTU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic84700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SETTIMO S. PIETRO",
+		"indirizzo": "VIA CARDUCCI, 1",
+		"cap": "09040",
+		"comune": "SETTIMO SAN PIETRO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps150004",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"FARCI\" SEUI",
+		"indirizzo": "VIA SAN GIORGIO, 230",
+		"cap": "08037",
+		"comune": "SEUI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic816006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SILIQUA",
+		"indirizzo": "VIA ENRICO FERMI 12",
+		"cap": "09010",
+		"comune": "SILIQUA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic890004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C SINNAI  N.1",
+		"indirizzo": "VIA TRENTO 24",
+		"cap": "09048",
+		"comune": "SINNAI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic89100x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. S.  N. 2 SINNAI",
+		"indirizzo": "VIA CARAVAGGIO N. 11",
+		"cap": "09048",
+		"comune": "SINNAI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic82100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TADDEO COSSU (TEULADA)",
+		"indirizzo": "VIA REGINA MARGHERITA N. 85",
+		"cap": "09019",
+		"comune": "TEULADA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic874006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "UTA",
+		"indirizzo": "VIA REGINA MARGHERITA",
+		"cap": "09010",
+		"comune": "UTA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic896003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C N. 2  - DESSI\\' (VILLACIDRO)",
+		"indirizzo": "VIA CAVOUR, 36",
+		"cap": "09039",
+		"comune": "VILLACIDRO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic83400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MURAVERA",
+		"indirizzo": "VIA        V.LE RINASCITA      11",
+		"cap": "09043",
+		"comune": "MURAVERA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic823009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NARCAO IST. COMPR.",
+		"indirizzo": "VIA STAZIONE,1",
+		"cap": "09010",
+		"comune": "NARCAO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic8ac00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NURRI",
+		"indirizzo": "VIA GRAMSCI 17",
+		"cap": "08035",
+		"comune": "NURRI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic81800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C . \"V.ANGIUS\" -PORTOSCUSO",
+		"indirizzo": "VIA      G.ASPRONI             1",
+		"cap": "09010",
+		"comune": "PORTOSCUSO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic845006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMPR. \"B.CROCE\" PULA",
+		"indirizzo": "VIA TIGELLIO N.1",
+		"cap": "09010",
+		"comune": "PULA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic89800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.6 QUARTU SANT\\'ELENA",
+		"indirizzo": "VIA MAR LIGURE -QUARTU SANT\\'ELENA",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic882005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N. 1 - PORCU - SATTA",
+		"indirizzo": "VIA P.L. DA PALESTRINA, 37",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic883001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.3 QUARTU SANT\\'ELENA",
+		"indirizzo": "VIA PORTOGALLO 23",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic89700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.  2  QUARTU SANT\\'ELENA",
+		"indirizzo": "VIA  UMBERTO I, N. 13",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "capc09000e",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASS. LING. E SC. UM.\"B.R. MOTZO\"",
+		"indirizzo": "VIA DON LUIGI STURZO, 4",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic89900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  N. 4 QUARTU SANT\\'ELENA",
+		"indirizzo": "VIA G.B. VICO 89",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic8aa003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC. N.5 QUARTU S. ELENA",
+		"indirizzo": "VIA FIERAMOSCA 33",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais01600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"PRIMO LEVI\"  QUARTU SANT\\'ELENA",
+		"indirizzo": "VIA PITZ\\'E SERRA S.N.C.",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais017006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE G.BROTZU",
+		"indirizzo": "VIA PITZ\\'E SERRA",
+		"cap": "09045",
+		"comune": "QUARTU SANT\\'ELENA",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST COMPRENSIVO QUARTUCCIU",
+		"indirizzo": "VIA ALES",
+		"cap": "09044",
+		"comune": "QUARTUCCIU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic895007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N. 1 - A.LORU (VILLACIDRO)",
+		"indirizzo": "VIA        GRAZIA DELEDDA N. 3",
+		"cap": "09039",
+		"comune": "VILLACIDRO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "capc06000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "\"E. PIGA\" (VILLACIDRO)",
+		"indirizzo": "VIA REGIONE SARDA 60",
+		"cap": "09039",
+		"comune": "VILLACIDRO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic84800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLAMAR",
+		"indirizzo": "VIALE RINASCITA 13",
+		"cap": "09020",
+		"comune": "VILLAMAR",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic83500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLAPUTZU",
+		"indirizzo": "VIA        NAZIONALE",
+		"cap": "09040",
+		"comune": "VILLAPUTZU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais004004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. GIUSEPPE DESSI",
+		"indirizzo": "PIAZZA GALILEO GALILEI N. 3",
+		"cap": "09040",
+		"comune": "VILLAPUTZU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic83300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENS. VILLASIMIUS",
+		"indirizzo": "VIA LEONARDO DA VINCI,1",
+		"cap": "09049",
+		"comune": "VILLASIMIUS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic840003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLASOR  \"E.PUXEDDU\"",
+		"indirizzo": "VIA  PORRINO 12",
+		"cap": "09034",
+		"comune": "VILLASOR",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais024009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"MARCONI - LUSSU\"",
+		"indirizzo": "VIA TOMMASEO, 3/5",
+		"cap": "09037",
+		"comune": "SAN GAVINO MONREALE",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic86300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN GAVINO MONREALE",
+		"indirizzo": "VIA FOSCOLO",
+		"cap": "09037",
+		"comune": "SAN GAVINO MONREALE",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic824005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN GIOVANNI SUERGIU",
+		"indirizzo": "VIA        GRAMSCI  4",
+		"cap": "09010",
+		"comune": "SAN GIOVANNI SUERGIU",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic88500l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN NICOLO\\' GERREI",
+		"indirizzo": "VIA E.D\\'ARBOREA",
+		"cap": "09040",
+		"comune": "SAN NICOLO\\' GERREI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic84100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN SPERATE - G.DELEDDA",
+		"indirizzo": "VIA PIXINORTU",
+		"cap": "09026",
+		"comune": "SAN SPERATE",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic83900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANLURI",
+		"indirizzo": "VIA CARLO FELICE",
+		"cap": "09025",
+		"comune": "SANLURI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "cais02100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO DI ISTRUZIONE SUPERIORE STATALE",
+		"indirizzo": "VIA ANTONIO GRAMSCI N. 90",
+		"cap": "09025",
+		"comune": "SANLURI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic87700n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SANT\\'ANTIOCO-CALASETTA",
+		"indirizzo": "VIA VIRGILIO 17",
+		"cap": "09017",
+		"comune": "SANT\\'ANTIOCO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps06000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SC. \"EMILIO LUSSU\" SANT\\'ANTIOCO",
+		"indirizzo": "VIA        BOLZANO 36",
+		"cap": "09017",
+		"comune": "SANT\\'ANTIOCO",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic825001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO SANTADI",
+		"indirizzo": "VIA MAZZINI 101",
+		"cap": "09010",
+		"comune": "SANTADI",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic846002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SARROCH",
+		"indirizzo": "VIA DANTE, 17",
+		"cap": "09018",
+		"comune": "SARROCH",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caps120008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"PITAGORA\" SELARGIUS",
+		"indirizzo": "VIA        I  MAGGIO",
+		"cap": "09047",
+		"comune": "SELARGIUS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "camm123007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "D.ALIGHIERI (SELARGIUS)",
+		"indirizzo": "VIA        BIXIO",
+		"cap": "09047",
+		"comune": "SELARGIUS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caic86200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. SU PLANU SELARGIUS",
+		"indirizzo": "VIA ARIOSTO SN",
+		"cap": "09047",
+		"comune": "SELARGIUS",
+		"provincia": "CA"
+	}
+	,
+	{
+		"codMec": "caee03100a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SELARGIUS 2",
+		"indirizzo": "VIA DELLE BEGONIE LOC PALUNA S.L.",
+		"cap": "09047",
+		"comune": "SELARGIUS",
+		"provincia": "CA"
+	}
+]

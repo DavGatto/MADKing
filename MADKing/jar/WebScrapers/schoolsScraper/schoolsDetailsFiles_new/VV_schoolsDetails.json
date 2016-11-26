@@ -1,0 +1,341 @@
+[
+	{
+		"codMec": "vvic803004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO D\\'ANTONA",
+		"indirizzo": "VIA PROVINCIALE 153/155",
+		"cap": "89832",
+		"comune": "ACQUARO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic823009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO BRIATICO",
+		"indirizzo": "VIA COCCA S.N.C.",
+		"cap": "89817",
+		"comune": "BRIATICO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic81800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST COMPRENSIVO DI CESSANITI",
+		"indirizzo": "VIA CAPIALBI, 8",
+		"cap": "89816",
+		"comune": "CESSANITI",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic80700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO FABRIZIA",
+		"indirizzo": "VIA ORLANDO COSTA",
+		"cap": "89823",
+		"comune": "FABRIZIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic829008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO FILADELFIA",
+		"indirizzo": "VIA PIANO DELLE GRAZIE",
+		"cap": "89814",
+		"comune": "FILADELFIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvmm008008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M. DI FILADELFIA",
+		"indirizzo": "VIALE      EUROPA",
+		"cap": "89814",
+		"comune": "FILADELFIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic825001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MILETO",
+		"indirizzo": "VIA NICOLA LOMBARDI",
+		"cap": "89852",
+		"comune": "MILETO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic83000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" A. PAGANO\"  NICOTERA",
+		"indirizzo": "CORSO UMBERTO I 75",
+		"cap": "89844",
+		"comune": "NICOTERA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvpc04000d",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO \"BRUNO VINCI\"",
+		"indirizzo": "PIAZZA FRANCESCO RAIMONDO SNC",
+		"cap": "89844",
+		"comune": "NICOTERA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic83300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.OMNICOMPRENSIVO DI PIZZO",
+		"indirizzo": "VIA  MARCELLO SALOMONE",
+		"cap": "89812",
+		"comune": "PIZZO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic817002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO DI RICADI",
+		"indirizzo": "VIA PROVINCIALE, SNC",
+		"cap": "8986",
+		"comune": "RICADI",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic81300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO DI ROMBIOLO",
+		"indirizzo": "VIA        1  MAGGIO         151",
+		"cap": "89841",
+		"comune": "ROMBIOLO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic81200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO S. COSTANTINO",
+		"indirizzo": "VIA C.A. DALLA CHIESA",
+		"cap": "89851",
+		"comune": "SAN COSTANTINO CALABRO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic82000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMPRENSIVO DI S.ONOFRIO",
+		"indirizzo": "VIA DEL SIGNORE",
+		"cap": "89843",
+		"comune": "SANT\\'ONOFRIO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvis003008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST D\\'ISTRUZIONE SUPERIORE LUIGI EINAUDI",
+		"indirizzo": "VIA VITTORIO VENETO SNC",
+		"cap": "89822",
+		"comune": "SERRA SAN BRUNO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvvc010001",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "CONVITTO NAZIONALE G.FILANGIERI",
+		"indirizzo": "CORSO UMBERTO I 132",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic82800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DIREZIONE DIDATTICA III CIRCOLO",
+		"indirizzo": "VIA F. ZODA 6",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic82600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"AMERIGO VESPUCCI\"",
+		"indirizzo": "VIA STAZIONE - VIBO MARINA",
+		"cap": "89811",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic831008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO I CIRCOLO",
+		"indirizzo": "PIAZZA MARTIRI D\\'UNGHERIA",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic824005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"A.TEDESCHI\"",
+		"indirizzo": "VIA VITTORIO EMANUELE III,34",
+		"cap": "89822",
+		"comune": "SERRA SAN BRUNO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic81500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO SORIANO",
+		"indirizzo": "VIA CORRADO ALVARO",
+		"cap": "89831",
+		"comune": "SORIANO CALABRO",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvis00200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST D\\'ISTRUZIONE SUPERIORE P.GALLUPPI",
+		"indirizzo": "VIALE CONIUGI CRIGNA",
+		"cap": "89861",
+		"comune": "TROPEA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic82200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO DI TROPEA",
+		"indirizzo": "PIAZZA GALLUPPI - PAL. COLLARETO",
+		"cap": "89861",
+		"comune": "TROPEA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic83500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO VALLELONGA",
+		"indirizzo": "CORSO UMBERTO 1?",
+		"cap": "89821",
+		"comune": "VALLE LONGA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvtd01000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ISTITUTO TECNICO ECONOMICO G. GALILEI",
+		"indirizzo": "P.ZZA MARTIRI D\\'UNGHERIA",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvrh01000e",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I. P. S.  SER  ENOG OSP ALB AGR  SV RUR",
+		"indirizzo": "LARGO CONSERVATORIO",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvps01000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO G.BERTO",
+		"indirizzo": "C.DA BITONTO",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvpm01000t",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE \"V.CAPIALBI\"",
+		"indirizzo": "V. SANTA RUBA, 29",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvmm04300g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA",
+		"indirizzo": "VIA G. FORTUNATO SNC",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvis011007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. I.T.G. E I.T.I.",
+		"indirizzo": "VIA G. FORTUNATO S.N.C.",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvis009007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"DE FILIPPIS\" E \"PRESTIA\"",
+		"indirizzo": "VIA S.MARIA DELL\\'IMPERIO",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvis00700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"M.MORELLI\"  - \"D.COLAO\" VIBO VAL",
+		"indirizzo": "VIA XXV APRILE,1",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic83400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.MURMURA",
+		"indirizzo": "VIA SANT\\'ALOE",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+	,
+	{
+		"codMec": "vvic832004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GARIBALDI - BUCCARELLI",
+		"indirizzo": "PIAZZA MARTIRI D\\'UNGHERIA S.N.C.",
+		"cap": "89900",
+		"comune": "VIBO VALENTIA",
+		"provincia": "VV"
+	}
+]

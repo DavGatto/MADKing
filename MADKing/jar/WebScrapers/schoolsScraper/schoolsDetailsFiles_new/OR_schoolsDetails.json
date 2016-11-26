@@ -1,0 +1,251 @@
+[
+	{
+		"codMec": "oric81800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  ABBASANTA",
+		"indirizzo": "VIA GRAZIA DELEDDA S.N.C.",
+		"cap": "09071",
+		"comune": "ABBASANTA",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric82100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALES",
+		"indirizzo": "VIA AMSICORA N.6",
+		"cap": "09091",
+		"comune": "ALES",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric82800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  BOSA",
+		"indirizzo": "VIA CANONICO PUGGIONI",
+		"cap": "08013",
+		"comune": "BOSA",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oris00800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"G. A. PISCHEDDA\"",
+		"indirizzo": "VIALE ALGHERO",
+		"cap": "08013",
+		"comune": "BOSA",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric81400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CABRAS",
+		"indirizzo": "VIA TRIESTE",
+		"cap": "09072",
+		"comune": "CABRAS",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric82200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  GHILARZA",
+		"indirizzo": "CORSO UMBERTO I N.227",
+		"cap": "09074",
+		"comune": "GHILARZA",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric810007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C . MARRUBIU",
+		"indirizzo": "VIA  TIRSO N.25/A",
+		"cap": "09094",
+		"comune": "MARRUBIU",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric81900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MOGORO",
+		"indirizzo": "VIA DESSI\\' 4",
+		"cap": "09095",
+		"comune": "MOGORO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric82000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORISTANO N. 1",
+		"indirizzo": "PIAZZA MANNO 16",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric82600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORISTANO N. 3",
+		"indirizzo": "VIA AMSICORA",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "orsd02000t",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "I. D\\'ARTE    \"C. CONTINI\"",
+		"indirizzo": "VIA  GENNARGENTU, 31",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "orpm01000t",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IST. MAGISTRALE  \"B. CROCE\"",
+		"indirizzo": "VIA  G. D\\'ANNUNZIO, 1",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "ormm066008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA C/O LICEO CLASS DE CASTRO",
+		"indirizzo": "PIAZZA ALDO MORO",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oris012003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"MARIANO IV D\\'ARBOREA\"",
+		"indirizzo": "VIA MESSINA N. 19",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric825001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORISTANO N. 2",
+		"indirizzo": "VIA BELLINI N.2",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "ortf01000v",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "I.T.I.   \"OTHOCA\"",
+		"indirizzo": "VIA ZARA GIA VIA DEL PORTO",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric82700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORISTANO N. 4",
+		"indirizzo": "VIALE DIAZ N.83",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oris00600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO TECNICO  \"LORENZO MOSSA\"",
+		"indirizzo": "VIA A. CARBONI N. 10",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oris009007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.P.S.A.A. E I.P.S.A.A.R.  DON D. MELONI",
+		"indirizzo": "LOCALITA\\' PALLONI",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oris011007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"DE CASTRO\"",
+		"indirizzo": "PIAZZA ALDO MORO",
+		"cap": "09170",
+		"comune": "ORISTANO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric803004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAMUGHEO",
+		"indirizzo": "VIA BRIGATA SASSARI, 55",
+		"cap": "09086",
+		"comune": "SAMUGHEO",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric81200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN VERO MILIS",
+		"indirizzo": "VIA  UMBERTO, 12",
+		"cap": "09070",
+		"comune": "SAN VERO MILIS",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric80600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANTULUSSURGIU",
+		"indirizzo": "VIA FRATI MINORI",
+		"cap": "09075",
+		"comune": "SANTU LUSSURGIU",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric823009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SIMAXIS - VILLAURBANA",
+		"indirizzo": "VIA ROMA",
+		"cap": "09088",
+		"comune": "SIMAXIS",
+		"provincia": "OR"
+	}
+	,
+	{
+		"codMec": "oric829008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERRALBA",
+		"indirizzo": "VIA ROMA 43",
+		"cap": "09098",
+		"comune": "TERRALBA",
+		"provincia": "OR"
+	}
+]

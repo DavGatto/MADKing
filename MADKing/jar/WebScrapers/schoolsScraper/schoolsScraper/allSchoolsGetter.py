@@ -28,16 +28,11 @@
 @author: Davide Gatto
 @mail: davgatto@gmail.com
 
-Modificare manualmente il campo 'provincia' e il campo 'numeroPagine',
-che deve essere uguale al numero di pagine che compongono la tabella
-relativa alla provincia desiderata sul sito
-http://www.trampi.istruzione.it/vseata/action/promptSelectProvincia.do
-(un giorno implementerò il rilevamento automatico)
 """
 import json
 
 
-PROVINCE = ["AL", "AN", "AR", "AP", "AT", "AV", "BA", "BL", "BN", "BG", "BI", "BS", "BR", "CA", "CL", "CB", "CE", "CT", "CZ", "CH", "CO", "CS", "CR", "KR", "CN", "EN", "FE", "FI", "FG", "FO", "FR", "GE", "GO", "GR", "IM", "IS", "AQ", "SP", "LT", "LE", "LC", "LI", "LO", "LU", "MC", "MN", "MS", "MT", "ME", "MI", "MO", "NA", "NO", "NU", "OR", "PD", "PA", "PR", "PV", "PG", "PS", "PE", "PC", "PI", "PT", "PN", "PZ", "PO", "RG", "RA", "RC", "RE", "RI", "RN", "RM", "RO", "SA", "SS", "SV", "SI", "SR", "SO", "TA", "TE", "TR", "TO", "TP", "TV", "TS", "UD", "VA", "VE", "VB", "VC", "VR", "VV", "VI"]
+PROVINCE = ["AG", "AL", "AN", "AR", "AP", "AT", "AV", "BA", "BL", "BN", "BG", "BI", "BO", "BS", "BR", "CA", "CL", "CB", "CE", "CT", "CZ", "CH", "CO", "CS", "CR", "KR", "CN", "EN", "FE", "FI", "FG", "FO", "FR", "GE", "GO", "GR", "IM", "IS", "AQ", "SP", "LT", "LE", "LC", "LI", "LO", "LU", "MC", "MN", "MS", "MT", "ME", "MI", "MO", "NA", "NO", "NU", "OR", "PD", "PA", "PR", "PV", "PG", "PS", "PE", "PC", "PI", "PT", "PN", "PZ", "PO", "RG", "RA", "RC", "RE", "RI", "RN", "RM", "RO", "SA", "SS", "SV", "SI", "SR", "SO", "TA", "TE", "TR", "TO", "TP", "TV", "TS", "UD", "VA", "VE", "VB", "VC", "VR", "VV", "VI", "VT"]
 
 for prov in PROVINCE:
     filename = './allSchoolsFiles/'+ prov + '_allSchools.txt'

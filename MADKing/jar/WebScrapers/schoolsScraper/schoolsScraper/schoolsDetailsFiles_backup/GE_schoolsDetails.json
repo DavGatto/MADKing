@@ -1,0 +1,981 @@
+[
+	{
+		"codMec": "geic82100p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ARENZANO",
+		"indirizzo": "PIAZZA L.CALCAGNO, 3",
+		"cap": "16011",
+		"comune": "ARENZANO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic85600n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BOGLIASCO-PIEVE L.-SORI",
+		"indirizzo": "VIA G.MAZZINI, 207",
+		"cap": "16031",
+		"comune": "BOGLIASCO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic81900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  BUSALLA",
+		"indirizzo": "VIA MARTIRI DI VOLTAGGIO, 1",
+		"cap": "16012",
+		"comune": "BUSALLA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic817003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CAMPOMORONE CERANESI",
+		"indirizzo": "VIA MARTIRI DELLA LIBERTA\\' 103 R",
+		"cap": "16014",
+		"comune": "CAMPOMORONE",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic80500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VALLI E CARASCO",
+		"indirizzo": "VIA MONTANARO DISMA 136",
+		"cap": "16042",
+		"comune": "CARASCO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic810008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  CASARZA LIGURE",
+		"indirizzo": "VIA CASTELLO,16",
+		"cap": "16030",
+		"comune": "CASARZA LIGURE",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic82000v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASELLA",
+		"indirizzo": "VIA ALDO MORO, 4",
+		"cap": "16015",
+		"comune": "CASELLA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gesd010008",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO EMANUELE LUZZATI",
+		"indirizzo": "VIA G.B.GHIO, 14",
+		"cap": "16043",
+		"comune": "CHIAVARI",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "getd03000v",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITS  IN MEMORIA DEI MORTI PATRIA",
+		"indirizzo": "CORSO E.MILLO, 1",
+		"cap": "16043",
+		"comune": "CHIAVARI",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geps17000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENT-CLASSICO MARCONI-DELPINO",
+		"indirizzo": "PIAZZA CADUTI DI NASSIRIYA, 14",
+		"cap": "16043",
+		"comune": "CHIAVARI",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis01900v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. D\\'ISTRUZ. SUPERIORE  CABOTO",
+		"indirizzo": "VIA G.B. GHIO 2/4",
+		"cap": "16043",
+		"comune": "CHIAVARI",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic86500c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.B. DELLA TORRE",
+		"indirizzo": "VIA RIVAROLA, 7",
+		"cap": "16043",
+		"comune": "CHIAVARI",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic867004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CHIAVARI II",
+		"indirizzo": "VIA RIVAROLA,7",
+		"cap": "16043",
+		"comune": "CHIAVARI",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CICAGNA",
+		"indirizzo": "VIALE ITALIA 13A",
+		"cap": "16044",
+		"comune": "CICAGNA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic82200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COGOLETO",
+		"indirizzo": "VIA GIOIELLO 6",
+		"cap": "16016",
+		"comune": "COGOLETO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gemm18400q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA LEVANTE TIGULLIO",
+		"indirizzo": "CORSO IV NOVEMBRE 115",
+		"cap": "16030",
+		"comune": "COGORNO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COGORNO",
+		"indirizzo": "VIA IV NOVEMBRE, 115",
+		"cap": "16030",
+		"comune": "COGORNO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic80700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CENTRO STORICO",
+		"indirizzo": "PIAZZA DI S.MARIA IN VIA LATA, 12",
+		"cap": "16128",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic808008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN  FRUTTUOSO",
+		"indirizzo": "VIA P. BERGHINI, 1",
+		"cap": "16132",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic809004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  SAN GOTTARDO",
+		"indirizzo": "VIA GIULIA DE VINCENZI, 26",
+		"cap": "16138",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic811004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  OREGINA",
+		"indirizzo": "SALITA OREGINA, 40",
+		"cap": "16134",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic81200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN FRANCESCO DA PAOLA",
+		"indirizzo": "VIA BOLOGNA, 86",
+		"cap": "16127",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic81300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  VOLTRI I",
+		"indirizzo": "SALITA EGEO, 16",
+		"cap": "16158",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic816007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PONTEDECIMO",
+		"indirizzo": "VIA ISOCORTE, 1 B",
+		"cap": "16164",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic82300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  BOLZANETO",
+		"indirizzo": "PIAZZA RISSOTTO, 2",
+		"cap": "16162",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic824006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. STAGLIENO",
+		"indirizzo": "VIA LODI 4",
+		"cap": "16138",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic825002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN TEODORO",
+		"indirizzo": "VIA BOLOGNA, 6 A",
+		"cap": "16127",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic82600t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LAGACCIO",
+		"indirizzo": "VIA NAPOLI, 60",
+		"cap": "16134",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic82700n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MOLASSANA",
+		"indirizzo": "VIA S.FELICE, 19",
+		"cap": "16138",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic82800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PRATO",
+		"indirizzo": "VIA STRUPPA, 214 A",
+		"cap": "16165",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis012004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "B.MARSANO",
+		"indirizzo": "VIA ALLA SCUOLA DI AGRICOLTURA, 9",
+		"cap": "16167",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis01400q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.   I. CALVINO",
+		"indirizzo": "VIA BORZOLI, 21",
+		"cap": "16153",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis01600b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GASTALDI/ABBA",
+		"indirizzo": "VIA DINO COL,  32",
+		"cap": "16149",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis018003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO MAJORANA/GIORGI",
+		"indirizzo": "VIA S.ALLENDE, 41",
+		"cap": "16138",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis02200p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. C. ROSSELLI",
+		"indirizzo": "VIA GIOTTO, 10",
+		"cap": "16153",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gemm18500g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA CENTRO LEVANTE",
+		"indirizzo": "VICO VEGETTI 2",
+		"cap": "16123",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gemm18600b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA CENTRO PONENTE",
+		"indirizzo": "VIA PAGANO DORIA 12",
+		"cap": "16126",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gepc01000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC DORIA",
+		"indirizzo": "VIA A.DIAZ, 8",
+		"cap": "16121",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gepc020009",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO E LINGUISTICO C.COLOMBO",
+		"indirizzo": "VIA D.BELLUCCI, 2",
+		"cap": "16124",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gepc04000e",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO E LINGUISTICO G. MAZZINI",
+		"indirizzo": "VIA P.RETI 25",
+		"cap": "16151",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gepm030004",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO    P.GOBETTI -",
+		"indirizzo": "VIA SPINOLA DI SAN PIETRO, 1",
+		"cap": "16149",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gepm04000p",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE   SANDRO PERTINI",
+		"indirizzo": "VIA C.BATTISTI, 5",
+		"cap": "16145",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geps02000c",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  E.FERMI -",
+		"indirizzo": "VIA W. ULANOWSKI, 56",
+		"cap": "16151",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geps030003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  G.D.CASSINI -",
+		"indirizzo": "VIA GALATA, 34 CANC.",
+		"cap": "16121",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geps050008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  L. DA VINCI",
+		"indirizzo": "VIA ARECCO 2",
+		"cap": "16122",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic858009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. AVEGNO-CAMOGLI-RECCO-USCIO",
+		"indirizzo": "VIA G.MASSONE, 47",
+		"cap": "16036",
+		"comune": "RECCO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis017007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO   PRIMO LEVI",
+		"indirizzo": "CORSO TRENTO E TRIESTE, 87",
+		"cap": "16019",
+		"comune": "RONCO SCRIVIA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic81800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  RONCO SCRIVIA",
+		"indirizzo": "VIA VITTORIO VENETO,1",
+		"cap": "16019",
+		"comune": "RONCO SCRIVIA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic80600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANTA MARGHERITA LIGURE",
+		"indirizzo": "VIA ROCCATAGLIATA, 2 A",
+		"cap": "16038",
+		"comune": "SANTA MARGHERITA LIGURE",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic804001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SERRA RICCO\\'",
+		"indirizzo": "VIA MEDICINA, 20 B",
+		"cap": "16010",
+		"comune": "SERRA RICCO\\'",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis011008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "NATTA  G.V.DEAMBROSIS -",
+		"indirizzo": "VIA DELLA CHIUSA, 107",
+		"cap": "16039",
+		"comune": "SESTRI LEVANTE",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SESTRI LEVANTE",
+		"indirizzo": "VIALE DANTE, 64",
+		"cap": "16039",
+		"comune": "SESTRI LEVANTE",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic81500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  VALTREBBIA",
+		"indirizzo": "VIA AL MUNICIPIO,7",
+		"cap": "16029",
+		"comune": "TORRIGLIA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic85100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  SAMPIERDARENA",
+		"indirizzo": "PIAZZA DEL MONASTERO, 6",
+		"cap": "16149",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic85200a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BARABINO",
+		"indirizzo": "LARGO GOZZANO,3",
+		"cap": "16149",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic853006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTELLETTO",
+		"indirizzo": "CORSO FIRENZE, 1",
+		"cap": "16136",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic854002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MADDALENA-BERTANI",
+		"indirizzo": "SALITA BATTISTINE, 12",
+		"cap": "16125",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic85500t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  TERRALBA",
+		"indirizzo": "CORSO G. GALILEI, 7",
+		"cap": "16142",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic859005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. QUARTO",
+		"indirizzo": "VIA C.A.VECCHI, 11",
+		"cap": "16148",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic860009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.    STURLA",
+		"indirizzo": "VIA V. ERA, 1B",
+		"cap": "16147",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic861005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  FOCE",
+		"indirizzo": "VIA BANDERALI, 6",
+		"cap": "16121",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic862001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN MARTINO/BORGORATTI",
+		"indirizzo": "PIAZZA REMONDINI, 2",
+		"cap": "16131",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic86300r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. QUINTO/NERVI",
+		"indirizzo": "VIA ANTICA ROMANA DI QUINTO, 63 B",
+		"cap": "16166",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic86400l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALBARO",
+		"indirizzo": "VIA MONTEZOVETTO, 7",
+		"cap": "16145",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis003009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. E. MONTALE-NUOVO I.P.C",
+		"indirizzo": "VIA TIMAVO, 63",
+		"cap": "16132",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis004005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.  EINAUDI-CASAREGIS-GALILEI",
+		"indirizzo": "PIAZZA SOPRANIS, 5",
+		"cap": "16126",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis00600r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS VITTORIO EMANUELE II-RUFFINI",
+		"indirizzo": "LARGO ZECCA, 4",
+		"cap": "16124",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis00700l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS FIRPO-BUONARROTI",
+		"indirizzo": "VIA CANEVARI, 51",
+		"cap": "16137",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic829009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.BURLANDO",
+		"indirizzo": "VIA MONTALDO 61",
+		"cap": "16137",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic83000d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTALDO",
+		"indirizzo": "VIA MONTALDO, 8",
+		"cap": "16137",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic831009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MARASSI",
+		"indirizzo": "PIAZZA FERRARIS,  4",
+		"cap": "16142",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic833001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. QUEZZI",
+		"indirizzo": "VIA GINESTRATO, 11",
+		"cap": "16144",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic83400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VOLTRI II",
+		"indirizzo": "VIA G.BUFFA, 36",
+		"cap": "16158",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic83500l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.PRA\\'",
+		"indirizzo": "VIA C.AIRAGHI, 9",
+		"cap": "16157",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic83600c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CORNIGLIANO",
+		"indirizzo": "VIA N.CERVETTO, 42",
+		"cap": "16152",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic837008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SESTRI EST",
+		"indirizzo": "VIA URSONE DA SESTRI, 5",
+		"cap": "16154",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic838004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN GIOVANNI BATTISTA",
+		"indirizzo": "VIA ANDREA DEL SARTO 20",
+		"cap": "16153",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic83900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO SESTRI",
+		"indirizzo": "VIALE E.  RIGON, 16",
+		"cap": "16154",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic840004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CERTOSA",
+		"indirizzo": "VIA GAZ 3",
+		"cap": "16159",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84100x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BORZOLI",
+		"indirizzo": "VIA MUSCOLA, 23",
+		"cap": "16153",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TEGLIA",
+		"indirizzo": "VIA TEGLIA, 2 B",
+		"cap": "16161",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVAROLO",
+		"indirizzo": "PIAZZA D.PALLAVICINI, 6",
+		"cap": "16159",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic85000p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.   PEGLI",
+		"indirizzo": "P.ZZA BONAVINO, 4A",
+		"cap": "16156",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geps07000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO CLASSICO SCIENTIFICO-SPORTIVO KING",
+		"indirizzo": "VIA STURLA 63",
+		"cap": "16131",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geps080004",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.S. E L.E.S. \" L. LANFRANCONI\"",
+		"indirizzo": "VIA AI CANTIERI, 2",
+		"cap": "16158",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gerh01000g",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSA    M.POLO",
+		"indirizzo": "VIA SCIACCALUGA N. 9",
+		"cap": "16147",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gerh020006",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSA  N.BERGESE",
+		"indirizzo": "VIA GIOTTO, 8",
+		"cap": "16153",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geri02000n",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPSIA  A. ODERO",
+		"indirizzo": "VIA BRISCATA, 4",
+		"cap": "16154",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geri07000p",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I.P.S. I.S.   GASLINI/MEUCCI",
+		"indirizzo": "VIA PASTORINO, 15",
+		"cap": "16162",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gesl01000p",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LAS  PAUL  KLEE-NICOLO\\' BARABINO",
+		"indirizzo": "VIA G. MAGGIO, 11",
+		"cap": "16147",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geth020002",
+		"tipo": "ISTITUTO TECNICO NAUTICO",
+		"nome": "I.T.T.L.  \"NAUTICO SAN GIORGIO\"",
+		"indirizzo": "EDIFICIO CALATA DARSENA",
+		"cap": "16126",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "gevc010002",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "CONVITTO NAZIONALE - C.COLOMBO",
+		"indirizzo": "VIA    BELLUCCI,  4",
+		"cap": "16124",
+		"comune": "GENOVA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic84700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LAVAGNA",
+		"indirizzo": "PIAZZA INNOCENZO IV, 13",
+		"cap": "16033",
+		"comune": "LAVAGNA",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic81400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VALLE STURA",
+		"indirizzo": "PIAZZA 75 MARTIRI, 3",
+		"cap": "16010",
+		"comune": "MASONE",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic85700d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.    RAPALLO",
+		"indirizzo": "VIA FRANTINI, 7",
+		"cap": "16035",
+		"comune": "RAPALLO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis01300x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICETI",
+		"indirizzo": "PIAZZA E. BONTA\\', 8",
+		"cap": "16035",
+		"comune": "RAPALLO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geis00100n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO  G. DA VIGO",
+		"indirizzo": "VIA DON MINZONI 1",
+		"cap": "16035",
+		"comune": "RAPALLO",
+		"provincia": "GE"
+	}
+	,
+	{
+		"codMec": "geic866008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC RAPALLO-ZOAGLI",
+		"indirizzo": "VIA FERRETTO, 4",
+		"cap": "16035",
+		"comune": "RAPALLO",
+		"provincia": "GE"
+	}
+]
