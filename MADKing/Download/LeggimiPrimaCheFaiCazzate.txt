@@ -109,6 +109,27 @@ su eventuali danni provocati dal software.
 Chi trova lavoro mi offre da bere (postilla alla licenza, non so cosa ne
 pensi Linus Torvalds - al quale devo molte birre, dovessi beccarlo)
 
+PROVINCE MANCANTI:
+Il sito da cui ho ricavato le liste di scuole non è aggiornatissimo in
+fatto di provincie (quindi potrebbero mancare delle scuole).
+
+Mancanti:
+AO Aosta (forse per lo statuto speciale)
+BT Barletta-Andria-Trani
+BZ Bolzano (forse per lo statuto speciale)
+CI Carbonia-Iglesias
+FM Fermo
+MB Monza-Brianza
+OT Otranto
+VS Medio Campano
+OG Ogliastra
+TN Trento (forse per lo statuto speciale)
+
+Differenti fra il sito e lo stato attuale:
+FO Forlì, oggi è FC Forlì-Cesena
+PS Pesaro oggi è PU Pesaro-Urbino
+non so se mancano le scuole di Cesena e Urbino a questo punto.
+
 
 NOTE PER CHI SA PROGRAMMARE (OPPURE VORREBBE IMPARARE)
 
