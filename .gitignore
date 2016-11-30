@@ -1,2 +1,8 @@
+# Ignore files which name ends in ~ (ie, temporary files from many editors)
+*~
+
+# Ignore files with extension: .log
+*.log
+
 # Necessary for developing on MacOS X machines
 .DS_Store
