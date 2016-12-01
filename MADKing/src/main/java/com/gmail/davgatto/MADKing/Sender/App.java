@@ -45,9 +45,11 @@ public class App {
 	
 	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 
-	//private final static String PEC_ISTRUZIONE = "@pec.istruzione.it"; // suffix.pecIstruzione
-//	private final static boolean DEBUG = false;
-
+	/**
+	 * Invia a mezzo PEC tutti i file pdf (moduli di MAD) generati
+	 * @param args - argomenti in stile command-line
+	 * @return status code
+	 */
 	public static int send(String[] args) {
 		
 		log4j.trace("MADKing:MADSender: send invoked");

@@ -202,6 +202,9 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 	}
 
+	/**
+	 * Reagisce alle azioni da finestra
+	 */
 	public void actionPerformed(ActionEvent e) {
 		log4j.info("Richiesta creazione senza invio");
 		setTarget(tfTarget.getText());

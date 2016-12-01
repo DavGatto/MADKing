@@ -45,6 +45,11 @@ public class App {
 
 
 
+	/**
+	 * Genera i moduli compilati di MAD in pdf
+	 * @param args - argomenti in stile command-line
+	 * @return status code
+	 */
 	public static int makeMad(String[] args) {
 		
 		log4j.info("MADking:MADMaker: makeMad invoked");
