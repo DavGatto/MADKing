@@ -1,0 +1,2071 @@
+[
+	{
+		"codMec": "paic82800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALIA/ROCCAPALUMBA/VALLEDOL",
+		"indirizzo": "VIA PAGLIERE, 1",
+		"cap": "90021",
+		"comune": "ALIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic811008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALTAVILLA MILICIA",
+		"indirizzo": "VIA  CADUTI DI NASSIRIYA N.4",
+		"cap": "90010",
+		"comune": "ALTAVILLA MILICIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic84300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALTOFONTE - E. ARMAFORTE",
+		"indirizzo": "VIALE EUROPA,5",
+		"cap": "90030",
+		"comune": "ALTOFONTE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee054008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. BAGHERIA I - G. BAGNERA",
+		"indirizzo": "PIAZZA LEONARDO DA VINCI",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "patd050008",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"DON LUIGI STURZO\"",
+		"indirizzo": "VIA SANT\\'IGNAZIO DI LOYOLA 7",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee055004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. BAGHERIA II- G. CIRINCIONE",
+		"indirizzo": "VIA D\\'AMICO 1",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pari010007",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "S.D\\'ACQUISTO BAGHERIA",
+		"indirizzo": "VIA CONSOLARE, 111",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps09000v",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"G.D\\'ALESSANDRO\"",
+		"indirizzo": "VIA S. IGNAZIO DI LOYOLA",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papc01000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO GINNASIO DI STATO (F. SCADUTO)",
+		"indirizzo": "VIA DANTE 22",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm06400t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS SCIANNA C.",
+		"indirizzo": "VIA DE SPUCHES, 4",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm063002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "BAGHERIA-SMS CARDUCCI",
+		"indirizzo": "VIA  DIEGO D\\'AMICO 30",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic86500l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BAGHERIA- IGNAZIO BUTTITTA",
+		"indirizzo": "VIA  FLAVIO GIOIA, 4",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee10200c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. BAGHERIA III-L. PIRANDELLO",
+		"indirizzo": "VIA FILIPPO BUTTITTA",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee120002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. BAGHERIA  V - A. GRAMSCI",
+		"indirizzo": "VIA   C.TRAINA  4",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic83600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BAGHERIA - T. AIELLO",
+		"indirizzo": "VIA  CONSOLARE 119",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic84900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BAGHERIA IV - ASPRA",
+		"indirizzo": "VIA GROTTE",
+		"cap": "90011",
+		"comune": "BAGHERIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic83700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RETTORE F.EVOLA",
+		"indirizzo": "VIA BOMMARITO N,16",
+		"cap": "90041",
+		"comune": "BALESTRATE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic838008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BELMONTE MEZZAGNO",
+		"indirizzo": "VIA  PAPA GIOVANNI XXIII 180",
+		"cap": "90031",
+		"comune": "BELMONTE MEZZAGNO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee05700q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. BELMONTE MEZZAGNO",
+		"indirizzo": "PIAZZA DELLA LIBERTA\\'",
+		"cap": "90031",
+		"comune": "BELMONTE MEZZAGNO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic85000v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BISACQUINO \"MONS. G.BACILE",
+		"indirizzo": "VIA  G. GENOVESE, 4",
+		"cap": "90032",
+		"comune": "BISACQUINO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais01400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "DON CALOGERO DI VINCENTI",
+		"indirizzo": "VIA       SALERNO",
+		"cap": "90032",
+		"comune": "BISACQUINO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic839004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MARINEO - BOLOGNETTA.",
+		"indirizzo": "CORSO DEI MILLE N.2",
+		"cap": "90035",
+		"comune": "BOLOGNETTA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic81400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BORGETTO/ PARTINICO",
+		"indirizzo": "VIA PRIMAVERA DI PRAGA, 1",
+		"cap": "90042",
+		"comune": "BORGETTO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8af00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CACCAMO - G. BARBERA",
+		"indirizzo": "VIA ORTO DEGLI ANGELI",
+		"cap": "90012",
+		"comune": "CACCAMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic81900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CALTAVUTURO -G. ODDO",
+		"indirizzo": "P.TTA CAV. DI VITT.VENETO N.1",
+		"cap": "90022",
+		"comune": "CALTAVUTURO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic81000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAMPOFELICE /COLLESANO",
+		"indirizzo": "VIA PAPA GIOVANNI XXIII, 19",
+		"cap": "90010",
+		"comune": "CAMPOFELICE DI ROCCELLA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic840008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAMPOREALE",
+		"indirizzo": "P.ZA DELLE MIMOSE CENTRO NUOVO",
+		"cap": "90043",
+		"comune": "CAMPOREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAPACI - BIAGIO SICILIANO",
+		"indirizzo": "CORSO ISOLA DELLE FEMMINE 11",
+		"cap": "90040",
+		"comune": "CAPACI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee063003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. CAPACI - A. DE GASPERI",
+		"indirizzo": "CORSO ISOLA DELLE FEMMINE  SNC",
+		"cap": "90040",
+		"comune": "CAPACI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais004009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "UGO MURSIA",
+		"indirizzo": "VIA TRATTATI DI ROMA, 6",
+		"cap": "90044",
+		"comune": "CARINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic85600t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BOCCADIFALCO/TOMASI DI L.",
+		"indirizzo": "VIA DOGALI",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic86900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FALCONE /FONDO RAFFO -PA",
+		"indirizzo": "VIA MARCHESE PENSABENE, 34",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic870004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LEONARDO SCIASCIA-PA",
+		"indirizzo": "VIA FRANCESCO DE GOBBIS,13",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87100x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MICHELANGELO BUONARROTI-PA",
+		"indirizzo": "VIA TEMBIEN,1",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PADRE PINO PUGLISI-PA",
+		"indirizzo": "VIA PANZERA,28",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. L.PIRANDELLO/B. ULIVIA -PA",
+		"indirizzo": "VIA ORTIGIA, 19",
+		"cap": "90125",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C PRINCIP. ELENA DI NAPOLI-PA",
+		"indirizzo": "VIA USTICA 46",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic876003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G. E. NUCCIO -PA",
+		"indirizzo": "PIAZZA DELL\\'ORIGLIONE,10",
+		"cap": "90134",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ANTONIO UGO -PA",
+		"indirizzo": "VIA  ETTORE ARCULEO, 39",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIUSEPPE VERDI -PA",
+		"indirizzo": "VIA A. CASELLA N. 33/35",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic87900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MANZONI /IMPASTATO - PA",
+		"indirizzo": "VIA FILIPPO PARLATORE ,56",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic890009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. POLITEAMA -PA",
+		"indirizzo": "VIA PIER DELLE VIGNE,13",
+		"cap": "90139",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic891005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ARENELLA -PA",
+		"indirizzo": "LUNGOMARE CRISTOFORO COLOMBO,240",
+		"cap": "90142",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic892001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S \" MATTARELLA -BONAGIA\"",
+		"indirizzo": "VIA DEL CASTORO, 13",
+		"cap": "90125",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic89300r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G. MARCONI -PA",
+		"indirizzo": "VIA  GEN. A DI GIORGI, 4",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic859009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONREALE - A. VENEZIANO",
+		"indirizzo": "VIA KENNEDY,2",
+		"cap": "90046",
+		"comune": "MONREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais00800l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "EMANUELE BASILE - MARIO D\\'ALEO",
+		"indirizzo": "DISCESA CAPPUCCINI, SNC",
+		"cap": "90046",
+		"comune": "MONREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic86400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONREALE - GUGLIELMO II",
+		"indirizzo": "VIA B. D\\'ACQUISTO 33",
+		"cap": "90046",
+		"comune": "MONREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONREALE - F. MORVILLO",
+		"indirizzo": "VIA B. GIORDANO, 10",
+		"cap": "90046",
+		"comune": "MONREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic862005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTELEPRE-MANZONI",
+		"indirizzo": "VIA MADONNA DEL CARMINE",
+		"cap": "90040",
+		"comune": "MONTELEPRE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic825006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTEMAGGIORE BELSITO",
+		"indirizzo": "VIA GIUNTA MUNICIPALE",
+		"cap": "90020",
+		"comune": "MONTEMAGGIORE BELSITO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee00300b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. E. ARCULEO - PA",
+		"indirizzo": "VIA VITO SCHIFANI  3",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee012006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. F. SAVERIO CAVALLARI - PA",
+		"indirizzo": "CORSO DEI MILLE 793",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee013002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. A. DE GASPERI - PA",
+		"indirizzo": "P.ZZA PAPA GIOVANNI PAOLO II",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee017009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. E. DE AMICIS - PA",
+		"indirizzo": "VIA ROSSO S.SECONDO, 1",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee019001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. A. GABELLI - PA",
+		"indirizzo": "VIA EUGENIO L\\'EMIRO 30",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee020005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. N. GARZILLI - PA",
+		"indirizzo": "VIA ISONZO 7",
+		"cap": "90144",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee02900g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. MONTI IBLEI - PA",
+		"indirizzo": "VIA MONTE SAN CALOGERO 20",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee03100g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. E. SALGARI - PA",
+		"indirizzo": "VIA PARATORE 34",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee03200b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. F. ORESTANO - PA",
+		"indirizzo": "VIA CONTE FEDERICO 1",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic897004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIULIANA SALADINO - PA",
+		"indirizzo": "VIA BARISANO DA TRANI, 7 - 9",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic89800x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. AMARI/RONCALLI/FERRARA-PA",
+		"indirizzo": "VIA G .F INGRASSIA 33",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic89900q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ABBA /ALIGHIERI -PA",
+		"indirizzo": "VIA RUGGERO MARTURANO 77/79",
+		"cap": "90142",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RITA LEVI MONTALCINI -PA",
+		"indirizzo": "PIAZZA S.PAOLO, N.4",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a1008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LUIGI CAPUANA -PA",
+		"indirizzo": "VIA ALESSIO NARBONE 55",
+		"cap": "90138",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a2004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SILVIO BOCCONE -PA",
+		"indirizzo": "VIA DEL VESPRO,72",
+		"cap": "90127",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8aa008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CRUILLAS -PA",
+		"indirizzo": "VIA SALERNO,19",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ab004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RITA ATRIA -PA",
+		"indirizzo": "LARGO CAVALIERI DI MALTA,9",
+		"cap": "90133",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ac00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SCINA\\'/COSTA -PA",
+		"indirizzo": "VIA LI BASSI 60",
+		"cap": "90128",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ad00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LOMBARDO RADICE -PA",
+		"indirizzo": "C.SO CALATAFIMI 241/A",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ak004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. L.DA VINCI /G.CARDUCCI -PA",
+		"indirizzo": "VIA FERDINANDO DI GIORGI 48",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8al00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIOVANNI XXIII /PIAZZI -PA",
+		"indirizzo": "VIA MARIO RUTELLI, 50",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8am00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIOTTO /CIPOLLA",
+		"indirizzo": "VIA GIOTTO N.41",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8an00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALBERICO GENTILI -PA",
+		"indirizzo": "VIA F.LO IACONO, 1",
+		"cap": "90144",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ap007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. M.RAPISARDI /GARIBALDI -PA",
+		"indirizzo": "VIA CALTANISSETTA 27",
+		"cap": "90141",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee033007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. ALESSANDRA SIRAGUSA - PA",
+		"indirizzo": "VIA AMM. U. CAGNI,42",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee034003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. PARTANNA MONDELLO - PA",
+		"indirizzo": "VIA SANTOCANALE, 23/B",
+		"cap": "90151",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee03700e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. RAGUSA MOLETI - PA",
+		"indirizzo": "VIA RAGUSA MOLETI 8",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee039006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. ROSOLINO PILO - PA",
+		"indirizzo": "VIA S.LA FRANCA 70",
+		"cap": "90127",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee04000a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. NAZARIO SAURO - PA",
+		"indirizzo": "VIA AMEDEO D\\'AOSTA 20",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee042002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TOMASELLI - PA",
+		"indirizzo": "VIA ABRUZZI,2",
+		"cap": "90144",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee12200n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D.  C. MANERI /INGRASSIA - PA",
+		"indirizzo": "VIALE DEI PICCIOTTI,8",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic81300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.PEREZ-M.TERESA DI CALCUTTA",
+		"indirizzo": "P.ZZA  PEREZ N.1",
+		"cap": "90127",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic847003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ANTONINO CAPONNETTO -PA",
+		"indirizzo": "VIA SOCRATE N. 11",
+		"cap": "90147",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic84800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SFERRACAVALLO /ONORATO -PA",
+		"indirizzo": "VIA TACITO,34",
+		"cap": "90148",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic85100p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.A.COLOZZA /BONFIGLIO-PA",
+		"indirizzo": "VIA IMERA,32",
+		"cap": "90138",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic85200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G. DI VITTORIO -PA",
+		"indirizzo": "VIA DI VITTORIO,11",
+		"cap": "90121",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic85300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MANTEGNA /BONANNO -PA",
+		"indirizzo": "VIA BOLOGNI,  4",
+		"cap": "90136",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic854006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. KAROL WOJTYLA  -PA",
+		"indirizzo": "VIA DELL\\'ARSENALE,62",
+		"cap": "90142",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic855002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RENATO GUTTUSO -PA",
+		"indirizzo": "VIA MESSINA MARINE N.811",
+		"cap": "90121",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic846007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CINISI",
+		"indirizzo": "VIA SACRAMENTO,3",
+		"cap": "90045",
+		"comune": "CINISI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais00900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS DON G. COLLETTO",
+		"indirizzo": "VIA SALVATORE CUSIMANO S.N.C.",
+		"cap": "90034",
+		"comune": "CORLEONE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm15100l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "G. VASI",
+		"indirizzo": "VIA DON G. COLLETTO",
+		"cap": "90034",
+		"comune": "CORLEONE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee07200t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. C O R L E O N E",
+		"indirizzo": "VIA FRANCESCA  MORVILLO, 1",
+		"cap": "90034",
+		"comune": "CORLEONE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  FICARAZZI",
+		"indirizzo": "CORTILE GIALLOMBARDO SNC",
+		"cap": "90010",
+		"comune": "FICARAZZI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais01700b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"G. SALERNO\"",
+		"indirizzo": "VIA ROCCO CHINNICI S.N.",
+		"cap": "90024",
+		"comune": "GANGI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic84500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GANGI - F. P. POLIZZANO",
+		"indirizzo": "VIA S.LEONARDO",
+		"cap": "90024",
+		"comune": "GANGI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic834001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ISOLA DELLE FEMMINE-F.RISO",
+		"indirizzo": "VIA MANZONI,2",
+		"cap": "90040",
+		"comune": "ISOLA DELLE FEMMINE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais01100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. LERCARA FRIDDI",
+		"indirizzo": "VIALE PIETRO SCAGLIONE N.24",
+		"cap": "90025",
+		"comune": "LERCARA FRIDDI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic81600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LERCARA F./CASTRONOVO S.",
+		"indirizzo": "VIA AUTONOMIA",
+		"cap": "90025",
+		"comune": "LERCARA FRIDDI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee077001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. MISILMERI I - TRAINA",
+		"indirizzo": "VIA FIUME  N. 2",
+		"cap": "90036",
+		"comune": "MISILMERI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm09900r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "MISILMERI-GUASTELLA C.",
+		"indirizzo": "VIA ETTORE MAJORANA - C.DA GABATUTTI",
+		"cap": "90036",
+		"comune": "MISILMERI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee117006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. MISILMERI II- V. LANDOLINA",
+		"indirizzo": "VIA ELIO VITTORINI, SNC",
+		"cap": "90036",
+		"comune": "MISILMERI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic85800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONREALE -MATTARELLA",
+		"indirizzo": "VIA PAPA GIOVANNI PAOLO II, SNC",
+		"cap": "90046",
+		"comune": "MONREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee07800r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. MONREALE I - P. NOVELLI",
+		"indirizzo": "VIA ARCHIMEDE, 13",
+		"cap": "90046",
+		"comune": "MONREALE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee06400v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. CARINI I",
+		"indirizzo": "CORSO UMBERTO PRIMO, N.8",
+		"cap": "90044",
+		"comune": "CARINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic861009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARINI - LAURA LANZA",
+		"indirizzo": "VIA A. PRANO 72/74",
+		"cap": "90044",
+		"comune": "CARINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic86000d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARINI-VILLAGRAZIA GUTTUSO",
+		"indirizzo": "VIA ISCHIA 65/67",
+		"cap": "90044",
+		"comune": "CARINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ag007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARINI-CALDERONE/TORRETTA",
+		"indirizzo": "VIA EMILIA,1",
+		"cap": "90044",
+		"comune": "CARINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais00700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"LUIGI FAILLA TEDALDI\"",
+		"indirizzo": "CONTRADA ROSARIO  SNC",
+		"cap": "90013",
+		"comune": "CASTELBUONO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ah003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTELBUONO-F.MINA\\'PALUMBO",
+		"indirizzo": "VIA SANDRO PERTINI, 40",
+		"cap": "90013",
+		"comune": "CASTELBUONO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic84200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTELDACCIA",
+		"indirizzo": "VIA CARLO CATTANEO N. 80",
+		"cap": "90014",
+		"comune": "CASTELDACCIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee103008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. CASTELDACCIA",
+		"indirizzo": "VIA LUNGARINI",
+		"cap": "90014",
+		"comune": "CASTELDACCIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic820003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTELLANA S. /POLIZZI G.",
+		"indirizzo": "CONTRADA   FRAZZUCCHI",
+		"cap": "90020",
+		"comune": "CASTELLANA SICULA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais02200v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "JACOPO DEL DUCA - DIEGO BIANCA AMATO",
+		"indirizzo": "VIA  PIETRAGROSSA  N. 68/70",
+		"cap": "90015",
+		"comune": "CEFALU\\'",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais00200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MANDRALISCA",
+		"indirizzo": "VIA MAESTRO VINCENZO PINTORNO N.27",
+		"cap": "90015",
+		"comune": "CEFALU\\'",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8aj008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CEFALU\\' - NICOLA BOTTA",
+		"indirizzo": "VIA ENRICO FERMI, 4",
+		"cap": "90015",
+		"comune": "CEFALU\\'",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic82900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CERDA- L. PIRANDELLO",
+		"indirizzo": "VIA A.DE GASPERI N.2/4",
+		"cap": "90010",
+		"comune": "CERDA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic82300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIUSA/SCLAFANI- G. REINA",
+		"indirizzo": "VIA COCCHIARA,4",
+		"cap": "90033",
+		"comune": "CHIUSA SCLAFANI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic812004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CIMINNA -DON RIZZO",
+		"indirizzo": "VIA TRIESTE,25",
+		"cap": "90023",
+		"comune": "CIMINNA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8aq003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. UDITORE /SETTI CARRARO -PA",
+		"indirizzo": "VIA CIMABUE, 20",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ar00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIUSEPPE SCELSA -PA",
+		"indirizzo": "VIA VILLANI, 40",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8as004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  VITTORIO EMANUELE III -PA",
+		"indirizzo": "VIA CESARE TERRANOVA N. 93",
+		"cap": "90131",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8at00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SPERONE / PERTINI -PA",
+		"indirizzo": "VIA GIANNOTTA, 4",
+		"cap": "90121",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8au00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PESTALOZZI/CAVOUR-PA",
+		"indirizzo": "VIA CROCIFISSO A PIETRATAGLIATA,7D",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8av00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MAREDOLCE - PA",
+		"indirizzo": "VIA FICHIDINDIA, 6",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ax007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. I. FLORIO - S. LORENZO -PA",
+		"indirizzo": "VIA F.PPO DI GIOVANNI, 88",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8ay003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTEGRAPPA /R. SANZIO-PA",
+		"indirizzo": "VIA PIER LUIGI DEODATO, 3",
+		"cap": "90128",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8az00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RUSSO / RACITI - PA",
+		"indirizzo": "VIA TINDARI , 52",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais01600g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"MAJORANA\"",
+		"indirizzo": "VIA        ASTORINO 56",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais02300p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "F. FERRARA",
+		"indirizzo": "VIA        SGARLATA 11",
+		"cap": "90133",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais02400e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "E. MEDI",
+		"indirizzo": "VIA   LEONARDO DA VINCI, 364",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais026006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE STATALE MARIO RUTELLI",
+		"indirizzo": "PIAZZALE GIANGIACOMO CIACCIO MONTALTO N.3",
+		"cap": "90131",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais027002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. VOLTA",
+		"indirizzo": "PASSAGGIO  DEI PICCIOTTI 1",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais02800t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "E ASCIONE",
+		"indirizzo": "VIA        CENTURIPE 11",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais02900n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "DUCA ABRUZZI - LIBERO GRASSI",
+		"indirizzo": "VIA FAZIO N. 1",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais03100n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GAETANO SALVEMINI\"",
+		"indirizzo": "VIALE  DELL\\'0LIMPO N.20/22",
+		"cap": "90149",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais03200d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "DAMIANI ALMEYDA - FRANCESCO CRISPI",
+		"indirizzo": "LARGO MARIO MINEO,14",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais033009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "V.RAGUSA E OTAMA KIYOHARA - F.PARLATORE",
+		"indirizzo": "P.ZZA  G. TURBA,     71",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais03600r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIOENI -  TRABIA",
+		"indirizzo": "VIA  VITTORIO EMANUELE , 27",
+		"cap": "90133",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais03700l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L.EINAUDI-PARETO",
+		"indirizzo": "VIA        MONGERBINO 51",
+		"cap": "90144",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm00700n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CESAREO G.A.",
+		"indirizzo": "VIA G. PARATORE,36",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm01500l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S.  RAIMONDO FRANCHETTI",
+		"indirizzo": "VIALE AMEDEO D\\'AOSTA N.52/54",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm01900x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "LEONARDO DA VINCI",
+		"indirizzo": "VIA SERRADIFALCO,190",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm02300g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "PECORARO ANTONINO",
+		"indirizzo": "PIAZZA     EUROPA 110",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm03600n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SCUOLA SEC. DI 1? V.E. ORLANDO",
+		"indirizzo": "VIA        LUSSEMBURGO   103",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm041005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GRAMSCI ANTONIO",
+		"indirizzo": "VIA G.LA LOGGIA,214",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm04800x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS DON LORENZO MILANI",
+		"indirizzo": "PASSAGGIO  DEI PICCIOTTI  N. 3",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm05000x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "PUBLIO VIRGILIO MARONE",
+		"indirizzo": "VIA VALDEMONE, 7",
+		"cap": "90144",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm138006",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "BORGESE-XXVII MAGGIO",
+		"indirizzo": "PIAZZA CONTARDO FERRINI,13",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "parh01000q",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "P.BORSELLINO",
+		"indirizzo": "PIAZZETTA  G. BELLISSIMA 3",
+		"cap": "90133",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "parh02000a",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.S.E.O.A. \"PIETRO PIAZZA\"",
+		"indirizzo": "CORSO DEI MILLE N. 181",
+		"cap": "90123",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "parh050006",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "F.PAOLO CASCINO (EX III ALBERGH)",
+		"indirizzo": "VIA FATTORI, 60",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pasl01000v",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LICEO ARTISTICO STATALE  \" E. CATALANO \"",
+		"indirizzo": "VIA A. LA MARMORA N. 66",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "patd120009",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T. ECONOMICO E  TURISMO \"PIO LA TORRE\"",
+		"indirizzo": "VIA NINA SICILIANA, 22",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "patf030009",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI VITTORIO EMANUELE III",
+		"indirizzo": "VIA  DUCA DELLA VERDURA 48",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "patn01000q",
+		"tipo": "ISTITUTO TECNICO PER IL TURISMO",
+		"nome": "MARCO POLO",
+		"indirizzo": "VIA UGO LA MALFA 113",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pavc010006",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "GIOVANNI FALCONE",
+		"indirizzo": "PIAZZA     SETT\\'ANGELI         3",
+		"cap": "90134",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pave010005",
+		"tipo": "EDUCANDATO",
+		"nome": "MARIA ADELAIDE",
+		"indirizzo": "CORSO CALATAFIMI, 86",
+		"cap": "90129",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a7007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.PARTINICO PRIVITERA/POLIZZI",
+		"indirizzo": "VIA PRINCIPE UMBERTO N.305",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "patd09000p",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "CARLO ALBERTO DALLA CHIESA",
+		"indirizzo": "CORSO DEI MILLE 517",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais021003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE DANILO DOLCI",
+		"indirizzo": "VIA GOFFREDO MAMELI N. 4",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps080008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS SANTI SAVARINO",
+		"indirizzo": "C/DA TURRISI S.N.",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8aw00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.PARTINICO ARCHIMEDE/LA FATA",
+		"indirizzo": "VIALE DELLA REGIONE, 32",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a8003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASA DEL FANCIULLO",
+		"indirizzo": "VIA LIBERTA\\',  10",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm15700g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA PALERMO 1",
+		"indirizzo": "VIA S.LORENZO COLLI 312/G-ATP",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papc030004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "MELI",
+		"indirizzo": "VIA S.ALDISIO,2",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papc04000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "GARIBALDI",
+		"indirizzo": "VIA        CANONICO ROTOLO",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papc09000q",
+		"tipo": "LICEO CLASSICO",
+		"nome": "UMBERTO I",
+		"indirizzo": "VIA        FILIPPO PARLATORE 26 C",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papc11000q",
+		"tipo": "LICEO CLASSICO",
+		"nome": "VITTORIO EMANUELE II",
+		"indirizzo": "VIA        SIMONE DA BOLOGNA 11",
+		"cap": "90134",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papm010003",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "FINOCCHIARO APRILE",
+		"indirizzo": "VIA        CILEA",
+		"cap": "90144",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papm02000n",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "DE COSMI",
+		"indirizzo": "VIA  LEONARDO RUGGERI 15",
+		"cap": "90135",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papm04000v",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IM REGINA MARGHERITA",
+		"indirizzo": "PIAZZETTA  S. SALVATORE 1",
+		"cap": "90134",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papm07000p",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO SCIENZE UMANE E LING. \"D. DOLCI\"",
+		"indirizzo": "VIA FICHIDINDIA",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "papm100009",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "NINNI CASSARA",
+		"indirizzo": "VIA DON ORIONE 44",
+		"cap": "90142",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps010002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GALILEI",
+		"indirizzo": "VIA        DANIMARCA 54",
+		"cap": "90146",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps02000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO STATALE \"S.CANNIZZARO\"",
+		"indirizzo": "VIA GEN. ARIMONDI 14",
+		"cap": "90143",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps05000c",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ALBERT EINSTEIN",
+		"indirizzo": "VIA A. VIVALDI N  60",
+		"cap": "90145",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps060003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ERNESTO BASILE",
+		"indirizzo": "VIA SAN CIRO  23",
+		"cap": "90124",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps100008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "BENEDETTO CROCE",
+		"indirizzo": "VIA        BENFRATELLI 4",
+		"cap": "90134",
+		"comune": "PALERMO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais034005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "O.M.CORBINO PARTINICO",
+		"indirizzo": "VIA VERONA N.2",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic88000p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PARTINICO -CASSARA\\'/GUIDA",
+		"indirizzo": "VIA MAGGIORE GUIDA",
+		"cap": "90047",
+		"comune": "PARTINICO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic83000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PETRALIA SOPRANA",
+		"indirizzo": "VIA G.L.SGADARI",
+		"cap": "90026",
+		"comune": "PETRALIA SOPRANA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic82700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. P.SOTTANA- GERACI-ALIMENA",
+		"indirizzo": "PIAZZA TEN. N. TEDESCO, 6",
+		"cap": "90027",
+		"comune": "PETRALIA SOTTANA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais018007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. P. DOMINA PETRALIA SOTTANA",
+		"indirizzo": "PIAZZA     DOMINA 22",
+		"cap": "90027",
+		"comune": "PETRALIA SOTTANA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic88100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIANA DEGLI ALBANESI",
+		"indirizzo": "VIA PIETRA DI MARIA",
+		"cap": "90037",
+		"comune": "PIANA DEGLI ALBANESI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic818003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. POLLINA/S.MAURO CASTELVERD",
+		"indirizzo": "VIA L. SCIASCIA",
+		"cap": "90010",
+		"comune": "POLLINA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic88200a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PRIZZI",
+		"indirizzo": "VIA FOSSA DELLA NEVE",
+		"cap": "90038",
+		"comune": "PRIZZI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic81500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN CIPIRELLO",
+		"indirizzo": "VIA A.GRAMSCI,2",
+		"cap": "90040",
+		"comune": "SAN CIPIRELLO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic884002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENS SAN GIUSEPPE JATO",
+		"indirizzo": "CONTRADA MORTILLI SNC",
+		"cap": "90048",
+		"comune": "SAN GIUSEPPE IATO",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic88500t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANTA FLAVIA - K. WOJTYLA",
+		"indirizzo": "CORSO VITTORIO EMANUELE ORLANDO, 156",
+		"cap": "90017",
+		"comune": "SANTA FLAVIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais00100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS G. UGDULENA",
+		"indirizzo": "VIA  DEL MAZZIERE",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm15600q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA PALERMO 2",
+		"indirizzo": "PIAZZA DUOMO N. 1",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee09300v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TERMINI IMERESE I CIRCOLO",
+		"indirizzo": "VIA DEL MAZZIERE",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic8a600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERMINI I. - TISIA D\\'IMERA",
+		"indirizzo": "VIA DEL MAZZIERE",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais013004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IISS STENIO",
+		"indirizzo": "VIA E.FERMI",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic88600n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERMINI-BALSAMO/PANDOLFINI",
+		"indirizzo": "SALITA SAN GIROLAMO, SNC",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pais019003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE  NICOLO\\'PALMERI",
+		"indirizzo": "PIAZZA G. SANSONE 12",
+		"cap": "90018",
+		"comune": "TERMINI IMERESE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee10700g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TERRASINI - DON L. MILANI",
+		"indirizzo": "VIA PAPA GIOVANNI",
+		"cap": "90049",
+		"comune": "TERRASINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic88700d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TERRASINI - GIOVANNI XXIII",
+		"indirizzo": "VIALE GIUSEPPE CONSIGLIO, 01",
+		"cap": "90049",
+		"comune": "TERRASINI",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee10500x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TRABIA",
+		"indirizzo": "PIAZZA IGNAZIO GATTO",
+		"cap": "90019",
+		"comune": "TRABIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic888009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC. TRABIA -GIOVANNI XXIII",
+		"indirizzo": "VIA PIERSANTI MATTARELLA, 9",
+		"cap": "90019",
+		"comune": "TRABIA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paps16000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "I.C. DI II GRADO \"SAVERIA PROFETA\"",
+		"indirizzo": "USTICA",
+		"cap": "90010",
+		"comune": "USTICA",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee11300v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. VILLABATE II",
+		"indirizzo": "VIA FIDUCCIA 7/A",
+		"cap": "90039",
+		"comune": "VILLABATE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "pamm12600x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "VILLABATE-PALUMBO P.",
+		"indirizzo": "VIA G. TOMASI DI LAMPEDUSA SNC",
+		"cap": "90039",
+		"comune": "VILLABATE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paee09500e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. VILLABATE I - DON MILANI",
+		"indirizzo": "CORSO VITTORIO EMANUELE N.136",
+		"cap": "90039",
+		"comune": "VILLABATE",
+		"provincia": "PA"
+	}
+	,
+	{
+		"codMec": "paic817007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VILLAFRATI-MEZZOJUSO",
+		"indirizzo": "CORSO SAMMARCO 59",
+		"cap": "90030",
+		"comune": "VILLAFRATI",
+		"provincia": "PA"
+	}
+]

@@ -1,0 +1,1411 @@
+[
+	{
+		"codMec": "bgic817006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALBANO S.ALESSANDRO",
+		"indirizzo": "VIA D. ALIGHIERI, 13",
+		"cap": "24061",
+		"comune": "ALBANO SANT\\'ALESSANDRO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00900b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"OSCAR ARNULFO ROMERO\"",
+		"indirizzo": "VIALE ALDO MORO, 51",
+		"cap": "24021",
+		"comune": "ALBINO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic818002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALBINO - G.SOLARI",
+		"indirizzo": "VIA G. MAZZINI 61",
+		"cap": "24021",
+		"comune": "ALBINO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic81900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALMENNO S.BARTOLOMEO L.ANGELINI",
+		"indirizzo": "IV NOVEMBRE",
+		"cap": "24030",
+		"comune": "ALMENNO SAN BARTOLOMEO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic820002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALMENNO S.SALV. -GIOVANNI XXIII",
+		"indirizzo": "VIALE      EUROPA  3",
+		"cap": "24031",
+		"comune": "ALMENNO SAN SALVATORE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgps17000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"EDOARDO AMALDI\"",
+		"indirizzo": "VIA LOCATELLI, 16",
+		"cap": "24022",
+		"comune": "ALZANO LOMBARDO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic82100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALZANO LOMBARDO",
+		"indirizzo": "VIA F.LLI VALENTI, 6",
+		"cap": "24022",
+		"comune": "ALZANO LOMBARDO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic82200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARCENE  - C.CONSONNI",
+		"indirizzo": "VIA PAPA GIOVANNI XXIII,4",
+		"cap": "24040",
+		"comune": "ARCENE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic82300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "AZZANO SAN PAOLO GIOVANNI XXIII",
+		"indirizzo": "VIA DON GONELLA, 4",
+		"cap": "24052",
+		"comune": "AZZANO SAN PAOLO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic824009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BAGNATICA",
+		"indirizzo": "VIA        DEI MILLE",
+		"cap": "24060",
+		"comune": "BAGNATICA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic825005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BARIANO",
+		"indirizzo": "VIA PIAVE,11",
+		"cap": "24050",
+		"comune": "BARIANO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic811007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO -  V.MUZIO",
+		"indirizzo": "VIA S.PIETRO AI CAMPI. 1",
+		"cap": "24126",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic812003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO - MAZZI",
+		"indirizzo": "VIA F.LLI CALVI, 3A",
+		"cap": "24122",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic81300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO  -  DONADONI",
+		"indirizzo": "VIA     TASSO               14",
+		"cap": "24121",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic81400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO - DA ROSCIATE",
+		"indirizzo": "VIA CODUSSI,N. 5",
+		"cap": "24124",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis03200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GIULIO NATTA\"",
+		"indirizzo": "VIALE EUROPA, 15",
+		"cap": "24125",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis03800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GUIDO GALLI\"",
+		"indirizzo": "VIA GAVAZZENI, 37",
+		"cap": "24125",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgmm18500p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 BERGAMO",
+		"indirizzo": "VIA OZANAM 27",
+		"cap": "24126",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgpc02000c",
+		"tipo": "LICEO CLASSICO",
+		"nome": "\"PAOLO SARPI\"",
+		"indirizzo": "PIAZZA ROSATE, 4",
+		"cap": "24129",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgpm010002",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"P. SECCO SUARDO\"",
+		"indirizzo": "VIA ANGELO MAJ, 8",
+		"cap": "24121",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgpm02000l",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"GIOVANNI FALCONE\"",
+		"indirizzo": "VIA DUNANT, 1",
+		"cap": "24128",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgps02000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"FILIPPO LUSSANA\"",
+		"indirizzo": "VIA ANGELO MAY,1",
+		"cap": "24121",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic82700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BONATE SOTTO \"CLARA LEVI\"",
+		"indirizzo": "VIA FAIDETTI, 2",
+		"cap": "24040",
+		"comune": "BONATE DI SOTTO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic826001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BONATE SOPRA \"ALDO MORO\"",
+		"indirizzo": "VIA SALVO D\\'ACQUISTO 15",
+		"cap": "24040",
+		"comune": "BONATE SOPRA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic82800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BORGO DI TERZO",
+		"indirizzo": "VIA S. LUIGI 4",
+		"cap": "24060",
+		"comune": "BORGO DI TERZO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic82900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BREMBATE SOTTO",
+		"indirizzo": "VIA ORATORIO, 14",
+		"cap": "24041",
+		"comune": "BREMBATE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic89500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BREMBATE SOPRA - F. DELL\\'ORTO",
+		"indirizzo": "VIA LOCATELLI, 10",
+		"cap": "24030",
+		"comune": "BREMBATE DI SOPRA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic83000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI XXIII",
+		"indirizzo": "VIA VALLETTA,  20",
+		"cap": "24012",
+		"comune": "BREMBILLA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic83100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALCINATE - ALDO MORO",
+		"indirizzo": "LARGO FRANCESCO DE SANCTIS,2",
+		"cap": "24050",
+		"comune": "CALCINATE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic832008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALCIO MARTIRI DELLA RESISTENZA",
+		"indirizzo": "VIA        SCHIEPPATI    14",
+		"cap": "24054",
+		"comune": "CALCIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic81500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO -  CAMOZZI",
+		"indirizzo": "VIA PINETTI,25",
+		"cap": "24123",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic81600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO -  G.D. PETTENI",
+		"indirizzo": "VIA BURATTI, 2",
+		"cap": "24124",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgtl02000t",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "\"GIACOMO QUARENGHI\"",
+		"indirizzo": "VIA EUROPA, 27",
+		"cap": "24125",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic80700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO  DE AMICIS",
+		"indirizzo": "VIA DELLE TOFANE 1",
+		"cap": "24125",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic80800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO - S.LUCIA",
+		"indirizzo": "VIA CADORNA, 9/B",
+		"cap": "24128",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgtf010003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"PIETRO PALEOCAPA\"",
+		"indirizzo": "VIA M. GAVAZZENI 29",
+		"cap": "24125",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgtd06000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"BORTOLO  BELOTTI\"",
+		"indirizzo": "VIA PER AZZANO,5",
+		"cap": "24126",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgtd030002",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"VITTORIO EMANUELE II\"",
+		"indirizzo": "VIA F. LUSSANA, 2",
+		"cap": "24121",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgsl01000t",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "\" GIACOMO E PIO MANZU\\' \"",
+		"indirizzo": "VIA TORQUATO TASSO, 18",
+		"cap": "24121",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgps05000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"LORENZO MASCHERONI\"",
+		"indirizzo": "VIA ALBERICO DA ROSCIATE, 21A",
+		"cap": "24124",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic8af00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERGAMO \"I MILLE\"",
+		"indirizzo": "VIA GOLDONI,125",
+		"cap": "24128",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis021002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"CESARE PESENTI\"",
+		"indirizzo": "VIA OZANAM, 27",
+		"cap": "24126",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis026005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"MARIAGRAZIA MAMOLI\"",
+		"indirizzo": "VIA BREMBILLA 3",
+		"cap": "24129",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis02900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"CATERINA CANIANA\"",
+		"indirizzo": "VIA DEL POLARESCO, 19",
+		"cap": "24129",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis03100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"MARIO RIGONI STERN\"",
+		"indirizzo": "VIA BORGO PALAZZO, 128",
+		"cap": "24125",
+		"comune": "BERGAMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic833004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALUSCO D\\'ADDA",
+		"indirizzo": "PIAZZA SAN FEDELE 258",
+		"cap": "24033",
+		"comune": "CALUSCO D\\'ADDA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic83400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAPRIATE S.G. \" A. MANZONI\"",
+		"indirizzo": "VIA XXV APRILE,28",
+		"cap": "24042",
+		"comune": "CAPRIATE SAN GERVASIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgps04000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"GALILEO GALILEI\"",
+		"indirizzo": "VIA SAN FRANCESCO, 63",
+		"cap": "24043",
+		"comune": "CARAVAGGIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic83500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARAVAGGIO  MASTRI CARAVAGGINI",
+		"indirizzo": "VIA ZENALE E BUTTINONE N. 20",
+		"cap": "24043",
+		"comune": "CARAVAGGIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic83600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARVICO -  E. FERMI",
+		"indirizzo": "VIA CAVOUR,9",
+		"cap": "24030",
+		"comune": "CARVICO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic839003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASAZZA",
+		"indirizzo": "VIA BROLI, 4",
+		"cap": "24060",
+		"comune": "CASAZZA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic83700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASIRATE D\\'ADDA",
+		"indirizzo": "VIALE RIMEMBRANZE, 6",
+		"cap": "24040",
+		"comune": "CASIRATE D\\'ADDA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic838007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELLI CAL.- FRA A.DA CALEPIO",
+		"indirizzo": "PIAZZA VITTORIO VENETO,11",
+		"cap": "24060",
+		"comune": "CASTELLI CALEPIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic840007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO CHIUDUNO",
+		"indirizzo": "VIA ALDO MORO, 13",
+		"cap": "24060",
+		"comune": "CHIUDUNO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic841003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CISANO BERGAMASCO",
+		"indirizzo": "VIA G. PASCOLI, 5",
+		"cap": "24034",
+		"comune": "CISANO BERGAMASCO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic84200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CISERANO",
+		"indirizzo": "VIA AMEDEO DI SAVOIA, 7",
+		"cap": "24040",
+		"comune": "CISERANO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic80600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CLUSONE",
+		"indirizzo": "VIALE ROMA, 11",
+		"cap": "24023",
+		"comune": "CLUSONE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis012007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ANDREA FANTONI\"",
+		"indirizzo": "VIA BARBARIGO, 27",
+		"cap": "24023",
+		"comune": "CLUSONE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic89900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COLOGNO - \"ABATE G.BRAVI\"",
+		"indirizzo": "VIA ROSMINI, 12",
+		"cap": "24055",
+		"comune": "COLOGNO AL SERIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic84300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COSTA VOLPINO",
+		"indirizzo": "VIA ALDO MORO, 2",
+		"cap": "24062",
+		"comune": "COSTA VOLPINO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic855001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LOVERE",
+		"indirizzo": "VIA DIONIGI CASTELLI, 2",
+		"cap": "24065",
+		"comune": "LOVERE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"DECIO CELERI\"",
+		"indirizzo": "VIA NAZARIO SAURO, 2",
+		"cap": "24065",
+		"comune": "LOVERE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00700q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"IVAN PIANA\"",
+		"indirizzo": "VIA XX SETTEMBRE, 4",
+		"cap": "24065",
+		"comune": "LOVERE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgvc010005",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "C. BATTISTI",
+		"indirizzo": "VIA CESARE BATTISTI, 1",
+		"cap": "24065",
+		"comune": "LOVERE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic85600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MAPELLO - PIERA GELPI",
+		"indirizzo": "VIA FOSCOLO,3",
+		"cap": "24030",
+		"comune": "MAPELLO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic859008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARTINENGO",
+		"indirizzo": "VIA ALLEGRENI,  40",
+		"cap": "24057",
+		"comune": "MARTINENGO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic85800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MOZZANICA \"L. DA VINCI\"",
+		"indirizzo": "VIA CIRCONVALLAZIONE,6",
+		"cap": "24050",
+		"comune": "MOZZANICA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgrh020009",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "\"ALFREDO SONZOGNI\"",
+		"indirizzo": "VIA BELLINI 54",
+		"cap": "24027",
+		"comune": "NEMBRO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic86000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NEMBRO - E.TALPINO",
+		"indirizzo": "VIA FAMIGLIA RICCARDI, 2",
+		"cap": "24027",
+		"comune": "NEMBRO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic854005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OSIO SOPRA",
+		"indirizzo": "VIA MANZONI, 15",
+		"cap": "24040",
+		"comune": "OSIO SOPRA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic861008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OSIO SOTTO -PAPA GIOVANNI XXIII",
+		"indirizzo": "VIA LIBERTA, 17",
+		"cap": "24046",
+		"comune": "OSIO SOTTO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic862004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PALADINA - A. TIRABOSCHI",
+		"indirizzo": "PASSAGGIO RODARI 1",
+		"cap": "24030",
+		"comune": "PALADINA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic86400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PONTE NOSSA",
+		"indirizzo": "VIA RIMEMBRANZE, N?5",
+		"cap": "24028",
+		"comune": "PONTE NOSSA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic86600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PONTE S. PIETRO",
+		"indirizzo": "VIA PIAVE 15",
+		"cap": "24036",
+		"comune": "PONTE SAN PIETRO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00800g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"MAIRONI DA PONTE\"",
+		"indirizzo": "VIA C. BERIZZI, 1",
+		"cap": "24030",
+		"comune": "PRESEZZO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic84400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COVO -  L. LOTTO",
+		"indirizzo": "VIA DELLA REPUBBLICA, N.9",
+		"cap": "24050",
+		"comune": "COVO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic84500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CURNO",
+		"indirizzo": "VIA A.PIATTI  5",
+		"cap": "24030",
+		"comune": "CURNO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic8ab003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DALMINE \"A. MORO\"",
+		"indirizzo": "VIA OLIMPIADI, 1",
+		"cap": "24044",
+		"comune": "DALMINE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis03600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GUGLIELMO MARCONI\"",
+		"indirizzo": "VIA VERDI, 60",
+		"cap": "24044",
+		"comune": "DALMINE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis01100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"LUIGI EINAUDI\"",
+		"indirizzo": "VIA VERDI, 48",
+		"cap": "24044",
+		"comune": "DALMINE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic8ac00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DALMINE \"CARDUCCI\"",
+		"indirizzo": "VIALE BETELLI, 17",
+		"cap": "24044",
+		"comune": "DALMINE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic846006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FARA D\\'ADDA",
+		"indirizzo": "PIAZZALE JACQUES MARITAIN, 3",
+		"cap": "24045",
+		"comune": "FARA GERA D\\'ADDA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic847002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GANDINO",
+		"indirizzo": "VIA CESARE BATTISTI, 1",
+		"cap": "24024",
+		"comune": "GANDINO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic84800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GAZZANIGA",
+		"indirizzo": "VIA  EUROPA 23",
+		"cap": "24025",
+		"comune": "GAZZANIGA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis01600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"VALLE SERIANA\"",
+		"indirizzo": "VIA MARCONI, 45",
+		"cap": "24025",
+		"comune": "GAZZANIGA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic84900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GORLAGO  - ALDO MORO",
+		"indirizzo": "PIAZZA EUROPA,6",
+		"cap": "24060",
+		"comune": "GORLAGO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic85000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GORLE",
+		"indirizzo": "VIA LIBERTA, 1",
+		"cap": "24020",
+		"comune": "GORLE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic85100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GROMO - SORELLE DE MARCHI",
+		"indirizzo": "VIA DE MARCHI 12",
+		"cap": "24020",
+		"comune": "GROMO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic85200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GRUMELLO DEL MONTE -DON BELOTTI",
+		"indirizzo": "VIA 4 MARTIRI DI LOVERE, 12B",
+		"cap": "24064",
+		"comune": "GRUMELLO DEL MONTE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic853009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LEFFE",
+		"indirizzo": "VIA LOCATELLI,44",
+		"cap": "24026",
+		"comune": "LEFFE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00300c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"BETTY AMBIVERI\"",
+		"indirizzo": "VIA C.BERIZZI, 1",
+		"cap": "24030",
+		"comune": "PRESEZZO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic867007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RANICA  - MARIA PIAZZOLI",
+		"indirizzo": "VIA        SIMONE ELIA",
+		"cap": "24020",
+		"comune": "RANICA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00600x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"G.B. RUBINI\"",
+		"indirizzo": "VIA BELVEDERE",
+		"cap": "24058",
+		"comune": "ROMANO DI LOMBARDIA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic896007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROMANO DI LOMBARDIA \"E.FERMI\"",
+		"indirizzo": "VIA GIOVANNI DA ROMANO 27",
+		"cap": "24058",
+		"comune": "ROMANO DI LOMBARDIA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis034004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"DON LORENZO MILANI\"",
+		"indirizzo": "VIA BELVEDERE",
+		"cap": "24058",
+		"comune": "ROMANO DI LOMBARDIA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic89800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROMANO DI LOMBARDIA\"GB. RUBINI\"",
+		"indirizzo": "VIA MAZZINI 5",
+		"cap": "24058",
+		"comune": "ROMANO DI LOMBARDIA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic868003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROVETTA - IC ANDREA FANTONI",
+		"indirizzo": "VIALE PAPA GIOVANNI XXIII, 10",
+		"cap": "24020",
+		"comune": "ROVETTA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. OMOBONO TERME",
+		"indirizzo": "VIA VITTORIO VENETO,  72",
+		"cap": "24038",
+		"comune": "S. OMOBONO TERME",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic86900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN GIOVANNI BIANCO",
+		"indirizzo": "VIA CASTELLI,19",
+		"cap": "24015",
+		"comune": "SAN GIOVANNI BIANCO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic870003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN PAOLO D\\'ARGON",
+		"indirizzo": "VIA LOCATELLI 3",
+		"cap": "24060",
+		"comune": "SAN PAOLO D\\'ARGON",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. PELLEGRINO TERME",
+		"indirizzo": "VIA VITTORIO VENETO, 29",
+		"cap": "24016",
+		"comune": "SAN PELLEGRINO TERME",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgrh01000p",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "DI SAN PELLEGRINO TERME",
+		"indirizzo": "VIALE DELLA VITTORIA, 6",
+		"cap": "24016",
+		"comune": "SAN PELLEGRINO TERME",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SARNICO  - E. DONADONI",
+		"indirizzo": "VIA P.A. FACCANONI, 11-13",
+		"cap": "24067",
+		"comune": "SARNICO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis02300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"SERAFINO RIVA\"",
+		"indirizzo": "VIA CORTIVO 30/32",
+		"cap": "24067",
+		"comune": "SARNICO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic86300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SCANZOROSCIATE",
+		"indirizzo": "VIA DEGLI ORTI, 37",
+		"cap": "24020",
+		"comune": "SCANZOROSCIATE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic890008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLA DI SERIO  - F.NULLO",
+		"indirizzo": "VIA DOSIE 6",
+		"cap": "24020",
+		"comune": "VILLA DI SERIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic891004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLONGO",
+		"indirizzo": "VIA A. VOLTA, 1",
+		"cap": "24060",
+		"comune": "VILLONGO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic804004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILMINORE DI SCALVE",
+		"indirizzo": "VIA A. LOCATELLI, 8A",
+		"cap": "24020",
+		"comune": "VILMINORE DI SCALVE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic89300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ZANICA",
+		"indirizzo": "VIA SERIO N.1",
+		"cap": "24050",
+		"comune": "ZANICA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic89200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ZOGNO",
+		"indirizzo": "VIA MARCONI, 5",
+		"cap": "24019",
+		"comune": "ZOGNO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis013003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"DAVID MARIA TUROLDO\"",
+		"indirizzo": "VIA RONCO, 11",
+		"cap": "24019",
+		"comune": "ZOGNO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis00200l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"SIMONE WEIL\"",
+		"indirizzo": "VIA L. GALVANI, 7",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic8ae00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TREVIGLIO \"DE AMICIS\"",
+		"indirizzo": "VIALE PARTIGIANO 25",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic8ad00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TREVIGLIO \"GROSSI\"",
+		"indirizzo": "VIA COLLEONI, 2",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgmm18600e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 2 BERGAMO",
+		"indirizzo": "VIA CARAVAGGIO 52",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis033008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ZENALE E BUTINONE\"",
+		"indirizzo": "VIA GALVANI, 7",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis027001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GAETANO CANTONI\"",
+		"indirizzo": "VIA MERISIO, 17/C",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis03700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GUGLIELMO OBERDAN\"",
+		"indirizzo": "VIALE MERISIO, 14",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis004008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ARCHIMEDE\"",
+		"indirizzo": "VIA CARAVAGGIO, 52",
+		"cap": "24047",
+		"comune": "TREVIGLIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic884001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO \"C. ZONCA\"",
+		"indirizzo": "VIALE PAPA GIOVANNI XXIII, 40",
+		"cap": "24048",
+		"comune": "TREVIOLO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic8aa007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "URGNANO  \"B. COLLEONI\"",
+		"indirizzo": "VIA DEI BERSAGLIERI 68",
+		"cap": "24059",
+		"comune": "URGNANO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic88500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VALNEGRA  - F. GERVASONI",
+		"indirizzo": "VIA G.MARCONI, 8-10",
+		"cap": "24010",
+		"comune": "VALNEGRA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic88600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VERDELLINO - ZINGONIA",
+		"indirizzo": "LARGO CARTESIO, 1",
+		"cap": "24040",
+		"comune": "VERDELLINO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic88700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO VERDELLO",
+		"indirizzo": "VIA DON GIAVAZZI, 26",
+		"cap": "24049",
+		"comune": "VERDELLO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic888008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VERTOVA",
+		"indirizzo": "VIA        S. CARLO, N.29",
+		"cap": "24029",
+		"comune": "VERTOVA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic889004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLA D\\'ALME",
+		"indirizzo": "VIA DANTE,2",
+		"cap": "24018",
+		"comune": "VILLA D\\'ALME\\'",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic876002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SERIATE - ALDO MORO",
+		"indirizzo": "CORSO ROMA,37",
+		"cap": "24068",
+		"comune": "SERIATE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic875006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SERIATE - CESARE BATTISTI",
+		"indirizzo": "VIALE LOMBARDIA  5",
+		"cap": "24068",
+		"comune": "SERIATE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis01700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ETTORE MAJORANA\"",
+		"indirizzo": "VIA PARTIGIANI, 1",
+		"cap": "24068",
+		"comune": "SERIATE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SERINA",
+		"indirizzo": "VIA PALMA IL VECCHIO, 48",
+		"cap": "24017",
+		"comune": "SERINA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SORISOLE \"A. LANFRANCHI\"",
+		"indirizzo": "VIA ROCCOLI 1/E",
+		"cap": "24010",
+		"comune": "SORISOLE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SOVERE  \"DANIELE SPADA\"",
+		"indirizzo": "VIA SILVESTRI,1",
+		"cap": "24060",
+		"comune": "SOVERE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic897003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SPIRANO",
+		"indirizzo": "VIA S. LUCIA, 6",
+		"cap": "24050",
+		"comune": "SPIRANO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic87900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "STEZZANO \"CAROLI\"",
+		"indirizzo": "VIA VALLINI,  23",
+		"cap": "24040",
+		"comune": "STEZZANO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic88000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO \"RITA LEVI-MONTALCINI\"",
+		"indirizzo": "VIA E. DE AMICIS, 6",
+		"cap": "24040",
+		"comune": "SUISIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic80500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TAVERNOLA BERGAMASCA",
+		"indirizzo": "VIA ROMA, 47",
+		"cap": "24060",
+		"comune": "TAVERNOLA BERGAMASCA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic88100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERNO ISOLA -PADRE C.ALBISETTI",
+		"indirizzo": "VIA DEI VIGNALI, 19",
+		"cap": "24030",
+		"comune": "TERNO D\\'ISOLA",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic882009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TORRE BOLDONE  - D. ALIGHIERI",
+		"indirizzo": "DONIZETTI,9",
+		"cap": "24020",
+		"comune": "TORRE BOLDONE",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis02400d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"LORENZO FEDERICI\"",
+		"indirizzo": "VIA DELL\\'ALBAROTTO",
+		"cap": "24069",
+		"comune": "TRESCORE BALNEARIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgis01400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"LORENZO LOTTO\"",
+		"indirizzo": "VIA DELL\\'ALBAROTTO N. 23",
+		"cap": "24069",
+		"comune": "TRESCORE BALNEARIO",
+		"provincia": "BG"
+	}
+	,
+	{
+		"codMec": "bgic883005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TRESCORE BALNEARIO",
+		"indirizzo": "VIA LORENZO LOTTO, 15",
+		"cap": "24069",
+		"comune": "TRESCORE BALNEARIO",
+		"provincia": "BG"
+	}
+]

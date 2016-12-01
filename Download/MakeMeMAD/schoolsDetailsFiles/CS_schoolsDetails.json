@@ -1,0 +1,1401 @@
+[
+	{
+		"codMec": "csic88400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ACRI SAN GIACOMO-LA MUCONE",
+		"indirizzo": "VIA COLLE D\\'URSO",
+		"cap": "87041",
+		"comune": "ACRI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis06100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS   ACRI \"IPSIA-ITI\"",
+		"indirizzo": "VIA SALVATORE SCERVINI N. 115",
+		"cap": "87041",
+		"comune": "ACRI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis01800g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  ACRI LC - LS \"V. JULIA\"",
+		"indirizzo": "VIA DON LUIGI STURZO, 16",
+		"cap": "87041",
+		"comune": "ACRI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic899004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ACRI  \"EX II CIRCOLO\"",
+		"indirizzo": "VIA DON LUIGI STURZO",
+		"cap": "87041",
+		"comune": "ACRI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cstd07000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITCGT-LICEO E.S. \"G. B. FALCONE\" ACRI",
+		"indirizzo": "VIA PADRE GIACINTO DA BELMONTE N. 35",
+		"cap": "87041",
+		"comune": "ACRI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic88300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ACRI  \"V. PADULA\"",
+		"indirizzo": "VIA MARIA MONTESSORI",
+		"cap": "87041",
+		"comune": "ACRI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis014008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  AMANTEA \"LS-IPSIA\"-ITI-ITC",
+		"indirizzo": "VIA S. ANTONIO",
+		"cap": "87032",
+		"comune": "AMANTEA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic865001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   AMANTEA  MAMELI - MANZONI",
+		"indirizzo": "VIA ASPROMONTE N.2",
+		"cap": "87032",
+		"comune": "AMANTEA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic81800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC AMANTEA  CAMPORA - AIELLO C.",
+		"indirizzo": "VIA DELLE GINESTRE  SNC",
+		"cap": "87030",
+		"comune": "AMANTEA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic85200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC AMENDOLARA-ORIOLO-ROSETO C.S",
+		"indirizzo": "VIA ROMA N. 1",
+		"cap": "87071",
+		"comune": "AMENDOLARA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic81000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC APRIGLIANO",
+		"indirizzo": "VIA C. CALVELLI",
+		"cap": "87051",
+		"comune": "APRIGLIANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic819007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   BELMONTE CALABRO",
+		"indirizzo": "VIA CORRADO ALVARO N. 43",
+		"cap": "87033",
+		"comune": "BELMONTE CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8as00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   BELVEDERE MARITTIMO",
+		"indirizzo": "VIA G.FORTUNATO N.10",
+		"cap": "87020",
+		"comune": "BELVEDERE MARITTIMO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cspm070003",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IM  \"T. CAMPANELLA\" BELVEDERE M.",
+		"indirizzo": "VIA ANNUNZIATA, 4",
+		"cap": "87021",
+		"comune": "BELVEDERE MARITTIMO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis01600x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS BISIGNANO \"ITI-LICEO SCIENTIFICO\"",
+		"indirizzo": "VIA RIO SECCAGNO",
+		"cap": "87043",
+		"comune": "BISIGNANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8aj00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BISIGNANO \"G. PUCCIANO\"",
+		"indirizzo": "COLLINA CASTELLO, 5",
+		"cap": "87043",
+		"comune": "BISIGNANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis06800l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS CARIATI  \"LS-IPSC - IPSIA - ITI\"",
+		"indirizzo": "VIA NICOLA GOLIA S.N",
+		"cap": "87062",
+		"comune": "CARIATI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic892009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   CARIATI",
+		"indirizzo": "VIA DANTE ALIGHIERI",
+		"cap": "87062",
+		"comune": "CARIATI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis022007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS CASSANO I. \"IPSIA-ITC-IPA-LC\"",
+		"indirizzo": "VIA NICOLA CALIPARI",
+		"cap": "87011",
+		"comune": "CASSANO ALLO IONIO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic822003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CASSANO I. LAUROPOLI",
+		"indirizzo": "VIA FELICIAZZA N. 22",
+		"cap": "87011",
+		"comune": "CASSANO ALLO IONIO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8af00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CASSANO IONIO",
+		"indirizzo": "VIA CORRADO ALVARO, S.N.C.",
+		"cap": "87011",
+		"comune": "CASSANO ALLO IONIO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic885006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASSANO I.  SIBARI",
+		"indirizzo": "VIA ARCHIMEDE",
+		"cap": "87011",
+		"comune": "CASSANO ALLO IONIO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic87600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CASTROLIBERO",
+		"indirizzo": "SCIPIONE  VALENTINI  ,  5",
+		"cap": "87040",
+		"comune": "CASTROLIBERO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis049007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  CASTROLIBERO \"LS-ITCG\"",
+		"indirizzo": "VIA ALDO CANNATA, 1",
+		"cap": "87040",
+		"comune": "CASTROLIBERO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csee590004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DD CASTROVILLARI 1",
+		"indirizzo": "PIAZZA INDIPENDENZA",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csee59100x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DD CASTROVILLARI 2",
+		"indirizzo": "VIA DELLE ORCHIDEE, 7",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cstf020003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI  \"FERMI\" CASTROVILLARI",
+		"indirizzo": "VIA PIERO DELLA FRANCESCA",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csrh010004",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSEOA  CASTROVILLARI",
+		"indirizzo": "CORSO CALABRIA SNC",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps05000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS    \"E.MATTEI\" CASTROVILLARI",
+		"indirizzo": "VIALE DELLE QUERCE",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csmm303009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SM CASTROVILLARI",
+		"indirizzo": "VIA COSCILE N.28",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis029002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  CASTROVILLARI \"LC-ISA\"",
+		"indirizzo": "VIA ROMA, 164",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis01900b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. CASTROVILLARI IPSIA \"L. DA VINCI\"",
+		"indirizzo": "VIA DELL\\'INDUSTRIA 4",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis01100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS CASTROVILLARI \"ITC - ITG\"",
+		"indirizzo": "CORSO CALABRIA",
+		"cap": "87012",
+		"comune": "CASTROVILLARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic85400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CELICO - SPEZZANO PICCOLO",
+		"indirizzo": "VIA ROMA N. 49",
+		"cap": "87053",
+		"comune": "CELICO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic877007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CERISANO",
+		"indirizzo": "VIA CHIUSA QUINTIERI 6",
+		"cap": "87044",
+		"comune": "CERISANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis028006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  CETRARO \"LC-ISA-ITA-ITT ACQUAPPESA\"",
+		"indirizzo": "VIA MARINELLA",
+		"cap": "87022",
+		"comune": "CETRARO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic872004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CETRARO",
+		"indirizzo": "VIA D. FAINI, SNC",
+		"cap": "87022",
+		"comune": "CETRARO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis001006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  CORIGLIANO C. \"LC-LS\"",
+		"indirizzo": "VIA TORRELUNGA",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ah00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"ERODOTO\" DI CORIGLIANO C",
+		"indirizzo": "VIA SAN GIOVANNI EVANGELISTA SNC",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic83100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CORIGLIANO \"DON G. BOSCO\"",
+		"indirizzo": "VIA DELL\\'AGRICOLTURA",
+		"cap": "87060",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ag00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   CORIGLIANO C. \"C. GUIDI\"",
+		"indirizzo": "VIA ALDO MORO",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic886002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORIGLIANO C. \"TIERI\"",
+		"indirizzo": "VIA PARINI",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis066001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS -ITI-ITG GREEN - FALCONE  BORSELLINO",
+		"indirizzo": "VIA SS. COSMA E DAMIANO",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic81100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORIGLIANO C.  \"LEONETTI\"",
+		"indirizzo": "VIA VIESTE",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cstd08000c",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC  \"L.PALMA\" CORIGLIANO",
+		"indirizzo": "VIA TORRELUNGA",
+		"cap": "87064",
+		"comune": "CORIGLIANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis04100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  COSENZA \"ITC-ITG-L.ART.\"",
+		"indirizzo": "VIA A. MORRONE, 16 (TRAVERSA VIA POPILIA)",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis01700q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS COSENZA \"MANCINI-TOMMASI\" IPSEOA+ITA",
+		"indirizzo": "VIA CONSALVO ARAGONA",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis051007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS COSENZA \"IPSS-ITAS\"",
+		"indirizzo": "VIA BOSCO DE NICOLA XIV STRADA",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8al008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CS  \"D. MILANI-DE MATERA\"",
+		"indirizzo": "VIA DE RADA 60",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps03000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS \"SCORZA\"  COSENZA",
+		"indirizzo": "VIA POPILIA  PAL. OLEG",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csvc01000e",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "CONV. NAZ.\"TELESIO\"COSENZA",
+		"indirizzo": "VIA SALITA LICEO N.29",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis06900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS COSENZA \"PEZZULLO\"",
+		"indirizzo": "VIA POPILIA",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis073004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS IPSIA COSENZA - LS-ITE ROGLIANO",
+		"indirizzo": "VIA DEGLI STADI, SNC",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cstf01000c",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI   \"MONACO\" COSENZA",
+		"indirizzo": "VIA GIULIA 9",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csmm304005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CENTRO PROV.LE ISTR. ADULTI",
+		"indirizzo": "VIA BRENTA, 39",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cspc010007",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC COSENZA \"TELESIO\"",
+		"indirizzo": "PIAZZA XV MARZO",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cspm05000t",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE \"L. DELLA VALLE\" COSENZA",
+		"indirizzo": "PIAZZA AMENDOLA 8",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic898008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   COSENZA   \"V. NEGRONI\"",
+		"indirizzo": "VIA NEGRONI  1",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic89700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  COSENZA  \"ZUMBINI\"",
+		"indirizzo": "VIA MISASI",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic89600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COSENZA  \"GULLO \"",
+		"indirizzo": "VIA POPILIA",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csee19000l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD LUZZI",
+		"indirizzo": "VIA CHIUSA,  1",
+		"cap": "87040",
+		"comune": "LUZZI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic863009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   MALVITO",
+		"indirizzo": "VIA SERRONE",
+		"cap": "87010",
+		"comune": "MALVITO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic849003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MANDATORICCIO",
+		"indirizzo": "VIA NAZIONALE  N 156",
+		"cap": "87060",
+		"comune": "MANDATORICCIO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic851003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  MANGONE - GRIMALDI",
+		"indirizzo": "VIA PROVINCIALE",
+		"cap": "87050",
+		"comune": "MANGONE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic87000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   MENDICINO",
+		"indirizzo": "VIA O. GRECO,SNC",
+		"cap": "87040",
+		"comune": "MENDICINO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic83800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  MONGRASSANO",
+		"indirizzo": "C/DA FORNACI",
+		"cap": "87040",
+		"comune": "MONGRASSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic88900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTALTO UFFUGO  SCALO",
+		"indirizzo": "VIA VILLAGGIO, 1",
+		"cap": "87046",
+		"comune": "MONTALTO UFFUGO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic88700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTALTO U.  CENTRO",
+		"indirizzo": "VIA ALDO MORO SNC",
+		"cap": "87046",
+		"comune": "MONTALTO UFFUGO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic88800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTALTO U. TAVERNA",
+		"indirizzo": "VIA PAOLO BORSELLINO,SNC",
+		"cap": "87046",
+		"comune": "MONTALTO UFFUGO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic827006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   MORANO CAL.- SARACENA",
+		"indirizzo": "VIALE G.SCORZA",
+		"cap": "87016",
+		"comune": "MORANO CALABRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic82900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  MORMANNO-LAINO BORGO",
+		"indirizzo": "VIA G. MATTEOTTI,18/A",
+		"cap": "87026",
+		"comune": "MORMANNO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps210004",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  PAOLA",
+		"indirizzo": "VIA GIACOMO MANCINI",
+		"cap": "87027",
+		"comune": "PAOLA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic86800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  PAOLA  \"BRUNO\"",
+		"indirizzo": "VIA BERNARDINO TELESIO - N. 2",
+		"cap": "87027",
+		"comune": "PAOLA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic871008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PAOLA \"I. GENTILI\"",
+		"indirizzo": "VIA RIONE COLONNE",
+		"cap": "87027",
+		"comune": "PAOLA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csrh07000q",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSEOA   PAOLA",
+		"indirizzo": "VIA SANT\\'AGATA",
+		"cap": "87027",
+		"comune": "PAOLA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps020001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS    \"FERMI\" COSENZA",
+		"indirizzo": "VIA G. ISNARDI, 2",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic81200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC COSENZA \"V.ROMA-SPIRITO S.\"",
+		"indirizzo": "VIA SPIRITO SANTO",
+		"cap": "87100",
+		"comune": "COSENZA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic84600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   CROPALATI",
+		"indirizzo": "VIA GIOVANNI XXIII",
+		"cap": "87060",
+		"comune": "CROPALATI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ar007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   CROSIA-MIRTO",
+		"indirizzo": "VIA DELLA SCIENZA, 26",
+		"cap": "87060",
+		"comune": "CROSIA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic836001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DIAMANTE",
+		"indirizzo": "VIA AMENDOLA, 18",
+		"cap": "87023",
+		"comune": "DIAMANTE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis023003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  DIAMANTE \"ITCG-IPA\"",
+		"indirizzo": "LOCALITA\\' PRAINO",
+		"cap": "87023",
+		"comune": "DIAMANTE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic80200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DIPIGNANO VALENTINI-CAROLEI",
+		"indirizzo": "VIA XXIV MAGGIO N.27",
+		"cap": "87045",
+		"comune": "DIPIGNANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic81500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   FAGNANO CASTELLO",
+		"indirizzo": "VIA MARIA MONTESSORI,22/26",
+		"cap": "87013",
+		"comune": "FAGNANO CASTELLO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic82400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  FRANCAVILLA/CERCHIARA",
+		"indirizzo": "VIA S.EMIDDIO",
+		"cap": "87072",
+		"comune": "FRANCAVILLA MARITTIMA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic85800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FRASCINETO",
+		"indirizzo": "VIA F.LLI CERVI, 1",
+		"cap": "87010",
+		"comune": "FRASCINETO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis01300c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  FUSCALDO \"ITI-IPSIA\"",
+		"indirizzo": "VIA STAZIONE",
+		"cap": "87020",
+		"comune": "FUSCALDO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic87300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   FUSCALDO",
+		"indirizzo": "VIA SAN FRANCESCO,2",
+		"cap": "87024",
+		"comune": "FUSCALDO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic86100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  GUARDIA P. - BONIFATI",
+		"indirizzo": "VIA ALDO MORO",
+		"cap": "87020",
+		"comune": "GUARDIA PIEMONTESE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic848007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  LONGOBUCCO",
+		"indirizzo": "VIA MANNA 1",
+		"cap": "87066",
+		"comune": "LONGOBUCCO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csmm305001",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "IO LUZZI G. COPPA + LC-ISA LUZZ",
+		"indirizzo": "VIA SAN LEO",
+		"cap": "87040",
+		"comune": "LUZZI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis072008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS PAOLA \"ITCG-IPSIA-IPSC\"",
+		"indirizzo": "VIALE DELLA LIBERTA\\'",
+		"cap": "87027",
+		"comune": "PAOLA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic856006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  PEDACE",
+		"indirizzo": "VIA CAPPUCCINI S.N.C.",
+		"cap": "87050",
+		"comune": "PEDACE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis03400d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  PRAIA A MARE \"IPSAR-LC\"",
+		"indirizzo": "VIA C. ALVARO N.4",
+		"cap": "87028",
+		"comune": "PRAIA A MARE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8au004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   PRAIA A MARE",
+		"indirizzo": "VIA VERDI 40",
+		"cap": "87028",
+		"comune": "PRAIA A MARE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cspc190001",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC RENDE  \"DA FIORE\"",
+		"indirizzo": "VIA G. VERDI",
+		"cap": "87036",
+		"comune": "RENDE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps18000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS   \"PITAGORA\" RENDE",
+		"indirizzo": "VIA  S.PERTINI",
+		"cap": "87036",
+		"comune": "RENDE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis07400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS ITE\"V. COSENTINO-IPAA\"F.TODARO\"RENDE",
+		"indirizzo": "VIA REPACI, S.N.C.",
+		"cap": "87036",
+		"comune": "RENDE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ak00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC    RENDE  COMMENDA",
+		"indirizzo": "VIA CADUTI DI NASSIRYA SNC",
+		"cap": "87036",
+		"comune": "RENDE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic89000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC RENDE  CENTRO",
+		"indirizzo": "VIA D. VANNI, 43",
+		"cap": "87036",
+		"comune": "RENDE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic87900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  RENDE  QUATTROMIGLIA",
+		"indirizzo": "VIA BUENOS AIRES - VILLAGGIO EUROPA",
+		"cap": "87036",
+		"comune": "RENDE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic850007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   ROCCA IMP - MONTEGIORDANO",
+		"indirizzo": "VIA CASTELLO ARAGONA N. 67",
+		"cap": "87074",
+		"comune": "ROCCA IMPERIALE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis02700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  ROGGIANO G. \"LS-ITI- ITC ALTOMONTE\"",
+		"indirizzo": "VIA BERNARDINO TELESIO",
+		"cap": "87017",
+		"comune": "ROGGIANO GRAVINA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic87500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ROGGIANO GR.- ALTOMONTE",
+		"indirizzo": "PIAZZA DELLA REPUBBLICA",
+		"cap": "87017",
+		"comune": "ROGGIANO GRAVINA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic87400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ROGLIANO",
+		"indirizzo": "VIA ORESTE D\\'EPIRO",
+		"cap": "87054",
+		"comune": "ROGLIANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic80900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ROSE  \"DOCIMO\"",
+		"indirizzo": "VIALE ITALIA, 103",
+		"cap": "87040",
+		"comune": "ROSE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8aq00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   ROSSANO  IV  \"A. AMARELLI\"",
+		"indirizzo": "VIA GRAN SASSO,16",
+		"cap": "87067",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis064009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  ROSSANO\"ITI-IPA-ITA\"",
+		"indirizzo": "VIA NESTORE MAZZEI",
+		"cap": "87068",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis07100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS ROSSANO \"LS-LC-LA\"",
+		"indirizzo": "VIA A. DE FLORIO",
+		"cap": "87067",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ap00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ROSSANO  III",
+		"indirizzo": "VIA NAZIONALE, 139",
+		"cap": "87067",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8an00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ROSSANO  II",
+		"indirizzo": "VIA PALERMO SNC",
+		"cap": "87067",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis04600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  ROSSANO \"ITAS-ITC\"",
+		"indirizzo": "VIA NAZIONALE",
+		"cap": "87067",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8am004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  ROSSANO  I",
+		"indirizzo": "VIA MARTUCCI N.18",
+		"cap": "87067",
+		"comune": "ROSSANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic85300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"T. CORNELIO\" ROVITO",
+		"indirizzo": "VIALE DELLA RESISTENZA",
+		"cap": "87050",
+		"comune": "ROVITO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cspc060008",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC  SAN DEMETRIO C.",
+		"indirizzo": "VIA DANTE ALIGHIERI 146",
+		"cap": "87069",
+		"comune": "SAN DEMETRIO CORONE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic84000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   SAN FILI",
+		"indirizzo": "VIA G.MARCONI",
+		"cap": "87037",
+		"comune": "SAN FILI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8av00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S. GIOVANNI IN F. \" G. DA FI",
+		"indirizzo": "VIA FRA GIUSEPPE,SNC",
+		"cap": "87055",
+		"comune": "SAN GIOVANNI IN FIORE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis078007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS S.G. FIORE -( L.S. - ISA - IPSIA)",
+		"indirizzo": "VIA DELLE GINESTRE SNC",
+		"cap": "87055",
+		"comune": "SAN GIOVANNI IN FIORE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis07700b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS  S.G. IN FIORE (IPA-IPSSAR-ITI-ITCG)",
+		"indirizzo": "VIA DELLE GINESTRE",
+		"cap": "",
+		"comune": "SAN GIOVANNI IN FIORE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ax00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S. GIOVANNI  F. \"ALIGHIERI\"",
+		"indirizzo": "VIA SAN FRANCESCO D\\'ASSISI 152",
+		"cap": "87055",
+		"comune": "SAN GIOVANNI IN FIORE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8aw00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S. GIOVANNI IN F. \"BANDIERA\"",
+		"indirizzo": "VIA ROVELLO 20",
+		"cap": "87055",
+		"comune": "SAN GIOVANNI IN FIORE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "cstd05000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITS \"G. FILANGIERI\" TREBISACCE",
+		"indirizzo": "C.DA RUSSO SNC",
+		"cap": "87075",
+		"comune": "TREBISACCE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis06300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS TREBISACCE \"IPSIA- ITI\"",
+		"indirizzo": "VIA SPALATO",
+		"cap": "87075",
+		"comune": "TREBISACCE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps310001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS TREBISACCE+SEZ. CL. ANN.",
+		"indirizzo": "VIALE DELLA LIBERTA\\'  S.N.C.",
+		"cap": "87075",
+		"comune": "TREBISACCE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8a000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   TREBISACCE  \" C. ALVARO\"",
+		"indirizzo": "VIA G. GALILEI  N.35",
+		"cap": "87075",
+		"comune": "TREBISACCE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic82300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   VILLAPIANA \"G. PASCOLI\"",
+		"indirizzo": "VIA PUGLIE N.1",
+		"cap": "87076",
+		"comune": "VILLAPIANA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic84100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   SAN LUCIDO",
+		"indirizzo": "VIA STRADA I, S.N.C.",
+		"cap": "87038",
+		"comune": "SAN LUCIDO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ae00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   SAN MARCO ARGENTANO",
+		"indirizzo": "VIA V. EMANUELE- III- N.16",
+		"cap": "87018",
+		"comune": "SAN MARCO ARGENTANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis06700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS SAN MARCO ARGENTANO \"ITCG-LC \"",
+		"indirizzo": "VIA DANTE ALIGHIERI",
+		"cap": "87018",
+		"comune": "SAN MARCO ARGENTANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic857002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   SAN PIETRO IN GUARANO",
+		"indirizzo": "VIA SAN BRUNO",
+		"cap": "87047",
+		"comune": "SAN PIETRO IN GUARANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic814004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   SAN SOSTI",
+		"indirizzo": "VIA ORTO SACRAMENTO",
+		"cap": "87010",
+		"comune": "SAN SOSTI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic83700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SANTA MARIA DEL CEDRO",
+		"indirizzo": "VIA LAVINIUM, SNC",
+		"cap": "87020",
+		"comune": "SANTA MARIA DEL CEDRO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csps20000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS     SCALEA",
+		"indirizzo": "LOCALITA\\' PANTANO",
+		"cap": "87029",
+		"comune": "SCALEA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8ay00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SCALEA \"G. CALOPRESE\"",
+		"indirizzo": "VIA FAZIO DEGLI UBERTI 1",
+		"cap": "87029",
+		"comune": "SCALEA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic864005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  BIANCHI - SCIGLIANO",
+		"indirizzo": "VIA MUNICIPIO",
+		"cap": "87057",
+		"comune": "SCIGLIANO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csis05300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS SPEZZANO ALBANESE \"LS - IPA\"",
+		"indirizzo": "VIA NAZIONALE,328",
+		"cap": "87019",
+		"comune": "SPEZZANO ALBANESE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic878003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SPEZZANO ALBANESE",
+		"indirizzo": "VIA VIGNALE",
+		"cap": "87019",
+		"comune": "SPEZZANO ALBANESE",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic85500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   SPEZZANO SILA",
+		"indirizzo": "VIA ROMA",
+		"cap": "87058",
+		"comune": "SPEZZANO DELLA SILA",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic842008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   TERRANOVA DA SIBARI",
+		"indirizzo": "VIA S.ANTONIO",
+		"cap": "87010",
+		"comune": "TERRANOVA DA SIBARI",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic86700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TORANO C.- LATTARICO",
+		"indirizzo": "VIA ALDO MORO, 3",
+		"cap": "87010",
+		"comune": "TORANO CASTELLO",
+		"provincia": "CS"
+	}
+	,
+	{
+		"codMec": "csic8at008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC   TORTORA",
+		"indirizzo": "VIA PROVINCIALE N.37",
+		"cap": "87020",
+		"comune": "TORTORA",
+		"provincia": "CS"
+	}
+]

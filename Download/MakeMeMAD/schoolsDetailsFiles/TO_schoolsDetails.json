@@ -1,0 +1,2771 @@
+[
+	{
+		"codMec": "toic899009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BUSSOLENO-VIA D.C.PRINETTO",
+		"indirizzo": "VIA DON CARLO PRINETTO, 2",
+		"cap": "10053",
+		"comune": "BUSSOLENO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8af001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BUTTIGLIERA ALTA-ROSTA",
+		"indirizzo": "PIAZZA DEL POPOLO,8",
+		"cap": "10090",
+		"comune": "BUTTIGLIERA ALTA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee08400n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. CALUSO",
+		"indirizzo": "VIA GNAVI 1",
+		"cap": "10014",
+		"comune": "CALUSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois00600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. C. UBERTINI",
+		"indirizzo": "PIAZZA MAZZINI  4",
+		"cap": "10014",
+		"comune": "CALUSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois03900t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. P. MARTINETTI",
+		"indirizzo": "VIA MONTELLO N.29",
+		"cap": "10014",
+		"comune": "CALUSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm12100a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CALUSO - GOZZANO",
+		"indirizzo": "VIA UNITA\\' D\\'ITALIA 7",
+		"cap": "10014",
+		"comune": "CALUSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic85600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAMBIANO",
+		"indirizzo": "VIALE ROMA 5",
+		"cap": "10021",
+		"comune": "CAMBIANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic83400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CANDIOLO",
+		"indirizzo": "PIAZZALE DELLA RESISTENZA, SNC",
+		"cap": "10060",
+		"comune": "CANDIOLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8aq00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARIGNANO",
+		"indirizzo": "VIA   ALBERTO TAPPI , 44",
+		"cap": "10041",
+		"comune": "CARIGNANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois03300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "NORBERTO BOBBIO",
+		"indirizzo": "VIA VALDOCCO, 23",
+		"cap": "10041",
+		"comune": "CARIGNANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ap00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARMAGNOLA  II",
+		"indirizzo": "VIA MARCONI, 20",
+		"cap": "10022",
+		"comune": "CARMAGNOLA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8an005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARMAGNOLA I",
+		"indirizzo": "CORSO SACCHIRONE, 47",
+		"cap": "10022",
+		"comune": "CARMAGNOLA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8am009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CARMAGNOLA III",
+		"indirizzo": "C.SO SACCHIRONE 26",
+		"cap": "10022",
+		"comune": "CARMAGNOLA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois008006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. BALDESSANO-ROCCATI",
+		"indirizzo": "VIALE GARIBALDI,7",
+		"cap": "10022",
+		"comune": "CARMAGNOLA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic822008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASELETTE",
+		"indirizzo": "STRADA CONTESSA           90",
+		"cap": "10040",
+		"comune": "CASELETTE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic83500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. AIRASCA",
+		"indirizzo": "VIA        STAZIONE            37",
+		"cap": "10060",
+		"comune": "AIRASCA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic82100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALMESE",
+		"indirizzo": "PIAZZA     DELLA FIERA         3/2",
+		"cap": "10040",
+		"comune": "ALMESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALPIGNANO",
+		"indirizzo": "VIA   PIANEZZA        31",
+		"cap": "10091",
+		"comune": "ALPIGNANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8as00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ANDEZENO",
+		"indirizzo": "PIAZZA ITALIA 1",
+		"cap": "10020",
+		"comune": "ANDEZENO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totd05000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "G. GALILEI",
+		"indirizzo": "VIA G.B.NICOL 35",
+		"cap": "10051",
+		"comune": "AVIGLIANA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ag00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. AVIGLIANA",
+		"indirizzo": "VIA LUIGI EINAUDI 33",
+		"cap": "10051",
+		"comune": "AVIGLIANA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic894006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. AZEGLIO",
+		"indirizzo": "VIA XX SETTEMBRE  33",
+		"cap": "10010",
+		"comune": "AZEGLIO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic829003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BALANGERO",
+		"indirizzo": "PIAZZA X MARTIRI 3",
+		"cap": "10070",
+		"comune": "BALANGERO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89600t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BEINASCO - GRAMSCI",
+		"indirizzo": "VIA MIRAFIORI 25",
+		"cap": "10092",
+		"comune": "BEINASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic895002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BEINASCO - BORGARETTO",
+		"indirizzo": "VIA TRENTO 24",
+		"cap": "10092",
+		"comune": "BEINASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89100p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BORGARO",
+		"indirizzo": "VIA CIRIE\\' 52",
+		"cap": "10071",
+		"comune": "BORGARO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic85300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BRANDIZZO",
+		"indirizzo": "VIA        ALBA                10",
+		"cap": "10032",
+		"comune": "BRANDIZZO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic84200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BRICHERASIO",
+		"indirizzo": "VIA BOLLEA, 3",
+		"cap": "10060",
+		"comune": "BRICHERASIO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic837002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BRUINO",
+		"indirizzo": "PIAZZA DONATORI DI SANGUE      1",
+		"cap": "10090",
+		"comune": "BRUINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic86300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BRUSASCO",
+		"indirizzo": "VIA DELLE SCUOLE N. 2",
+		"cap": "10020",
+		"comune": "BRUSASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASELLE TORINESE",
+		"indirizzo": "VIA GUIBERT 3",
+		"cap": "10072",
+		"comune": "CASELLE TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic860003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MAPPANO",
+		"indirizzo": "VIA        TIBALDI            70",
+		"cap": "10071",
+		"comune": "CASELLE TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tosd010002",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO FELICE FACCIO",
+		"indirizzo": "VIA AMMIRAGLIO PULLINO,24",
+		"cap": "10081",
+		"comune": "CASTELLAMONTE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee09100r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. CASTELLAMONTE",
+		"indirizzo": "P.LE DI VITTORIO 2",
+		"cap": "10081",
+		"comune": "CASTELLAMONTE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic85000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASTIGLIONE TORINESE",
+		"indirizzo": "VIA DON BROVERO, 11",
+		"cap": "10090",
+		"comune": "CASTIGLIONE TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic845001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CAVOUR",
+		"indirizzo": "PIAZZA S.MARTINO, 2",
+		"cap": "10061",
+		"comune": "CAVOUR",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic80900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CERES",
+		"indirizzo": "VIA N. COSTA 3",
+		"cap": "10070",
+		"comune": "CERES",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops18000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "A. MONTI",
+		"indirizzo": "VIA MONTESSORI 2",
+		"cap": "10023",
+		"comune": "CHIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois02800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. B. VITTONE",
+		"indirizzo": "VIA MONTESSORI  4-6",
+		"cap": "10023",
+		"comune": "CHIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8av005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIERI I",
+		"indirizzo": "PIAZZA PELLICO 6",
+		"cap": "10023",
+		"comune": "CHIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8at00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIERI IV",
+		"indirizzo": "VIA MONTI",
+		"cap": "10023",
+		"comune": "CHIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8au009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIERI III -",
+		"indirizzo": "VIA BONELLO 2",
+		"cap": "10023",
+		"comune": "CHIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops190009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "I. NEWTON",
+		"indirizzo": "VIA        PALEOLOGI, 22",
+		"cap": "10034",
+		"comune": "CHIVASSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm326007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 4 TORINO",
+		"indirizzo": "VIA BLATTA 26/C",
+		"cap": "10034",
+		"comune": "CHIVASSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois02700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. EUROPA UNITA",
+		"indirizzo": "VIA MARCONI,6",
+		"cap": "10034",
+		"comune": "CHIVASSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bq007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIVASSO - \"DASSO\"",
+		"indirizzo": "VIA BLATTA 26",
+		"cap": "10034",
+		"comune": "CHIVASSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bk008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CHIVASSO -\"COSOLA\"",
+		"indirizzo": "VIA MARCONI 2",
+		"cap": "10034",
+		"comune": "CHIVASSO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois00700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. T. D\\'ORIA",
+		"indirizzo": "VIA PREVER,13",
+		"cap": "10073",
+		"comune": "CIRIE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois04900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FERMI-GALILEI",
+		"indirizzo": "VIA  SAN GIOVANNI BOSCO, 17",
+		"cap": "10073",
+		"comune": "CIRIE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ak00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CIRIE\\' I",
+		"indirizzo": "VIA PARCO 33",
+		"cap": "10073",
+		"comune": "CIRIE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8al00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CIRIE\\' II",
+		"indirizzo": "VIA ROMA 42",
+		"cap": "10073",
+		"comune": "CIRIE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee18500a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. COLLEGNO - MARCONI",
+		"indirizzo": "VIA BENDINI, 40",
+		"cap": "10097",
+		"comune": "COLLEGNO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois067002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. CURIE - LEVI",
+		"indirizzo": "VIA TORINO, 9",
+		"cap": "10093",
+		"comune": "COLLEGNO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm27300x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "COLLEGNO DON MINZONI-GRAMSCI",
+		"indirizzo": "VIA DONIZETTI                  30",
+		"cap": "10093",
+		"comune": "COLLEGNO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic85900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COLLEGNO - \"B.TA PARADISO\"",
+		"indirizzo": "VIA MIGLIETTI, 9",
+		"cap": "10097",
+		"comune": "COLLEGNO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee10500d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. COLLEGNO III",
+		"indirizzo": "VIALE DEI PARTIGIANI, 36",
+		"cap": "10093",
+		"comune": "COLLEGNO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic82500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CONDOVE",
+		"indirizzo": "VIA DE AMICIS, 1",
+		"cap": "10055",
+		"comune": "CONDOVE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic82700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CORIO",
+		"indirizzo": "STRADA PONTE PICCA 2",
+		"cap": "10070",
+		"comune": "CORIO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic84600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PINEROLO V - CUMIANA",
+		"indirizzo": "VIA   MICHELANGELO FERRERO 11",
+		"cap": "10040",
+		"comune": "CUMIANA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm14700e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CUORGNE\\' - CENA",
+		"indirizzo": "VIA      XXIV MAGGIO         21",
+		"cap": "10082",
+		"comune": "CUORGNE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois02600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. 25 APRILE",
+		"indirizzo": "VIA XXIV MAGGIO 13",
+		"cap": "10082",
+		"comune": "CUORGNE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee108001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. CUORGNE\\'",
+		"indirizzo": "VIA XXIV MAGGIO 3",
+		"cap": "10082",
+		"comune": "CUORGNE\\'",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89000v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DRUENTO",
+		"indirizzo": "VIA MANZONI 11",
+		"cap": "10040",
+		"comune": "DRUENTO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic865006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FAVRIA",
+		"indirizzo": "PIAZZA REPUBBLICA 6",
+		"cap": "10083",
+		"comune": "FAVRIA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic828007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FIANO",
+		"indirizzo": "VIA        CASTELLO            7",
+		"cap": "10070",
+		"comune": "FIANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic84800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. FORNO CANAVESE",
+		"indirizzo": "VIA        ALDO MORO           9",
+		"cap": "10084",
+		"comune": "FORNO CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic851008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GASSINO TORINESE",
+		"indirizzo": "VIA BORIONE 5",
+		"cap": "10090",
+		"comune": "GASSINO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic86800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COAZZE",
+		"indirizzo": "VIA SAN SEBASTIANO N. 3",
+		"cap": "10094",
+		"comune": "GIAVENO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois05700b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. B. PASCAL",
+		"indirizzo": "VIA CARDUCCI 4",
+		"cap": "10094",
+		"comune": "GIAVENO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic87000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIAVENO - \"F. GONIN\"",
+		"indirizzo": "VIA        DON POGOLOTTO      45",
+		"cap": "10094",
+		"comune": "GIAVENO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totf10000x",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "E. MAJORANA",
+		"indirizzo": "VIA FRANCESCO BARACCA 80",
+		"cap": "10095",
+		"comune": "GRUGLIASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois03400p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. CURIE - VITTORINI",
+		"indirizzo": "C. ALLAMANO 120",
+		"cap": "10095",
+		"comune": "GRUGLIASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic86700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GRUGLIASCO - DI NANNI",
+		"indirizzo": "VIA ROMA 11",
+		"cap": "10095",
+		"comune": "GRUGLIASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic86200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GRUGLIASCO - \"66 MARTIRI\"",
+		"indirizzo": "VIA OLEVANO, 81",
+		"cap": "10095",
+		"comune": "GRUGLIASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic81200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GRUGLIASCO - \"M. L. KING\"",
+		"indirizzo": "V.LE RADICH 3",
+		"cap": "10095",
+		"comune": "GRUGLIASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ah00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORBASSANO I",
+		"indirizzo": "PIAZZA DE AMICIS 12",
+		"cap": "10043",
+		"comune": "ORBASSANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois00100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. L. DES AMBROIS",
+		"indirizzo": "VIA M. L. KING 10",
+		"cap": "10056",
+		"comune": "OULX",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee137001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. OULX - \"P. P. LAMBERT\"",
+		"indirizzo": "PIAZZA GARAMBOIS 6",
+		"cap": "10056",
+		"comune": "OULX",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ar00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PAVONE CANAVESE",
+		"indirizzo": "VIA VIGNALE 2",
+		"cap": "10018",
+		"comune": "PAVONE CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic807006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PEROSA ARGENTINA",
+		"indirizzo": "PIAZZA EUROPA, 1",
+		"cap": "10063",
+		"comune": "PEROSA ARGENTINA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois06300p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. G. DALMASSO",
+		"indirizzo": "VIA CLAVIERE,10",
+		"cap": "10044",
+		"comune": "PIANEZZA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89700n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIANEZZA -  VIA MANZONI",
+		"indirizzo": "VIA        MANZONI             5",
+		"cap": "10044",
+		"comune": "PIANEZZA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bj00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PINEROLO II - LAURO",
+		"indirizzo": "VIA BATTITORE ANG. VIA GIUSTETTO",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc06000d",
+		"tipo": "LICEO CLASSICO",
+		"nome": "G.F. PORPORATO",
+		"indirizzo": "VIA BRIGNONE, 2",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois044009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PREVER",
+		"indirizzo": "VIA CARLO MERLO 2",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois038002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. M. BUNIVA",
+		"indirizzo": "VIA  DEI ROCHIS, 25",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois01400d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. I. PORRO",
+		"indirizzo": "VIALE KENNEDY,30",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops070007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "M. CURIE",
+		"indirizzo": "VIA DEI ROCHIS,12",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bm00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PINEROLO I",
+		"indirizzo": "VIA EINAUDI, 38",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bn00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PINEROLO IV",
+		"indirizzo": "VIA GIOVANNI XXIII 19",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totf04000d",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "G.B.PININFARINA",
+		"indirizzo": "VIA PONCHIELLI,16",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic88900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONCALIERI-BORGO S. PIETRO",
+		"indirizzo": "VIA PONCHIELLI 22",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois032003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. E. MAJORANA",
+		"indirizzo": "VIA  ADA NEGRI 14",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm32500b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 3 TORINO",
+		"indirizzo": "VIA PONCHIELLI 18 BIS",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic852004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONTANARO",
+		"indirizzo": "VIA        TRIESTE             2",
+		"cap": "10017",
+		"comune": "MONTANARO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a6001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NICHELINO II",
+		"indirizzo": "VIA SANGONE 34",
+		"cap": "10042",
+		"comune": "NICHELINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois03600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. E. DA ROTTERDAM",
+		"indirizzo": "VIA XXV APRILE, 139",
+		"cap": "10042",
+		"comune": "NICHELINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a5005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NICHELINO I",
+		"indirizzo": "VIA MONCENISIO, 24",
+		"cap": "10042",
+		"comune": "NICHELINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois04100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. J.C. MAXWELL",
+		"indirizzo": "VIA XXV APRILE 141",
+		"cap": "10042",
+		"comune": "NICHELINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NICHELINO III",
+		"indirizzo": "VIALE KENNEDY, 40",
+		"cap": "10042",
+		"comune": "NICHELINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bf00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NICHELINO IV",
+		"indirizzo": "PIAZZA  ALDO MORO, 1",
+		"cap": "10042",
+		"comune": "NICHELINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic830007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NOLE",
+		"indirizzo": "VIA MARTIRI DELLA LIBERTA\\' 16",
+		"cap": "10076",
+		"comune": "NOLE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic836006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. NONE",
+		"indirizzo": "PIAZZA VIGO 3",
+		"cap": "10060",
+		"comune": "NONE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8aj00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ORBASSANO II",
+		"indirizzo": "VIA FREJUS 67",
+		"cap": "10043",
+		"comune": "ORBASSANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois016005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. AMALDI - SRAFFA",
+		"indirizzo": "VIA  F.LLI ROSSELLI, 35",
+		"cap": "10043",
+		"comune": "ORBASSANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8aa00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. IVREA I",
+		"indirizzo": "C.SO M. D\\'AZEGLIO 53",
+		"cap": "10015",
+		"comune": "IVREA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ab00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. IVREA II",
+		"indirizzo": "VIA DORA BALTEA, 1",
+		"cap": "10015",
+		"comune": "IVREA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops01000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "A. GRAMSCI",
+		"indirizzo": "VIA ALBERTON 10 A",
+		"cap": "10015",
+		"comune": "IVREA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois024004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. G. CENA",
+		"indirizzo": "VIA DORA BALTEA, 3",
+		"cap": "10015",
+		"comune": "IVREA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc020003",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO STATALE \"CARLO BOTTA\"",
+		"indirizzo": "CORSO RE UMBERTO N.37",
+		"cap": "10015",
+		"comune": "IVREA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois01200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. OLIVETTI",
+		"indirizzo": "COLLE  BELLAVISTA",
+		"cap": "10015",
+		"comune": "IVREA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic886007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LA LOGGIA",
+		"indirizzo": "VIA DELLA CHIESA 45",
+		"cap": "10040",
+		"comune": "LA LOGGIA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic82600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LANZO T.SE",
+		"indirizzo": "VIA VITTORIO VENETO 2",
+		"cap": "10074",
+		"comune": "LANZO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois023008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. F. ALBERT",
+		"indirizzo": "VIA TESSO  7",
+		"cap": "10074",
+		"comune": "LANZO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee122007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. LEINI\\' - \"A. FRANK\"",
+		"indirizzo": "PIAZZA MADONNINA, 1",
+		"cap": "10040",
+		"comune": "LEINI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic86100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LEINI\\'",
+		"indirizzo": "VIA PROVANA 22",
+		"cap": "10040",
+		"comune": "LEINI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic843009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LUSERNA S. GIOVANNI",
+		"indirizzo": "VIA TEGAS 2",
+		"cap": "10062",
+		"comune": "LUSERNA SAN GIOVANNI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic88800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONCALIERI- CENTRO STORICO",
+		"indirizzo": "VIA S. MARTINO 27",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic88500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONCALIERI - SANTA MARIA",
+		"indirizzo": "VIA BERTERO 2",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic887003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MONCALIERI - NASI",
+		"indirizzo": "VIA PANNUNZIO 11",
+		"cap": "10024",
+		"comune": "MONCALIERI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bp00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PINEROLO III",
+		"indirizzo": "VIA  DE\\' ROCHIS  29",
+		"cap": "10064",
+		"comune": "PINEROLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic85500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PINO TORINESE",
+		"indirizzo": "VIA        E. MOLINA           21",
+		"cap": "10025",
+		"comune": "PINO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ae005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIOSSASCO I",
+		"indirizzo": "VIA VOLVERA, 14",
+		"cap": "10045",
+		"comune": "PIOSSASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ad009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIOSSASCO II",
+		"indirizzo": "VIA CUMIANA, 2",
+		"cap": "10045",
+		"comune": "PIOSSASCO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic857007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. POIRINO",
+		"indirizzo": "CORSO FIUME 77",
+		"cap": "10046",
+		"comune": "POIRINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic814009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PONT CANAVESE",
+		"indirizzo": "VIA G. MARCONI 23BIS",
+		"cap": "10085",
+		"comune": "PONT CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic84000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVALTA - TETTI FRANCESI",
+		"indirizzo": "VIA FOSSANO 7",
+		"cap": "10040",
+		"comune": "RIVALTA DI TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic84100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVALTA",
+		"indirizzo": "VIA PIOSSASCO  57",
+		"cap": "10040",
+		"comune": "RIVALTA DI TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ac00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVAROLO C.SE",
+		"indirizzo": "VIA        LE  MAIRE            20",
+		"cap": "10086",
+		"comune": "RIVAROLO CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois00400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. A. MORO",
+		"indirizzo": "VIA GALLO PECCA, 4/6",
+		"cap": "10086",
+		"comune": "RIVAROLO CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic87100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVOLI - MATTEOTTI",
+		"indirizzo": "VIA        MONTE BIANCO        23",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic872009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVOLI - LEVI",
+		"indirizzo": "VIA SESTRIERE 60",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVOLI - GOBETTI",
+		"indirizzo": "VIA        GATTI               18",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bl004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RIVOLI - GOZZANO",
+		"indirizzo": "VIA ALBA 15",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois02100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "O. ROMERO",
+		"indirizzo": "VIALE PAPA GIOVANNI XXIII, 25",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bc004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SETTIMO  IV",
+		"indirizzo": "VIALE PIAVE 20",
+		"cap": "10036",
+		"comune": "SETTIMO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ba00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SETTIMO II",
+		"indirizzo": "VIA CUNEO 1",
+		"cap": "10036",
+		"comune": "SETTIMO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic849008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SETTIMO VITTONE",
+		"indirizzo": "STRADA     PROVINCIALE         14",
+		"cap": "10010",
+		"comune": "SETTIMO VITTONE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic89300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. STRAMBINO",
+		"indirizzo": "VIA MODESTO PANETTI  18",
+		"cap": "10019",
+		"comune": "STRAMBINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois017001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. E. FERRARI",
+		"indirizzo": "CORSO  L. COUVERT, 21",
+		"cap": "10059",
+		"comune": "SUSA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic880008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SUSA",
+		"indirizzo": "PIAZZA SAVOIA 21",
+		"cap": "10059",
+		"comune": "SUSA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc08000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "N. ROSA",
+		"indirizzo": "PIAZZA SAVOIA,19",
+		"cap": "10059",
+		"comune": "SUSA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois053004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. V. BOSSO - A. MONTI",
+		"indirizzo": "VIA MEUCCI,9",
+		"cap": "10121",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois05400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. C.I. GIULIO",
+		"indirizzo": "VIA G.BIDONE 11",
+		"cap": "10125",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois058007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. SANTORRE DI SANTAROSA",
+		"indirizzo": "CORSO PESCHIERA, 230",
+		"cap": "10139",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois061003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. G. PEANO",
+		"indirizzo": "CORSO  VENEZIA 29",
+		"cap": "10147",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois06400e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS COPERNICO-LUXEMBURG",
+		"indirizzo": "CORSO CAIO PLINIO,2",
+		"cap": "10127",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois066006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. GOBETTI MARCHESINI - CASALE - ARDUINO",
+		"indirizzo": "VIA FIGLIE MILITARI 25",
+		"cap": "10131",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm00400q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - ANTONELLI",
+		"indirizzo": "VIA L. LANFRANCO 2 (EX V. FILADELFIA)",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm00900v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - CADUTI DI CEFALONIA",
+		"indirizzo": "VIA        BALTIMORA           110",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee01800p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"D\\'AZEGLIO\"",
+		"indirizzo": "VIA SANTORRE SANTAROSA 11",
+		"cap": "10131",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee024002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"DUCA D\\'AOSTA\"",
+		"indirizzo": "VIA CAPELLI 51",
+		"cap": "10146",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee02500t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"MAZZARELLO\"",
+		"indirizzo": "VIA COLLINO 12",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee02700d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"FRANK\"",
+		"indirizzo": "VIA CAVAGNOLO, 35",
+		"cap": "10156",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee029005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"GABELLI\"",
+		"indirizzo": "VIA SANTHIA, 25",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee03400l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"KENNEDY\"",
+		"indirizzo": "VIA PASSONI, 9",
+		"cap": "10146",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee04100q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"MAZZINI\"",
+		"indirizzo": "C.SO ORBASSANO,155/A",
+		"cap": "10136",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee045003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"NOVARO\"",
+		"indirizzo": "VIA CORELLI 4",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee04700p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"PACCHIOTTI\"",
+		"indirizzo": "VIA DEL CARMINE 27",
+		"cap": "10122",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee05100a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"PELLICO\"",
+		"indirizzo": "VIA MADAMA CRISTINA 102",
+		"cap": "10126",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee05600d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"SABIN\"",
+		"indirizzo": "CORSO VERCELLI 157",
+		"cap": "10155",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee061001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"SINIGAGLIA\"",
+		"indirizzo": "CORSO SEBASTOPOLI 258",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee06400c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"TOSCANINI\"",
+		"indirizzo": "VIA TOFANE 28",
+		"cap": "10141",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee065008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"SALGARI\"",
+		"indirizzo": "VIA LUSSIMPICCOLO 36/A",
+		"cap": "10141",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee06900g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"GOBETTI\"",
+		"indirizzo": "VIA ROMITA 19",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc090009",
+		"tipo": "LICEO CLASSICO",
+		"nome": "V. GIOBERTI",
+		"indirizzo": "VIA S. OTTAVIO 9",
+		"cap": "10124",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc10000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC V. ALFIERI",
+		"indirizzo": "CORSO  DANTE, 80",
+		"cap": "10126",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topm050003",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "REGINA MARGHERITA",
+		"indirizzo": "VIA VALPERGA CALUSO 12",
+		"cap": "10125",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topm120004",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "D.BERTI",
+		"indirizzo": "VIA DUCHESSA JOLANDA, 27 BIS",
+		"cap": "10138",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops020006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "A. VOLTA",
+		"indirizzo": "VIA JUVARRA 14",
+		"cap": "10122",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops04000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "G. FERRARIS",
+		"indirizzo": "C.SO MONTEVECCHIO 67",
+		"cap": "10129",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops120003",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "C. CATTANEO",
+		"indirizzo": "VIA SOSTEGNO,41/10",
+		"cap": "10146",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops22000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "GIORDANO BRUNO",
+		"indirizzo": "VIA MARINUZZI, 1 - TORINO",
+		"cap": "10156",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops270001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "SC.INTERN.EUROPEA STAT.A.SPINELLI",
+		"indirizzo": "VIA FIGLIE DEI MILITARI 25",
+		"cap": "10131",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops340002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  P. GOBETTI",
+		"indirizzo": "VIA MARIA VITTORIA 39 BIS",
+		"cap": "10123",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "torc090001",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "ALBE STEINER",
+		"indirizzo": "LUNGO DORA AGRIGENTO 20/A",
+		"cap": "10152",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "torh010009",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "RH G. COLOMBATTO",
+		"indirizzo": "VIA GORIZIA, 7",
+		"cap": "10136",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tori030002",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "G. PLANA",
+		"indirizzo": "PIAZZA ROBILANT,5",
+		"cap": "10141",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tori04000l",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPSIA DALMAZIO BIRAGO",
+		"indirizzo": "CORSO NOVARA,65",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tors010007",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO PER SORDOMUTI",
+		"nome": "MAGAROTTO",
+		"indirizzo": "VIA MONTE  CORNO 34",
+		"cap": "10127",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm058004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - PEROTTI",
+		"indirizzo": "VIA        TOFANE              22",
+		"cap": "10141",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm073006",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - VIAN",
+		"indirizzo": "VIA        STAMPINI            25",
+		"cap": "10148",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm078009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - G. B. VIOTTI",
+		"indirizzo": "C.SO VERCELLI, 141/6",
+		"cap": "10155",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm25400e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - FOSCOLO",
+		"indirizzo": "VIA PIAZZI 57",
+		"cap": "10129",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm256006",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - PIER GIORGIO FRASSATI",
+		"indirizzo": "VIA        TIRABOSCHI          33",
+		"cap": "10149",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm257002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO- NORBERTO BOBBIO",
+		"indirizzo": "VIA        SANTHIA\\'            76",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm25900n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - NIEVO - MATTEOTTI",
+		"indirizzo": "VIA        MENTANA             14",
+		"cap": "10133",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm26100n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - PIERO CALAMANDREI",
+		"indirizzo": "CORSO B. CROCE, 17",
+		"cap": "10135",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm28400a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - VIA REVEL",
+		"indirizzo": "VIA REVEL                       8",
+		"cap": "10121",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm286002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO - DANTE ALIGHIERI",
+		"indirizzo": "VIA PACCHIOTTI                 80",
+		"cap": "10146",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm28900d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "TORINO-C. ALVARO-A. MODIGLIANI",
+		"indirizzo": "VIA  BALLA  27",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm32300q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 TORINO",
+		"indirizzo": "VIA BARDONECCHIA  34",
+		"cap": "10139",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm32400g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 2 TORINO",
+		"indirizzo": "VIA BOLOGNA 153",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc01000c",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO E MUSICALE   C. CAVOUR",
+		"indirizzo": "CORSO TASSONI, 15",
+		"cap": "10143",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "topc070004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "M. D\\'AZEGLIO",
+		"indirizzo": "VIA PARINI,8",
+		"cap": "10121",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tosd02000l",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "A. PASSONI",
+		"indirizzo": "VIA DELLA ROCCA N.7",
+		"cap": "10123",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tosl01000c",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LICEO ARTISTICO PRIMO",
+		"indirizzo": "VIA CARCANO, 31",
+		"cap": "10153",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tosl020003",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LICEO ARTISTICO STATALE\"R.COTTINI\"",
+		"indirizzo": "VIA CASTELGOMBERTO,2O",
+		"cap": "10136",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totd090008",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC G. SOMMEILLER",
+		"indirizzo": "CORSO DUCA DEGLI ABRUZZI, 20",
+		"cap": "10129",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totd290002",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "RUSSELL - MORO",
+		"indirizzo": "CORSO MOLISE 58",
+		"cap": "10151",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totf14000a",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "C. GRASSI",
+		"indirizzo": "VIA  VERONESE 305",
+		"cap": "10148",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "totl02000c",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "G. GUARINI",
+		"indirizzo": "VIA SALERNO 60",
+		"cap": "10152",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tovc01000q",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "UMBERTO I",
+		"indirizzo": "VIA  BLIGNY   1 BIS",
+		"cap": "10122",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee00400r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO -  \"ALLIEVO\"",
+		"indirizzo": "VIA VIBO\\' 62",
+		"cap": "10147",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee00500l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"BARICCO\"",
+		"indirizzo": "CORSO PESCHIERA 380",
+		"cap": "10139",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee010004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"PARRI\"",
+		"indirizzo": "STRADA DI LANZO 147/11",
+		"cap": "10148",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee01100x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"CASALEGNO\"",
+		"indirizzo": "VIA ACCIARINI 20",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee01400b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"COLLODI\"",
+		"indirizzo": "CORSO B. CROCE 26",
+		"cap": "10135",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee016003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D.  TORINO - \"COPPINO\"",
+		"indirizzo": "VIA COLOMBO 36",
+		"cap": "10129",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee01700v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"COSTA\"",
+		"indirizzo": "VIA AMBROSINI 1",
+		"cap": "10151",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois059003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. G. NATTA",
+		"indirizzo": "VIA XX SETTEMBRE  14/A",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tomm33200e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 5 TORINO",
+		"indirizzo": "VIA ALLENDE 5",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops10000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "CHARLES DARWIN",
+		"indirizzo": "VIALE  PAPA GIOVANNI XXIII N 25",
+		"cap": "10098",
+		"comune": "RIVOLI",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bg00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN BENIGNO CAN.",
+		"indirizzo": "CORSO  ITALIA,  34",
+		"cap": "10080",
+		"comune": "SAN BENIGNO CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee16800l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. SAN GIORGIO C.SE",
+		"indirizzo": "VICOLO BIANCHETTI, 17",
+		"cap": "10090",
+		"comune": "SAN GIORGIO CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic831003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN MAURIZIO C.SE",
+		"indirizzo": "VIA GENERAL CABRERA, 12",
+		"cap": "10077",
+		"comune": "SAN MAURIZIO CANAVESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ax00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN MAURO I",
+		"indirizzo": "VIA MARTIRI DELLA   LIBERTA\\' N 60",
+		"cap": "10099",
+		"comune": "SAN MAURO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8aw001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN MAURO II",
+		"indirizzo": "VIA SPERANZA N 40",
+		"cap": "10099",
+		"comune": "SAN MAURO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic823004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANT\\'AMBROGIO",
+		"indirizzo": "VIA I MAGGIO 13",
+		"cap": "10057",
+		"comune": "SANT\\'AMBROGIO DI TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic82400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANT\\'ANTONINO DI SUSA",
+		"indirizzo": "VIA        A. ABEGG           19",
+		"cap": "10050",
+		"comune": "SANT\\'ANTONINO DI SUSA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic858003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SANTENA",
+		"indirizzo": "VIA TETTI AGOSTINO, 31",
+		"cap": "10026",
+		"comune": "SANTENA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SETTIMO  I",
+		"indirizzo": "VIA BUONARROTI 8",
+		"cap": "10036",
+		"comune": "SETTIMO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bb008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SETTIMO III",
+		"indirizzo": "VIA ALLENDE 1",
+		"cap": "10036",
+		"comune": "SETTIMO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois031007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. 8 MARZO",
+		"indirizzo": "VIA LEINI\\' 54",
+		"cap": "10036",
+		"comune": "SETTIMO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois01900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. G. FERRARIS",
+		"indirizzo": "VIA DON GNOCCHI 2/A",
+		"cap": "10036",
+		"comune": "SETTIMO TORINESE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic878008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - UMBERTO SABA",
+		"indirizzo": "VIA LORENZINI 4",
+		"cap": "10147",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic879004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - VIVALDI-MURIALDO",
+		"indirizzo": "VIA CASTELDELFINO 24",
+		"cap": "10147",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic881004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"S. PERTINI\"",
+		"indirizzo": "VIA MONTEVIDEO 11",
+		"cap": "10134",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic88200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - VIA SIDOLI",
+		"indirizzo": "VIA SIDOLI,10",
+		"cap": "10135",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic88300q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RITA LEVI-MONTALCINI",
+		"indirizzo": "VIA PALMIERI 58",
+		"cap": "10138",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic88400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - CORSO RACCONIGI",
+		"indirizzo": "VIA LUSERNA DI RORA\\' 14",
+		"cap": "10139",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a0002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - NIGRA",
+		"indirizzo": "VIA        BIANZE\\'             7",
+		"cap": "10143",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - VITT.DA FELTRE",
+		"indirizzo": "VIA FINALMARINA 5",
+		"cap": "10126",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - PEYRON",
+		"indirizzo": "VIA    VALENZA    71",
+		"cap": "10127",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8ay00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - PALAZZESCHI",
+		"indirizzo": "VIA   LANCIA   140",
+		"cap": "10141",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8az00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - ALBERTI",
+		"indirizzo": "VIA TOLMINO, 40",
+		"cap": "10141",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bd00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO I",
+		"indirizzo": "CORSO      NOVARA              26",
+		"cap": "10152",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8be00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO  II",
+		"indirizzo": "CORSO GIULIO CESARE 26",
+		"cap": "10152",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois003003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. E. MAJORANA",
+		"indirizzo": "VIA FRATTINI 11",
+		"cap": "10137",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois01300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "BODONI - PARAVIA",
+		"indirizzo": "VIA PONCHIELLI,56",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toee18200v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "D.D. TORINO - \"ALERAMO\"",
+		"indirizzo": "VIA LEMIE, 48",
+		"cap": "10149",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic80500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"CENA\"",
+		"indirizzo": "STRADA SAN MAURO 32",
+		"cap": "10156",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic808002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"L. DA VINCI\"",
+		"indirizzo": "VIA  DEGLI ABETI 13",
+		"cap": "10156",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic810002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"D. M. TUROLDO\"",
+		"indirizzo": "VIA      MAGNOLIE              9",
+		"cap": "10151",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic815005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"TOMMASEO\"",
+		"indirizzo": "VIA DEI MILLE 15",
+		"cap": "10123",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic816001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"KING-MILA\"",
+		"indirizzo": "VIA GERMNIO 12",
+		"cap": "10142",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic81700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"PACINOTTI\"",
+		"indirizzo": "VIA LE CHIUSE 80",
+		"cap": "10144",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic81800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"GOZZI-OLIVETTI\"",
+		"indirizzo": "VIA        BARDASSANO          5",
+		"cap": "10132",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic81900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"MANZONI\"",
+		"indirizzo": "CORSO MARCONI, 28",
+		"cap": "10125",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic82000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"SALVEMINI\"",
+		"indirizzo": "VIA NEGARVILLE 30/6",
+		"cap": "10135",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic866002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - \"CAIROLI\"",
+		"indirizzo": "VIA TORRAZZA PIEMONTE 10",
+		"cap": "10127",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic873005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - P. GEMELLI",
+		"indirizzo": "C.SO LOMBARDIA 98",
+		"cap": "10151",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic87500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - MARCONI-ANTONELLI",
+		"indirizzo": "VIA ASIGLIANO VERCELLESE 10",
+		"cap": "10153",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic87600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - VIA RICASOLI",
+		"indirizzo": "VIA  RICASOLI  30",
+		"cap": "10153",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic87700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORINO - REGIO PARCO",
+		"indirizzo": "CORSO REGIO PARCO 19",
+		"cap": "10152",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic85400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VEROLENGO",
+		"indirizzo": "PIAZZA SANDRO PERTINI, 1",
+		"cap": "10038",
+		"comune": "VEROLENGO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic84700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VIGONE",
+		"indirizzo": "VIA DON MILANI, 2",
+		"cap": "10067",
+		"comune": "VIGONE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic80400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VILLAR PEROSA",
+		"indirizzo": "VIA IV NOVEMBRE 2",
+		"cap": "10069",
+		"comune": "VILLAR PEROSA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic874001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VINOVO",
+		"indirizzo": "VIA DE AMICIS 5",
+		"cap": "10048",
+		"comune": "VINOVO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic80600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VISTRORIO",
+		"indirizzo": "VIA GARIBALDI, 28/1",
+		"cap": "10080",
+		"comune": "VISTRORIO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8bh007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VOLPIANO",
+		"indirizzo": "VIALE C.A. DALLA CHIESA 1",
+		"cap": "10088",
+		"comune": "VOLPIANO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic83800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VOLVERA",
+		"indirizzo": "VIA GARIBALDI,  1",
+		"cap": "10040",
+		"comune": "VOLVERA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois01800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "EINSTEIN",
+		"indirizzo": "VIA PACINI,28",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois029007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.P.S. J. B. BECCARI",
+		"indirizzo": "VIA PAGANINI,22",
+		"cap": "10154",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois037006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. SELLA-AALTO-LAGRANGE",
+		"indirizzo": "VIA MONTECUCCOLI, 12",
+		"cap": "10121",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois04200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. G. GIOLITTI",
+		"indirizzo": "VIA ALASSIO 20",
+		"cap": "10126",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois04300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. PRIMO LEVI",
+		"indirizzo": "CORSO UNIONE SOVIETICA,490",
+		"cap": "10135",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois04700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. GALILEI - FERRARI",
+		"indirizzo": "VIA LAVAGNA, 8",
+		"cap": "10126",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois04800l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. R. ZERBONI",
+		"indirizzo": "VIA P. DELLA CELLA, 3",
+		"cap": "10148",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois05100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. A. AVOGADRO",
+		"indirizzo": "CORSO SAN MAURIZIO,8",
+		"cap": "10124",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tois052008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. P. BOSELLI",
+		"indirizzo": "VIA MONTECUCCOLI, 12",
+		"cap": "10121",
+		"comune": "TORINO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic81300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TORRE PELLICE",
+		"indirizzo": "V.LE DANTE 11/13",
+		"cap": "10066",
+		"comune": "TORRE PELLICE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic86900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TRANA",
+		"indirizzo": "VIA ALIGHIERI 3/A",
+		"cap": "10090",
+		"comune": "TRANA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic83200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TROFARELLO",
+		"indirizzo": "VIA        XXIV MAGGIO         48",
+		"cap": "10028",
+		"comune": "TROFARELLO",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a4009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VENARIA  II",
+		"indirizzo": "CORSO PAPA GIOVANNI XXIII 54",
+		"cap": "10078",
+		"comune": "VENARIA",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "toic8a300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VENARIA I",
+		"indirizzo": "PIAZZA VITTORIO VENETO 2",
+		"cap": "10078",
+		"comune": "VENARIA REALE",
+		"provincia": "TO"
+	}
+	,
+	{
+		"codMec": "tops30000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "JUVARRA CON ANNESSA SEZ. CLASSICA",
+		"indirizzo": "VIA BUOZZI 16",
+		"cap": "10078",
+		"comune": "VENARIA REALE",
+		"provincia": "TO"
+	}
+]

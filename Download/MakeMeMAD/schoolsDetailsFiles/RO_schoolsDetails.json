@@ -1,0 +1,331 @@
+[
+	{
+		"codMec": "rois00100e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"LICEO BOCCHI-GALILEI\" - ADRIA",
+		"indirizzo": "VIA DANTE ALIGHIERI, 4",
+		"cap": "45011",
+		"comune": "ADRIA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic815008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ADRIA UNO",
+		"indirizzo": "VIA UMBERTO I, 18",
+		"cap": "45011",
+		"comune": "ADRIA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rorh01000c",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IST. PROF.ALBERGH. \"G. CIPRIANI\" - ADRIA",
+		"indirizzo": "VIA ALDO MORO",
+		"cap": "45011",
+		"comune": "ADRIA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic81400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ADRIA DUE",
+		"indirizzo": "VIA RAGAZZI DEL \\'99, N. 28",
+		"cap": "45011",
+		"comune": "ADRIA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rois00200a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"C. COLOMBO\" - ADRIA",
+		"indirizzo": "VIA SAN    FRANCESCO 33",
+		"cap": "45011",
+		"comune": "ADRIA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rois011005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"POLO TECNICO DI ADRIA\" - ADRIA",
+		"indirizzo": "VIA DANTE, 17",
+		"cap": "45011",
+		"comune": "ADRIA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic80100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARIANO NEL POLESINE",
+		"indirizzo": "VIA MANTOVANI, 23",
+		"cap": "45012",
+		"comune": "ARIANO NEL POLESINE",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rois00700d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"PRIMO LEVI\"",
+		"indirizzo": "VIA MANZONI, 191",
+		"cap": "45021",
+		"comune": "BADIA POLESINE",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic816004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BADIA POLESINE",
+		"indirizzo": "PIAZZA MARCONI 192",
+		"cap": "45021",
+		"comune": "BADIA POLESINE",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rois003006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"BRUNO MUNARI\" - CASTELMASSA",
+		"indirizzo": "VIA MATTEOTTI, 34",
+		"cap": "45035",
+		"comune": "CASTELMASSA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic80000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELMASSA",
+		"indirizzo": "VIA MATTEOTTI, 30",
+		"cap": "45035",
+		"comune": "CASTELMASSA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic811001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COSTA DI ROVIGO",
+		"indirizzo": "VIA VITTORIO EMANUELE II, 204",
+		"cap": "45023",
+		"comune": "COSTA DI ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic810005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FIESSO UMBERTIANO",
+		"indirizzo": "VIA VERDI,194",
+		"cap": "45024",
+		"comune": "FIESSO UMBERTIANO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic81200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRATTA POLESINE",
+		"indirizzo": "VIA ROMA, 49",
+		"cap": "45025",
+		"comune": "FRATTA POLESINE",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic81700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LENDINARA",
+		"indirizzo": "VIA G. MARCONI 36",
+		"cap": "45026",
+		"comune": "LENDINARA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic802006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LOREO",
+		"indirizzo": "VIALE STAZIONE, 14",
+		"cap": "45017",
+		"comune": "LOREO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic803002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OCCHIOBELLO",
+		"indirizzo": "VIA M.L.KING N.3",
+		"cap": "45030",
+		"comune": "OCCHIOBELLO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic808005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POLESELLA",
+		"indirizzo": "VIA G.GARIBALDI, 416",
+		"cap": "45038",
+		"comune": "POLESELLA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic81300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTO TOLLE",
+		"indirizzo": "VIA BRUNETTI, 17",
+		"cap": "45018",
+		"comune": "PORTO TOLLE",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic80600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTO VIRO",
+		"indirizzo": "VIA CAVALIERI DI VITT.VENETO,2",
+		"cap": "45014",
+		"comune": "PORTO VIRO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic82200b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROVIGO 3",
+		"indirizzo": "VIA F. CORRIDONI N.40",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rois008009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"E. DE AMICIS\" - ROVIGO",
+		"indirizzo": "VIA PARENZO,16",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rops01000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"P.PALEOCAPA\" - ROVIGO",
+		"indirizzo": "VIA A. DE GASPERI, 19",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "ropm01000q",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO \"CELIO-ROCCATI\" - ROVIGO",
+		"indirizzo": "VIA CARDUCCI 8",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "romm052008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA DI ROVIGO",
+		"indirizzo": "VIA W.MOZART, 8",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic82000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROVIGO 1",
+		"indirizzo": "VIA DELLA COSTITUZIONE, 6",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic81900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROVIGO 4",
+		"indirizzo": "VIA MOZART, 8",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic82100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROVIGO 2",
+		"indirizzo": "VIA F. CORRIDONI, 40",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "rois012001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"VIOLA-MARCHESINI\" - ROVIGO",
+		"indirizzo": "VIA DE GASPERI, 21",
+		"cap": "45100",
+		"comune": "ROVIGO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic823007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC STIENTA",
+		"indirizzo": "VIA MAFFEI, 195",
+		"cap": "45039",
+		"comune": "STIENTA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic80500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TAGLIO DI PO",
+		"indirizzo": "VIA MANZONI, 1",
+		"cap": "45019",
+		"comune": "TAGLIO DI PO",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic809001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TRECENTA",
+		"indirizzo": "VIA E.DE AMICIS,135",
+		"cap": "45027",
+		"comune": "TRECENTA",
+		"provincia": "RO"
+	}
+	,
+	{
+		"codMec": "roic807009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO VILLADOSE",
+		"indirizzo": "VIA  DELLA PACE, 22",
+		"cap": "45010",
+		"comune": "VILLADOSE",
+		"provincia": "RO"
+	}
+]

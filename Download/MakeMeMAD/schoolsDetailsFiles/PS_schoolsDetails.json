@@ -1,0 +1,561 @@
+[
+	{
+		"codMec": "psic80400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.ANGELO IN VADO",
+		"indirizzo": "VIA R. B. POWELL, 45",
+		"cap": "61048",
+		"comune": "SANT\\'ANGELO IN VADO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis00100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "OMNICOMPRENSIVO \"MONTEFELTRO\"",
+		"indirizzo": "VIA   GIUSTI, 10",
+		"cap": "61028",
+		"comune": "SASSOCORVARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic83900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TAVULLIA -PIAN DEL BRUSCOLO",
+		"indirizzo": "VIA PIAN MAURO, 33",
+		"cap": "61010",
+		"comune": "TAVULLIA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis00700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "OMNICOMPRENSIVO \"DELLA  ROVERE\"",
+		"indirizzo": "VIA NARDI, 2",
+		"cap": "61049",
+		"comune": "URBANIA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psps050002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO SCIENZE UMANE LAURANA",
+		"indirizzo": "VIA PACIOLI, 24",
+		"cap": "61029",
+		"comune": "URBINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "pstf01000n",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"E. MATTEI\"",
+		"indirizzo": "VIA LUCA PACIOLI, 22",
+		"cap": "61029",
+		"comune": "URBINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic837002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S. \"PAOLO  VOLPONI \"",
+		"indirizzo": "VIA  MUZIO ODDI    N?17",
+		"cap": "61029",
+		"comune": "URBINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "pssd04000t",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "IST.ARTE \"SCUOLA DEL LIBRO\"",
+		"indirizzo": "VIA        BRAMANTE, 20",
+		"cap": "61029",
+		"comune": "URBINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic836006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "URBINO \"PASCOLI\"",
+		"indirizzo": "VIA PIANO S. LUCIA 11",
+		"cap": "61029",
+		"comune": "URBINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis01800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"RAFFAELLO\"",
+		"indirizzo": "VIA   MUZIO ODDI",
+		"cap": "61029",
+		"comune": "URBINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic84000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI PAOLO II",
+		"indirizzo": "VIA GUIDI N.1",
+		"cap": "61020",
+		"comune": "VALLEFOGLIA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic807006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ACQUALAGNA \"E.MATTEI\"",
+		"indirizzo": "VIA        KENNEDY,21",
+		"cap": "61041",
+		"comune": "ACQUALAGNA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic808002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"SCIPIONE LAPI\"",
+		"indirizzo": "VIA        SAN   FRANCESCO   N? 5",
+		"cap": "61042",
+		"comune": "APECCHIO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis00400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"G.CELLI\"",
+		"indirizzo": "VIA GIOVANNI SANTI, 23",
+		"cap": "61043",
+		"comune": "CAGLI",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic83500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAGLI \"F.MICHELINI TOCCI\"",
+		"indirizzo": "PIAZZA     SAN FRANCESCO       5",
+		"cap": "61043",
+		"comune": "CAGLI",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic822008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CARTOCETO \"MARCO POLO\"",
+		"indirizzo": "VIA ALDO MORO 2",
+		"cap": "61030",
+		"comune": "CARTOCETO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psps01000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"TORELLI\"",
+		"indirizzo": "VIALE KENNEDY 30",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic829003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FANO \"NUTI\"",
+		"indirizzo": "VIA REDIPUGLIA,5",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic83800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "A. GANDIGLIO",
+		"indirizzo": "PIAZZETTA  GRIMALDI  3",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "pspc06000d",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLASSICO,LING. SC.UMANE \"G.NOLFI\"",
+		"indirizzo": "VIA TOMASSONI, 2/4",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psee03900q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD FANO S.ORSO",
+		"indirizzo": "VIA DIVISIONE CARPAZI 30",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psee015007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "FANO SAN LAZZARO",
+		"indirizzo": "VIALE GRAMSCI, 3",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "pstd090008",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"C. BATTISTI\"",
+		"indirizzo": "VIALE      XII SETTEMBRE 3",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis003003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "POLO 3",
+		"indirizzo": "VIA        NOLFI, 37",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic830007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FANO \"G.PADALINO\"",
+		"indirizzo": "VIA M. LANCI, N. 2",
+		"cap": "61032",
+		"comune": "FANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic816001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FERMIGNANO D.BRAMANTE",
+		"indirizzo": "VIA CARDUCCI 2",
+		"cap": "61033",
+		"comune": "FERMIGNANO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic82000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FOSSOMBRONE \"F.LLI MERCANTINI\"",
+		"indirizzo": "VIA TORRICELLI, 29",
+		"cap": "61034",
+		"comune": "FOSSOMBRONE",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis00600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"LUIGI DONATI\"",
+		"indirizzo": "VIA DON BOSCO. 7",
+		"cap": "61034",
+		"comune": "FOSSOMBRONE",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psee016003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "FOSSOMBRONE",
+		"indirizzo": "VIALE GRAMSCI, 8",
+		"cap": "61034",
+		"comune": "FOSSOMBRONE",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic81200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GABICCE MARE \"G.LANFRANCO\"",
+		"indirizzo": "VIA XXV APRILE",
+		"cap": "61011",
+		"comune": "GABICCE MARE",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic81100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISC MACERATA FELTRIA",
+		"indirizzo": "VIA DELLA GIOVENTU\\' 8",
+		"cap": "61023",
+		"comune": "MACERATA FELTRIA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic80300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MERCATINO CONCA \"R.SANZIO\"",
+		"indirizzo": "VIA PETRELLA, 14",
+		"cap": "61013",
+		"comune": "MERCATINO CONCA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic83300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONDOLFO \"FAA\\' DI BRUNO\"",
+		"indirizzo": "VIA CORFU\\', 17 MAROTTA",
+		"cap": "61037",
+		"comune": "MONDOLFO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic83200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONDOLFO \"ENRICO FERMI\"",
+		"indirizzo": "VIA ENRICO FERMI,11",
+		"cap": "61037",
+		"comune": "MONDOLFO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic80500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTECALVO IN FOGLIA \"A.FRANK\"",
+		"indirizzo": "PIAZZA    MARTIRI   N.1",
+		"cap": "61020",
+		"comune": "MONTECALVO IN FOGLIA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic810002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTEFELCINO",
+		"indirizzo": "PIAZZA DON LUIGI STURZO,1",
+		"cap": "61030",
+		"comune": "MONTEFELCINO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic84100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTELABBATE",
+		"indirizzo": "VIA GIACOMO LEOPARDI, 3",
+		"cap": "61025",
+		"comune": "MONTELABBATE",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic831003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ORCIANO \"GIO\\'POMODORO\"",
+		"indirizzo": "VIA        MONTEPALAZZINO 1",
+		"cap": "61038",
+		"comune": "ORCIANO DI PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic83400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PERGOLA \"G.BINOTTI\"",
+		"indirizzo": "VIA DELLA LIBERTA\\', 12",
+		"cap": "61045",
+		"comune": "PERGOLA",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "pstd10000n",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "IST.TEC ECON. TECNOLOGICO BRAMANTE-GENGA",
+		"indirizzo": "VIA NANTERRE",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic82700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PESARO \"GIANFRANCO GAUDIANO\"",
+		"indirizzo": "PIAZZA DEL MONTE, 8",
+		"cap": "61121",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic82500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PESARO - VILLA SAN MARTINO",
+		"indirizzo": "VIA RUGGERO LEONCAVALLO, 24",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic82400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PESARO \"DANTE ALIGHIERI\"",
+		"indirizzo": "VIA        GATTONI             13",
+		"cap": "61121",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic828007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PESARO \"GALILEO GALILEI\"",
+		"indirizzo": "VIA   DELLA CONCORDIA  92",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psri02000b",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "PESARO IPSIA\"BENELLI\"",
+		"indirizzo": "VIA        NANTERRE  2",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psps020006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"G.MARCONI\"",
+		"indirizzo": "VIA   NANTERRE  10",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "pspc03000n",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L. CLASSICO - LING. - SC. UMANE MAMIANI",
+		"indirizzo": "VIA   GRAMSCI, N. 2",
+		"cap": "61121",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis01900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.\" F. MENGARONI\"",
+		"indirizzo": "C.SO XI SETTEMBRE 201",
+		"cap": "61121",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis01300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"ANTONIO CECCHI\"",
+		"indirizzo": "VIA CAPRILE, 1",
+		"cap": "61121",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic81700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PESARO \"L.PIRANDELLO\"",
+		"indirizzo": "VIA NANTERRE",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic81800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.S.C. \"G. LEOPARDI\"",
+		"indirizzo": "VIA MANTEGAZZA N. 1",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psis002007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.\"S.MARTA\" E \"G.BRANCA\"",
+		"indirizzo": "STRADA DELLE MARCHE, 1",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic84200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"ELIO TONELLI\"",
+		"indirizzo": "STRADA STATALE ADRIATICA, 151",
+		"cap": "61121",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic82100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PESARO \"A.OLIVIERI\"",
+		"indirizzo": "VIA    CONFALONIERI        9",
+		"cap": "61122",
+		"comune": "PESARO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic815005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PIANDIMELETO",
+		"indirizzo": "VIA GIACOMO LEOPARDI N.6",
+		"cap": "61026",
+		"comune": "PIANDIMELETO",
+		"provincia": "PS"
+	}
+	,
+	{
+		"codMec": "psic823004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SALTARA \"G.LEOPARDI\"",
+		"indirizzo": "VIA MARCONI 1/3",
+		"cap": "61030",
+		"comune": "SALTARA",
+		"provincia": "PS"
+	}
+]

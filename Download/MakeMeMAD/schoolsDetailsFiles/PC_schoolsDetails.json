@@ -1,0 +1,341 @@
+[
+	{
+		"codMec": "pcic819004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BOBBIO-CAPOLUOGO",
+		"indirizzo": "PIAZZA S. COLOMBANO",
+		"cap": "29022",
+		"comune": "BOBBIO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic80800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BORGONOVO VAL TIDONE",
+		"indirizzo": "VIA SARMATO  N. 1",
+		"cap": "29011",
+		"comune": "BORGONOVO VAL TIDONE",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic80900d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC U. AMALDI",
+		"indirizzo": "VIA        DELLA LIBERAZIONE   3",
+		"cap": "29010",
+		"comune": "CADEO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic814001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CARPANETO",
+		"indirizzo": "VIA FRANCHINI, 10",
+		"cap": "29013",
+		"comune": "CARPANETO PIACENTINO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic81700c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"A. CASAROLI\"",
+		"indirizzo": "VIA VERDI,6",
+		"cap": "29015",
+		"comune": "CASTEL SAN GIOVANNI",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcis001003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS ALESSANDRO VOLTA",
+		"indirizzo": "VIA        N. SAURO,23",
+		"cap": "29015",
+		"comune": "CASTEL SAN GIOVANNI",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic81500r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CASTELL\\'ARQUATO",
+		"indirizzo": "VIA ROMA 1",
+		"cap": "29014",
+		"comune": "CASTELL\\'ARQUATO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic805006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORTEMAGGIORE",
+		"indirizzo": "VIA XX SETTEMBRE, 40",
+		"cap": "29016",
+		"comune": "CORTEMAGGIORE",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcis00400e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS MATTEI",
+		"indirizzo": "VIA BOIARDI N. 5",
+		"cap": "29017",
+		"comune": "FIORENZUOLA D\\'ARDA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic818008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FIORENZUOLA D\\'ARDA",
+		"indirizzo": "VIA S. BERNARDO 10",
+		"cap": "29017",
+		"comune": "FIORENZUOLA D\\'ARDA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic80400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LUGAGNANO",
+		"indirizzo": "VIALE MADONNA DEL PIANO,5",
+		"cap": "29018",
+		"comune": "LUGAGNANO VAL D\\'ARDA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic806002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONTICELLI D\\'ONGINA",
+		"indirizzo": "VIA MART. DELLA LIBERTA\\' ,2",
+		"cap": "29010",
+		"comune": "MONTICELLI D\\'ONGINA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcee00800q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD OTTAVO CIRCOLO",
+		"indirizzo": "VIA DON MINZONI 39/A",
+		"cap": "29122",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcee00700x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD SETTIMO CIRCOLO",
+		"indirizzo": "VIA EMMANUELI 30",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcee005008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD QUINTO CIRCOLO",
+		"indirizzo": "VIA MANFREDI 40",
+		"cap": "29122",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic81000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC G. PARINI",
+		"indirizzo": "VIA PIAVE,24",
+		"cap": "29027",
+		"comune": "PODENZANO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic80700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DELLA VAL NURE",
+		"indirizzo": "VIA FRANCESCO ACERBI 61",
+		"cap": "29028",
+		"comune": "PONTE DELL\\'OLIO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic81600l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO  RIVERGARO",
+		"indirizzo": "VIA ROMA,  19",
+		"cap": "29029",
+		"comune": "RIVERGARO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic812009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"M.K. GANDHI\"",
+		"indirizzo": "VIA        UNGARETTI, 7",
+		"cap": "29010",
+		"comune": "ROTTOFRENO",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcee00400c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD QUARTO CIRCOLO",
+		"indirizzo": "STRADA FARNESIANA 32",
+		"cap": "29122",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcps02000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS LORENZO RESPIGHI",
+		"indirizzo": "PIAZZALE GENOVA,1",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcee00200r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD SECONDO CIRCOLO",
+		"indirizzo": "VIA ALBERONI 49",
+		"cap": "29100",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcee00300l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD TERZO CIRCOLO",
+		"indirizzo": "VIA TAVERNA 110",
+		"cap": "29100",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcpm010008",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEI GIULIA MOLINO COLOMBINI",
+		"indirizzo": "VIA BEVERORA 51",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcpc010004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC M. GIOIA",
+		"indirizzo": "VIALE      RISORGIMENTO, 1",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcmm048005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 PIACENZA",
+		"indirizzo": "VIA NEGRI 45",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcmm00400b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS ITALO CALVINO",
+		"indirizzo": "VIA        BOSCARELLI, 23",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcis00200v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS G.RAINERI",
+		"indirizzo": "STRADA     AGAZZANA 35",
+		"cap": "29122",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcis00300p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S \"GIANDOMENICO ROMAGNOSI\"",
+		"indirizzo": "VIA        CAVOUR 45",
+		"cap": "29100",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcis006006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS GUGLIELMO MARCONI",
+		"indirizzo": "VIA        IV NOVEMBRE 122",
+		"cap": "29122",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcis007002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS TRAMELLO CASSINARI",
+		"indirizzo": "VIA NEGRI, 45",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcmm00200q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS DANTE ALIGHIERI",
+		"indirizzo": "VIA        PIATTI              9",
+		"cap": "29122",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcmm00300g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "\"FAUSTINI-FRANK-NICOLINI\"",
+		"indirizzo": "VIA        ALBERONI, 49",
+		"cap": "29121",
+		"comune": "PIACENZA",
+		"provincia": "PC"
+	}
+	,
+	{
+		"codMec": "pcic81100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC E. CARELLA",
+		"indirizzo": "VIA G. PUCCINI, 29",
+		"cap": "29010",
+		"comune": "PIANELLO VAL TIDONE",
+		"provincia": "PC"
+	}
+]

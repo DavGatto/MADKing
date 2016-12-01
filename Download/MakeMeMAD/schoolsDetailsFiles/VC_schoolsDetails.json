@@ -1,0 +1,261 @@
+[
+	{
+		"codMec": "vcic802006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARBORIO",
+		"indirizzo": "C.SO UMBERTO I, 129",
+		"cap": "13031",
+		"comune": "ARBORIO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic80100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO ASIGLIANO",
+		"indirizzo": "PIAZZA VITTORIO VENETO",
+		"cap": "13032",
+		"comune": "ASIGLIANO VERCELLESE",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis017004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. FERRARI",
+		"indirizzo": "VIALE  VARALLO N. 153",
+		"cap": "13011",
+		"comune": "BORGOSESIA",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis016008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VINCENZO LANCIA",
+		"indirizzo": "VIA        G MARCONI 8",
+		"cap": "13011",
+		"comune": "BORGOSESIA",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic81400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC SCUOLA MEDIA BORGOSESIA",
+		"indirizzo": "VIA MARCONI, 2",
+		"cap": "13011",
+		"comune": "BORGOSESIA",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic80600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON EVASIO FERRARIS - CIGLIANO",
+		"indirizzo": "PIAZZA MARTIRI LIBERTA\\' 14/B",
+		"cap": "13043",
+		"comune": "CIGLIANO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic807009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"SERRA\" CRESCENTINO",
+		"indirizzo": "CORSO ROMA 109",
+		"cap": "13044",
+		"comune": "CRESCENTINO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic815008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO SEDE",
+		"indirizzo": "VIA SAN ROCCO N.1",
+		"cap": "13045",
+		"comune": "GATTINARA",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic80500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G.FERRARIS -LIVORNO FERRARIS-",
+		"indirizzo": "VIALE      QUATTRO NOVEMBRE    16",
+		"cap": "13046",
+		"comune": "LIVORNO FERRARIS",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic81200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MARTIRI DELLA LIBERTA\\'\"",
+		"indirizzo": "PIAZZA COMBATTENTI D\\'ITALIA 21/A",
+		"cap": "13017",
+		"comune": "QUARONA",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic803002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.IGNAZIO DA SANTHIA\\'-SANTHIA\\'",
+		"indirizzo": "PIAZZA GIOVANNI XXIII  2",
+		"cap": "13048",
+		"comune": "SANTHIA\\'",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic81300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PADRE R. BARANZANO SERRAVALLE",
+		"indirizzo": "PIAZZA I MAGGIO N. 2",
+		"cap": "13037",
+		"comune": "SERRAVALLE SESIA",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic80000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TRINO",
+		"indirizzo": "VIA VITTIME DI BOLOGNA N. 4",
+		"cap": "13039",
+		"comune": "TRINO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic80400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. LIGNANA - TRONZANO -",
+		"indirizzo": "VIA        MILANO",
+		"cap": "13049",
+		"comune": "TRONZANO VERCELLESE",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic81700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO VARALLO",
+		"indirizzo": "PIAZZA FERRARI 3",
+		"cap": "13019",
+		"comune": "VARALLO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcrh040008",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "G. PASTORE",
+		"indirizzo": "VIA        D\\'ADDA 33",
+		"cap": "13019",
+		"comune": "VARALLO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis00700d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "D\\'ADDA",
+		"indirizzo": "VIA MARIO TANCREDI ROSSI N. 4",
+		"cap": "13019",
+		"comune": "VARALLO",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis02100q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "AMEDEO AVOGADRO",
+		"indirizzo": "C.SO       PALESTRO 29",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis01900q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"FRANCIS LOMBARDI\"",
+		"indirizzo": "VIA LUIGI SERENO, 27",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis01300r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO DI ISTRUZIONE SUPERIORE CAVOUR",
+		"indirizzo": "CORSO ITALIA 42",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis012001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. GALILEO FERRARIS",
+		"indirizzo": "PIAZZA VITTORIA N. 3",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcis00100e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L. LAGRANGIA",
+		"indirizzo": "VIA  DUOMO N. 4",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic808005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"R.STAMPA\" VERCELLI",
+		"indirizzo": "VIA CAPPELLINA, 4",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic809001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"FERRARI\" VERCELLI",
+		"indirizzo": "VIA        CERRONE     17",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic810005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"FERRARIS\" VERCELLI",
+		"indirizzo": "P.ZZA CESARE BATTISTI 6",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+	,
+	{
+		"codMec": "vcic811001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"LANINO\" VERCELLI",
+		"indirizzo": "CORSO      TANARO N. 3",
+		"cap": "13100",
+		"comune": "VERCELLI",
+		"provincia": "VC"
+	}
+]

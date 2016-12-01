@@ -1,0 +1,431 @@
+[
+	{
+		"codMec": "lcic80800x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BARZANO\\'",
+		"indirizzo": "VIA LEONARDO DA VINCI, 22",
+		"cap": "23891",
+		"comune": "BARZANO\\'",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic80500c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BELLANO",
+		"indirizzo": "VIA VENTI SETTEMBRE N.4",
+		"cap": "23822",
+		"comune": "BELLANO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81000x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BOSISIO PARINI",
+		"indirizzo": "VIA A. APPIANI N.10",
+		"cap": "23842",
+		"comune": "BOSISIO PARINI",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81100q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  BRIVIO",
+		"indirizzo": "VIA COMO 83",
+		"cap": "23883",
+		"comune": "BRIVIO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis008004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"LORENZO ROTA\" DI CALOLZIOCORTE",
+		"indirizzo": "VIA LAVELLO, 17",
+		"cap": "23801",
+		"comune": "CALOLZIOCORTE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic823002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CALOLZIOCORTE",
+		"indirizzo": "VIA NULLO 6",
+		"cap": "23801",
+		"comune": "CALOLZIOCORTE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic830005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CASATENOVO",
+		"indirizzo": "VIA SAN GIACOMO 20",
+		"cap": "23880",
+		"comune": "CASATENOVO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcrc02000l",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "GRAZIELLA FUMAGALLI",
+		"indirizzo": "VIA DELLA MISERICORDIA 4",
+		"cap": "23880",
+		"comune": "CASATENOVO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic807004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. AGOSTINO DI IPPONA CASSAGO",
+		"indirizzo": "VIA SAN LUIGI GUANELLA, 3",
+		"cap": "23893",
+		"comune": "CASSAGO BRIANZA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic814007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CERNUSCO LOMBARDONE",
+		"indirizzo": "VIA SAN DIONIGI, 23",
+		"cap": "23870",
+		"comune": "CERNUSCO LOMBARDONE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic828005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CIVATE",
+		"indirizzo": "VIA ABATE G. LONGONI, 2",
+		"cap": "23862",
+		"comune": "CIVATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic806008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COMPRENSIVO STATALE",
+		"indirizzo": "VIA MUNICIPIO  54",
+		"cap": "23823",
+		"comune": "COLICO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis003001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MARCO POLO  COLICO",
+		"indirizzo": "VIA LA MADONETA, 3",
+		"cap": "23823",
+		"comune": "COLICO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic815003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DI COSTA MASNAGA",
+		"indirizzo": "VIA MARCONI 32",
+		"cap": "23845",
+		"comune": "COSTAMASNAGA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81300b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"S.GIOV. BOSCO\" CREMENO",
+		"indirizzo": "PIAZZA     CONSIGLIO           1",
+		"cap": "23814",
+		"comune": "CREMENO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcps020004",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "M.G. AGNESI",
+		"indirizzo": "VIA DEI LODOVICHI, 10",
+		"cap": "23807",
+		"comune": "MERATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis001009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FRANCESCO VIGANO  MERATE",
+		"indirizzo": "VIA DEI LODOVICHI 2",
+		"cap": "23807",
+		"comune": "MERATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic829001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MISSAGLIA",
+		"indirizzo": "VIA GARIBALDI, 109",
+		"cap": "23873",
+		"comune": "MISSAGLIA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic822006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MOLTENO",
+		"indirizzo": "PIAZZA DON BIFFI, 1",
+		"cap": "23847",
+		"comune": "MOLTENO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis007008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ALESSANDRO GREPPI MONTICELLO",
+		"indirizzo": "VIA        DEI MILLE, 27",
+		"cap": "23876",
+		"comune": "MONTICELLO BRIANZA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic82100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"M. D\\'OGGIONO\"  OGGIONO",
+		"indirizzo": "VIA VITTORIO VENETO 2",
+		"cap": "23848",
+		"comune": "OGGIONO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis002005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VITTORIO BACHELET  OGGIONO",
+		"indirizzo": "VIA        V.BACHELET, 6",
+		"cap": "23848",
+		"comune": "OGGIONO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81700p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. OLGIATE MOLGORA",
+		"indirizzo": "VIALE SOMMI PICENARDI",
+		"cap": "23887",
+		"comune": "OLGIATE MOLGORA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G.CARDUCCI\" OLGINATE",
+		"indirizzo": "VIA REDAELLI, 16/A",
+		"cap": "23854",
+		"comune": "OLGINATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic802001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GIOVANNI 23\" PREMANA",
+		"indirizzo": "VIA PAPA LUCIANI 2",
+		"cap": "23834",
+		"comune": "PREMANA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ROBBIATE",
+		"indirizzo": "VIA BRIANZA, 11/13",
+		"cap": "23899",
+		"comune": "ROBBIATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic80900q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S. LA VALLETTA BRIANZA",
+		"indirizzo": "PIAZZETTA LUIGI BRAMBILLA, 1",
+		"cap": "23888",
+		"comune": "ROVAGNATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81200g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VALMADRERA",
+		"indirizzo": "VIA FRA CRISTOFORO, 6",
+		"cap": "23868",
+		"comune": "VALMADRERA",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic82000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GALBIATE",
+		"indirizzo": "VIA UNITA\\' D\\'ITALIA,9",
+		"cap": "23851",
+		"comune": "GALBIATE",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis00600c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.   \"GIOVANNI BERTACCHI\"   LECCO",
+		"indirizzo": "VIA        XI FEBBRAIO 6",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcmm03900l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA FABRIZIO DE ANDRE\\'",
+		"indirizzo": "VIA PUCCINI 1",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic82400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.S. LECCO 2 - DON G. TICOZZI",
+		"indirizzo": "VIA MENTANA N. 48",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic82500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FALCONE E BORSELLINO LECCO 1",
+		"indirizzo": "VIA DE GASPERI, 18",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic82600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"A.STOPPANI\" LECCO 3",
+		"indirizzo": "VIA GRANDI 35",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic827009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LECCO 4",
+		"indirizzo": "VIA AMENDOLA 24",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcpc01000a",
+		"tipo": "LICEO CLASSICO",
+		"nome": "ALESSANDRO MANZONI",
+		"indirizzo": "VIA GHISLANZONI, 7",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcps01000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO E MUSICALE G.B. GRASSI",
+		"indirizzo": "LARGO MONTENERO 3",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis00900x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. ISTR.SUP. S.TEN. VASC. A. BADONI",
+		"indirizzo": "VIA RIVOLTA N. 10",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis01100x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G.PARINI",
+		"indirizzo": "VIA   BADONI 2",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis01300g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. ISTR. SUP.\"MEDARDO ROSSO\"",
+		"indirizzo": "VIA        CALATAFIMI, 5",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcis01200q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE P. A. FIOCCHI",
+		"indirizzo": "VIA   BELFIORE, 4",
+		"cap": "23900",
+		"comune": "LECCO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic80400l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. A. VOLTA MANDELLO D.  L.",
+		"indirizzo": "VIA RISORGIMENTO 33",
+		"cap": "23826",
+		"comune": "MANDELLO DEL LARIO",
+		"provincia": "LC"
+	}
+	,
+	{
+		"codMec": "lcic81800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO DI  MERATE",
+		"indirizzo": "VIA COLLEGIO MANZONI             43",
+		"cap": "23807",
+		"comune": "MERATE",
+		"provincia": "LC"
+	}
+]

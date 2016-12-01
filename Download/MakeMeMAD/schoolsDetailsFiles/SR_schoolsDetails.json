@@ -1,0 +1,711 @@
+[
+	{
+		"codMec": "sric81400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II I.C. \"O. M. CORBINO\" AUGUSTA",
+		"indirizzo": "VIA E. CORBINO 50",
+		"cap": "96011",
+		"comune": "AUGUSTA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srpc070006",
+		"tipo": "LICEO CLASSICO",
+		"nome": "MEGARA (SEZIONE SCIENTIFICA ANNESSA)",
+		"indirizzo": "VIA STRAZZULLA, 10",
+		"cap": "96011",
+		"comune": "AUGUSTA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris009004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "AUGUSTA",
+		"indirizzo": "VIA CATANIA, 83",
+		"cap": "96011",
+		"comune": "AUGUSTA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric837004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I  I.C. \"P. DI NAPOLI\" AUGUSTA",
+		"indirizzo": "VIA STRAZZULLA, 10",
+		"cap": "96011",
+		"comune": "AUGUSTA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric831005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IV I.C. \"D. COSTA\" AUGUSTA",
+		"indirizzo": "VIA GIUSEPPE DI VITTORIO 23",
+		"cap": "96011",
+		"comune": "AUGUSTA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric830009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "III I.C. \"S. TODARO\" AUGUSTA",
+		"indirizzo": "VIA  GRAMSCI SNC",
+		"cap": "96011",
+		"comune": "AUGUSTA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sree01300n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I C.D. \"E. DE AMICIS\" AVOLA",
+		"indirizzo": "VIALE LIDO, 3",
+		"cap": "96012",
+		"comune": "AVOLA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric83300r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II I.C. \"G. BIANCA\" AVOLA",
+		"indirizzo": "VIA DANIELE MANIN, 47",
+		"cap": "96012",
+		"comune": "AVOLA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric83400l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "III I.C. \"L. CAPUANA\" AVOLA",
+		"indirizzo": "VIALE SANTUCCIO S.N.",
+		"cap": "96012",
+		"comune": "AVOLA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris02300a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S  \"MAJORANA\"",
+		"indirizzo": "VIA LABRIOLA,1",
+		"cap": "96012",
+		"comune": "AVOLA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric816003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. VERGA  CANICATTINI BAGNI",
+		"indirizzo": "VIA UMBERTO, 341",
+		"cap": "96010",
+		"comune": "CANICATTINI BAGNI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric81900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CARLO V\" CARLENTINI",
+		"indirizzo": "VIA DELLO STADIO, 32",
+		"cap": "96013",
+		"comune": "CARLENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric823006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"PIRANDELLO\" CARLENTINI",
+		"indirizzo": "VIA P. NENNI, 3",
+		"cap": "96013",
+		"comune": "CARLENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric86400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"VALLE DELL\\'ANAPO\"",
+		"indirizzo": "VIA PESSINA S.N.C.",
+		"cap": "96010",
+		"comune": "FERLA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric824002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IV I.C. \"QUASIMODO\" FLORIDIA",
+		"indirizzo": "VIALE VITTORIO VENETO, 92",
+		"cap": "96014",
+		"comune": "FLORIDIA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric86200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"G. LOMBARDO RADICE\" SR",
+		"indirizzo": "VIA ARCHIA, 46",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris004001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FILADELFO INSOLERA",
+		"indirizzo": "VIA MODICA N.66",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris02200e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. LICEO ARTISTICO  \"A GAGINI\"",
+		"indirizzo": "VIA PITIA 46",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris024006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. RIZZA",
+		"indirizzo": "VIALE  A.  DIAZ 12",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris029009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "L. EINAUDI",
+		"indirizzo": "VIA        PITIA 13",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srmm07100l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "C.P.I.A.  -  SIRACUSA",
+		"indirizzo": "VIA PITIA, 46",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srpc08000r",
+		"tipo": "LICEO CLASSICO",
+		"nome": "\"T. GARGALLO\" SIRACUSA",
+		"indirizzo": "VIA LUIGI MONTI",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srpm01000p",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "8 I.I.S.S. \"M.F.QUINTILIANO\"",
+		"indirizzo": "VIA        TISIA 49",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srps14000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.S. E L. SC. UM.\"O.M.CORBINO\" SIRACUSA",
+		"indirizzo": "V.LE  REG. MARGHERITA 16",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric81700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"E. VITTORINI\" SOLARINO",
+		"indirizzo": "VIA SOLFERINO,70",
+		"cap": "96010",
+		"comune": "SOLARINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric84600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"G.M. COLUMBA\" SORTINO",
+		"indirizzo": "VIA  RISORGIMENTO, 1",
+		"cap": "96010",
+		"comune": "SORTINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric82500t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II I.C. \"A. VOLTA\" FLORIDIA",
+		"indirizzo": "VIA COLOMBO, 30",
+		"cap": "96014",
+		"comune": "FLORIDIA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srps150001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"L.DA VINCI\" FLORIDIA",
+		"indirizzo": "V.LE VITT.VENETO -C/DA SERRANTONE",
+		"cap": "96014",
+		"comune": "FLORIDIA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric82100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"E. DE AMICIS\"  FLORIDIA",
+		"indirizzo": "VIA GIUSTI, 1/3",
+		"cap": "96014",
+		"comune": "FLORIDIA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric86300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II IC D. ALIGHIERI FRANCOFONTE",
+		"indirizzo": "PIAZZA DANTE ALIGHIERI",
+		"cap": "96015",
+		"comune": "FRANCOFONTE",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric836008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"V. VENETO\" LENTINI",
+		"indirizzo": "VIA PIAVE S.N.",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric83800x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. R. DA LENTINI -LENTINI",
+		"indirizzo": "VIA FOCEA, 3/5",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris00600l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTR. SUPERIORE \"A.MONCADA\" LENTINI",
+		"indirizzo": "GAETANO TRINGALI SN",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric852006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IV I.C. \"G. MARCONI\" LENTINI",
+		"indirizzo": "VIA FEDERICO DI SVEVIA SN",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris011004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"PIER LUIGI NERVI\" LENTINI",
+		"indirizzo": "VIA R. DA LENTINI 89",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris00700c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ALAIMO\" LENTINI",
+		"indirizzo": "VIA RICCARDO DA LENTINI, 89/B",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris02800d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ELIO VITTORINI\" LENTINI",
+		"indirizzo": "VIA        RICCARDO DA LENTINI 89",
+		"cap": "96016",
+		"comune": "LENTINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric84000x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"G. E. RIZZO\"  MELILLI",
+		"indirizzo": "VIA G. MATTEOTTI, 41",
+		"cap": "96010",
+		"comune": "MELILLI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric859001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IV I.C. \"G. AURISPA\" NOTO",
+		"indirizzo": "VIA ORAZIO BACCI, 1",
+		"cap": "96017",
+		"comune": "NOTO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric85600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II I.C. \"G. MELODIA\" NOTO",
+		"indirizzo": "VIA GIORDANO BRUNO, 22",
+		"cap": "96017",
+		"comune": "NOTO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris016007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"MATTEO RAELI\"",
+		"indirizzo": "VIA   MATTEO RAELI 9",
+		"cap": "96017",
+		"comune": "NOTO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric858005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERZO  I.C. \"F. MAIORE\" -  NOTO",
+		"indirizzo": "VIA ROMA  S.N.",
+		"cap": "96017",
+		"comune": "NOTO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris01400g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MICHELANGELO BARTOLO",
+		"indirizzo": "VIALE ALDO MORO S.N.",
+		"cap": "96018",
+		"comune": "PACHINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric85500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IV I.C. \"V. BRANCATI\" PACHINO",
+		"indirizzo": "VIA TAFURI, S.N.",
+		"cap": "96018",
+		"comune": "PACHINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric853002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"SILVIO PELLICO\" PACHINO",
+		"indirizzo": "VIA CIRINNA\\', 4",
+		"cap": "96018",
+		"comune": "PACHINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric84100q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "III I.C. \"G. VERGA\" PACHINO",
+		"indirizzo": "VIALE ALDO MORO,151",
+		"cap": "96018",
+		"comune": "PACHINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris02100p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PAOLO CALLERI",
+		"indirizzo": "VIALE FORTUNA SNC",
+		"cap": "96018",
+		"comune": "PACHINO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric85400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. V. MESSINA PALAZZOLO A.",
+		"indirizzo": "PIAZZA UMBERTO I, 11",
+		"cap": "96010",
+		"comune": "PALAZZOLO ACREIDE",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris003005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTR.SUPERIORE PALAZZOLO ACREIDE",
+		"indirizzo": "VIA A. UCCELLO",
+		"cap": "96010",
+		"comune": "PALAZZOLO ACREIDE",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric845003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I I.C. \"D. DOLCI\" PRIOLO G.",
+		"indirizzo": "LARGO SCUOLE",
+		"cap": "96010",
+		"comune": "PRIOLO GARGALLO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric844007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II  I.C. \"A. MANZONI\" PRIOLO G.",
+		"indirizzo": "VIA   A. DE GASPERI, 17",
+		"cap": "96010",
+		"comune": "PRIOLO GARGALLO",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric84800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. S. ALESSANDRA ROSOLINI",
+		"indirizzo": "VIA S. ALESSANDRA",
+		"cap": "96019",
+		"comune": "ROSOLINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric85000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. E. DE CILLIS ROSOLINI",
+		"indirizzo": "VIA RAPISARDI, 25",
+		"cap": "96019",
+		"comune": "ROSOLINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric85100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"F. D\\'AMICO\" ROSOLINI",
+		"indirizzo": "VIA S. PITINO S.N.",
+		"cap": "96019",
+		"comune": "ROSOLINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sris017003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ARCHIMEDE\"  ROSOLINI",
+		"indirizzo": "VIA SIPIONE 147",
+		"cap": "96019",
+		"comune": "ROSOLINI",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric801009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "II I.C. FALCONE-BORSELLINO SR",
+		"indirizzo": "VIA DELLA MADONNA, 51",
+		"cap": "96010",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srtf01000q",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "E.FERMI",
+		"indirizzo": "VIA TORINO N: 137",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric80500l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"N. MARTOGLIO\" SIRACUSA",
+		"indirizzo": "VIA MONS. CARACCIOLO, 2",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric80600c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VII I.C. G.A. COSTANZO SIRACUSA",
+		"indirizzo": "VIALE SANTA PANAGIA, 162",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric807008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "XI I.C. \"ARCHIA\" SIRACUSA",
+		"indirizzo": "VIA MONTE TOSA, 1",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric808004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "XII I.C. \"V. BRANCATI\" SIRACUSA",
+		"indirizzo": "PIAZZA EURIALO, 16",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric80900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "XV  I.C.  P. ORSI  SIRACUSA",
+		"indirizzo": "PIAZZA DELLA REPUBBLICA, 15",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric810004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "XVI I.C. \"S. CHINDEMI\" SIRACUSA",
+		"indirizzo": "VIA BASILICATA, 1",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric81100x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "XIV I.C. \"K. WOJTYLA\" SIRACUSA",
+		"indirizzo": "VIA TUCIDIDE, 5",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric81200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "X I.C. \" E. GIARACA\\' \" SIRACUSA",
+		"indirizzo": "VIA GELA, 22",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric81300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "XIII I.C.\"ARCHIMEDE\" SIRACUSA",
+		"indirizzo": "VIA CADUTI DI NASSIRIYA, 3",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric802005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IV I.C. \"G. VERGA\" SIRACUSA",
+		"indirizzo": "VIA MADRE TERESA DI CALCUTTA, 10",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "srrh040007",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "FEDERICO II DI SVEVIA",
+		"indirizzo": "VIA POLIBIO N. 59",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric828009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "III I.C. \"S. LUCIA\" SIRACUSA",
+		"indirizzo": "VIALE  TEOCRITO,  63",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric829005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VIII I.C. E. VITTORINI SIRACUSA",
+		"indirizzo": "VIA REGIA CORTE, 15",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+	,
+	{
+		"codMec": "sric861001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"S. RAITI\"   SIRACUSA",
+		"indirizzo": "VIA PORDENONE, 2",
+		"cap": "96100",
+		"comune": "SIRACUSA",
+		"provincia": "SR"
+	}
+]

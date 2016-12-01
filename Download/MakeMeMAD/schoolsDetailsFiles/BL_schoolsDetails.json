@@ -1,0 +1,391 @@
+[
+	{
+		"codMec": "blic82400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PIEVE DI CADORE",
+		"indirizzo": "P.LE MARTIRI DELLA LIBERTA\\', 3",
+		"cap": "32044",
+		"comune": "PIEVE DI CADORE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis00100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ENRICO FERMI",
+		"indirizzo": "VIA VALCALDA 1",
+		"cap": "32044",
+		"comune": "PIEVE DI CADORE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic823004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PONTE NELLE ALPI",
+		"indirizzo": "VIA CANEVOI, 41",
+		"cap": "32014",
+		"comune": "PONTE NELLE ALPI",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic822008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PUOS D\\'ALPAGO",
+		"indirizzo": "VIA AL LAGO, 18",
+		"cap": "32015",
+		"comune": "PUOS D\\'ALPAGO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic81300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC QUERO VAS",
+		"indirizzo": "VIA NAZIONALE, 35/B",
+		"cap": "32038",
+		"comune": "QUERO VAS",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic81900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  SANTA GIUSTINA \" G. RODARI\"",
+		"indirizzo": "VIA CAL DE FORMIGA, 16",
+		"cap": "32035",
+		"comune": "SANTA GIUSTINA",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic82500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC S. STEFANO DI CADORE",
+		"indirizzo": "P.LE VOLONTARI DELLA LIBERTA\\', 5",
+		"cap": "32045",
+		"comune": "SANTO STEFANO DI CADORE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic83200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  SEDICO",
+		"indirizzo": "VIA STADIO 17",
+		"cap": "32036",
+		"comune": "SEDICO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic816001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TRICHIANA",
+		"indirizzo": "VIA L. BERNARD, 40",
+		"cap": "32028",
+		"comune": "TRICHIANA",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic828007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC AGORDO \"A. PERTILE\"",
+		"indirizzo": "VIALE SOMMARIVA, 31",
+		"cap": "32021",
+		"comune": "AGORDO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis00600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE FOLLADOR",
+		"indirizzo": "VIA INSURREZIONE, 19/A",
+		"cap": "32021",
+		"comune": "AGORDO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic82700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ALLEGHE",
+		"indirizzo": "VIA CARDUCCI, 6",
+		"cap": "32023",
+		"comune": "ALLEGHE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic810002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC AURONZO DI CADORE",
+		"indirizzo": "PIAZZA VIGO, 2",
+		"cap": "32041",
+		"comune": "AURONZO DI CADORE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis01200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"T. CATULLO\"",
+		"indirizzo": "VIA GARIBALDI, 10",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis011002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS \"SEGATO \"",
+		"indirizzo": "VIA J. TASSO,11",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis00700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"GALILEI - TIZIANO\"",
+		"indirizzo": "VIA GREGORIO XVI, 33",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blmm08400l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA DI BELLUNO",
+		"indirizzo": "VIA BRUSTOLON 2",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "bltd020002",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC \"P. F. CALVI\"",
+		"indirizzo": "VIA CONCETTO MARCHESI 73",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic829003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC 1 BELLUNO",
+		"indirizzo": "VIA CAVOUR, 2",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blpm01000l",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IM GIUSTINA RENIER",
+		"indirizzo": "VIA C.MARCHESI, 71",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic831003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  2 BELLUNO",
+		"indirizzo": "VIA MUR DI CADOLA, 12",
+		"cap": "32100",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic830007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  3 BELLUNO",
+		"indirizzo": "VIA  S. CIPRIANO, 17",
+		"cap": "32024",
+		"comune": "BELLUNO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic82600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CENCENIGHE AGORDINO",
+		"indirizzo": "VIA A. TISSI, 19",
+		"cap": "32020",
+		"comune": "CENCENIGHE AGORDINO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic807006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  CESIOMAGGIORE \"D.ALIGHIERI\"",
+		"indirizzo": "VIA GREI, 7",
+		"cap": "32030",
+		"comune": "CESIOMAGGIORE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis003003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO OMNICOMPRENSIVO \"VALBOITE\"",
+		"indirizzo": "VIA    DEI CAMPI N. 2",
+		"cap": "32043",
+		"comune": "CORTINA D\\'AMPEZZO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic81800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CORTINA D\\'AMPEZZO",
+		"indirizzo": "VIA DEL PARCO, 13",
+		"cap": "32043",
+		"comune": "CORTINA D\\'AMPEZZO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic808002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DOMEGGE",
+		"indirizzo": "VIA GARIBALDI, 7",
+		"cap": "32040",
+		"comune": "DOMEGGE DI CADORE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis00400v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "POLO DI FELTRE",
+		"indirizzo": "VIALE      MAZZINI 12",
+		"cap": "32032",
+		"comune": "FELTRE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis009002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"ANTONIO DELLA LUCIA\"",
+		"indirizzo": "VIA VELLAI,41",
+		"cap": "32032",
+		"comune": "FELTRE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blps020006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"G. DAL PIAZ\"",
+		"indirizzo": "VIA        BOSCARIZ, 2",
+		"cap": "32032",
+		"comune": "FELTRE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blis008006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"L. NEGRELLI - E. FORCELLINI\"",
+		"indirizzo": "VIA COLOMBO, 11",
+		"cap": "32032",
+		"comune": "FELTRE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic83300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  FELTRE",
+		"indirizzo": "VIA        A. FUSINATO         14",
+		"cap": "32032",
+		"comune": "FELTRE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic82000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FONZASO",
+		"indirizzo": "VIA DANTE, 11",
+		"cap": "32030",
+		"comune": "FONZASO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic81700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  FORNO DI ZOLDO",
+		"indirizzo": "PIAZZA DANTE ALIGHIERI, 1",
+		"cap": "32012",
+		"comune": "FORNO DI ZOLDO",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic815005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LAMON \" MONS. F. FIORENZA\"",
+		"indirizzo": "VIA FERD, 54",
+		"cap": "32033",
+		"comune": "LAMON",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic82100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC LONGARONE",
+		"indirizzo": "PIAZZA MAZZOLA\\', 1",
+		"cap": "32013",
+		"comune": "LONGARONE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blrh02000x",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "\"D. DOLOMIEU\"",
+		"indirizzo": "VIA RIVALTA, 50",
+		"cap": "32013",
+		"comune": "LONGARONE",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic80900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  MEL \"MARCO DA MELO\"",
+		"indirizzo": "VIA S. ANDREA, 4",
+		"cap": "32026",
+		"comune": "MEL",
+		"provincia": "BL"
+	}
+	,
+	{
+		"codMec": "blic814009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  PEDAVENA \"F. BERTON\"",
+		"indirizzo": "VIA UGO FOSCOLO, 5",
+		"cap": "32034",
+		"comune": "PEDAVENA",
+		"provincia": "BL"
+	}
+]

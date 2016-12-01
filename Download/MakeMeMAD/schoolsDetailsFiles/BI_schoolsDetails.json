@@ -1,0 +1,231 @@
+[
+	{
+		"codMec": "biic808004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MONGRANDO",
+		"indirizzo": "VIA QUINTINO SELLA 4",
+		"cap": "13888",
+		"comune": "MONGRANDO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic80900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC OCCHIEPPO \"E. SCHIAPARELLI\"",
+		"indirizzo": "VIA ROMA 7",
+		"cap": "13897",
+		"comune": "OCCHIEPPO INFERIORE",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic802005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC    PRAY",
+		"indirizzo": "VIA B. SELLA 74",
+		"cap": "13867",
+		"comune": "PRAY",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic80600c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC\"C.PAVESE\"CANDELO-SANDIGLIANO",
+		"indirizzo": "VIA CASALE, 9",
+		"cap": "13876",
+		"comune": "SANDIGLIANO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic80400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC TRIVERO",
+		"indirizzo": "FRAZIONE RONCO 4/A",
+		"cap": "13835",
+		"comune": "TRIVERO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic81700v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  VALDENGO",
+		"indirizzo": "PIAZZA A. RIVETTI 4/A",
+		"cap": "13855",
+		"comune": "VALDENGO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic80500l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC VALLE MOSSO-PETTINENGO",
+		"indirizzo": "VIA SCUOLE, 8",
+		"cap": "13825",
+		"comune": "VALLE MOSSO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic81800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  VIGLIANO BIELLESE",
+		"indirizzo": "VIA DANTE ALIGHIERI, 6",
+		"cap": "13856",
+		"comune": "VIGLIANO BIELLESE",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic80000d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ANDORNO MICCA",
+		"indirizzo": "PIAZZA SALVO D\\'ACQUISTO, 30",
+		"cap": "13811",
+		"comune": "ANDORNO MICCA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic81400b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  BIELLA II",
+		"indirizzo": "VIA DE AMICIS 7",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "bips01000n",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "A. AVOGADRO - LICEO SCIENTIFICO",
+		"indirizzo": "VIA  GALIMBERTI 5",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "bimm02200b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA BIELLA - VERCELLI",
+		"indirizzo": "VIA MAESTRI DEL COMMERCIO, 8",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biis00700c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. GAE AULENTI",
+		"indirizzo": "VIALE MACALLE\\' N. 54",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biis00600l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.\" EUGENIO BONA\"",
+		"indirizzo": "VIA GRAMSCI 22",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biis00100d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G. Q. SELLA",
+		"indirizzo": "VIA        ADDIS ABEBA 20",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic815007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"SAN FRANCESCO D\\'ASSISI\"",
+		"indirizzo": "PIAZZA MARTIRI LIBERTA\\' 12",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "bitf01000q",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "Q. SELLA - ITI",
+		"indirizzo": "VIA FRATELLI ROSSELLI 2",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic81300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC BIELLA III",
+		"indirizzo": "VIA   ADDIS ABEBA     37",
+		"cap": "13900",
+		"comune": "BIELLA",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic81200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC FRATELLI VIANO DA LESSONA",
+		"indirizzo": "VIALE CARLO VERZONE, 25",
+		"cap": "13862",
+		"comune": "BRUSNENGO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic801009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CAVAGLIA\\'",
+		"indirizzo": "VIA G. PELLA",
+		"cap": "13881",
+		"comune": "CAVAGLIA\\'",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biis004001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "DEL COSSATESE E VALLE STRONA",
+		"indirizzo": "VIA MARTIRI DELLA LIBERTA\\'389",
+		"cap": "13836",
+		"comune": "COSSATO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic816003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. COSSATO",
+		"indirizzo": "PIAZZA ANGIONO N. 24",
+		"cap": "13836",
+		"comune": "COSSATO",
+		"provincia": "BI"
+	}
+	,
+	{
+		"codMec": "biic807008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC GAGLIANICO",
+		"indirizzo": "PIAZZA AVIGNONE 1",
+		"cap": "13894",
+		"comune": "GAGLIANICO",
+		"provincia": "BI"
+	}
+]

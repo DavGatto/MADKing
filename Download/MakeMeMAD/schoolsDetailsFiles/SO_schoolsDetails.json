@@ -1,0 +1,361 @@
+[
+	{
+		"codMec": "soic815004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI   ARDENNO",
+		"indirizzo": "VIA LIBERTA\\', N. 2",
+		"cap": "23011",
+		"comune": "ARDENNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic801006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"G.FUMASONI\" BERBENNO DI V.",
+		"indirizzo": "VIA C. VALORSA 70",
+		"cap": "23010",
+		"comune": "BERBENNO DI VALTELLINA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic822007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. MARTINO ANZI - BORMIO",
+		"indirizzo": "PIAZZA V^ ALPINI,  5",
+		"cap": "23032",
+		"comune": "BORMIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sois002006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. ALBERTI",
+		"indirizzo": "VIA        MONTE CONFINALE, 10",
+		"cap": "23032",
+		"comune": "BORMIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic806009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GARIBALDI   DI CHIAVENNA",
+		"indirizzo": "UGO CERLETTI      N. 8",
+		"cap": "23022",
+		"comune": "CHIAVENNA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sorh040004",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "ISTITUTO PROFESSIONALE CROTTO CAURGA",
+		"indirizzo": "VIA        MOLINANCA 57",
+		"cap": "23022",
+		"comune": "CHIAVENNA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sois00600d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. LEONARDO DA VINCI",
+		"indirizzo": "VIA BOTTONERA, 21",
+		"cap": "23022",
+		"comune": "CHIAVENNA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic80500d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BERTACCHI - CHIAVENNA",
+		"indirizzo": "PIAZZA     DON PIETRO BORMETTI 3",
+		"cap": "23022",
+		"comune": "CHIAVENNA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic802002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI  CHIESA VALMALENCO",
+		"indirizzo": "VIA ROMA, 116",
+		"cap": "23023",
+		"comune": "CHIESA IN VALMALENCO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81100r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI COSIO VALTELLINO",
+		"indirizzo": "VIA P. L. NERVI      N. 1",
+		"cap": "23013",
+		"comune": "COSIO VALTELLINO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. DI DELEBIO",
+		"indirizzo": "VIA DON G.BOSCO, N. 5",
+		"cap": "23014",
+		"comune": "DELEBIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic808001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. VENOSTA GROSIO",
+		"indirizzo": "PIAZZALE RINALDI N. 1",
+		"cap": "23033",
+		"comune": "GROSIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic807005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI GROSOTTO",
+		"indirizzo": "VIA  ROMA  N. 4",
+		"cap": "23034",
+		"comune": "GROSOTTO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic80300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  DI LIVIGNO",
+		"indirizzo": "PLAZAL     DALI SCHOLA         4",
+		"cap": "23030",
+		"comune": "LIVIGNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "somm03300p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 SONDRIO",
+		"indirizzo": "PIAZZA S. ANTONIO 9",
+		"cap": "23017",
+		"comune": "MORBEGNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic823003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. 2 \"DAMIANI\" DI MORBEGNO",
+		"indirizzo": "VIA PRATI GRASSI 76",
+		"cap": "23017",
+		"comune": "MORBEGNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81700q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. 1 \"SPINI VANONI\" MORBEGNO",
+		"indirizzo": "VIALE  AMBROSETTI  N.34",
+		"cap": "23017",
+		"comune": "MORBEGNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sois01300l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS SARACENO - ROMEGIALLI",
+		"indirizzo": "VIA PER SAN MARCO, 3",
+		"cap": "23017",
+		"comune": "MORBEGNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sops050001",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO  P.NERVI - G.FERRARI",
+		"indirizzo": "PIAZZA S. ANTONIO, 9",
+		"cap": "23017",
+		"comune": "MORBEGNO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI NOVATE MEZZOLA",
+		"indirizzo": "VIA LIGONCIO, 184",
+		"cap": "23025",
+		"comune": "NOVATE MEZZOLA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic80400n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PONTE IN VALTELLINA",
+		"indirizzo": "P.ZZA SENATORE L. DELLA BRIOTTA  3",
+		"cap": "23026",
+		"comune": "PONTE IN VALTELLINA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic810001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DI  SONDALO",
+		"indirizzo": "VIA        G.LEOPARDI          N.19",
+		"cap": "23035",
+		"comune": "SONDALO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic82100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SONDRIO - \"PAESI OROBICI\"",
+		"indirizzo": "VIA        D. GIANOLI  16",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic82000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SONDRIO - \"PAESI RETICI\"",
+		"indirizzo": "VIA LUCCHINETTI",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81900b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SONDRIO - \"CENTRO\"",
+		"indirizzo": "VIA        COLOMBARO           N.8",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sotf01000l",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI  ENEA MATTEI",
+		"indirizzo": "VIA TIRANO, 53",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sovc01000p",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "G. PIAZZI",
+		"indirizzo": "SALITA     SCHENARDI           6",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sotd070002",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ISTITUTO TECNICO A.DE SIMONI-M.QUADRIO",
+		"indirizzo": "VIA TONALE N. 18",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sorc02000n",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "ISTITUTO PROFESSIONALE  BESTA-FOSSATI",
+		"indirizzo": "VIA TONALE 22",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sops01000e",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  CARLO DONEGANI",
+		"indirizzo": "VIA        CARLO DONEGANI, N.3",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sopc020002",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO G. PIAZZI - C. LENA PERPENTI",
+		"indirizzo": "VIA        TONALE",
+		"cap": "23100",
+		"comune": "SONDRIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic814008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"GAVAZZENI \" DI  TALAMONA",
+		"indirizzo": "VIA       COMBATTENTI E REDUCI, 70",
+		"cap": "23018",
+		"comune": "TALAMONA",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic80900r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. DI TEGLIO",
+		"indirizzo": "FRAZ. TRESENDA, VIA VALGELLA, N.75",
+		"cap": "23030",
+		"comune": "TEGLIO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. DI TIRANO",
+		"indirizzo": "VIA        PEDROTTI            17",
+		"cap": "23037",
+		"comune": "TIRANO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "sois008005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS BALILLA PINCHETTI",
+		"indirizzo": "VIA MONTE PADRIO, 12",
+		"cap": "23037",
+		"comune": "TIRANO",
+		"provincia": "SO"
+	}
+	,
+	{
+		"codMec": "soic81200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. DI TRAONA",
+		"indirizzo": "VIA        ALDO MORO           N. 6",
+		"cap": "23019",
+		"comune": "TRAONA",
+		"provincia": "SO"
+	}
+]

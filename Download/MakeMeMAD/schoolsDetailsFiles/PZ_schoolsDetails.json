@@ -1,0 +1,851 @@
+[
+	{
+		"codMec": "pzic835006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALBANO DI LUCANIA",
+		"indirizzo": "PIAZZA SALVO D\\'ACQUISTO",
+		"cap": "85010",
+		"comune": "ALBANO DI LUCANIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic85800v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO ATELLA",
+		"indirizzo": "VIA PAPA GIOVANNI XXIII N. 148",
+		"cap": "85020",
+		"comune": "ATELLA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic871009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" FEDERICO II DI SVEVIA\"",
+		"indirizzo": "VIA G. LEOPARDI, 5",
+		"cap": "85020",
+		"comune": "AVIGLIANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic87000d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"AVIGLIANO CENTRO\"",
+		"indirizzo": "VIA A. MILANO SNC",
+		"cap": "85021",
+		"comune": "AVIGLIANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic82400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"M. CARLUCCI\" BARAGIANO",
+		"indirizzo": "VIA GARIBALDI N. 63",
+		"cap": "85050",
+		"comune": "BARAGIANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic822004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GIOVANNI XXIII\" BARILE",
+		"indirizzo": "VIA NAZIONALE N. 22",
+		"cap": "85022",
+		"comune": "BARILE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic814005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BELLA",
+		"indirizzo": "VIA SOTTOTENENTE MATONE",
+		"cap": "85051",
+		"comune": "BELLA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic872005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. BRIENZA",
+		"indirizzo": "CORSO UMBERTO I",
+		"cap": "85050",
+		"comune": "BRIENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic83100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.OMNICOMPREN.CORLETO PERTICARA",
+		"indirizzo": "VIA TRENTO,37",
+		"cap": "85012",
+		"comune": "CORLETO PERTICARA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic878004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON BOSCO\" FRANCAVILLA",
+		"indirizzo": "VIA  M.COSENTINO, 190",
+		"cap": "85034",
+		"comune": "FRANCAVILLA IN SINNI",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic869009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GENZANO DI LUCANIA",
+		"indirizzo": "VIA NINO BIXIO 1",
+		"cap": "85013",
+		"comune": "GENZANO DI LUCANIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis029003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "E. MAIORANA",
+		"indirizzo": "VIA PENNELLA",
+		"cap": "85013",
+		"comune": "GENZANO DI LUCANIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pztd060008",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"V. D\\'ALESSANDRO\" LAGONEGRO",
+		"indirizzo": "C/DA  VERNETA",
+		"cap": "85042",
+		"comune": "LAGONEGRO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic85200x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. LAGONEGRO",
+		"indirizzo": "PIAZZA REPUBBLICA S.N.C",
+		"cap": "85042",
+		"comune": "LAGONEGRO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis001007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO D\\'ISTRUZIONE SUP.\"F. DE SARLO\"",
+		"indirizzo": "VIA S. ANTUONO  ,  192",
+		"cap": "85042",
+		"comune": "LAGONEGRO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic87600c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"B. CROCE\" LATRONICO",
+		"indirizzo": "VIA  V.EMANUELE II",
+		"cap": "85043",
+		"comune": "LATRONICO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic821008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"ALFIERI\" LAURENZANA",
+		"indirizzo": "VIA PRATO",
+		"cap": "85014",
+		"comune": "LAURENZANA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic848008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"LENTINI\" LAURIA",
+		"indirizzo": "VIA  ROMA N. 102",
+		"cap": "85044",
+		"comune": "LAURIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis00600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"N. MIRAGLIA\"",
+		"indirizzo": "VIA CERSE DELLO SPEZIALE",
+		"cap": "85045",
+		"comune": "LAURIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis01300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "RUGGERO DI LAURIA",
+		"indirizzo": "TRAVERSA AMMIRAGLIO RUGGERO, S.N.C.",
+		"cap": "85044",
+		"comune": "LAURIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic86800d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GIOVANNI XXIII\" LAURIA",
+		"indirizzo": "PIAZZA DEL POPOLO",
+		"cap": "85044",
+		"comune": "LAURIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis01100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"G. SOLIMENE\"",
+		"indirizzo": "VIA  ALDO MORO N. 1",
+		"cap": "85024",
+		"comune": "LAVELLO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic893006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LAVELLO 2",
+		"indirizzo": "VIA LOMBARDIA, 4",
+		"cap": "85024",
+		"comune": "LAVELLO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic89200a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LAVELLO 1 VILLAREALE",
+		"indirizzo": "PIAZZA  MATTEOTTI, 13/1",
+		"cap": "85024",
+		"comune": "LAVELLO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis016001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTRUZIONE SUPERIORE \"GIOVANNI PAOLO II\"",
+		"indirizzo": "VIA SAN FRANCESCO 16",
+		"cap": "85046",
+		"comune": "MARATEA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic84000n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CASIMIRO GENNARI\" MARATEA",
+		"indirizzo": "PIAZZA EUROPA N.1",
+		"cap": "85046",
+		"comune": "MARATEA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis01900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"G. PEANO\"",
+		"indirizzo": "C/DA FONTANELLE",
+		"cap": "85052",
+		"comune": "MARSICO NUOVO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic83300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"B. CROCE\" MARSICO NUOVO",
+		"indirizzo": "VIA CAMPITELLI, 2",
+		"cap": "85052",
+		"comune": "MARSICO NUOVO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic82600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.OMNICOMPRENSIVO MARSICOVETERE",
+		"indirizzo": "VIA PROVINCIALE ,183",
+		"cap": "85050",
+		"comune": "MARSICO VETERE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic84100d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"BERARDI - NITTI \" MELFI",
+		"indirizzo": "P.ZZA IV NOVEMBRE N. 1",
+		"cap": "85025",
+		"comune": "MELFI",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic842009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"FERRARA-MAROTTOLI\" MELFI",
+		"indirizzo": "VIA GALILEO GALILEI, S.N.C.",
+		"cap": "85025",
+		"comune": "MELFI",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis028007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \" G. GASPARRINI \"",
+		"indirizzo": "VIA L. DA VINCI SNC",
+		"cap": "85025",
+		"comune": "MELFI",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis007006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"TEN. R. RIGHETTI\"",
+		"indirizzo": "VIA  G. GALILEI 11",
+		"cap": "85025",
+		"comune": "MELFI",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis02700b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"FEDERICO II DI SVEVIA\"",
+		"indirizzo": "VIA  VERDI N. 1",
+		"cap": "85025",
+		"comune": "MELFI",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic85500b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"RACIOPPI\" MOLITERNO",
+		"indirizzo": "VIALE D.GALANTE N. 21",
+		"cap": "85047",
+		"comune": "MOLITERNO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis031003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"F. PETRUCCELLI\"",
+		"indirizzo": "VIA P. DARAGO, 1",
+		"cap": "85047",
+		"comune": "MOLITERNO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic864006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"J. STELLA\" MURO LUCANO",
+		"indirizzo": "VIA APPIA, 50",
+		"cap": "85054",
+		"comune": "MURO LUCANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis00300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS \"E. FERMI\"",
+		"indirizzo": "C/DA CAPODIGIANO",
+		"cap": "85054",
+		"comune": "MURO LUCANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic82000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"F.GIANNONE\" OPPIDO LUCANO",
+		"indirizzo": "PIAZZA S. D\\'ACQUISTO N.5",
+		"cap": "85015",
+		"comune": "OPPIDO LUCANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis02600g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \" C. D\\'ERRICO \"",
+		"indirizzo": "VIALE G. PALATUCCI",
+		"cap": "85026",
+		"comune": "PALAZZO SAN GERVASIO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic857003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"S.G. BOSCO\" PALAZZO S. G.",
+		"indirizzo": "VIALE EUROPA, 38",
+		"cap": "85026",
+		"comune": "PALAZZO SAN GERVASIO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic86200e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PICERNO",
+		"indirizzo": "VIA ALDO MORO S.N.C",
+		"cap": "85055",
+		"comune": "PICERNO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic82900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIETRAGALLA",
+		"indirizzo": "VIA S. DEMETRIO N. 95",
+		"cap": "85016",
+		"comune": "PIETRAGALLA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic85900p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PIGNOLA",
+		"indirizzo": "VIA C. COLOMBO N. 1",
+		"cap": "85010",
+		"comune": "PIGNOLA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic87900x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \" L. SINISGALLI \" POTENZA",
+		"indirizzo": "VIA ANZIO",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis01800l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"L. SINISGALLI\" SENISE",
+		"indirizzo": "CONTRADA ROTALUPO",
+		"cap": "85038",
+		"comune": "SENISE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic85400g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"ABATE A.RACIOPPI\" SPINOSO",
+		"indirizzo": "VIA EXTRAMURALE, SNC",
+		"cap": "85039",
+		"comune": "SPINOSO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic86300a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. TITO",
+		"indirizzo": "VIA SAN VITO N. 287",
+		"cap": "85050",
+		"comune": "TITO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic86000v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"ALBANESE\" TOLVE",
+		"indirizzo": "VIA NAZIONALE N. 1",
+		"cap": "85017",
+		"comune": "TOLVE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic827007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"L.DA VINCI\" TRAMUTOLA",
+		"indirizzo": "VIA FERRONI",
+		"cap": "85057",
+		"comune": "TRAMUTOLA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis02100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"Q. ORAZIO FLACCO\"",
+		"indirizzo": "VIA EMILIA N? 32",
+		"cap": "85029",
+		"comune": "VENOSA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis00900t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"E. BATTAGLINI\"",
+		"indirizzo": "VIA ACCADEMIA DEI RINASCENTI SNC",
+		"cap": "85029",
+		"comune": "VENOSA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic88900e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARLO GESUALDO DA VENOSA",
+		"indirizzo": "VIA APPIA, 41",
+		"cap": "85029",
+		"comune": "VENOSA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic89000p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. OMNICOMPRENSIVO VIGGIANELLO",
+		"indirizzo": "ANZOLECONTE",
+		"cap": "85040",
+		"comune": "VIGGIANELLO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic83800n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"L. DE LORENZO\" VIGGIANO",
+		"indirizzo": "CORSO MARCONI N. 91",
+		"cap": "85059",
+		"comune": "VIGGIANO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic880004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"LA VISTA\" POTENZA",
+		"indirizzo": "VIA E.TOTI,1",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic88200q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G. LEOPARDI\" POTENZA",
+		"indirizzo": "VIA CIRILLO N.20 - RIONE LUCANIA",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic88300g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" BUSCIOLANO \" POTENZA",
+		"indirizzo": "VIA SICILIA, 11",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic886003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" TORRACA-BONAVENTURA \"",
+		"indirizzo": "VIALE MARCONI 104/A",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic88800p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" DON MILANI\" POTENZA",
+		"indirizzo": "VIA TIRRENO 25",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic89600n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \" D. SAVIO \" POTENZA",
+		"indirizzo": "VIA DI GIURA - RIONE RISORGIMENTO",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis022008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"EINSTEIN - DE LORENZO\" POTENZA",
+		"indirizzo": "VIA SICILIA, 4",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis023004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"F.S. NITTI\"",
+		"indirizzo": "VIA ANZIO",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis02400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"L. DA VINCI\"",
+		"indirizzo": "VIA ANCONA, SNC",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzmm200002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "C.P.I.A. POTENZA",
+		"indirizzo": "CENTRO  DIREZIONALE - VIA DI GIURA",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzpc040004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "\"Q. ORAZIO FLACCO\" POTENZA",
+		"indirizzo": "VIA  VACCARO,36/B",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzpm01000c",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"E. GIANTURCO\" POTENZA",
+		"indirizzo": "VIA  ZARA",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzps040007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "\"G. GALILEI\" POTENZA",
+		"indirizzo": "VIA ANZIO N. 2",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzps12000v",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"PIER PAOLO PASOLINI\"",
+		"indirizzo": "VIA ANZIO SNC",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzra010001",
+		"tipo": "IST  PROF  PER L\\'AGRICOLTURA",
+		"nome": "\"G. FORTUNATO\" POTENZA",
+		"indirizzo": "VIA  F. TORRACA 13",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzrh010005",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "UMBERTO DI PASCA",
+		"indirizzo": "VIA ANZIO N 4",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzri04000c",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "IPSIA \"GIORGI\"",
+		"indirizzo": "VIA POLA",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzsd030003",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "ISTITUTO STATALE D\\'ARTE",
+		"indirizzo": "VIA ANZIO   4",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzvc01000g",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "POTENZA CONVITTO NAZ. \" S.ROSA\"",
+		"indirizzo": "VIA ANZIO N. 6",
+		"cap": "85100",
+		"comune": "POTENZA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic815001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MONS. A.CASELLE\" RAPOLLA",
+		"indirizzo": "CORSO ITALIA N. 2",
+		"cap": "85027",
+		"comune": "RAPOLLA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic894002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"GRANATA\"RIONERO IN VULTURE",
+		"indirizzo": "VIA MARIA CATENACCI RUBINO 15",
+		"cap": "85028",
+		"comune": "RIONERO IN VULTURE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic89500t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. EX CIRCOLO DIDATTICO",
+		"indirizzo": "VIA POTENZA 1",
+		"cap": "85028",
+		"comune": "RIONERO IN VULTURE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis002003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"G. FORTUNATO\"",
+		"indirizzo": "S. S. 167 VIA MONTICCHIO CAMPUS",
+		"cap": "85028",
+		"comune": "RIONERO IN VULTURE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic828003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C \"DON BOSCO\" ROTONDA",
+		"indirizzo": "VIA PIETRO NENNI",
+		"cap": "85048",
+		"comune": "ROTONDA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic83700t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SAN FELE",
+		"indirizzo": "VIA GEN. C.A. DALLA CHIESA 5",
+		"cap": "85020",
+		"comune": "SAN FELE",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzis01700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CARLO LEVI",
+		"indirizzo": "VIALE ITALIA, 34",
+		"cap": "85037",
+		"comune": "SANT\\'ARCANGELO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic89100e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.EX CIRCOLO DIDATTICO",
+		"indirizzo": "CORSO UMBERTO I 28/B",
+		"cap": "85037",
+		"comune": "SANT\\'ARCANGELO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic87400r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CASTRONUOVO\" S. ARCANGELO",
+		"indirizzo": "VIALE ITALIA, S.N.C.",
+		"cap": "85037",
+		"comune": "SANT\\'ARCANGELO",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic81700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SATRIANO DI LUCANIA",
+		"indirizzo": "VIA  G. FORTUNATO",
+		"cap": "85050",
+		"comune": "SATRIANO DI LUCANIA",
+		"provincia": "PZ"
+	}
+	,
+	{
+		"codMec": "pzic885007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"N. SOLE\" SENISE",
+		"indirizzo": "RIONE S.PIETRO",
+		"cap": "85038",
+		"comune": "SENISE",
+		"provincia": "PZ"
+	}
+]

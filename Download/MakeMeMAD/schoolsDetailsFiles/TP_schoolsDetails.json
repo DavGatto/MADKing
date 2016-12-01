@@ -1,0 +1,751 @@
+[
+	{
+		"codMec": "tptd02000x",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T.E.T. \"G.CARUSO\" ALCAMO",
+		"indirizzo": "VIA J.F. KENNEDY  2",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tppm050001",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE \"V.F.ALLMAYER\" ALCAMO",
+		"indirizzo": "VIA  PIETRO GALATI  N.39",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee01200n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIR. DID.  \"SAN GIOVANNI BOSCO\"",
+		"indirizzo": "VIA PIA OPERA PASTORE   N.67",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81200g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"P.M. ROCCA\" ALCAMO",
+		"indirizzo": "PIAZZA LIBERTA\\'  N.1",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81100q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"MARIA MONTESSORI\"",
+		"indirizzo": "VIALE ITALIA   N.9",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81000x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"N.NAVARRA\" ALCAMO",
+		"indirizzo": "VIA J.F. KENNEDY  N.1",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic83400c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"S. BAGOLINO\"  ALCAMO",
+		"indirizzo": "VIA   G. VERGA  34/D",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis00900x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S  \"GIUSEPPE FERRO\"",
+		"indirizzo": "VIA J. F. KENNEDY   N.48",
+		"cap": "91011",
+		"comune": "ALCAMO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81300b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"F.VIVONA\" CALATAFIMI",
+		"indirizzo": "CONTRADA SANTA MARIA S.N.C.",
+		"cap": "91013",
+		"comune": "CALATAFIMI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81800e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"L. PIRANDELLO - S.G.BOSCO\"",
+		"indirizzo": "PIAZZA  ADDOLORATA  N.1",
+		"cap": "91021",
+		"comune": "CAMPOBELLO DI MAZARA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis008004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"P.MATTARELLA-D.DOLCI\" C/MARE GOLFO",
+		"indirizzo": "VIA FLEMING N.19",
+		"cap": "91014",
+		"comune": "CASTELLAMMARE DEL GOLFO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic814007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"G. PITRE - A. MANZONI\"",
+		"indirizzo": "VIA  KENNEDY   N.37",
+		"cap": "91014",
+		"comune": "CASTELLAMMARE DEL GOLFO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81900a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G.PASCOLI - L.PIRANDELLO\"",
+		"indirizzo": "VIALE  L. DA VINCI  N.11",
+		"cap": "91014",
+		"comune": "CASTELLAMMARE DEL GOLFO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee02700b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIR. DID. II CIRC. \"R.SETTIMO\"",
+		"indirizzo": "VIA CADORNA   N.14",
+		"cap": "91022",
+		"comune": "CASTELVETRANO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic84100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"L.RADICE - PAPPALARDO\"",
+		"indirizzo": "PIAZZA MARTIRI D\\'UNGHERIA  S.N.C.",
+		"cap": "91022",
+		"comune": "CASTELVETRANO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis02100e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. ISTRUZ. TEC. PROF.LE\"G.B.FERRIGNO\"",
+		"indirizzo": "VIA  G. GENTILE  S.N.C.",
+		"cap": "91022",
+		"comune": "CASTELVETRANO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic815003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"CAPUANA-PARDO\" C/VETRANO",
+		"indirizzo": "VIA MARIANO SANTANGELO S.N.",
+		"cap": "91022",
+		"comune": "CASTELVETRANO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tprh040003",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.E.O.A. \"V. TITONE\"",
+		"indirizzo": "VIALE DEI TEMPLI 115",
+		"cap": "91022",
+		"comune": "CASTELVETRANO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis032001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"CIPOLLA-PANTALEO-GENTILE\"",
+		"indirizzo": "PIAZZALE PLACIDO RIZZOTTO S.N.\"",
+		"cap": "91022",
+		"comune": "CASTELVETRANO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic80900q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"LOMBARDO RADICE  E.FERMI\"",
+		"indirizzo": "VIA U. FOSCOLO  S.N.C.",
+		"cap": "91015",
+		"comune": "CUSTONACI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee03500a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I? CIRCOLO  \"G. PASCOLI\"- ERICE",
+		"indirizzo": "VIA CASERTA N.54",
+		"cap": "91100",
+		"comune": "ERICE",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic835008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"G.PAGOTO\" ERICE",
+		"indirizzo": "VIA  TIVOLI   N.37",
+		"cap": "91100",
+		"comune": "ERICE",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tprh02000t",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S.E.O.A. \" I. E V. FLORIO\"   ERICE",
+		"indirizzo": "VIA BARRESI  N.26",
+		"cap": "91016",
+		"comune": "ERICE",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis02200a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.  \"SCIASCIA E BUFALINO\"  ERICE",
+		"indirizzo": "VIA  CESARO\\'  N.36",
+		"cap": "91016",
+		"comune": "ERICE",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpmm044004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S \"A.DE STEFANO\" ERICE C.S.",
+		"indirizzo": "VIA     FRATELLI AIUTO   16",
+		"cap": "91016",
+		"comune": "ERICE",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic831001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  \"G. MAZZINI\"  ERICE",
+		"indirizzo": "VIA     CESARO\\', 19",
+		"cap": "91016",
+		"comune": "ERICE",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic80500c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"A. RALLO\" EX B.MINEO",
+		"indirizzo": "VIA LIBERTA\\'   N.2",
+		"cap": "91023",
+		"comune": "FAVIGNANA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis01200q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"A. DAMIANI\" MARSALA",
+		"indirizzo": "VIA  TRAPANI 218",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic83900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.GARIBALDI - V.PIPITONE",
+		"indirizzo": "VIA RUBINO   N.15",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpvc020008",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "AUDIOFONOLESI - MARSALA",
+		"indirizzo": "VIA GROTTA DEL TORO, 21",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic82100a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"STURZO-SAPPUSI\"",
+		"indirizzo": "VIA  TRAPANI, 230",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic82000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S. PELLEGRINO\"",
+		"indirizzo": "C/DA PAOLINI",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81700p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.   \"M.NUCCIO\"",
+		"indirizzo": "VIA  SALEMI  N.18",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic81600v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C \"ALCIDE DE GASPERI\" MARSALA",
+		"indirizzo": "VIA  FORNARA  N.1",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee05000c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "VI CIRCOLO - \"SIRTORI\"  MARSALA",
+		"indirizzo": "VIA SIRTORI   N.20",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee049008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "V?  CIRCOLO \"STRASATTI NUOVO\"",
+		"indirizzo": "VIA RE  S.N.C.",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee04600r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "II CIRCOLO - CAVOUR - MARSALA",
+		"indirizzo": "VIA CAVOUR 6",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic83200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. \"GIOVANNI PAOLO II\"",
+		"indirizzo": "VIA TRAPANI   N.514",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tptd03000e",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "\"G. GARIBALDI\" MARSALA",
+		"indirizzo": "VIA  TRAPANI, 306",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpps10000q",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LIC. SCIENTIFICO \"P.RUGGIERI\" MARSALA",
+		"indirizzo": "VIA  GIOVANNI FALCONE  N.14",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tppm03000q",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE \" PASCASINO\" MARSALA",
+		"indirizzo": "VIA VACCARI,5",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpmm05400p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SC. MEDIA \"G. MAZZINI\"  MARSALA",
+		"indirizzo": "PIAZZA   FRANCESCO PIZZO   N.10",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis02700d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. S. \"G. XXIII - COSENTINO\"",
+		"indirizzo": "VIA  ELIODORO LOMBARDI 18",
+		"cap": "91025",
+		"comune": "MARSALA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee05900v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "IV CIRCOLO DIDATTICO \"G.QUINCI\"",
+		"indirizzo": "VIA G. BELLI  N.1",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpmm06700r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S.\"G.GRASSA\"  MAZARA VALLO",
+		"indirizzo": "VIA LUIGI  VACCARA   N. 25",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee058003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "III CIRCOLO B.BONSIGNORE MAZARA",
+		"indirizzo": "VIA E. AMARI  N.1",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic822006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"L.PIRANDELLO\"-MAZARA DEL V.",
+		"indirizzo": "VIA SALEMI, 179",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis01400b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.  \"R. D\\'ALTAVILLA - V. ACCARDI\"",
+		"indirizzo": "C/DA AFFACCIATA - P.ZA SANDRO PERTINI",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic83800q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  G.BOSCARINO-A.CASTIGLIONE",
+		"indirizzo": "VIA SANTA GEMMA  S.N.",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee05600b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I CIRC. DID.  \"D.AJELLO\"",
+		"indirizzo": "VIA SANTA CATERINA N.3",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis02600n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"F. FERRARA\" MAZARA DEL VALLO",
+		"indirizzo": "VIA SAN PIO N.4  C/DA AFFACCIATA",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis024002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"LIC. G.G. ADRIA-G.P. BALLATORE\"",
+		"indirizzo": "VIA  ORIANI    N.7",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic823002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C.  \"P.BORSELLINO\"",
+		"indirizzo": "PIAZZA SANTA VENERANDA  N.8",
+		"cap": "91026",
+		"comune": "MAZARA DEL VALLO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic83300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"GIOVANNI XXIII\" PACECO",
+		"indirizzo": "VIA M. GABRIELE ASARO S.N.C.",
+		"cap": "91027",
+		"comune": "PACECO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee066002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIREZ. DID. \"ANGELO D\\'AIETTI\"",
+		"indirizzo": "CORSO UMBERTO I   N.68",
+		"cap": "91017",
+		"comune": "PANTELLERIA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis00400r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS. ST. OMNICOMPRENSIVO ISTR. SECONDARIA",
+		"indirizzo": "VIA NAPOLI  N.32",
+		"cap": "91017",
+		"comune": "PANTELLERIA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic82400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"RITA LEVI MONTALCINI\"",
+		"indirizzo": "VIA TRIESTE   N.11",
+		"cap": "91028",
+		"comune": "PARTANNA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic806008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GESUALDO NOSENGO\"",
+		"indirizzo": "VIA GIANINEA  N.34",
+		"cap": "91020",
+		"comune": "PETROSINO",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis002005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"F. D\\'AGUIRRE - D. ALIGHIERI\"",
+		"indirizzo": "VIA BAVIERA - N. 1",
+		"cap": "91018",
+		"comune": "SALEMI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic829001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G.GARIBALDI - G.PAOLO II\"",
+		"indirizzo": "VIA SAN LEONARDO  N.27",
+		"cap": "91018",
+		"comune": "SALEMI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic807004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"L.CAPUANA\"",
+		"indirizzo": "P.ZZA ALDO MORO S.N.C.",
+		"cap": "91029",
+		"comune": "SANTA NINFA",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic84200b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"E. PERTINI\"",
+		"indirizzo": "VIA  A. DE SANTIS   N.2/A",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic84000q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C  \"NUNZIO NASI\" TRAPANI",
+		"indirizzo": "VIA    P. ZUCCALA\\'  N.14",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic836004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  \"G.G.CIACCIO MONTALTO\"",
+		"indirizzo": "VIA TUNISI   N.37",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic82600d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"COLLODI-STURZO\" TRAPANI",
+		"indirizzo": "VIA E. RINALDI, 156 - MARAUSA",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic82500n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COM. \"L. BASSI -S.CATALANO\"",
+		"indirizzo": "VIA MARINELLA N.2",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee00400p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CIRC. \"G.MARCONI\" TRAPANI",
+		"indirizzo": "VIALE 11 SETTEMBRE 2001",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpmm10200v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "C. P. I. A.  - TRAPANI",
+		"indirizzo": "VIA CASTELLAMMARE, 14",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee001007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "I CIRCOLO DIDATT. \"L.DA VINCI\"",
+		"indirizzo": "VIA SAN PIETRO  N.54",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpee00300v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "III CIRC. \"U.DI SAVOIA\" TRAPANI",
+		"indirizzo": "VIA G.B. FARDELLA   N.285",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis01800p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. ISTRUZ. SUP. \"L.DA VINCI\" TRAPANI",
+		"indirizzo": "PIAZZA  XXI APRILE S.N.C.",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis028009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"S.CALVINO - G. B. AMICO\"",
+		"indirizzo": "VIA  S. MICHELE 2",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis029005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"L.S. V.FARDELLA-L.C. L.XIMENES\"",
+		"indirizzo": "VIA  GARIBALDI   N.83",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpis031005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"R.SALVO\" TRAPANI",
+		"indirizzo": "VIA  MARINELLA  N.1",
+		"cap": "91100",
+		"comune": "TRAPANI",
+		"provincia": "TP"
+	}
+	,
+	{
+		"codMec": "tpic83700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. \"D.ALIGHIERI\" VALDERICE",
+		"indirizzo": "VIA VALENTI 80",
+		"cap": "91019",
+		"comune": "VALDERICE",
+		"provincia": "TP"
+	}
+]

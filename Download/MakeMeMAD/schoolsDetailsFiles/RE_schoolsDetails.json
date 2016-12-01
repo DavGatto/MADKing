@@ -1,0 +1,671 @@
+[
+	{
+		"codMec": "reic84300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALBINEA",
+		"indirizzo": "VIA S.QUASIMODO, 2",
+		"cap": "42020",
+		"comune": "ALBINEA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic818007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BAGNOLO \"EZIO COMPARONI\"",
+		"indirizzo": "VIA ANNA FRANK,2",
+		"cap": "42011",
+		"comune": "BAGNOLO IN PIANO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic819003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO GB TOSCHI",
+		"indirizzo": "VIA CA\\' TOSCHI 4",
+		"cap": "42031",
+		"comune": "BAISO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic81600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BUSANA-ARIOSTO",
+		"indirizzo": "VIA        DEL SASSO          3",
+		"cap": "42032",
+		"comune": "BUSANA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic827002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CADELBOSCO DI SOPRA",
+		"indirizzo": "VIA G.PASCOLI, 10",
+		"cap": "42023",
+		"comune": "CA DEL BOSCO DI SOPRA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic813004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAMPAGNOLA-GALILEI",
+		"indirizzo": "VIA  GRAMSCI   3",
+		"cap": "42012",
+		"comune": "CAMPAGNOLA EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic826006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARPINETI-CASINA",
+		"indirizzo": "VIA CRISPI",
+		"cap": "42033",
+		"comune": "CARPINETI",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic833009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALGRANDE",
+		"indirizzo": "VIA GRAMSCI, 21",
+		"cap": "42013",
+		"comune": "CASALGRANDE",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic83700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELLARANO",
+		"indirizzo": "VIA FUORI PONTE, 23",
+		"cap": "42014",
+		"comune": "CASTELLARANO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic820007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELNOVO DI SOTTO - MARCONI",
+		"indirizzo": "VIA        MARCONI             5",
+		"cap": "42024",
+		"comune": "CASTELNOVO DI SOTTO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis014004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "NELSON MANDELA",
+		"indirizzo": "VIA MORANDI, 4",
+		"cap": "42035",
+		"comune": "CASTELNOVO NE\\' MONTI",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic839008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELNOVO NE  MONTI-BISMANTOVA",
+		"indirizzo": "VIA SOZZI, 1",
+		"cap": "42035",
+		"comune": "CASTELNOVO NE\\' MONTI",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis00200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"CATTANEO/DALL\\'AGLIO\"",
+		"indirizzo": "VIA GIUSEPPE IMPASTATO 3",
+		"cap": "42035",
+		"comune": "CASTELNOVO NE\\' MONTI",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic82200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAVRIAGO \"DON G.DOSSETTI\"",
+		"indirizzo": "VIA DEL CRISTO, N. 12",
+		"cap": "42025",
+		"comune": "CAVRIAGO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "retd02000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "LUIGI EINAUDI   CON SEZ.IND.",
+		"indirizzo": "VIA      PRATI 2",
+		"cap": "42015",
+		"comune": "CORREGGIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "revc01000a",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "R. CORSO",
+		"indirizzo": "VIA BERNIERI 8",
+		"cap": "42015",
+		"comune": "CORREGGIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "repc02000n",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO STATALE \"RINALDO CORSO\"",
+		"indirizzo": "VIA ROMA,15",
+		"cap": "42015",
+		"comune": "CORREGGIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "remm133007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA REGGIO NORD",
+		"indirizzo": "VIA CONTE IPPOLITO, 22",
+		"cap": "42015",
+		"comune": "CORREGGIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic85300e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CORREGGIO 1",
+		"indirizzo": "VIA CONTE IPPOLITO, 18",
+		"cap": "42015",
+		"comune": "CORREGGIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic85200p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CORREGGIO 2",
+		"indirizzo": "VIA CONTE IPPOLITO 16/A",
+		"cap": "42015",
+		"comune": "CORREGGIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic82900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FABBRICO  E ROLO  ITALO CALVINO",
+		"indirizzo": "VIA PIAVE 114",
+		"cap": "42042",
+		"comune": "FABBRICO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic82300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GATTATICO-FERMI",
+		"indirizzo": "VIA        GRAMSCI,29",
+		"cap": "42043",
+		"comune": "GATTATICO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic83800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GUALTIERI",
+		"indirizzo": "VIA DANTE ALIGHIERI, 10",
+		"cap": "42044",
+		"comune": "GUALTIERI",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "rerf070004",
+		"tipo": "IST  PROF  FEMMINILE",
+		"nome": "I P S S I \"M. CARRARA\"",
+		"indirizzo": "VIA SACCO E VANZETTI, 1",
+		"cap": "42016",
+		"comune": "GUASTALLA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic812008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GUASTALLA-GONZAGA",
+		"indirizzo": "VIA        AFFO\\'  1",
+		"cap": "42016",
+		"comune": "GUASTALLA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis006005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS BERTRAND RUSSELL",
+		"indirizzo": "VIA  SACCO E VANZETTI 1",
+		"cap": "42016",
+		"comune": "GUASTALLA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic83200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LUZZARA",
+		"indirizzo": "VIALE FILIPPINI 42",
+		"cap": "42045",
+		"comune": "LUZZARA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis00400d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"SILVIO D\\'ARZO\"",
+		"indirizzo": "STRADA PER S.ILARIO, 28/C",
+		"cap": "42027",
+		"comune": "MONTECCHIO EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic835001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MONTECCHIO",
+		"indirizzo": "VIA XXV APRILE 14",
+		"cap": "42027",
+		"comune": "MONTECCHIO EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic83100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOVELLARA",
+		"indirizzo": "VIA NOVY JICIN, 2",
+		"cap": "42017",
+		"comune": "NOVELLARA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic821003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN POLO-PETRARCA",
+		"indirizzo": "VIA PETRARCA, 1",
+		"cap": "42020",
+		"comune": "SAN POLO D\\'ENZA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic83000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SANT\\'ILARIO D\\'ENZA",
+		"indirizzo": "VIA GRAMSCI, 5",
+		"cap": "42049",
+		"comune": "SANT\\'ILARIO D\\'ENZA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis00300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"P. GOBETTI\"",
+		"indirizzo": "VIA  DELLA REPUBBLICA, 41",
+		"cap": "42019",
+		"comune": "SCANDIANO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic855006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MATTEO MARIA BOIARDO",
+		"indirizzo": "VIA CORTI, 39",
+		"cap": "42019",
+		"comune": "SCANDIANO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic85400a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LAZZARO SPALLANZANI",
+		"indirizzo": "VIALE DELLA ROCCA, 8",
+		"cap": "42019",
+		"comune": "SCANDIANO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic81500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TOANO-FOSCOLO",
+		"indirizzo": "VIA  MATILDE DI CANOSSA,23",
+		"cap": "42010",
+		"comune": "TOANO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic842004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLAMINOZZO",
+		"indirizzo": "CORSO PRAMPA,11",
+		"cap": "42030",
+		"comune": "VILLA MINOZZO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis00900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"A. ZANELLI\"",
+		"indirizzo": "VIA FRATELLI ROSSELLI 41/1",
+		"cap": "42123",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "retl01000c",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "\"A. SECCHI\"",
+		"indirizzo": "VIA MAKALLE\\', 14",
+		"cap": "42124",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic82400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALILEI R.E.",
+		"indirizzo": "VIA CASSALA, 10",
+		"cap": "42124",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic834005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"A.LIGABUE\"",
+		"indirizzo": "VIA RIVOLUZIONE D\\'OTTOBRE, 27",
+		"cap": "42123",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic841008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LEPIDO R.E.",
+		"indirizzo": "VIA  PREMUDA,  34",
+		"cap": "42123",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic84500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"A.S.AOSTA\"",
+		"indirizzo": "VIA  CECATI, N. 12",
+		"cap": "42100",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic84600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"A. MANZONI\"",
+		"indirizzo": "VIALE MAGENTA,13",
+		"cap": "42123",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic847007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"L. DA VINCI\"",
+		"indirizzo": "VIA MONTE S. MICHELE, 12",
+		"cap": "42121",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic848003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"A. EINSTEIN\"",
+		"indirizzo": "VIA GATTALUPA, 1/B",
+		"cap": "42122",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic84900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S. PERTINI 2\"",
+		"indirizzo": "VIA TORRICELLI, 35",
+		"cap": "42100",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic850003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"S. PERTINI 1\"",
+		"indirizzo": "VIA P.G. TERRACHINI 20",
+		"cap": "42122",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis00800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"A. MOTTI\"",
+		"indirizzo": "VIA GASTINELLI, 1/B",
+		"cap": "42123",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic81100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "REGGIOLO",
+		"indirizzo": "VIALE REGINA MARGHERITA,6",
+		"cap": "42046",
+		"comune": "REGGIOLO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic83600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RUBIERA",
+		"indirizzo": "PIAZZA XXIV MAGGIO N. 13",
+		"cap": "42048",
+		"comune": "RUBIERA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic85100v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN MARTINO IN RIO",
+		"indirizzo": "PIAZZA MARTIRI,2",
+		"cap": "42018",
+		"comune": "SAN MARTINO IN RIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic82800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POVIGLIO BRESCELLO",
+		"indirizzo": "VIA MATTEI N. 22",
+		"cap": "42028",
+		"comune": "POVIGLIO",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic84400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "QUATTRO CASTELLA/VEZZANO",
+		"indirizzo": "VIA TOGLIATTI, 20/2",
+		"cap": "42020",
+		"comune": "QUATTRO CASTELLA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic81000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"E. FERMI\"",
+		"indirizzo": "VIA BOLOGNESI, 2",
+		"cap": "42100",
+		"comune": "REGGIO EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic84000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"J.F. KENNEDY\"",
+		"indirizzo": "VIA KENNEDY, 20",
+		"cap": "42124",
+		"comune": "REGGIO EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "repm010007",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "MATILDE DI CANOSSA",
+		"indirizzo": "VIA MAKALLE  N. 18",
+		"cap": "42124",
+		"comune": "REGGIO EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reri090008",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I P SERVIZI GALVANI IODI",
+		"indirizzo": "VIA DELLA CANALINA, 21",
+		"cap": "42122",
+		"comune": "REGGIO EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reic81400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON PASQUINO BORGHI",
+		"indirizzo": "VIA PASCAL, 81",
+		"cap": "42123",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "retd09000v",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "SCARUFFI LEVI TRICOLORE",
+		"indirizzo": "VIA FILIPPO RE, 8",
+		"cap": "42121",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "resd01000l",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "\"G. CHIERICI\"",
+		"indirizzo": "VIA  L. NOBILI 1",
+		"cap": "42121",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "rerc01000p",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "FILIPPO RE",
+		"indirizzo": "VIALE TRENTO TRIESTE 4",
+		"cap": "42124",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reps03000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ALDO MORO",
+		"indirizzo": "VIA  XX SETTEMBRE 5",
+		"cap": "42124",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "repc030008",
+		"tipo": "LICEO CLASSICO",
+		"nome": "ARIOSTO  SPALLANZANI  SEZZ.CL.E SC.",
+		"indirizzo": "PIAZZETTA CARDINALE PIGNEDOLI, 2",
+		"cap": "42121",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "remm13200b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA REGGIO SUD",
+		"indirizzo": "VIA TURRI 69",
+		"cap": "42121",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis01600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"BLAISE PASCAL\"",
+		"indirizzo": "VIA        MAKALLE\\', 12",
+		"cap": "42124",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+	,
+	{
+		"codMec": "reis01100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.   \"L.  NOBILI\"",
+		"indirizzo": "VIA        MAKALLE\\' 10",
+		"cap": "42124",
+		"comune": "REGGIO NELL\\'EMILIA",
+		"provincia": "RE"
+	}
+]

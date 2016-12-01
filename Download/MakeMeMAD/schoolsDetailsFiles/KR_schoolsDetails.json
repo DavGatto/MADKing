@@ -1,0 +1,371 @@
+[
+	{
+		"codMec": "krps02000q",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "PETILIA POLICASTRO",
+		"indirizzo": "CORSO      GIOVE 45",
+		"cap": "88837",
+		"comune": "PETILIA POLICASTRO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric83200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.. DANTE ALIGHIERI",
+		"indirizzo": "VIA A. DE GASPERI, 83",
+		"cap": "88837",
+		"comune": "PETILIA POLICASTRO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric804008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ROCCA DI NETO",
+		"indirizzo": "RIONE SANTA MARIA",
+		"cap": "88821",
+		"comune": "ROCCA DI NETO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric825009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.O.\" D.BORRELLI \"  S. SEVERINA",
+		"indirizzo": "VIA CATONA",
+		"cap": "88832",
+		"comune": "SANTA SEVERINA",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric80800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. SCANDALE",
+		"indirizzo": "VIA GRAMSCI",
+		"cap": "88831",
+		"comune": "SCANDALE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric80900b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.O.  STRONGOLI",
+		"indirizzo": "VIA VIGNA DEL PRINCIPE",
+		"cap": "88816",
+		"comune": "STRONGOLI",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric81700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VERZINO",
+		"indirizzo": "VIA G. RODARI",
+		"cap": "88819",
+		"comune": "VERZINO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric821002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"C. SIMONETTA\" CACCURI",
+		"indirizzo": "VIA DARDANI, 20",
+		"cap": "88833",
+		"comune": "CACCURI",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric820006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.O. \"L. LILIO\" CIRO\\'",
+		"indirizzo": "VIA SAN FRANCESCO",
+		"cap": "88813",
+		"comune": "CIRO\\'",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric82300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I .C.\" FILOTTETE \" CIRO MARINA",
+		"indirizzo": "VIA DELLA LIBERTA",
+		"cap": "88811",
+		"comune": "CIRO\\' MARINA",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric82400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.2 \"G.T. CASOPERO\" CIRO\\' M.",
+		"indirizzo": "VIA PIRAINETTO",
+		"cap": "88811",
+		"comune": "CIRO\\' MARINA",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kris00400c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIUSEPPE GANGALE",
+		"indirizzo": "PIAZZA KENNEDY, 10",
+		"cap": "88811",
+		"comune": "CIRO\\' MARINA",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kris00200r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"MARGHERITA HACK\"",
+		"indirizzo": "VIA LAGHI  SILANI 13",
+		"cap": "88836",
+		"comune": "COTRONEI",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric81500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO STATALE",
+		"indirizzo": "VIA VALLONE DELLE PERE",
+		"cap": "88836",
+		"comune": "COTRONEI",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric813003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"A. ROSMINI\" KR",
+		"indirizzo": "VIA SANTA CROCE, 110",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "krps010005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS FILOLAO",
+		"indirizzo": "VIA ACQUABONA SENZA NUM. CIVICO",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric812007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"V. ALFIERI\" CROTONE",
+		"indirizzo": "VIA  CUTRO,  114",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric81100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"ALCMEONE\" CROTONE",
+		"indirizzo": "VIA GIOVANNI PAOLO II,  N. 330",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric81000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"M. G. CUTULI\" CROTONE",
+		"indirizzo": "VIA BOCCIONI, 1",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "krri040006",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I.P.S.I.A.   A. M. BARLACCHI",
+		"indirizzo": "VIA CARDUCCI",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric80600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON  MILANI\" CROTONE",
+		"indirizzo": "VIA G. DA FIORE",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "krpc02000l",
+		"tipo": "LICEO CLASSICO",
+		"nome": "PITAGORA",
+		"indirizzo": "PIAZZA     UMBERTO I 15",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric80300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO PAPANICE",
+		"indirizzo": "VIALE CALABRIA 95",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "krtf02000t",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "GUIDO DONEGANI",
+		"indirizzo": "VIA        TITO MINNITI 25",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "krmm047007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA CROTONE",
+		"indirizzo": "PIAZZA MONTESSORI, PAL. MUSCO\\'",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kris01200b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"CILIBERTO\"",
+		"indirizzo": "VIA SIRIS 10",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kris00900g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I I.S.  \" PERTINI - SANTONI\"",
+		"indirizzo": "VIALE MATTEOTTI",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric82900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI XXIII CROTONE",
+		"indirizzo": "VIA        VENEZIA             97",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "krpm010006",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO  \"G. V. GRAVINA\"",
+		"indirizzo": "VIA UGO FOSCOLO,28",
+		"cap": "88900",
+		"comune": "CROTONE",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric819002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CRUCOLI TORRETTA",
+		"indirizzo": "VIA NICHOLAS GREEN",
+		"cap": "88812",
+		"comune": "CRUCOLI",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kris006004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SECON SUPERIORE POLO",
+		"indirizzo": "VIA GIOVANNI XXIII 3",
+		"cap": "88842",
+		"comune": "CUTRO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric826005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"A. F. DI BONA\"CUTRO",
+		"indirizzo": "VIA ROSITO",
+		"cap": "88842",
+		"comune": "CUTRO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric83000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. GIOACCHINO DA FIORE",
+		"indirizzo": "VIA MADONNA DGLI ANGELI",
+		"cap": "88841",
+		"comune": "ISOLA DI CAPO RIZZUTO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric83100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC KAROL WOJTYLA",
+		"indirizzo": "VIA LIBERTA\\'",
+		"cap": "88841",
+		"comune": "ISOLA DI CAPO RIZZUTO",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric818006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\" GIOVANNI XXIII\" MELISSA",
+		"indirizzo": "VIA PROVINCIALE",
+		"cap": "88814",
+		"comune": "MELISSA",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric827001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.\"MORO-LAMANNA\"MESORACA",
+		"indirizzo": "VIA ROMA N.1",
+		"cap": "88838",
+		"comune": "MESORACA",
+		"provincia": "KR"
+	}
+	,
+	{
+		"codMec": "kric81600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"G. MARCONI\" PETILIA POL.",
+		"indirizzo": "VIA ASSUNTA",
+		"cap": "88837",
+		"comune": "PETILIA POLICASTRO",
+		"provincia": "KR"
+	}
+]

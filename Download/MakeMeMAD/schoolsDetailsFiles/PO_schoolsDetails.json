@@ -1,0 +1,291 @@
+[
+	{
+		"codMec": "poic80600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IL PONTORMO",
+		"indirizzo": "VIALE BEATO G. PARENTI, 3",
+		"cap": "59015",
+		"comune": "CARMIGNANO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic82200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MARGHERITA HACK\"",
+		"indirizzo": "VIA PIETRO MICCA",
+		"cap": "59013",
+		"comune": "MONTEMURLO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic81000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"FILIPPO MAZZEI\"",
+		"indirizzo": "VIA DON MILANI,2/4",
+		"cap": "59016",
+		"comune": "POGGIO A CAIANO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic809007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARCO POLO",
+		"indirizzo": "VIA S.CATERINA 14",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic80800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "P. MASCAGNI",
+		"indirizzo": "VIA TOSCANINI,6",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "povc010005",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "\"CICOGNINI\"",
+		"indirizzo": "PIAZZA DEL COLLEGIO, 13",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic804004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CURZIO MALAPARTE",
+		"indirizzo": "VIA        BALDANZI            18",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic80500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CONVENEVOLE",
+		"indirizzo": "VIA        I MAGGIO            40",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "potf010003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "T. BUZZI",
+		"indirizzo": "VIALE DELLA REPUBBLICA, 9",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic812003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROBERTO CASTELLANI",
+		"indirizzo": "VIA DELLA POLLA 34",
+		"cap": "59014",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic81300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON LORENZO MILANI",
+		"indirizzo": "VIA DELLE GARDENIE 73",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic81400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GANDHI",
+		"indirizzo": "VIA MANNOCCI 23/G",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic81500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "F.LIPPI",
+		"indirizzo": "VIA F. CORRIDONI 11",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic81600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC CLAUDIO PUDDU",
+		"indirizzo": "VIA MONTALESE 245/A",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic817006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GB.MAZZONI",
+		"indirizzo": "VIA S. SILVESTRO 11",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic818002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"PIER CIRONI\"",
+		"indirizzo": "VIALE DELLA REPUBBLICA 17/19",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic81900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRIMO LEVI",
+		"indirizzo": "VIA ROMA, 266",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic820002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO NORD",
+		"indirizzo": "VIA        GHERARDI            66",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic82100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IVA PACETTI",
+		"indirizzo": "VIA DEL GHIRLANDAIO 5",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "pois00100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "F. CICOGNINI - G. RODARI",
+		"indirizzo": "VIA GALCIANESE, 20/4",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "pois00200l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "A. GRAMSCI - J. M. KEYNES",
+		"indirizzo": "VIA DI REGGIANA, 106",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "pois00300c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "C. LIVI",
+		"indirizzo": "VIA MARINI, 9",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "pomm039004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 PRATO",
+		"indirizzo": "VIA S. SILVESTRO",
+		"cap": "",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "pops02000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "N. COPERNICO",
+		"indirizzo": "VIA BORGOVALSUGANA, 63",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "porc01000d",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "IPSCT F. DATINI",
+		"indirizzo": "VIA DI REGGIANA, 26",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "pori010006",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "GUGLIELMO MARCONI",
+		"indirizzo": "VIA GALCIANESE, 20/F",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "potd01000r",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "P. DAGOMARI",
+		"indirizzo": "VIA DI REGGIANA, 86",
+		"cap": "59100",
+		"comune": "PRATO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic80700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BARTOLINI",
+		"indirizzo": "VIA NUOVA  PER SCHIGNANO, 25",
+		"cap": "59021",
+		"comune": "VAIANO",
+		"provincia": "PO"
+	}
+	,
+	{
+		"codMec": "poic811007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SANDRO PERTINI",
+		"indirizzo": "VIA ALIGHIERO MAGINI S.N.C.",
+		"cap": "59024",
+		"comune": "VERNIO",
+		"provincia": "PO"
+	}
+]

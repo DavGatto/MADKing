@@ -1,0 +1,5171 @@
+[
+	{
+		"codMec": "naic8dq002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "AFRAGOLA IC 2 CASTALDO-NOSENG0",
+		"indirizzo": "VIA CIAMPA,19",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais07900t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS \"S.PERTINI\" AFRAGOLA",
+		"indirizzo": "VIA LOMBARDIA 39",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd33000r",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T. C.A.DALLA CHIESA - AFRAGOLA-",
+		"indirizzo": "VIA SICILIA 60",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps14000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.F.BRUNELLESCHI-AFRAGOLA-",
+		"indirizzo": "VIA FIRENZE  23",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ee005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "AGEROLA IC DI GIACOMO-DE NICOLA",
+		"indirizzo": "VIA CASE LAURITANO 1",
+		"cap": "80051",
+		"comune": "AGEROLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic83600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANACAPRI IC - GEMITO",
+		"indirizzo": "VIA        PAGLIARO            7A",
+		"cap": "80071",
+		"comune": "ANACAPRI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais00700x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.- IPCT MUNTHE ANACAPRI",
+		"indirizzo": "VIALE AXEL MUNTHE, 4",
+		"cap": "80071",
+		"comune": "ANACAPRI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps43000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO - ARZANO",
+		"indirizzo": "VIA VOLPICELLI",
+		"cap": "80022",
+		"comune": "ARZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais092008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. \"DON GEREMIA PISCOPO\" - ARZANO",
+		"indirizzo": "VIA NAPOLI 57 BIS",
+		"cap": "80022",
+		"comune": "ARZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fs008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARZANO IC 3 - KAROL WOITYLA",
+		"indirizzo": "VIA SALVEMINI SNC",
+		"cap": "80022",
+		"comune": "ARZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8eh00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARZANO IC 1 - ARIOSTO",
+		"indirizzo": "P.ZZA MARCONI, 1",
+		"cap": "80022",
+		"comune": "ARZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8eg00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARZANO IC 2 DE FILIPPO-VICO",
+		"indirizzo": "VIA DEL CENTENARIO N.7",
+		"cap": "80022",
+		"comune": "ARZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ef001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARZANO IC 4 D\\'AURIA-NOSENGO",
+		"indirizzo": "VIA NAPOLI,232",
+		"cap": "80022",
+		"comune": "ARZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dz00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BACOLI IC 1 P. DI TARSO",
+		"indirizzo": "VIA RISORGIMENTO, 120",
+		"cap": "80070",
+		"comune": "BACOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fp00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BACOLI IC 2 PLINIO IL VECCHIO",
+		"indirizzo": "VIA BELLAVISTA 4",
+		"cap": "80070",
+		"comune": "BACOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee10100q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ACERRA 1 - PIAZZA RENELLA",
+		"indirizzo": "P.ZZA RENELLA 1/4",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee10200g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ACERRA 2  C.D.",
+		"indirizzo": "VIA DEI MILLE, 18",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps72000t",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LIC. SC, CLAS, LING \" A.M.DE\\' LIGUORI\"",
+		"indirizzo": "VIA STENDARDO 90/92",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm15100q",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "G.CAPORALE",
+		"indirizzo": "PIAZZA FALCONE E BORSELLINO N. 08",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais10900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE BRUNO MUNARI ACERRA",
+		"indirizzo": "VIA DIAZ 43",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gq00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ACERRA IC 3 DON LORENZO MILANI-",
+		"indirizzo": "VIA DELEDDA N. 109",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gp002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ACERRA IC FERRAJOLO-SIANI",
+		"indirizzo": "VIA MADONNELLE 52/54",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee34400b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ACERRA 4 - SPINIELLO",
+		"indirizzo": "VIA SPINIELLO  SNC",
+		"cap": "80011",
+		"comune": "ACERRA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee10300b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "AFRAGOLA 1 - MARCONI",
+		"indirizzo": "P.ZZA MARCONI 2",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee105003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "AFRAGOLA 3 - ALDO MORO",
+		"indirizzo": "VIA UGO LA MALFA",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm162006",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "\"ANGELO MOZZILLO\" AFRAGOLA",
+		"indirizzo": "VIA  OBERDAN SNC",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0ax00b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "RITA LEVI MONTALCINI  AFRAGOLA",
+		"indirizzo": "VIA ARTURO DE ROSA N.41",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais121003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.\" E.SERENI\"-AFRAGOLA E CARDITO",
+		"indirizzo": "VIA DON BOSCO, 9",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic834004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "AFRAGOLA IC EUROPA UNITA",
+		"indirizzo": "VIALE EUROPA RIONE SALICELLE",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm15900a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ROCCO -AFRAGOLA-",
+		"indirizzo": "VIA        FIRENZE",
+		"cap": "80021",
+		"comune": "AFRAGOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ar00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASAMICCIOLA - I.C. IBSEN",
+		"indirizzo": "VIALE PARADISIELLO 10",
+		"cap": "80074",
+		"comune": "CASAMICCIOLA TERME",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gc00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASANDRINO IC MARCONI-TORRICELL",
+		"indirizzo": "VIA CHIACCHIO 2",
+		"cap": "80025",
+		"comune": "CASANDRINO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ga003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASAVATORE IC 1 B. CROCE",
+		"indirizzo": "VIA BENEDETTO CROCE, N. 10",
+		"cap": "80020",
+		"comune": "CASAVATORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0cr008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "NA PROV.1  C/O\"TORRENTE\" CASAVA",
+		"indirizzo": "VIA SAN PIETRO 56",
+		"cap": "80020",
+		"comune": "CASAVATORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8a700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASAVATORE I.C. A. DE CURTIS",
+		"indirizzo": "VIALE MICHELANGELO N.104",
+		"cap": "80020",
+		"comune": "CASAVATORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic84500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASAVATORE I.C. NICOLA ROMEO",
+		"indirizzo": "VIA CAMPANARIELLO 3",
+		"cap": "80020",
+		"comune": "CASAVATORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ag00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASOLA ISTITUTO COMPRENSIVO",
+		"indirizzo": "VIA ROMA  37",
+		"cap": "80050",
+		"comune": "CASOLA DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais02900r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICEO STATALE \"GANDHI\" DI CASORIA",
+		"indirizzo": "VIA ALDO MORO 26",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais06700g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE A.TORRENTE",
+		"indirizzo": "VIA DUCA D\\'AOSTA,63/G",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ev005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA IC F. PALIZZI",
+		"indirizzo": "PIAZZA DANTE SNC",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8en005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA IC CORTESE",
+		"indirizzo": "VIA B. CROCE 38",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8es00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA 4 IC PUCCINI",
+		"indirizzo": "VIA GIOTTO, 19",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8et00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA LUDOVICO DA CASORIA",
+		"indirizzo": "VIA PIO XII, 126",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8eu009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA I.C. MAURO MITILINI",
+		"indirizzo": "VIA BRODOLINI, 19",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ew001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA 2 IC MOSCATI-MAGLIONE",
+		"indirizzo": "VIA MARTIRI D\\'OTRANTO SNC",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic80200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALVIZZANO I.C. MARCO POLO",
+		"indirizzo": "VIA ALDO MORO N.1",
+		"cap": "80012",
+		"comune": "CALVIZZANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8aq00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAMPOSANO - I.C. VIRGILIO",
+		"indirizzo": "VIA RISPOLI 18",
+		"cap": "80030",
+		"comune": "CAMPOSANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ab007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAPRI - I.C. IPPOLITO NIEVO",
+		"indirizzo": "PIAZZALE EUROPA N. 12",
+		"cap": "80073",
+		"comune": "CAPRI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8el00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARDITO IC M. POLO - GALILEI",
+		"indirizzo": "VIA DONADIO",
+		"cap": "80024",
+		"comune": "CARDITO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gm00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARDITO I.C. 2  DON BOSCO",
+		"indirizzo": "VIA TAVERNA",
+		"cap": "80024",
+		"comune": "CARDITO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee118005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CARDITO 1 - VIA PRAMPOLINI",
+		"indirizzo": "VIA PRAMPOLINI",
+		"cap": "80024",
+		"comune": "CARDITO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic898003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALNUOVO IC DE NICOLA",
+		"indirizzo": "VIA        ROMA                202",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic87900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALNUOVO IC VIVIANI",
+		"indirizzo": "VIA ZI CARLO",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic84300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALNUOVO IC  RAG. D\\'EUROPA",
+		"indirizzo": "CORSO UMBERTO I - P.CO MIMOSA",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee32300a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CASALNUOVO 3 M.T DI CALCUTTA",
+		"indirizzo": "VIA NAZ. DELLE PUGLIE 105",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee119001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CASALNUOVO 1 - DE CURTIS",
+		"indirizzo": "VIA DE CURTIS",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais05900l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIANCARLO SIANI",
+		"indirizzo": "VIA GAUDIOSI  SNC",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8aj002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASALNUOVO IC ALDO MORO",
+		"indirizzo": "VIA  PIGNA, 115",
+		"cap": "80013",
+		"comune": "CASALNUOVO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais01200b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. CRISTOFARO MENNELLA",
+		"indirizzo": "CORSO GARIBALDI 11",
+		"cap": "80074",
+		"comune": "CASAMICCIOLA TERME",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd05000b",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "I.T E.MATTEI-CASAMICCIOLA-",
+		"indirizzo": "VIA        PRINCIPESSA MARGHERITA 29",
+		"cap": "80074",
+		"comune": "CASAMICCIOLA TERME",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais09700b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.IS \"ENZO FERRARI\" CASTELL/RE DI STABIA",
+		"indirizzo": "VIA SAVORITO,9",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee125008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.MARE DI STABIA 1 - CECCHI",
+		"indirizzo": "VIALE DANTE",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic84900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASTELLO DI CISTERNA I.C.",
+		"indirizzo": "VIA  SELVA 57/59",
+		"cap": "80030",
+		"comune": "CASTELLO DI CISTERNA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c600q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERCOLA IC DE LUCA PICIONE -CAR",
+		"indirizzo": "VIA D. RICCARDI. 383",
+		"cap": "80040",
+		"comune": "CERCOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic883009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERCOLA - IC GIORDANO",
+		"indirizzo": "VIALE MOSCATI   18",
+		"cap": "80040",
+		"comune": "CERCOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic850002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CERCOLA - IC CUSTRA",
+		"indirizzo": "VIA EUROPA 22",
+		"cap": "80040",
+		"comune": "CERCOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps24000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO STATALE E.MEDI-CICCIANO-",
+		"indirizzo": "VIA MADRE TERESA DI CALCUTTA",
+		"cap": "80033",
+		"comune": "CICCIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ex00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CICCIANO IC BOVIO-PONTILLO-PASC",
+		"indirizzo": "VIA DEGLI ANEMONI",
+		"cap": "80033",
+		"comune": "CICCIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh07000e",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSEOA \"CARMINE RUSSO\"",
+		"indirizzo": "VIA GIORDANO BRUNO I^ TRAVERSA",
+		"cap": "80033",
+		"comune": "CICCIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ez00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CIMITILE  MERCOGLIANO-GUADAGNI",
+		"indirizzo": "VIA MACELLO,2",
+		"cap": "80030",
+		"comune": "CIMITILE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic88100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CRISPANO - I.C. QUASIMODO",
+		"indirizzo": "PIAZZA I?MAGGIO",
+		"cap": "80020",
+		"comune": "CRISPANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee13200b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ERCOLANO 1 - RODINO",
+		"indirizzo": "VIA 4 NOVEMBRE, 43",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee133007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ERCOLANO 2 - VIA SEMMOLA -",
+		"indirizzo": "VIA SEMMOLA 6",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8da007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ERCOLANO IC 3 DE CURTIS UNGARET",
+		"indirizzo": "VIA VIOLA, 20",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm27100t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "IACCARINO - ERCOLANO",
+		"indirizzo": "VIA DOGLIE N.20",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8em009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASORIA 3 IC CARDUCCI-KING",
+		"indirizzo": "VIA SUOR MARIA CRISTINA BRANDO",
+		"cap": "80026",
+		"comune": "CASORIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee12800q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.MARE DI STABIA 4 C.D.",
+		"indirizzo": "TRAVERSA ANNUNZIATELLA",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic847006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.MMARE I.C. DENZA",
+		"indirizzo": "TRAVERSA FONDO D\\'ORTO S.N.C.",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dh002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.MMARE I.C. 2 PANZINI",
+		"indirizzo": "P.ZZA GIOVANNI XIII 30",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dj007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.MMARE IC 5 KAROL WOJTYLA",
+		"indirizzo": "TRAV. TAVERNOLA",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh09000q",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSSEOA \"RAFFAELE VIVIANI\"C/MMARE",
+		"indirizzo": "VIA ANNUNZIATELLA, 23",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf10000d",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI R.ELIA- C/MMARE-",
+		"indirizzo": "VIA        ANNUNZIATELLA 55/C",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps110002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.F.SEVERI-C/MMARE-",
+		"indirizzo": "VIALE  LIBERO D\\'ORSI,5",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc350003",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO STATALE \"PLINIO SENIORE\"",
+		"indirizzo": "VIA NOCERA 87",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm619008",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "BONITO-COSENZA",
+		"indirizzo": "VIA G. D\\'ANNUNZIO 27",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0af00g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M. STABIAE-SALVATI",
+		"indirizzo": "VIA NOCERA 85",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee12700x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "C.MARE DI STABIA 3 S.MARCO",
+		"indirizzo": "VIA CICERONE 16",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais00900g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. SUPERIORE \"VITRUVIO MARCO POLLIONE",
+		"indirizzo": "VIA D\\'ANNUNZIO N.25",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ah006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "C.MMARE I.C. DI CAPUA",
+		"indirizzo": "VIA        NAPOLI, 84",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd100007",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC L.STURZO-C/MMARE-",
+		"indirizzo": "VIA        G. D\\'ANNUNZIO 23",
+		"cap": "80053",
+		"comune": "CASTELLAMMARE DI STABIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais04600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICEO LUCIO ANNEO SENECA",
+		"indirizzo": "VIA TORREGAVETA 68",
+		"cap": "80070",
+		"comune": "BACOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic839007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BARANO I.C. S. ANNA BALDINO",
+		"indirizzo": "VIA VITTORIO EMANUELE III, 69",
+		"cap": "80070",
+		"comune": "BARANO D\\'ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee11000e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "BARANO D\\'ISCHIA - C.D.",
+		"indirizzo": "VIA VITTORIO EMANUELE III N.80",
+		"cap": "80070",
+		"comune": "BARANO D\\'ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d2003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BOSCOREALE - I.C. 1 CANGEMI",
+		"indirizzo": "VIA F. CANGEMI, 41",
+		"cap": "80041",
+		"comune": "BOSCOREALE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BOSCOREALE IC 2 - F. DATI",
+		"indirizzo": "VIA PROMISCUA N.1",
+		"cap": "80041",
+		"comune": "BOSCOREALE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ed009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BOSCOREALE IC 3 CASTALDI RODARI",
+		"indirizzo": "VIA MARCHESA",
+		"cap": "80041",
+		"comune": "BOSCOREALE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ej00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BOSCOTRECASE IC 1 - S.M. PRISCO",
+		"indirizzo": "VIA ANNUNZIATELLA 1",
+		"cap": "80042",
+		"comune": "BOSCOTRECASE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ek00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BRUSCIANO DE FILIPPO-DE RUGGIER",
+		"indirizzo": "VIA VITTORIO VENETO SNC",
+		"cap": "80031",
+		"comune": "BRUSCIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee11400t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "BRUSCIANO - C.D. CAPOLUOGO",
+		"indirizzo": "VIA MARCONI",
+		"cap": "80031",
+		"comune": "BRUSCIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dr00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAIVANO I.C. CILEA-MAMELI",
+		"indirizzo": "VIA CAPUTO N.1",
+		"cap": "80023",
+		"comune": "CAIVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ds003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAIVANO IC 3 PARCO VERDE",
+		"indirizzo": "VIA CIRCONVALLAZIONE OVEST",
+		"cap": "80023",
+		"comune": "CAIVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais119003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE F.MORANO",
+		"indirizzo": "VIA CIRCUMVALLAZIONE OVEST - P/CO VER",
+		"cap": "80023",
+		"comune": "CAIVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8eb00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAIVANO IC S.M. MILANI",
+		"indirizzo": "VIA UGO FOSCOLO SNC",
+		"cap": "80023",
+		"comune": "CAIVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAIVANO IC 2 DE GASPERI",
+		"indirizzo": "VIA ROSSELLI, 99",
+		"cap": "80023",
+		"comune": "CAIVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps55000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO STATALE  \"N. BRAUCCI\" -CAIVANO",
+		"indirizzo": "PIAZZA PLEBISCITO, 1",
+		"cap": "80023",
+		"comune": "CAIVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gl00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ERCOLANO I.C. 5 MAIURI",
+		"indirizzo": "VIA G.D\\'ANNUNZIO 3/5",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais01100g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. - ITC - IPC - \"TILGHER\"",
+		"indirizzo": "VIA CASACAMPORA 3",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8db003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ERCOLANO 5 IOVINO SCOTELLARO",
+		"indirizzo": "VIA CUPARELLA N. 2",
+		"cap": "80056",
+		"comune": "ERCOLANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gn00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FORIO I.C. 2 DON VINCENZO AVALL",
+		"indirizzo": "VIA PARROCO LEONARDO D\\'ABUNDO, 36",
+		"cap": "80075",
+		"comune": "FORIO D\\'ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e0002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FORIO IC 1 ISTITUTO COMPRENSIVO",
+		"indirizzo": "VIA CASTELLACCIO,  2-4",
+		"cap": "80075",
+		"comune": "FORIO D\\'ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRATTAMAGGIORE IC 3 - GENOINO",
+		"indirizzo": "VIA SENATORE PEZZULLO 2",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee332005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "FRATTAMAGGIORE 4 - MARCONI",
+		"indirizzo": "VIA VITTORIO EMANUELE,86",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee13600p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "FRATTAMAGGIORE 1 - E. FERMI",
+		"indirizzo": "VIA P.M.VERGARA 100",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ge00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRATTAMAGGIORE 2 I.C. CAPASSO-M",
+		"indirizzo": "VIA MAZZINI,100",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps27000e",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.C.MIRANDA-F/MAGGIORE-",
+		"indirizzo": "PROL. VIA F.A. GIORDANO, 91",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nari01000a",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "RI  IPIA M.NIGLIO",
+		"indirizzo": "VIA  NAPOLI 23",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais07600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST SUP.\"GAETANO FILANGIERI\"",
+		"indirizzo": "VIA ROSSINI 96 A",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm28400x",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "STANZIONE  -FRATTAMAGGIORE-",
+		"indirizzo": "VIA F.A. GIORDANO 100",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc300002",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CL.F.DURANTE-F/MAGGIORE-",
+		"indirizzo": "VIA  GIACOMO MATTEOTTI 132",
+		"cap": "80027",
+		"comune": "FRATTAMAGGIORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee13800a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "FRATTAMINORE - C. COLOMBO",
+		"indirizzo": "VIA SACCO E VANZETTI 19",
+		"cap": "80020",
+		"comune": "FRATTAMINORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRATTAMINORE- IC   N. ATELLANO",
+		"indirizzo": "VIA S. ARPINO 25",
+		"cap": "80020",
+		"comune": "FRATTAMINORE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee139006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 1 - BASILE",
+		"indirizzo": "P.ZZA GRAMSCI 7",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf130009",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI L.GALVANI-GIUGLIANO-",
+		"indirizzo": "VIA MARCHESELLA, 188",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee14000a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 2 - E. DE FILIPPO",
+		"indirizzo": "VIA QUINTILIANO",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nari020001",
+		"tipo": "IST PROF INDUSTRIA E ARTIGIANATO",
+		"nome": "I. S.   \" G.MARCONI\"",
+		"indirizzo": "VIA G.B. BASILE 37",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps690007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO PLURICOMPRENSIVO RENATO CARTESIO",
+		"indirizzo": "VIA SELVA PICCOLA 147",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps15000c",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO-LINGUISTICO \"DE CARLO\"",
+		"indirizzo": "VIA MARCHESELLA, 188",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm297002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS DON S. VITALE - GIUGLIANO",
+		"indirizzo": "VIA   SIGNORELLI A PATRIA 9/A",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm29500a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CANTE -GIUGLIANO IN CAMPANIA",
+		"indirizzo": "VIA  VACCARO,21",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm29400e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M.S. G.B. BASILE  GIUGLIANO",
+		"indirizzo": "CORSO      CAMPANO  182",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee218002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 3 - SAN ROCCO",
+		"indirizzo": "VIA S. ROCCO 42",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee333001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 4 -DON GIUSEPPE DIANA",
+		"indirizzo": "VIA RIPUARIA -VARCATURO-GIUGLIANO-",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee346003",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 5",
+		"indirizzo": "VIA PIGNA",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee361005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 7 - DI GIACOMO",
+		"indirizzo": "VIA BARTOLO LONGO N. 22",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee362001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIUGLIANO 8",
+		"indirizzo": "VIA FRANCESCO SIGNORELLI",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic88000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LACCO AMENO - I.C. V. MENNELLA",
+		"indirizzo": "CORSO RIZZOLI, 118",
+		"cap": "80076",
+		"comune": "LACCO AMENO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8as00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LETTERE - I.C. PELLICO",
+		"indirizzo": "C.SO V.EMANUELE, 89",
+		"cap": "80050",
+		"comune": "LETTERE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm32100n",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "D\\'AZEGLIO -MARANO DI NAPOLI-",
+		"indirizzo": "VIA PIAVE, 51",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps32000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC. - \"SEGRE\\'\"",
+		"indirizzo": "1^TRAV.DI VIA G.FALCONE 1",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm43000v",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "ISS.LEVI LIC.CLASS.  LING. E  SC. UMANE",
+		"indirizzo": "VIA G. FALCONE, 105",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee20600q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MARANO 3 -  GIANCARLO SIANI",
+		"indirizzo": "VIA ARTURO LABRIOLA SNC",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARANO  I.C. SOCRATE- MALLARDO",
+		"indirizzo": "VIA GIOVANNI FALCONE 103",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gj003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARANO I.C. DARMON",
+		"indirizzo": "VIA SOFFRITTO",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gh00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARANO IC SAN ROCCO",
+		"indirizzo": "VIA CASTELLO BELVEDERE 3",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fu00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARANO IC AMANZIO-RANUCCI-ALFIE",
+		"indirizzo": "PIAZZA TRIESTE E TRENTO, N. 1",
+		"cap": "80016",
+		"comune": "MARANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic868007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARIGLIANELLA IC CARDUCCI",
+		"indirizzo": "VIA TORINO, N. 10",
+		"cap": "80030",
+		"comune": "MARIGLIANELLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee147005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MARIGLIANO 1 - GIANCARLO SIANI",
+		"indirizzo": "VIA R. DE VITA, 1",
+		"cap": "80034",
+		"comune": "MARIGLIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dt00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARIGLIANO IC MILANI-ALIPERTI",
+		"indirizzo": "VIA SUOR FELICE VINCENZA MAUTONE",
+		"cap": "80034",
+		"comune": "MARIGLIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps02000q",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.-C.COLOMBO-MARIGLIANO-",
+		"indirizzo": "VIA        NUOVA DEL BOSCO",
+		"cap": "80034",
+		"comune": "MARIGLIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm33000c",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ALIGHIERI -MARIGLIANO",
+		"indirizzo": "VIA S.F.D ASSISI  64",
+		"cap": "80034",
+		"comune": "MARIGLIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e4009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. RITA LEVI MONTALCINI",
+		"indirizzo": "VIA ANTICA GIARDINI",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais06100l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IPSCT MINZONI GIUGLIANO",
+		"indirizzo": "VIA  B. LONGO  17",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0ay007",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GRAMSCI-IMPASTATO  GIUGLIANO",
+		"indirizzo": "VIA BARTOLO LONGO, 20",
+		"cap": "80014",
+		"comune": "GIUGLIANO IN CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e6001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GRAGNANO 3-STAGLIE-PARCO IMPER",
+		"indirizzo": "VIA LEOPARDI, 10",
+		"cap": "80054",
+		"comune": "GRAGNANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0az003",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "FUCINI - RONCALLI  GRAGNANO",
+		"indirizzo": "VIA  QUARANTOLA ,15",
+		"cap": "80054",
+		"comune": "GRAGNANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais013007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  POLISP. DON L. MILANI -GRAGNANO",
+		"indirizzo": "VIA QUARANTOLA",
+		"cap": "80054",
+		"comune": "GRAGNANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee142002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GRAGNANO 2 - VIA V. VENETO",
+		"indirizzo": "VIA V. VENETO,18",
+		"cap": "80054",
+		"comune": "GRAGNANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee141006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GRAGNANO 1 - UNGARETTI",
+		"indirizzo": "VIA QUARANTOLA,  8",
+		"cap": "80054",
+		"comune": "GRAGNANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic897007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GRUMO NEVANO I.C. MATTEO. CIRIL",
+		"indirizzo": "VIA BARACCA,23",
+		"cap": "80028",
+		"comune": "GRUMO NEVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee14300t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GRUMO NEVANO - PASCOLI",
+		"indirizzo": "VIA XXIV MAGGIO 58",
+		"cap": "80028",
+		"comune": "GRUMO NEVANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee14400n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ISCHIA 1 - PORTO",
+		"indirizzo": "VIA CASCIARO 3",
+		"cap": "80077",
+		"comune": "ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee35100e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ISCHIA 2",
+		"indirizzo": "VIA NUOVA CARTAROMANA, 17",
+		"cap": "80077",
+		"comune": "ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh04000p",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "I.P.S. \"V. TELESE\" ISCHIA",
+		"indirizzo": "VIA  FONDO BOSSO, 1/3",
+		"cap": "80077",
+		"comune": "ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc22000a",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO STATALE - ISCHIA",
+		"indirizzo": "VIA DELLE GINESTRE N. 39",
+		"cap": "80077",
+		"comune": "ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm31400e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GIOVANNI SCOTTI",
+		"indirizzo": "VIA MICHELE MAZZELLA, 117",
+		"cap": "80077",
+		"comune": "ISCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd420003",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "IT \"M.ROSSI DORIA\"",
+		"indirizzo": "VIA MANLIO ROSSI DORIA",
+		"cap": "80034",
+		"comune": "MARIGLIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8be009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARIGLIANO IC PACINOTTI",
+		"indirizzo": "VIA GIORGIO AMENDOLA",
+		"cap": "80034",
+		"comune": "MARIGLIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic86700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MASSA DI SOMMA - I.C. L. RADICE",
+		"indirizzo": "VIA SANTA 1   N. 8",
+		"cap": "80040",
+		"comune": "MASSA DI SOMMA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d8002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MASSA LUBRENSE IC BOZZAOTRA",
+		"indirizzo": "VIA        ROMA                27",
+		"cap": "80061",
+		"comune": "MASSA LUBRENSE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MASSA LUBRENSE IC PULCARELLI-PA",
+		"indirizzo": "VIA REOLA SNC",
+		"cap": "80061",
+		"comune": "MASSA LUBRENSE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee34100x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MELITO 2 - FALCONE",
+		"indirizzo": "CORSO EUROPA N. 142/A",
+		"cap": "80017",
+		"comune": "MELITO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee34800p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MELITO 3 - DE CURTIS",
+		"indirizzo": "VIA TEVERE N. 10",
+		"cap": "80017",
+		"comune": "MELITO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fa00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MELITO 1 - TEN. L. MAURIELLO",
+		"indirizzo": "VIA CARLO ALBERTO DALLA CHIESA N. 3",
+		"cap": "80017",
+		"comune": "MELITO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm34100v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GUARANO MELITO DI NAPOLI",
+		"indirizzo": "VIA DELLE MAGNOLIE 5",
+		"cap": "80017",
+		"comune": "MELITO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps65000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO \"IMMANUEL KANT\" - MELITO DI NAPOLI",
+		"indirizzo": "VIA XXV APRILE  N. 7",
+		"cap": "80017",
+		"comune": "MELITO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc130004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.C. P.VIR.MARONE-META-",
+		"indirizzo": "VIA FLAVIO GIOIA N.16",
+		"cap": "80062",
+		"comune": "META",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic871003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "META I.C. BUONOCORE -FIENGA",
+		"indirizzo": "VIA        MARCONI, 21",
+		"cap": "80062",
+		"comune": "META",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee150001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "M. DI PROCIDA - CAPOLUOGO",
+		"indirizzo": "C.SO GARIBALDI 38",
+		"cap": "80070",
+		"comune": "MONTE DI PROCIDA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic86500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "M. DI PROCIDA - I.C. VESPUCCI",
+		"indirizzo": "CORSO UMBERTO I N. 72",
+		"cap": "80070",
+		"comune": "MONTE DI PROCIDA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee15100r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MUGNANO 1 - SEQUINO CAPOLUOGO",
+		"indirizzo": "VIA ROMA 80",
+		"cap": "80018",
+		"comune": "MUGNANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic827001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. SAVIO",
+		"indirizzo": "CORSO SECONDIGLIANO 80-90",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic82800r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 80 BERLINGUER",
+		"indirizzo": "IV? TRAVERSA CASSANO N? 28",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic83000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. MAROTTA",
+		"indirizzo": "VIA ADRIANO 10",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic83100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. MAIURI",
+		"indirizzo": "VIA        MOSCA               43",
+		"cap": "80129",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic833008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. CIMAROSA",
+		"indirizzo": "VIA POSILLIPO 88",
+		"cap": "80123",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic85100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. VITTORINO DA FELTRE",
+		"indirizzo": "RIONE NUOVA VILLA 1 VIA SORRENTO",
+		"cap": "80146",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic85200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 6 FAVA-GIOIA",
+		"indirizzo": "VICO TRONE, 14/B",
+		"cap": "80136",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic89000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. FIORELLI",
+		"indirizzo": "VIA        FIORELLI            2",
+		"cap": "80121",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic892004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. CAPUOZZO",
+		"indirizzo": "CENTRO DIREZIONALE ISOLA G9",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic89900v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. CONFALONIERI",
+		"indirizzo": "VC SS.FILIPPO E GIACOMO-VC S.SEVERINO",
+		"cap": "80138",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8a400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. A. RISTORI",
+		"indirizzo": "VIA L. D\\'ALAGNO, 16",
+		"cap": "80138",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8a500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. S. GIOVANNI BOSCO",
+		"indirizzo": "VIA ANGELO CAMILLO DE MEIS, 19",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8a8006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 9 C.D. CUOCO SCHIPA",
+		"indirizzo": "VIA SALVATOR ROSA, 118",
+		"cap": "80136",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8aa00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. GABELLI",
+		"indirizzo": "VIA        CASANOVA 30",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ad00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. BRACCO",
+		"indirizzo": "VIA        TEVERE              45",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee31900p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MUGNANO 2 - GIANCARLO SIANI",
+		"indirizzo": "VIA NAPOLI , PARCO MENNA",
+		"cap": "80018",
+		"comune": "MUGNANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0a000l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ILLUMINATO - CIRINO - MUGNANO",
+		"indirizzo": "VIA CESARE PAVESE",
+		"cap": "80018",
+		"comune": "MUGNANO DI NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee00300e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 3 - DE AMICIS",
+		"indirizzo": "VIA S.TERESA A CHIAIA 8",
+		"cap": "80121",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee00400a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 4 - RIVIERA",
+		"indirizzo": "VIALE MARIA CRISTINA DI SAVOIA 2/D",
+		"cap": "80122",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee005006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 5 - \"EUGENIO MONTALE\"",
+		"indirizzo": "VIALE DELLA RESISTENZA ,239",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee01700c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 17 - ANGIULLI",
+		"indirizzo": "P.ZZA M. PAGANO, 1",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee021004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 21 - MAMELI ZUPPETTA",
+		"indirizzo": "VIALE COLLI AMINEI 18B",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee02400g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 24 - DANTE ALIGHIERI",
+		"indirizzo": "PIAZZA CARLO III N. 33",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee03000v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 30 - PARINI",
+		"indirizzo": "VIA FOSSO DEL LUPO 15",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee03300a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 33 - RISORGIMENTO",
+		"indirizzo": "VIA CANONICO SCHERILLO 40",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee03600t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 36 - VANVITELLI",
+		"indirizzo": "VIA LUCA GIORDANO 128",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee03800d",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 38 - QUARATI",
+		"indirizzo": "VIA F.P.TOSTI 9",
+		"cap": "80127",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee039009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 39 - G. LEOPARDI",
+		"indirizzo": "VIA LEOPARDI, 135",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee05400b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 54 - SCHERILLO",
+		"indirizzo": "VIA STANISLAO MANNA 23",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee055007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 55 - PISCICELLI",
+		"indirizzo": "VIA MAURIZIO PISCICELLI 37",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee063006",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 63 - ANDREA DORIA",
+		"indirizzo": "PIAZZA MARCANTONIO COLONNA 15",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee069005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 69 - STEFANO BARBATO",
+		"indirizzo": "RIONE BISIGNANO A BARRA",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee084007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 84 - E.A. MARIO",
+		"indirizzo": "VIA U. IMPROTA PREFETTO 12",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee340004",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NA 48 - MADRE CLAUDIA RUSSO",
+		"indirizzo": "VIA DELLE REPUBBLICHE MARINARE 301",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic80700q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. S.GAETANO",
+		"indirizzo": "VIA RUGGIERO MOSCATI N. 5",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic80800g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. BONGHI",
+		"indirizzo": "VIA        VESUVIO",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic81000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. COLLETTA",
+		"indirizzo": "VIA S. GIOVANNI A CARBONARA 31",
+		"cap": "80139",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic81100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. BORSELLINO",
+		"indirizzo": "VIA   E.     COSENZ  47",
+		"cap": "80142",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic812007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. CAMPO DEL MORICINO",
+		"indirizzo": "PIAZZA     G. PEPE 7",
+		"cap": "80142",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic81400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. NAZARETH",
+		"indirizzo": "VIA  SAN ROMUALDO 24",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic81500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. D\\'ACQUISTO",
+		"indirizzo": "VIA        LAZIO 20",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic820006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. NEVIO",
+		"indirizzo": "VIA        TORRE CERVATI       9",
+		"cap": "80123",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic82200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. NOVARO- CAVOUR",
+		"indirizzo": "VIA NICOLARDI, 236",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic825009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. MINUCCI",
+		"indirizzo": "VIA  DOMENICO FONTANA 136",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic826005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C.PASCOLI 2",
+		"indirizzo": "VIA DEL CASSANO - RIONE DEI FIORI",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8af00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. VIRGILIO IV",
+		"indirizzo": "VIA        LABRIOLA LOTTO 10/H",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8aw00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C.  PAVESE",
+		"indirizzo": "VIA  DOMENICO FONTANA 176",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b0006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 49 TOTI-BORSI-GIURLEO",
+		"indirizzo": "PIAZZA V. APREA N.15",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b1002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 83 PORCHIANO-BORDIGA",
+		"indirizzo": "VIA MOLINO FELLAPANE S.N.C.",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b200t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. ALDO MORO",
+		"indirizzo": "VIA THOMAS ELIOT",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C.  88 E. DE FILIPPO",
+		"indirizzo": "VIA  DEL FLAUTO MAGICO LOTTO I",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 61 SAURO-ERRICO-PASCO",
+		"indirizzo": "VIALE DELLE GALASSIE, 2",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bd00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. MASSIMO TROISI",
+		"indirizzo": "VIA G. DE CHIRICO",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bq00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 26 IMBRIANI-S.A. LIGU",
+		"indirizzo": "VIA BORELLI 2",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8br00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. DELLA VALLE",
+		"indirizzo": "SALITA DEL CASALE 20",
+		"cap": "80123",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bt00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 22 ALBERTO MARIO",
+		"indirizzo": "PIAZZA SANT\\'EFRAMO VECCHIO, 130",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bv009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. CASANOVA-COSTANTINOPO",
+		"indirizzo": "PIAZZA CAVOUR 25",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bx001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. VOLINO-CROCE-ARCOLEO",
+		"indirizzo": "VIA A. DE GASPERIS, 15",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8by00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 29 MIRAGLIA-SOGLIANO",
+		"indirizzo": "PIAZZA NAZIONALE",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bz00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 47 SARRIA-MONTI",
+		"indirizzo": "VIA BERNARDINO MARTIRANO,7",
+		"cap": "80146",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 73 MICHELANGELO ILION",
+		"indirizzo": "VIA ILIONEO, 12",
+		"cap": "80124",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C  D\\'AOSTA-SCURA",
+		"indirizzo": "PIAZZA MONTECALVARIO, 24",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 68 RODINO\\'",
+		"indirizzo": "VIA CICCARELLI, 11",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c9007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. VIVIANI",
+		"indirizzo": "VIA        MANZONI             175",
+		"cap": "80123",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cf00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 51 ORIANI-GUARINO",
+		"indirizzo": "VIA G. PASCALE 34",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ck00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 71 AGANOOR-MARCONI",
+		"indirizzo": "TRAVERSA DELL\\'ABBONDANZA",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cm004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 58 KENNEDY",
+		"indirizzo": "VIA MONTE ROSA 149",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cp00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. FALCONE",
+		"indirizzo": "VIA PALLUCCI 100",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cu004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. DON GIUSTINO-RUSSOLIL",
+		"indirizzo": "CORSO  DUCA D\\'AOSTA",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cv00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C.  PALASCIANO",
+		"indirizzo": "VIA VINCENZO MARRONE 65",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cw00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. FERDINANDO RUSSO",
+		"indirizzo": "VIA MARRONE 67 69",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cx00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. S. CARITEO  ITALICO",
+		"indirizzo": "VIA DEGLI SCIPIONI 4",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cy00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 41 CONSOLE",
+		"indirizzo": "VIA DIOMEDE CARAFA 28",
+		"cap": "80124",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d1007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 19 RUSSO-MONTALE",
+		"indirizzo": "VIA S.MARGHERITA A FONSE10",
+		"cap": "80135",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C.  AUGUSTO",
+		"indirizzo": "VIA TERRACINA 157",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dc00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 28 GIOVANNI XXIII-ALI",
+		"indirizzo": "VIA TOSCANELLA 235",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dd00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. BARACCA-VITT. EMANUEL",
+		"indirizzo": "VICO TIRATOIO 25",
+		"cap": "80132",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dg006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 64 RODARI-MOSCATI",
+		"indirizzo": "VIA LOMBARDIA,28",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 35 SCUDILLO-SALVEMINI",
+		"indirizzo": "VIA SAVERIO GATTO, 16/A",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e5005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 87 PERTINI-DON GUANEL",
+		"indirizzo": "VIA  GHISLERI, 182",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. NICOLINI-DI GIACOMO",
+		"indirizzo": "VIA ANTONIO SOGLIANO N. 45",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8e900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 12 FOSCOLO-OBERDAN",
+		"indirizzo": "PIAZZA DEL GESU\\'NUOVO N.2",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ec00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 46 SCIALOJA-CORTESE",
+		"indirizzo": "VIA COMUNALE OTTAVIANO, 130 BIS",
+		"cap": "80146",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ep00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 85 CARO-BERLINGIERI",
+		"indirizzo": "VIALE  DELLE GALASSIE 10",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8eq00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 53 GIGANTE-NEGHELLI",
+		"indirizzo": "PIAZZA NEGHELLI 41",
+		"cap": "80124",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8er00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 10 ILARIA ALPI-LEVI",
+		"indirizzo": "ZONA 167",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ey00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 42 CARAFA-SALVEMINI",
+		"indirizzo": "VIA R. MARFELLA 6 E",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 20  VILLA FLEURENT",
+		"indirizzo": "CALATA CAPODICHINO 211/A",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f8007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. RADICE-SANZIO-AMMATUR",
+		"indirizzo": "VIA ROBERTO CUOMO 78",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fm00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 91 MINNITI",
+		"indirizzo": "VIA        CONSALVO            93",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais09400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S -\"CASELLI\"-NAPOLI-",
+		"indirizzo": "PARCO      DI CAPODIMONTE",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais09600g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  \"SANNINO-PETRICCIONE\" NAPOLI",
+		"indirizzo": "VIA CAMILLO DE\\' MEIS N.243",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais098007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.SUP.\"V.VENETO\"-NAPOLI",
+		"indirizzo": "VIALE DEI PIANETI 1/A",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais099003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. SUP.\" G.SIANI\"-NAPOLI-",
+		"indirizzo": "VIA        PIETRAVALLE",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais104009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\" V. EMANUELE II\" -NAPOLI-",
+		"indirizzo": "VIA CORRADO  BARBAGALLO, 32",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais10700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"PAOLO COLOSIMO\"",
+		"indirizzo": "VIA SANTA TERESA DEGLI SCALZI 35",
+		"cap": "80136",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais11100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"MELISSA BASSI\"",
+		"indirizzo": "VIALE DELLA RESISTENZA, 255",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais118007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"D\\'ESTE-CARACCIOLO\"",
+		"indirizzo": "VIA GIACOMO SAVARESE, 60",
+		"cap": "80142",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais12300p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.SUP.-FORTUNATO-NAPOLI-",
+		"indirizzo": "VIA        ACITILLO 57",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais12400e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.SUP.   U.BOCCIONI-PALIZZI",
+		"indirizzo": "VIA TERRACINA, 180",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais126006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. SUP. \"ARCHIMEDE\" -",
+		"indirizzo": "VIA EMILIO SALGARI,8",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais12900n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. SUP ATTILIO ROMANO\\'",
+		"indirizzo": "V. MIANO   290",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm005005",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "BELVEDERE A.-NAPOLI-",
+		"indirizzo": "LARGO MARTUSCELLI,26",
+		"cap": "80127",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm04900v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "LIVIO T.-NAPOLI-",
+		"indirizzo": "LARGO FERRANDINA A CHIAIA,3",
+		"cap": "80121",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm07800v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS POERIO C.-NAPOLI-",
+		"indirizzo": "CORSO VITTORIO EMANUELE 124",
+		"cap": "80121",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fr003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 70 MARINO-S. ROSA",
+		"indirizzo": "VIA LUIGI VOLPICELLA 372/G",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gb00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 13 IGNAZIO DI LOYOLA",
+		"indirizzo": "VIA S. IGNAZIO DI LOYOLA 3",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gd00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NA - I.C. 76 F. MASTRIANI",
+		"indirizzo": "VIA GORIZIA, 1/A",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais00300l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.-ITN.DUCA DEGLI ABRUZZI-IPIAM NAPOLI",
+		"indirizzo": "VIA DI POZZUOLI, 5",
+		"cap": "80124",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais006004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS ROSARIO LIVATINO",
+		"indirizzo": "VIA D. ATRIPALDI, 42",
+		"cap": "80146",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais021006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. - ITAS - L. SC. - \"E. DI SAVOIA\"",
+		"indirizzo": "LARGO SAN MARCELLINO 15",
+		"cap": "80138",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais022002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"F. S. NITTI\"",
+		"indirizzo": "VIA KENNEDY 140.142",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais026009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. LICEO \"ELSA MORANTE\"",
+		"indirizzo": "VIA MONTE ROSA 31/B",
+		"cap": "80144",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais042007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. DE NICOLA",
+		"indirizzo": "VIA   E. A. MARIO",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais049002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISIS F. DE SANCTIS NAPOLI",
+		"indirizzo": "PIAZZA     S.MARIA IN PORTICO 23",
+		"cap": "80122",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais051002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. CASANOVA-NAPOLI-",
+		"indirizzo": "PIAZZETTA  CASANOVA 4",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais05200t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. ANTONIO SERRA- NAPOLI-",
+		"indirizzo": "VIA TRINITA\\' DELLE MONACHE 2",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais064004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. \" TOGNAZZI-DE CILLIS\"",
+		"indirizzo": "VIALE ITALIA PARCO EUROPA",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais06800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE \"GENTILESCHI\"",
+		"indirizzo": "VIA NUOVA AGNANO, 30",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais08700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.   M. PAGANO    G.L.BERNINI",
+		"indirizzo": "VIA ANDREA D\\'ISERNIA  N.40",
+		"cap": "80122",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm098004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SOLIMENA NAPOLI",
+		"indirizzo": "C/SO B.BUOZZI N. 55",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0cp00l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA NAPOLI CITTA 1",
+		"indirizzo": "VIALE DELLA RESISTENZA, 255",
+		"cap": "80100",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0cq00c",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "NAPOLI 2 C/O \"E.DI SAVOIA-DIAZ\"",
+		"indirizzo": "VIA TRIBUNALI 370",
+		"cap": "80135",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm10100p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "VERGA G.-NAPOLI-",
+		"indirizzo": "VIA BOSCO  DI CAPODIMONTE      75B",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm607002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "VIALE DELLE ACACIE",
+		"indirizzo": "VIA G. PUCCINI 1",
+		"cap": "80127",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm60800t",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "D\\'OVIDIO+NICOLARDI-NAPOLI-",
+		"indirizzo": "VIA S.GIACOMO DEI CAPRI 43 BIS",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm649004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "PIRANDELLO - SVEVO  NAPOLI",
+		"indirizzo": "VIA CANONICO SCHERILLO, 34/38",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc010002",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO STATALE  ANTONIO GENOVESI",
+		"indirizzo": "PIAZZA DEL GESU\\' NUOVO, 1",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc09000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLAS.VICO DI NAPOLI",
+		"indirizzo": "VIA  SALVATOR ROSA 117",
+		"cap": "80136",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc100008",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLAS.GARIBALDI-NAPOLI-",
+		"indirizzo": "VIA CARLO PECCHIA, 26",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc11000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLAS.SANNAZARO-NAPOLI-",
+		"indirizzo": "VIA        PUCCINI 12",
+		"cap": "80127",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc14000p",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLAS.UMBERTO I-NAPOLI-",
+		"indirizzo": "PIAZZA     AMENDOLA 6",
+		"cap": "80121",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc16000x",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CL.V.EMANUELE II-NAPOLI-",
+		"indirizzo": "VIA        SAN SEBASTIANO 51",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc180005",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLAS.PANSINI-NAPOLI-",
+		"indirizzo": "PIAZZA     QUATTRO GIORNATE",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm010006",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IST.MAG.FONSECA-NAPOLI-",
+		"indirizzo": "VIA        BENEDETTO CROCE 2",
+		"cap": "80134",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh01000v",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSAR \"I. CAVALCANTI\" NAPOLI",
+		"indirizzo": "SEDE AMM/VA VIA TAVERNA DEL FERRO, 4",
+		"cap": "80146",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh080005",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSAR \"G.ROSSINI\" BAGNOLI - NAPOLI",
+		"indirizzo": "PIAZZA BAGNOLI 1",
+		"cap": "80124",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh150006",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSEOA  DUCA DI BUONVICINO  NAPOLI",
+		"indirizzo": "VIA P.RAIMONDI, 19  CALATA CAPODICHINO",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh17000b",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "ANTONIO ESPOSITO FERRAIOLI",
+		"indirizzo": "CORSO MALTA, 147",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nasl010002",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LIC.ARTISTICO-NAPOLI-",
+		"indirizzo": "VIA        SS. APOSTOLI, 8/A",
+		"cap": "80138",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd07000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC F. GALIANI",
+		"indirizzo": "VIA  DON BOSCO, 6",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd24000e",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC E.CARUSO-NAPOLI-",
+		"indirizzo": "VIA SAN GIOVANNI DE MATHA, 8",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf010007",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "I.T.I. ALESSANDRO VOLTA",
+		"indirizzo": "PIAZZA SANTA MARIA DELLA FEDE, N. 16",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf02000t",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI RIGHI DI NAPOLI",
+		"indirizzo": "VIALE      KENNEDY 112",
+		"cap": "80125",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf05000n",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI GIORDANI- STRIANO   NAPOLI-",
+		"indirizzo": "VIA        CARAVAGGIO 184",
+		"cap": "80126",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf07000v",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "\"LEONARDO DA VINCI\" - NAPOLI",
+		"indirizzo": "VIA FOGGIA, 37",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf17000q",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI G.FERRARIS-NAPOLI-",
+		"indirizzo": "RIONE SCAMPIA - VIA LABRIOLA LOTTO 2",
+		"cap": "80145",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf190001",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITT \"MARIE CURIE\" NAPOLI",
+		"indirizzo": "VIA ARGINE N.902",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf24000r",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI \"FERMI - GADDA\" NAPOLI",
+		"indirizzo": "CORSO      MALTA 141",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natl090008",
+		"tipo": "ISTITUTO TECNICO PER GEOMETRI",
+		"nome": "ITG \"DELLA PORTA- PORZIO \" NAPOLI-",
+		"indirizzo": "VIA        FORIA 65",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "navc010009",
+		"tipo": "CONVITTO ANNESSO",
+		"nome": "CONV.NAZ.EMAN.LE II-NAPOLI-",
+		"indirizzo": "PIAZZA     DANTE               41",
+		"cap": "80135",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee15200l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NOLA 1 - T. VITALE CAPOLUOGO",
+		"indirizzo": "PIAZZA RISORGIMENTO,1",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee15300c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "NOLA 2 - SANSEVERINO",
+		"indirizzo": "VIA CICCONE N. 18",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ap00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOLA - I.C. MAMELI",
+		"indirizzo": "VIA        VETRAI  6",
+		"cap": "80037",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bc00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOLA -I.C GIORDANO BRUNO-F IORE",
+		"indirizzo": "VIA PUCCINI N. 1",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd350002",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC-ITCG  MASULLO-THETI - NOLA",
+		"indirizzo": "VIA MARIO DE SENA",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais11400x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.  \"LEONE-NOBILE\"",
+		"indirizzo": "VIA DEI MILLE, 40",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0cs00d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "NA.PROV.2  C/O \"MASULLO-THETI\"",
+		"indirizzo": "VIA MARIO DE SENA",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm622004",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.M. MERLIANO-TANSILLO NOLA",
+		"indirizzo": "VIA SEMINARIO N. 68",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc33000t",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CL.-G.CARDUCCI-NOLA-",
+		"indirizzo": "VIA        DEL SEMINARIO 87/89",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais03900b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S  ALBERTINI",
+		"indirizzo": "VIA  CIRCUMVALLAZIONE, 292",
+		"cap": "80035",
+		"comune": "NOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bf005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OTTAVIANO - I.C. SAN GENNARELLO",
+		"indirizzo": "VIA PAPPALARDO N.  191",
+		"cap": "80044",
+		"comune": "OTTAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cg00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OTTAVIANO -I.C. D\\'AOSTA",
+		"indirizzo": "VIALE CESARE AUGUSTO",
+		"cap": "80044",
+		"comune": "OTTAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais05800r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S. \"L. DE\\' MEDICI\" OTTAVIANO",
+		"indirizzo": "VIA ZABATTA 19",
+		"cap": "80044",
+		"comune": "OTTAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais057001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICEO  ARMANDO DIAZ",
+		"indirizzo": "VIA        FF.SS. 17/19",
+		"cap": "80044",
+		"comune": "OTTAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm02000r",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IS.MAG.G.MAZZINI-NAPOLI-",
+		"indirizzo": "VIA        SOLIMENA 62",
+		"cap": "80129",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm39000n",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IST. ISTR. LICEALE \"M DI SAVOIA\"",
+		"indirizzo": "SALITA PONTECORVO 72",
+		"cap": "80135",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm05000l",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IST.MAG.VILLARI-NAPOLI-",
+		"indirizzo": "VIA        RIMINI 6",
+		"cap": "80143",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm10000c",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE DON LORENZO MILANI  NAPOLI",
+		"indirizzo": "VIALE 2 GIUGNO ZONA LAGHETTO",
+		"cap": "80146",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm160004",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "\"LICEO STATALE COMENIO\"",
+		"indirizzo": "VIA SAVERIO GATTO 16/C",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps860005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENT. G. GALILEI-NAPOLI-",
+		"indirizzo": "VIA SAN DOMENICO AL C.SO EUROPA N.107",
+		"cap": "80127",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps05000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS  G.MERCALLI",
+		"indirizzo": "VIA  A. D\\'ISERNIA , 34",
+		"cap": "80122",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps060006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SCIE.CARO DI NAPOLI",
+		"indirizzo": "VIA        A. MANZONI 53",
+		"cap": "80123",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps07000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.CACCIOPPOLI-NAPOLI-",
+		"indirizzo": "VIA        NUOVA DEL CAMPO 22/R",
+		"cap": "80141",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps08000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.ALBERTI-NAPOLI-",
+		"indirizzo": "VIA        PIGNA, 178",
+		"cap": "80128",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps200008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.CALAMANDREI-NAPOLI-",
+		"indirizzo": "VIA COMUNALE MARANDA 84",
+		"cap": "80147",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps22000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS E.VITTORINI-NAPOLI",
+		"indirizzo": "VIA DOMENICO FONTANA 172",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps92000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.F.SBORDONE-NAPOLI-",
+		"indirizzo": "VIA VECCHIA SAN ROCCO 16",
+		"cap": "80131",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps78000d",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO \"ARTURO LABRIOLA\"",
+		"indirizzo": "VIA CERBONE, 61 NAPOLI",
+		"cap": "80124",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps84000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.LING.\"CUOCO-CAMPANELLA\" DI NAPOLI",
+		"indirizzo": "VIA A. DE GASPARIS 12",
+		"cap": "80137",
+		"comune": "NAPOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm230005",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IST.MAGIS.M. SERAO - POMIGLIANO D\\'ARCO",
+		"indirizzo": "VIA CARDUCCI,20",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napq01000a",
+		"tipo": "SCUOLA MAGISTRALE",
+		"nome": "LIC. SCIENTIF. - SCIENZE UMANE \"CANTONE\"",
+		"indirizzo": "VIA SAVONA",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bu00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POMIGLIANO I.C. SULMONA -LEONE",
+		"indirizzo": "VIA SANDRO PERTINI, 35",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf040003",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI E.BARSANTI-POMIGLIAN0 D\\'ARCO",
+		"indirizzo": "VIA MAURO LEONE 105",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee358009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POMIGLIANO 2 - CAPOLUOGO",
+		"indirizzo": "VIA ROMA",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8de00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POMIGLIANO I.C.FALCONE CATULLO",
+		"indirizzo": "VIALE  GIOVANNI FALCONE N.31",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee16000g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POMIGLIANO 1  FRASSO",
+		"indirizzo": "VIA INDIPENDENZA 1",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps12000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENT. E. PASCAL - POMPEI-",
+		"indirizzo": "VIALE UNITA\\' D\\'ITALIA, 42",
+		"cap": "80045",
+		"comune": "POMPEI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b5009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POMPEI IC AMEDEO MAIURI",
+		"indirizzo": "VIA S.ABBONDIO",
+		"cap": "80045",
+		"comune": "POMPEI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POMPEI IC MATTEO DELLA CORTE",
+		"indirizzo": "VIA  ASTOLELLE",
+		"cap": "80045",
+		"comune": "POMPEI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee220002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POMPEI 2",
+		"indirizzo": "VIA PARROCO FEDERICO, N. 83",
+		"cap": "80045",
+		"comune": "POMPEI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee162007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POMPEI 1 - CAPOLUOGO -",
+		"indirizzo": "VIA COLLE S.BARTOLOMEO 11",
+		"cap": "80045",
+		"comune": "POMPEI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bp001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTICI 3 ISTITUTO COMPRENSIVO",
+		"indirizzo": "VIA S. CRISTOFARO 56/BIS",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fw00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTICI IC L.DA VINCI-COMES D.M",
+		"indirizzo": "VIA BERNINI 10",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ca00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTICI IC 1 D.BOSCO - MELLONI",
+		"indirizzo": "CORSO GARIBALDI 142",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cj00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "OTTAVIANO - I.C. M. BENEVENTANO",
+		"indirizzo": "VIA D.BENEVENTANO",
+		"cap": "80044",
+		"comune": "OTTAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cq00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PALMA CAMP. I.C. 1 DE CURTIS",
+		"indirizzo": "VIA MUNICIPIO",
+		"cap": "80036",
+		"comune": "PALMA CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cr007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PALMA CAMP. -I.C. 2 V.RUSSO",
+		"indirizzo": "VIA TRIESTE N.121",
+		"cap": "80036",
+		"comune": "PALMA CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais11600g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. L.C. ITCG \"ROSMINI\" PALMA CAMPANIA-",
+		"indirizzo": "VIA        UGO DE FAZIO 10",
+		"cap": "80036",
+		"comune": "PALMA CAMPANIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bn009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PIANO  DI SORRENTO I.C.",
+		"indirizzo": "VIA F.CIAMPA, 54",
+		"cap": "80063",
+		"comune": "PIANO DI SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais086001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. NINO BIXIO-PIANO SORRENTO",
+		"indirizzo": "VIA S.E. DE MARTINO, 16",
+		"cap": "80063",
+		"comune": "PIANO DI SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic86400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PIMONTE I.C. PARIDE DEL POZZO",
+		"indirizzo": "VIA   S.SPIRITO  6",
+		"cap": "80050",
+		"comune": "PIMONTE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais019006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.-ITCG-L.SC.-L.DA VINCI-POGGIOMARINO",
+		"indirizzo": "VIA FILIPPO TURATI",
+		"cap": "80040",
+		"comune": "POGGIOMARINO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee15800g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POGGIOMARINO 2 - TORTORELLE",
+		"indirizzo": "VIA G. IERVOLINO 335",
+		"cap": "80040",
+		"comune": "POGGIOMARINO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f9003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POGGIOMARINO 1 IC - CAPOLUOGO",
+		"indirizzo": "VIA ROMA",
+		"cap": "80040",
+		"comune": "POGGIOMARINO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic863004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POGGIOMARINO IC DE FILIPPO",
+		"indirizzo": "VIA XXV APRILE, 10",
+		"cap": "80040",
+		"comune": "POGGIOMARINO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ct008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POLLENA I.C. G. DONIZETTI",
+		"indirizzo": "VIA FUSCO 11",
+		"cap": "80040",
+		"comune": "POLLENA TROCCHIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bw005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POMIGLIANO I. C.  - OMERO-MAZZI",
+		"indirizzo": "VIA MAZZINI, 29",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais078002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. D\\'ISTRUZIONE SUPERIORE \"EUROPA\"",
+		"indirizzo": "VIA FIUGGI, 14",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc19000q",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CLAS.SC.\"V. IMBRIANI\"POMIGLIANO D\\'ARCO",
+		"indirizzo": "VIA  PRATOLA PONTE N. 20/22",
+		"cap": "80038",
+		"comune": "POMIGLIANO D\\'ARCO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dm00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI I.C. 8 ORIANI DIAZ SUC",
+		"indirizzo": "P.ZZA SAN MASSIMO,SNC",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dl00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI I.C. 2 DE AMCIS - DIAZ",
+		"indirizzo": "VIA SEVERINI LOC. MONTERUSCELLO",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8d7006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI IC - 5  ARTIACO",
+		"indirizzo": "VIA CAMPANA 98",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee16600e",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POZZUOLI 1 - G. MARCONI",
+		"indirizzo": "VIA CARLO ROSINI,12",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dy002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI IC 6 QUASIMODO DICEARC",
+		"indirizzo": "VIA ANTONINO PIO 32",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natd130003",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITCG V.PARETO-POZZUOLI",
+		"indirizzo": "VIA R. ANNECCHINO 252",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "narh06000x",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSAR LUCIO PETRONIO POZZUOLI",
+		"indirizzo": "VIA MATILDE SERAO 13",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fn00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PROCIDA  CAPRARO",
+		"indirizzo": "VIA LARGO CADUTI 2",
+		"cap": "80079",
+		"comune": "PROCIDA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais02300t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S. - ITN CARACCIOLO IM.G DA PROCIDA",
+		"indirizzo": "VIA PRINCIPE UMBERTO 40",
+		"cap": "80079",
+		"comune": "PROCIDA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee17200t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "QUALIANO 1 - RIONE PRINCIPE",
+		"indirizzo": "VIA COSTANTINO, 26",
+		"cap": "80019",
+		"comune": "QUALIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gr00n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "QUALIANO IC DI GIACOMO 3 S.CHIA",
+		"indirizzo": "VIA B. CROCE 45",
+		"cap": "80019",
+		"comune": "QUALIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dx006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "QUALIANO I.C. 2 D. BOSCO VERDI",
+		"indirizzo": "VIA SILVIO PELLICO17",
+		"cap": "80019",
+		"comune": "QUALIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fc004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "QUARTO I.C. 3 GADDA CENTR.",
+		"indirizzo": "VIA A.GRAMSCI,22 ED. SCOLASTICO",
+		"cap": "80010",
+		"comune": "QUARTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais03700q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S DI QUARTO",
+		"indirizzo": "VIA VAIANI,44",
+		"cap": "80010",
+		"comune": "QUARTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm0a100c",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GOBETTI - DE FILIPPO - QUARTO",
+		"indirizzo": "CORSO ITALIA 166",
+		"cap": "80010",
+		"comune": "QUARTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fv00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTICI I.C. 5 C. SANTAGATA",
+		"indirizzo": "VIA POLI , 68",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cc008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTICI  IC 4 DE LAUZIERES",
+		"indirizzo": "VIA SALUTE 45",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps03000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC.F.SILVESTRI-PORTICI-",
+		"indirizzo": "PIAZZA     S. PASQUALE",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais084009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZIONE SUPERIORE \"C. LEVI\"",
+		"indirizzo": "VIA        DE NITTIS , 08",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais08300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. LICEALE\" O. FLACCO\"-PORTICI-",
+		"indirizzo": "VIA SCALEA N.30",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais10200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. S .\" NITTI\" PORTICI",
+		"indirizzo": "CORSO GARIBALDI  254 - INGRESSO VIA SCALEA 30",
+		"cap": "80055",
+		"comune": "PORTICI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napm07000t",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "IS.MAG.VIRGILIO-POZZUOLI-",
+		"indirizzo": "VIA VECCHIA SAN GENNARO 106",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm41400b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "DIANO -POZZUOLI-",
+		"indirizzo": "VIA  SOLFATARA",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais09100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I. SUPERIORE \" GUIDO TASSINARI\"",
+		"indirizzo": "VIA   FASANO 13",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais06200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.\"G. FALCONE\" POZZUOLI",
+		"indirizzo": "VIALE DELL\\'EUROPA UNITA N.13",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais03200l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICEO STATALE \"ETTORE MAJORANA\"",
+		"indirizzo": "VIA ALFONSO GATTO 6",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais00400c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE STATALE PITAGORA",
+		"indirizzo": "VIA TIBERIO, 1 80078 - POZZUOLI (NA)",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dw00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI I.C. 7 PERGOLESI 2",
+		"indirizzo": "VIA VIVIANI 3 -L. 12 MONTERUSCIELLO",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8dv00e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI I.C. 4  PERGOLESI",
+		"indirizzo": "VIA R. ANNECCHINO, 131",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8du00p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POZZUOLI I.C. 3 RODARI ANNECCH",
+		"indirizzo": "VIA MODIGLIANI, 30/32",
+		"cap": "80078",
+		"comune": "POZZUOLI",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee23600g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "QUARTO 2  CASELANNO",
+		"indirizzo": "VIA CROCILLO  154",
+		"cap": "80010",
+		"comune": "QUARTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee17300n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "QUARTO 1 - CAPOLUOGO",
+		"indirizzo": "VIA I MAGGIO 4",
+		"cap": "80010",
+		"comune": "QUARTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "QUARTO I.C. 4 DON L. MILANI",
+		"indirizzo": "VIA PABLO PICASSO, 20",
+		"cap": "80010",
+		"comune": "QUARTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fx00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ROCCARAINOLA I.C. S. GIOVANNI 1",
+		"indirizzo": "VIA SAN NICOLA, 1",
+		"cap": "80030",
+		"comune": "ROCCARAINOLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais063008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "- I. S. CARAVAGGIO  SAN GENNARO VES. -",
+		"indirizzo": "VIA POGGIOMARINO, 67",
+		"cap": "80040",
+		"comune": "SAN GENNARO VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gk00v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN GENNARO VES. I.C. CAPOLUOGO",
+		"indirizzo": "VIA FERROVIA",
+		"cap": "80040",
+		"comune": "SAN GENNARO VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fd00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.GIORGIO I.C. M.TROISI",
+		"indirizzo": "VIA E.GIANTURCO 75",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf14000x",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI ENRICO MEDI",
+		"indirizzo": "VIA  BUONGIOVANNI N. 84",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps36000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SCIENT.\"CARLO URBANI\"SAN GIORGIO A CR.",
+		"indirizzo": "VIA BUONGIOVANNI N.77",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais08200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZ. SUPERIORE R.SCOTELLARO",
+		"indirizzo": "VIA CARDUCCI 31",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fg00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.GIORGIO I.C. 4 - STANZIALE",
+		"indirizzo": "VIA A. NOSCHESE,1",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ff00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.GIORGIO I.C. 3 - DORSO",
+		"indirizzo": "VIA CUPA SAN MICHELE, 32",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fe00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.GIORGIO I.C. 2 - MASSAIA",
+		"indirizzo": "CORSO UMBERTO",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8an003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.GIORGIO I.C. DE FILIPPO",
+		"indirizzo": "VIA CAVALLI DI BRONZO, 50",
+		"cap": "80046",
+		"comune": "SAN GIORGIO A CREMANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee17800r",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "S.GIUSEPPE VES. 2 -",
+		"indirizzo": "VIA S.LEONARDO,2",
+		"cap": "80047",
+		"comune": "SAN GIUSEPPE VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fj00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.GIUSEPPE VES. I.C 3 CESCHELLI",
+		"indirizzo": "VIA CIFERI N. 53",
+		"cap": "80047",
+		"comune": "SAN GIUSEPPE VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm62600b",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SM. AMMENDOLA-DE AMICIS S.GIUS.",
+		"indirizzo": "VIA MARCIOTTI",
+		"cap": "80047",
+		"comune": "SAN GIUSEPPE VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee177001",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "S.GIUSEPPE VES. 1 - CAPOLUOGO",
+		"indirizzo": "VIA CESARE BATTISTI N.27",
+		"cap": "80047",
+		"comune": "SAN GIUSEPPE VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais10100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS.  \" EINAUDI-GIORDANO\"",
+		"indirizzo": "VIA EUROPA",
+		"cap": "80047",
+		"comune": "SAN GIUSEPPE VESUVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.PAOLO BELSITO I.C. COSTANTINI",
+		"indirizzo": "VIA CARACCIOLO,1",
+		"cap": "80030",
+		"comune": "SAN PAOLO BEL SITO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps26000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.SC-DI GIACOMO.S.SEB.VESUVIO-",
+		"indirizzo": "VIA      FALCONI",
+		"cap": "80040",
+		"comune": "SAN SEBASTIANO AL VESUVIO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm47600p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SMS SALVEMINI-S.SEBASTIANO VES.",
+		"indirizzo": "VIA  FALCONI 12",
+		"cap": "80040",
+		"comune": "SAN SEBASTIANO AL VESUVIO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee23100c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SAN SEBASTIANO AL VESUVIO",
+		"indirizzo": "VIA DEGLI ASTRONAUTI 8",
+		"cap": "80040",
+		"comune": "SAN SEBASTIANO AL VESUVIO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic85800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SANT\\'AGNELLO IC A. GEMELLI",
+		"indirizzo": "PIAZZA     MATTEOTTI 18",
+		"cap": "80065",
+		"comune": "SANT\\'AGNELLO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais001001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S- \"L. PACIOLI\"",
+		"indirizzo": "VIA EUROPA 7/13",
+		"cap": "80048",
+		"comune": "SANT\\'ANASTASIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ak00g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANASTASIA - I.C. 2",
+		"indirizzo": "VIA G. BOCCACCIO",
+		"cap": "80048",
+		"comune": "SANT\\'ANASTASIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8ay003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANASTASIA  I.C.3-F. D\\'ASSISI",
+		"indirizzo": "VIA VERDI 100",
+		"cap": "80048",
+		"comune": "SANT\\'ANASTASIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8al00b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.ANASTASIA-I.C.I TEN.M.DE ROSA",
+		"indirizzo": "VIA REGINA MARGHERITA 28",
+		"cap": "80048",
+		"comune": "SANT\\'ANASTASIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8a600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANASTASIA - I.C.  4",
+		"indirizzo": "VIA ROSANEA ,29",
+		"cap": "80048",
+		"comune": "SANT\\'ANASTASIA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais077006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. SUP.\" G.MOSCATI\"-SANT\\'ANTIMO-",
+		"indirizzo": "VIA        F. SOLIMENA,44",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps540009",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "E. TORRICELLI",
+		"indirizzo": "VIA  S. ALOIA",
+		"cap": "80049",
+		"comune": "SOMMA VESUVIANA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "natf15000e",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI E. MAJORANA SOMMA VESUVIANA",
+		"indirizzo": "VIA SAN SOSSIO 7",
+		"cap": "80049",
+		"comune": "SOMMA VESUVIANA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee18500x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SOMMA VES. 1 - RAFFAELE ARFE",
+		"indirizzo": "VIA ROMA 59",
+		"cap": "80049",
+		"comune": "SOMMA VESUVIANA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee21400p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SOMMA VES. 2 - DON MINZONI",
+		"indirizzo": "VIA DON MINZONI,16",
+		"cap": "80049",
+		"comune": "SOMMA VESUVIANA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee33500l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SOMMA VES. 3 -",
+		"indirizzo": "VIA S.MARIA DEL POZZO 101",
+		"cap": "80049",
+		"comune": "SOMMA VESUVIANA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm488001",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "S.G.BOSCO-SUMMA VILLA-S0MMA VES",
+		"indirizzo": "PIAZZA VITTORIO EMANUELE III",
+		"cap": "80049",
+		"comune": "SOMMA VESUVIANA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SORRENTO CAP",
+		"indirizzo": "VIA V.VENETO 16",
+		"cap": "80067",
+		"comune": "SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fk008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SORRENTO IC TASSO",
+		"indirizzo": "VIA MARZIALE, 18",
+		"cap": "80067",
+		"comune": "SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais01600p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "POLISPECIALISTICO \"SAN PAOLO\"",
+		"indirizzo": "PIAZZA DELLA VITTORIA 1",
+		"cap": "80067",
+		"comune": "SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps180008",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS G.SALVEMINI",
+		"indirizzo": "VIA S. ANTONIO N.2",
+		"cap": "80067",
+		"comune": "SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais10300d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.   L.A-I.P.I.A.  .\"F. GRANDI\"",
+		"indirizzo": "VICO PRIMO ROTA N.2",
+		"cap": "80067",
+		"comune": "SORRENTO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic855005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "STRIANO I.C. D\\'AVINO",
+		"indirizzo": "VIA MONTE",
+		"cap": "80040",
+		"comune": "STRIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c3008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TERZIGNO I.C. GIUSTI",
+		"indirizzo": "VIA S.ANTONIO",
+		"cap": "80040",
+		"comune": "TERZIGNO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee18700g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "TERZIGNO - CAPOLUOGO -",
+		"indirizzo": "VIA GIONTI 11",
+		"cap": "80040",
+		"comune": "TERZIGNO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bg001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.ANNUNZIATA  I.C.  ALFIERI",
+		"indirizzo": "VIA GAMBARDELLA 13 BIS",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee191007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "T.ANNUNZIATA  4C.D. C.N. CESARO",
+		"indirizzo": "VIA V.VENETO, 441",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nasd04000b",
+		"tipo": "ISTITUTO D\\'ARTE",
+		"nome": "LICEO ARTISTICO STATALE-\"G. DE CHIRICO\"",
+		"indirizzo": "VIA VITTORIO VENETO, 514",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee189007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "T.ANNUNZIATA 2 C.D. SIANI",
+		"indirizzo": "VIA TAGLIAMONTE",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps930006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L.STATALE  PITAGORA-B.CROCE T.ANN.TA",
+		"indirizzo": "VIA TAGLIAMONTE, 13",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm50900r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "G. PASCOLI TORRE ANNUNZIATA",
+		"indirizzo": "VIA  TAGLIAMONTE 21",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais112008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS..CESARO-VESEVUS",
+		"indirizzo": "VIA        ALESSANDRO VOLTA 2",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais08900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.\" G.MARCONI\"-T.ANN.TA-",
+		"indirizzo": "VIA ROMA TRAV. SIANO",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais04100b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.IS. GRAZIANI DI TORRE ANN.",
+		"indirizzo": "VIA SEPOLCRI 10",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fz003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.ANNUNZIATA I.C. PARINI-ROVIGL",
+		"indirizzo": "VIA MORTELLETO 81",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fy007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.ANNUNZIATA I.C.  G.LEOPARDI",
+		"indirizzo": "VIA CAVOUR 26",
+		"cap": "80058",
+		"comune": "TORRE ANNUNZIATA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8df00a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO ICS G.FALCONE-R.SCAUDA",
+		"indirizzo": "VIA CUPA CAMPANARIELLO N.5",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bm00d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO IC G.B. ANGIOLETTI",
+		"indirizzo": "VIA GIOVANNI XXIII, 22",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "napc060003",
+		"tipo": "LICEO CLASSICO",
+		"nome": "L.CL.\"G.DE BOTTIS\"",
+		"indirizzo": "VIALE      CAMPANIA N.4",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps130007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS NOBEL",
+		"indirizzo": "VIA A. DE GASPERI,80/BIS",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais01700e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.  C. COLOMBO",
+		"indirizzo": "CORSO GARIBALDI 5 BIS",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fl004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLARICCA IC   \"G.SIANI\"",
+		"indirizzo": "VIA E.FERMI 43",
+		"cap": "80010",
+		"comune": "VILLARICCA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "namm535009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "SC. SEC. DI I GRADO  ADA NEGRI",
+		"indirizzo": "VIA  DELLA LIBERTA\\',20",
+		"cap": "80010",
+		"comune": "VILLARICCA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic80300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VISCIANO - I.C. ROSSINI",
+		"indirizzo": "TRAV. LANCELLOTTI",
+		"cap": "80030",
+		"comune": "VISCIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b800r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VOLLA IC  SAN GIOVANNI BOSCO",
+		"indirizzo": "VIA NAPOLI, 35",
+		"cap": "80040",
+		"comune": "VOLLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic87400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VOLLA - I.C.  V. DE SICA",
+		"indirizzo": "VIA DE CAROLIS 4",
+		"cap": "80040",
+		"comune": "VOLLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic85700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VOLLA - I.C. SERAO",
+		"indirizzo": "VIA  DANTE  ALIGHIERI 38",
+		"cap": "80040",
+		"comune": "VOLLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic87500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VOLLA - I.C. FALCONE",
+		"indirizzo": "VIA FAMIGLIETTI  38",
+		"cap": "80040",
+		"comune": "VOLLA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais12800t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.SUP\" E.PANTALEO\"-T.GRECO-",
+		"indirizzo": "VIA        CIMAGLIA 96",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais048006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.F.DEGNI-T.GRECO-",
+		"indirizzo": "VIA CALASTRO,35",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cz007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO IC DON LORENZO  MILANI",
+		"indirizzo": "VIA MONTEDORO, 43.",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cs00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T. GRECO IC DE NICOLA - SASSO",
+		"indirizzo": "CORSO VITT.EMANUELE 77",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cn00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO I.C. 2 SAURO-MORELLI",
+		"indirizzo": "VIA CIRCUMVALLAZIONE, 184",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8cl008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO IC 1 MAZZA-COLAMARINO",
+		"indirizzo": "VIA V.VENETO 30 BIS",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c4004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO IC 3 D.BOSCO-F.D\\'ASSISI",
+		"indirizzo": "VIALE CAMPANIA 1",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8bk00t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECO I.C.S.GIAMPIETRO-ROMANO",
+		"indirizzo": "VIA A.DE CURTIS,7(EX VIALE LOMBARDIA)",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8c000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "T.GRECOI.C. GIACOMO LEOPARDI",
+		"indirizzo": "VIA COM.TE G.B. DELLA GATTA, 2",
+		"cap": "80059",
+		"comune": "TORRE DEL GRECO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gf006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TRECASE I.C. D\\'ANGIO-VIA VESUVI",
+		"indirizzo": "VIA CATTANEO, 35",
+		"cap": "80040",
+		"comune": "TRECASE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8am007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VICO EQUENSE 2 I.C. CAULINO",
+		"indirizzo": "VIA   BOSCO   539",
+		"cap": "80069",
+		"comune": "VICO EQUENSE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais12200v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.SUP. F. DE GENNARO",
+		"indirizzo": "VIA SANTA  MARIA DEL TORO",
+		"cap": "80069",
+		"comune": "VICO EQUENSE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8gg002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VICO EQUENSE I.C. COSTIERO",
+		"indirizzo": "LARGO DEI TIGLI 10",
+		"cap": "80069",
+		"comune": "VICO EQUENSE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee32000v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "VILLARICCA 2 - G. RODARI",
+		"indirizzo": "VIA DELLA LIBERTA\\', N. 314",
+		"cap": "80010",
+		"comune": "VILLARICCA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic885001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VILLARICCA - I.C. CALVINO",
+		"indirizzo": "VIA BOLOGNA, 57",
+		"cap": "80010",
+		"comune": "VILLARICCA",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f3004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANTIMO 2 - G. LEOPARDI",
+		"indirizzo": "VIA SVIZZERA 13",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f2008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANTIMO IC GIOVANNI XXIII",
+		"indirizzo": "VIA ROMA N. 64",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naps73000c",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO STATALE \"LAURA BASSI\"",
+		"indirizzo": "C.SO UNIONE SOVIETICA,85",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANTIMO IC 4  PESTALOZZI",
+		"indirizzo": "VIA G. GIGANTE, 3",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8f400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. ANTIMO 3 - D. LORENZO MILANI",
+		"indirizzo": "VIA FERMI 1",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fb008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.ANTIMO IC 1 ROMEO",
+		"indirizzo": "S. DI GIACOMO 3",
+		"cap": "80029",
+		"comune": "SANT\\'ANTIMO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b7001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.ANTONIO ABATE IC FORZATI",
+		"indirizzo": "VIA  CASA ANIELLO, 34",
+		"cap": "80057",
+		"comune": "SANT\\'ANTONIO ABATE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee183008",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "S. ANTONIO ABATE  DE CURTIS",
+		"indirizzo": "VIA DANTE ALIGHIERI 22",
+		"cap": "80057",
+		"comune": "SANT\\'ANTONIO ABATE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic85300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.ANTONIO ABATE - I.C. MASCOLO",
+		"indirizzo": "VIA GIOVANNI XXIII 26/28",
+		"cap": "80057",
+		"comune": "SANT\\'ANTONIO ABATE",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8b6005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. MARIA LA CARITA IC BORRELLI",
+		"indirizzo": "VIA SCAFATI 10",
+		"cap": "80050",
+		"comune": "SANTA MARIA LA CARITA\\'",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee21900t",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "S.M. LA CARITA - E. DE FILIPPO",
+		"indirizzo": "VIA SCAFATI, 4",
+		"cap": "80050",
+		"comune": "SANTA MARIA LA CARITA\\'",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fh007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAVIANO I.C. 2 A. CICCONE -",
+		"indirizzo": "VIALE LEONARDO SCIASCIA, 33",
+		"cap": "80039",
+		"comune": "SAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "nais113004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS  SAVIANO-MARIGLIANO",
+		"indirizzo": "CORSO ITALIA 118",
+		"cap": "80039",
+		"comune": "SAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naee515005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SAVIANO - CIRCOLO DIDATTICO",
+		"indirizzo": "VIA ROMA, 37",
+		"cap": "80039",
+		"comune": "SAVIANO",
+		"provincia": "NA"
+	}
+	,
+	{
+		"codMec": "naic8fq007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SCISCIANO IC OMODEO BEETHOVEN",
+		"indirizzo": "VIA  S.GIOVANNI  50",
+		"cap": "80030",
+		"comune": "SCISCIANO",
+		"provincia": "NA"
+	}
+]

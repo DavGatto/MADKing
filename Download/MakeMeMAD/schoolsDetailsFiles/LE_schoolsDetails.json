@@ -1,0 +1,1311 @@
+[
+	{
+		"codMec": "leic860006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASARANO POLO 2",
+		"indirizzo": "VIA MESSINA, 2",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic80000e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAVALLINO",
+		"indirizzo": "VIA TOGLIATTI",
+		"cap": "73020",
+		"comune": "CAVALLINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic82200b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COLLEPASSO",
+		"indirizzo": "VIA  DEL BOSCO",
+		"cap": "73040",
+		"comune": "COLLEPASSO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic86400d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COPERTINO N? 4 \"G. FALCONE\"",
+		"indirizzo": "VIA REGINA ISABELLA",
+		"cap": "73043",
+		"comune": "COPERTINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis02900a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"DON TONINO BELLO\" COPERTINO",
+		"indirizzo": "VIA E. DE NICOLA, 26",
+		"cap": "73043",
+		"comune": "COPERTINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic865009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.SAN GIUSEPPE DA COPERTINO",
+		"indirizzo": "VIA MOGADISCIO, N. 45",
+		"cap": "73043",
+		"comune": "COPERTINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis039001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.D\\'ISTRUZ. SUPERIORE COPERTINO",
+		"indirizzo": "VIA F. VERDESCA",
+		"cap": "73043",
+		"comune": "COPERTINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic867001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COPERTINO  POLO 1",
+		"indirizzo": "VIA G. COLACI 65",
+		"cap": "73043",
+		"comune": "COPERTINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic81900g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO",
+		"indirizzo": "PESCHIULLI, 53",
+		"cap": "73022",
+		"comune": "CORIGLIANO D\\'OTRANTO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic881007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"BIAGIO ANTONAZZO\"",
+		"indirizzo": "VIA DELLA LIBERTA\\'",
+		"cap": "73033",
+		"comune": "CORSANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic81200r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CURSI",
+		"indirizzo": "VIA E. DE AMICIS  49",
+		"cap": "73020",
+		"comune": "CURSI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic823007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "COMPRENSIVO \"DON BOSCO\"",
+		"indirizzo": "VIA CATANIA, CIV. 30/A",
+		"cap": "73020",
+		"comune": "CUTROFIANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ap00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MARITTIMA-DISO-CASTRO",
+		"indirizzo": "VIA   ROMA, 69",
+		"cap": "73030",
+		"comune": "DISO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic824003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GAGLIANO DEL CAPO VITO DE BLASI",
+		"indirizzo": "VIA  COMMENDATORE DANIELE  23",
+		"cap": "73034",
+		"comune": "GAGLIANO DEL CAPO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic89300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALATINA POLO 3",
+		"indirizzo": "VIA SPOLETO",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis003006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"GAETANO SALVEMINI\" ALESSANO",
+		"indirizzo": "VIA        TAGLIAMENTO",
+		"cap": "73031",
+		"comune": "ALESSANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic80400t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALESSANO",
+		"indirizzo": "VIA RIMEMBRANZE 2",
+		"cap": "73031",
+		"comune": "ALESSANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8al00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO ALEZIO",
+		"indirizzo": "VIA DANTE ALIGHIERI, 1",
+		"cap": "73011",
+		"comune": "ALEZIO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic859002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ALLISTE",
+		"indirizzo": "VIA MONTELLO N.11",
+		"cap": "73040",
+		"comune": "ALLISTE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic810005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ARADEO",
+		"indirizzo": "VIA TOGLIATTI, 31",
+		"cap": "73040",
+		"comune": "ARADEO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic816004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CALIMERA",
+		"indirizzo": "VIA UGO FOSCOLO N.1",
+		"cap": "73021",
+		"comune": "CALIMERA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ad00c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO",
+		"indirizzo": "P.ZZA GIOVANNI XXIII",
+		"cap": "73012",
+		"comune": "CAMPI SALENTINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic88600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMPRENSIVO A IND.MUSICALE",
+		"indirizzo": "VIA STAZIONE 56",
+		"cap": "73041",
+		"comune": "CARMIANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "letd020005",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "IST.TECNICO COMMERCIALE-CASARANO",
+		"indirizzo": "VIALE    F. FERRARI 73",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leps03000x",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS G.C.VANINI",
+		"indirizzo": "VIA  RENO, 34",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis017004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "F. BOTTAZZI CASARANO",
+		"indirizzo": "VIA        NAPOLI 2",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis011005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTR.SUP.(EX CLASSICO)-CASARANO",
+		"indirizzo": "VIA        RUFFANO",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis00600n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ANTONIO MEUCCI CASARANO",
+		"indirizzo": "VIALE FRANCESCO FERRARI",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic86300n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASARANO POLO 1",
+		"indirizzo": "VIA RUFFANO",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic861002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CASARANO POLO 3",
+		"indirizzo": "P.ZZA S. DOMENICO",
+		"cap": "73042",
+		"comune": "CASARANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis02100q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTIT.ISTRUZ.SUPERIORE (IPSIA)\"E.LANOCE\"",
+		"indirizzo": "VIA        GIANNOTTA 34",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leps050005",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LEONARDO DA VINCI MAGLIE",
+		"indirizzo": "VIA  G. GENTILE 4",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lepc01000g",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO\"CAPECE\"-MAGLIE",
+		"indirizzo": "PIAZZA    ALDO MORO 37",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis04700x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.IST.SUPERIORE \"CEZZI-DECASTRO -MORO\"",
+		"indirizzo": "VIA        DON STURZO  4",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic81700x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARTANO",
+		"indirizzo": "VIA M.BUONARROTI 8",
+		"cap": "73025",
+		"comune": "MARTANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis00200a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTRUZ.SUP.\"SALV.TRINCHESE\"-MARTANO",
+		"indirizzo": "P.ZZA GRAMSCI",
+		"cap": "73025",
+		"comune": "MARTANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ac00l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO STATALE",
+		"indirizzo": "VIA DELLE PROVINCE",
+		"cap": "73046",
+		"comune": "MATINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic829006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MELENDUGNO",
+		"indirizzo": "VIA  S. GIOVANNI N. 1",
+		"cap": "73026",
+		"comune": "MELENDUGNO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic83300t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MELISSANO",
+		"indirizzo": "VIA FELLINE  127",
+		"cap": "73040",
+		"comune": "MELISSANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic83500d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MIGGIANO",
+		"indirizzo": "VIA G. MAZZINI",
+		"cap": "73035",
+		"comune": "MIGGIANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic836009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MINERVINO DI LECCE",
+		"indirizzo": "VIA DE AMICIS, 1",
+		"cap": "73027",
+		"comune": "MINERVINO DI LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic84100r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO POLO 1",
+		"indirizzo": "VIA GRAMSCI, 6",
+		"cap": "73047",
+		"comune": "MONTERONI DI LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic840001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"VTTORIO BODINI\"",
+		"indirizzo": "VIA VETTA D\\'ITALIA",
+		"cap": "73047",
+		"comune": "MONTERONI DI LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic81300l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MURO LECCESE",
+		"indirizzo": "VIA  MARTIRI D\\'OTRANTO",
+		"cap": "73036",
+		"comune": "MURO LECCESE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis02600v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTRUZ.SUP.-VANONI-NARDO\\'",
+		"indirizzo": "VIA     B. ACQUAVIVA 8",
+		"cap": "73048",
+		"comune": "NARDO\\'",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis024007",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTR.SUP. \"FALCONE E BORSELLINO\"",
+		"indirizzo": "VIALE DON BOSCO, 48",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis02700p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTRUZ.SUP.-PIETRO COLONNA-GALATINA",
+		"indirizzo": "VIA        PIETRO COLONNA,2",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic887006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALATINA POLO 1",
+		"indirizzo": "P.ZZA CESARI, 14",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic888002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALATINA POLO 2",
+		"indirizzo": "VIA ARNO",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leps04000e",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENT. E LING. STATALE\"A.VALLONE\"",
+		"indirizzo": "VIA DON TONINO BELLO, SNC.",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "letd03000q",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "IST.TECNICO COMM.LE \"MICHELE LAPORTA\"",
+		"indirizzo": "VIALE DON TONINO BELLO, S.N.",
+		"cap": "73013",
+		"comune": "GALATINA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic894009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALATONE POLO 1",
+		"indirizzo": "VIA XX SETTEMBRE 229",
+		"cap": "73044",
+		"comune": "GALATONE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic895005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALATONE POLO 2",
+		"indirizzo": "VIA TUNISI N.31",
+		"cap": "73044",
+		"comune": "GALATONE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis037009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"ENRICO MEDI\" - GALATONE",
+		"indirizzo": "VIA SCORRANO, 6",
+		"cap": "73044",
+		"comune": "GALATONE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic87700g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALLIPOLI  POLO 3",
+		"indirizzo": "VIA GORIZIA, 14",
+		"cap": "73014",
+		"comune": "GALLIPOLI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis012001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTR.SUP.\"QUINTO ENNIO\"-GALLIPOLI",
+		"indirizzo": "CORSO      ROMA, 100",
+		"cap": "73014",
+		"comune": "GALLIPOLI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic879007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALLIPOLI POLO 2 (BORGO)",
+		"indirizzo": "PIAZZA CARDUCCI N. 3",
+		"cap": "73014",
+		"comune": "GALLIPOLI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis00700d",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "AMERIGO VESPUCCI",
+		"indirizzo": "VIA        S.P.52 PER SANNICOLA",
+		"cap": "73014",
+		"comune": "GALLIPOLI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leee00100c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "LECCE 1",
+		"indirizzo": "VIA A. COSTA 7",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leee00400x",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "LECCE 4",
+		"indirizzo": "VIA CANTOBELLI",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lemm31000r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 LECCE",
+		"indirizzo": "VIA SALESIANI, 1",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lepc03000r",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LICEO CLASSICO\"PALMIERI\"-LECCE",
+		"indirizzo": "VIALE    DELL\\' UNIVERSITA\\' 12",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lepm01000q",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO PIETRO SICILIANI",
+		"indirizzo": "VIA DI LEUCA, 2/L",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leps01000p",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO\"DE GIORGI\"LECCE",
+		"indirizzo": "V.LE   M. DE PIETRO,  14",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leps07000a",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LICEO SCIENTIFICO BANZI BAZOLI GIULIETTA",
+		"indirizzo": "PIAZZA     PALIO",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lesl03000r",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LICEO ART. E COREUT. \"CIARDO-PELLEGRINO\"",
+		"indirizzo": "VIA VECCHIA COPERTINO 6 - LECCE",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "letd08000r",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "IST.TECNICO ECONOMICO \"OLIVETTI\" LECCE",
+		"indirizzo": "VIA MARUGI, 29",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lete010002",
+		"tipo": "ISTITUTO TECNICO PER ATTIVITA\\' SOCIALI (GIA\\' ITF)",
+		"nome": "IST.TECNICO \"GRAZIA DELEDDA\"-LECCE",
+		"indirizzo": "PIAZZA     DEL PALIO, 1",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic82700e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LEQUILE",
+		"indirizzo": "VIA L. DA VINCI, 105",
+		"cap": "73010",
+		"comune": "LEQUILE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic832002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON LORENZO MILANI\"",
+		"indirizzo": "VIA DELLA  LIBERTA\\'",
+		"cap": "73045",
+		"comune": "LEVERANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic83000a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GEREMIA RE\"",
+		"indirizzo": "VIA TURATI, 8",
+		"cap": "73045",
+		"comune": "LEVERANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic82800a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LIZZANELLO",
+		"indirizzo": "P.ZZA DELLA LIBERTA\\'",
+		"cap": "73023",
+		"comune": "LIZZANELLO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic82100g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO MAGLIE",
+		"indirizzo": "VIA A. MANZONI, N. 2",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis038005",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I. I. S. S.  \"E. MATTEI\"",
+		"indirizzo": "VIA N. FERRAMOSCA, 82",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leee03400q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIREZIONE DIDATTICA MAGLIE",
+		"indirizzo": "VIA G. MATTEOTTI 101",
+		"cap": "73024",
+		"comune": "MAGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leee00500q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "LECCE 5",
+		"indirizzo": "VIA ARCHITA DA TARANTO",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leee07100p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "LECCE 2",
+		"indirizzo": "P.TTA CORTE CONTE ACCARDO",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic882003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "STOMEO - ZIMBALO  LECCE",
+		"indirizzo": "VIA SIRACUSA ZONA 167/B",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic89100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "AMMIRATO - FALCONE   LECCE",
+		"indirizzo": "VIA        RAFFAELLO SANZIO, 41",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic89200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GALATEO - FRIGOLE  LECCE",
+		"indirizzo": "VIA D.FONTANA, 1",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ae008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "D. ALIGHIERI - DIAZ  LECCE",
+		"indirizzo": "VIA E. REALE 59",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis00100e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"PRESTA- COLUMELLA\" LECCE",
+		"indirizzo": "VIA SAN PIETRO IN LAMA",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis02200g",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.S.I.S.S. \"L. SCARAMBONE\"",
+		"indirizzo": "VIA DALMAZIO BIRAGO, 89",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis03100a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.D\\'ISTRUZ.SUPERIORE A. DE PACE",
+		"indirizzo": "VIALE      MARCHE 13",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis03400t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"E. FERMI\"",
+		"indirizzo": "VIA        MERINE 5",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis04200r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO ISTRUZ.SEC.SUP.\"GALILEI COSTA\"",
+		"indirizzo": "PIAZZA PALIO",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis04400c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ISTITUTO SUPERIORE \"F. CALASSO\"",
+		"indirizzo": "VIA BELICE",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis046004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IISS \"VIRGILIO\" LECCE",
+		"indirizzo": "VIA GALILEO GALILEI, 4",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lemm00400v",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "QUINTO ENNIO",
+		"indirizzo": "VIA        R. M.  IMBRIANI      46",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lemm00600e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ASCANIO GRANDI",
+		"indirizzo": "VIA FRANCESCO PATITARI, 2",
+		"cap": "73100",
+		"comune": "LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic896001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NARDO\\' POLO 1",
+		"indirizzo": "P.ZZA UMBERTO I",
+		"cap": "73048",
+		"comune": "NARDO\\'",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic89700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POLO 2 \"RENATA FONTE\" NARDO\\'",
+		"indirizzo": "VIA PILANUOVA, N.88",
+		"cap": "73048",
+		"comune": "NARDO\\'",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic89800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POLO 3 \"PANTALEO INGUSCI\"NARDO\\'",
+		"indirizzo": "VIA XX SETTEMBRE",
+		"cap": "73048",
+		"comune": "NARDO\\'",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis01300r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.GALILEI(CLASS-SCIENT-LSU)-NARDO",
+		"indirizzo": "VIA XX SETTEMBRE, 65",
+		"cap": "73048",
+		"comune": "NARDO\\'",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis02300b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST.ISTR.SUP.- MOCCIA - NARDO\\'",
+		"indirizzo": "VIA   BONFANTE 83/85",
+		"cap": "73048",
+		"comune": "NARDO\\'",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic838001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NEVIANO",
+		"indirizzo": "VIA  G. PERLASCA, 3",
+		"cap": "73040",
+		"comune": "NEVIANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic84200l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "NOVOLI",
+		"indirizzo": "VIA DEI CADUTI 33",
+		"cap": "73051",
+		"comune": "NOVOLI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis04300l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IST. ISTR. SEC. SUP. OTRANTO",
+		"indirizzo": "VIA S.FRANCESCO DI PAOLA, 1",
+		"cap": "73028",
+		"comune": "OTRANTO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic84600x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PARABITA",
+		"indirizzo": "VIA ROMA 20",
+		"cap": "73052",
+		"comune": "PARABITA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis033002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S.\"GIANNELLI\"-PARABITA",
+		"indirizzo": "VIA        FIUME",
+		"cap": "73052",
+		"comune": "PARABITA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic88000b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "POGGIARDO",
+		"indirizzo": "VIA MONTE GRAPPA  N. 1",
+		"cap": "73037",
+		"comune": "POGGIARDO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic831006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTOCESAREO",
+		"indirizzo": "VIA    PICCINNI",
+		"cap": "73010",
+		"comune": "PORTOCESAREO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8an008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PRESICCE",
+		"indirizzo": "VIA TOMMASO FIORE",
+		"cap": "73054",
+		"comune": "PRESICCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic85700a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO RACALE",
+		"indirizzo": "VIA PIEMONTE",
+		"cap": "73055",
+		"comune": "RACALE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic85000g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RUFFANO",
+		"indirizzo": "VIA A. DE GASPERI",
+		"cap": "73049",
+		"comune": "RUFFANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic85100b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SALICE SALENTINO",
+		"indirizzo": "VIA FONTANA,17",
+		"cap": "73015",
+		"comune": "SALICE SALENTINO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic803002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SALVE",
+		"indirizzo": "VIA ROSENBERG, 4",
+		"cap": "73050",
+		"comune": "SALVE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic853003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN CESARIO",
+		"indirizzo": "VIA CERUNDOLO, 64",
+		"cap": "73016",
+		"comune": "SAN CESARIO DI LECCE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lerh01000c",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSEO  \"A. MORO\"",
+		"indirizzo": "VIA S.P. 363  VITIGLIANO - S. CESAREA TERME",
+		"cap": "73020",
+		"comune": "SANTA CESAREA TERME",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic85400v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SCORRANO",
+		"indirizzo": "VIA D\\'ANNUNZIO, 157",
+		"cap": "73020",
+		"comune": "SCORRANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic85500p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G.FALCONE E P.BORSELLINO",
+		"indirizzo": "VIA ISONZO",
+		"cap": "73010",
+		"comune": "SOLETO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic87000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SQUINZANO POLO 2",
+		"indirizzo": "VIA        MORETTO             1",
+		"cap": "73018",
+		"comune": "SQUINZANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic87100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"VALERIA SOLESIN\"",
+		"indirizzo": "VIA BRINDISI, 7",
+		"cap": "73018",
+		"comune": "SQUINZANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ah00q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SUPERSANO",
+		"indirizzo": "VIA PUCCINI, 41",
+		"cap": "73040",
+		"comune": "SUPERSANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic89900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"ELISA SPRINGER\"",
+		"indirizzo": "VIA TOSCANINI,1",
+		"cap": "73010",
+		"comune": "SURBO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leee081009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "DIREZIONE DIDATTICA \"V.AMPOLO\"",
+		"indirizzo": "VIA MAZZINI,14",
+		"cap": "73010",
+		"comune": "SURBO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic88900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TAURISANO POLO 1",
+		"indirizzo": "VIA ADDIS ABEBA, SNC.",
+		"cap": "73056",
+		"comune": "TAURISANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8aj001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TAURISANO POLO 2",
+		"indirizzo": "VIA LECCE, 129",
+		"cap": "73056",
+		"comune": "TAURISANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8aa001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO STATALE",
+		"indirizzo": "PIAZZA G. LOMBARDO RADICE, 4",
+		"cap": "73057",
+		"comune": "TAVIANO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic86800r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TREPUZZI POLO 2",
+		"indirizzo": "VIALE EUROPA",
+		"cap": "73019",
+		"comune": "TREPUZZI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic86900l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TREPUZZI POLO 1",
+		"indirizzo": "VIA G.ELIA, 103",
+		"cap": "73019",
+		"comune": "TREPUZZI",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis016008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IISS DON TONINO BELLO POLO PROFESSIONALE",
+		"indirizzo": "VIA APULIA",
+		"cap": "73039",
+		"comune": "TRICASE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ak00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TRICASE \"G.PASCOLI\"",
+		"indirizzo": "VIA UMBERTO I 107",
+		"cap": "73039",
+		"comune": "TRICASE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "lepm050006",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE GIROLAMO COMI",
+		"indirizzo": "VIA MARINA PORTO SNC",
+		"cap": "73039",
+		"comune": "TRICASE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic87500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "TRICASE  VIA APULIA",
+		"indirizzo": "VIA APULIA 2",
+		"cap": "73039",
+		"comune": "TRICASE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leis01400l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.S. \"G. STAMPACCHIA\"  - TRICASE",
+		"indirizzo": "PIAZZA GALILEO GALILEI",
+		"cap": "73039",
+		"comune": "TRICASE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ab00r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "UGENTO",
+		"indirizzo": "VIA GOLDONI",
+		"cap": "73059",
+		"comune": "UGENTO",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic84300c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "UGGIANO LA CHIESA",
+		"indirizzo": "VIA   PERTINI   1",
+		"cap": "73020",
+		"comune": "UGGIANO LA CHIESA",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8af004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"PEPPINO IMPASTATO\"",
+		"indirizzo": "VIA CASA SAVOIA",
+		"cap": "73010",
+		"comune": "VEGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic8ag00x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VEGLIE POLO 2",
+		"indirizzo": "VIA GARIBALDI",
+		"cap": "73010",
+		"comune": "VEGLIE",
+		"provincia": "LE"
+	}
+	,
+	{
+		"codMec": "leic85600e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "A. DIAZ",
+		"indirizzo": "VIA DELLA REPUBBLICA,N.7",
+		"cap": "73029",
+		"comune": "VERNOLE",
+		"provincia": "LE"
+	}
+]

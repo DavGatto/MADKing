@@ -1,0 +1,821 @@
+[
+	{
+		"codMec": "ltps060002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ANTONIO MEUCCI",
+		"indirizzo": "VIA CARROCETO 193A",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic84400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST.COMPR. ARTURO TOSCANINI",
+		"indirizzo": "VIA AMBURGO,5",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic83700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GARIBALDI",
+		"indirizzo": "VIA        E.FERMI             24",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis004008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S. S.\"CARLO E NELLO ROSSELLI\"",
+		"indirizzo": "VIA   CARROCETO SNC",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic83100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ZONA LEDA APRILIA",
+		"indirizzo": "VIA CARANO 4 D/E",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic82100t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC \"ANTONIO GRAMSCI\"",
+		"indirizzo": "VIA MARCO AURELIO",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic82200n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIOVANNI PASCOLI",
+		"indirizzo": "VIA DELLE PALME, 13/15",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic824009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GIACOMO MATTEOTTI",
+		"indirizzo": "VIA OTTORINO RESPIGHI, 6",
+		"cap": "04011",
+		"comune": "APRILIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic825005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC ISTITUTO COMPRENSIVO",
+		"indirizzo": "VIA A. FUSCO",
+		"cap": "04021",
+		"comune": "CASTELFORTE",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis00100r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S.  CAMPUS DEI LICEI  - M. RAMADU\\'-",
+		"indirizzo": "VIA RIMINI, 1",
+		"cap": "04012",
+		"comune": "CISTERNA DI LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic839003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PLINIO IL VECCHIO",
+		"indirizzo": "VIA        PRIMO MAGGIO",
+		"cap": "04012",
+		"comune": "CISTERNA DI LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic838007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. A.VOLPI",
+		"indirizzo": "INDIRIZZO MUSICALE",
+		"cap": "04012",
+		"comune": "CISTERNA DI LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic80000r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO\"L.CAETANI\"",
+		"indirizzo": "VIA VITTIME DEL TERRORISMO , 31",
+		"cap": "04012",
+		"comune": "CISTERNA DI LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic83400x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CESARE CHIOMINTO",
+		"indirizzo": "V.G.MARCONI 4",
+		"cap": "04010",
+		"comune": "CORI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic817006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C AMANTE",
+		"indirizzo": "VIA DEGLI OSCI 1",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic85200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. GARIBALDI",
+		"indirizzo": "VIA MOLA DI SANTA MARIA S.N.C.",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic853009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MILANI",
+		"indirizzo": "VIA TOSCANA 1",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic85700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SOTTOTENENTE ALFREDO ASPRI",
+		"indirizzo": "VIA DEGLI OSCI 1",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltpc06000v",
+		"tipo": "LICEO CLASSICO",
+		"nome": "PIERO GOBETTI",
+		"indirizzo": "VIA PIERO GOBETTI 2",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "lttd150004",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "LIBERO DE LIBERO",
+		"indirizzo": "VIA SAN MAGNO S.N.C.",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "lttf09000x",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "ITI A. PACINOTTI",
+		"indirizzo": "VIA  APPIA LATO ITRI , 75",
+		"cap": "04022",
+		"comune": "FONDI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic81300v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.VITRUVIO POLLIONE",
+		"indirizzo": "VIA        E.FILIBERTO         73",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic812003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPRENSIVO P. MATTEJ",
+		"indirizzo": "VIA PALAZZO N. 163",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis01700a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "E. FERMI - FILANGIERI",
+		"indirizzo": "VIA   DELLA   CONCA SNC",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic818002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALIGHIERI FORMIA-VENTOTENE",
+		"indirizzo": "VIA         DIVISIONE JULIA,62",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltmm14300l",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA  10",
+		"indirizzo": "VIA VITRUVIO 47",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltrh01000p",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "IPSEOA  \"CELLETTI\" FORMIA",
+		"indirizzo": "GIANOLA",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis021002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "LICEO  MARCO TULLIO CICERONE POLLIONE",
+		"indirizzo": "VIA OLIVETANI 24",
+		"cap": "04023",
+		"comune": "FORMIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis00700q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G.CABOTO",
+		"indirizzo": "PIAZZA     TRIESTE 7",
+		"cap": "04024",
+		"comune": "GAETA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic82300d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PRINCIPE AMEDEO",
+		"indirizzo": "VIA CALEGNA 20",
+		"cap": "04024",
+		"comune": "GAETA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic80100l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "L. DA VINCI E ROCCASECCA VOLSCI",
+		"indirizzo": "VIA SELVOTTA SNC",
+		"cap": "04010",
+		"comune": "SONNINO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic82800l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. ALFREDO FIORINI",
+		"indirizzo": "VIA BONIFICATORI DELLA PALUDE PONTINA",
+		"cap": "04019",
+		"comune": "TERRACINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic82900c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"MARIA MONTESSORI\"",
+		"indirizzo": "VIA DEI VOLSCI, 12",
+		"cap": "04019",
+		"comune": "TERRACINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic83000l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I. C. \"MILANI\"  TERRACINA",
+		"indirizzo": "VIA        A. OLIVETTI, 41",
+		"cap": "04019",
+		"comune": "TERRACINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "lttd04000l",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ARTURO BIANCHINI",
+		"indirizzo": "VIA PANTANELLE SNC",
+		"cap": "04019",
+		"comune": "TERRACINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltrc01000d",
+		"tipo": "IST  PROF  PER I SERVIZI COMM , TUR  E DELLA PUBB",
+		"nome": "A. FILOSI",
+		"indirizzo": "VIA ROMA 125",
+		"cap": "04019",
+		"comune": "TERRACINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltps04000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS L. DA VINCI (SEZ. CLASS.-SC. UMANE)",
+		"indirizzo": "VIA PANTANELLE SNC",
+		"cap": "04019",
+		"comune": "TERRACINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis019002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "EINAUDI -MATTEI",
+		"indirizzo": "VIA        DON TORELLO 38",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis018006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GALILEI -SANI",
+		"indirizzo": "VIA  PONCHIELLI S.N.C.",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis01600e",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "SAN BENEDETTO",
+		"indirizzo": "VIA MARIO SICILIANO 4",
+		"cap": "04010",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis013003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IIS G  MARCONI",
+		"indirizzo": "VIA RENO, SNC",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic85100n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.5 - VIA TASSO",
+		"indirizzo": "VIA TASSO 1/3",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic85000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  O.FREZZOTTI - CORRADINI",
+		"indirizzo": "VIA QUARTO 49",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic84900n",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N. 12 - BORGO FAITI",
+		"indirizzo": "VIA FRANGIPANE S.N.C.",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic84800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LEONARDO DA VINCI-RODARI",
+		"indirizzo": "VIALE DE CHIRICO N.3",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic847002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. CENA",
+		"indirizzo": "VIA LEPANTO 2",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic84500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. A. VOLTA",
+		"indirizzo": "VIA        BOTTICELLI          33",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic832008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.GIULIANO",
+		"indirizzo": "VIA SEZZE 25",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic854005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.1 - MINTURNO",
+		"indirizzo": "VIA L. CADORNA S.N.C.",
+		"cap": "04026",
+		"comune": "MINTURNO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic855001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. MARCO EMILIO SCAURO",
+		"indirizzo": "VIA APPIA 292",
+		"cap": "04026",
+		"comune": "MINTURNO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltps030006",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "L. B. ALBERTI",
+		"indirizzo": "VIA  SANTA REPARATA N. 19",
+		"cap": "04020",
+		"comune": "MINTURNO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic81900t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C GIOVANNI XXIII",
+		"indirizzo": "VIA APPIA S.N.C.",
+		"cap": "04020",
+		"comune": "MONTE SAN BIAGIO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic840007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC  G.VERGA",
+		"indirizzo": "VIA DELLA  LIBERTA\\'",
+		"cap": "04014",
+		"comune": "PONTINIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic841003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MANFREDINI",
+		"indirizzo": "PIAZZA PIO VI PAPA N.9",
+		"cap": "04014",
+		"comune": "PONTINIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic826001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. PISACANE",
+		"indirizzo": "VIA V. DE LUCA",
+		"cap": "04027",
+		"comune": "PONZA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis00300c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "TEODOSIO ROSSI",
+		"indirizzo": "VIA MONTANINO,1",
+		"cap": "04015",
+		"comune": "PRIVERNO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic83600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"S.TOMMASO D\\'AQUINO\"",
+		"indirizzo": "V.G.MATTEOTTI 415",
+		"cap": "04015",
+		"comune": "PRIVERNO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic84200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"DON ANDREA SANTORO\"",
+		"indirizzo": "VIA MATTEOTTI 24",
+		"cap": "04010",
+		"comune": "PRIVERNO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic80800b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPR. ROCCAGORGA-MAENZA",
+		"indirizzo": "VIA CRISTOFORO COLOMBO 262",
+		"cap": "04010",
+		"comune": "ROCCAGORGA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic84300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. V. ORSOLINI CENCELLI",
+		"indirizzo": "VIA E.FILIBERTO 5",
+		"cap": "04016",
+		"comune": "SABAUDIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic809007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.GIULIO CESARE",
+		"indirizzo": "VIA CONTE VERDE  SNC",
+		"cap": "04016",
+		"comune": "SABAUDIA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic820002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "L.DA VINCI  DI S. FELICE CIRCEO",
+		"indirizzo": "VIA GINO ROSSI SNC",
+		"cap": "04017",
+		"comune": "SAN FELICE CIRCEO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic81400p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G.ROSSI-SS.COSMA DAMIANO",
+		"indirizzo": "VIA RISORGIMENTO, 85",
+		"cap": "04020",
+		"comune": "SANTI COSMA E DAMIANO",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic833004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DONNA LELIA CAETANI",
+		"indirizzo": "VIA DELL\\'IRTO  SNC - PONTENUOVO",
+		"cap": "04013",
+		"comune": "SERMONETA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic82700r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC PACIFICI SEZZE -BASSIANO",
+		"indirizzo": "VIA  SAN BARTOLOMEO SNC",
+		"cap": "04018",
+		"comune": "SEZZE",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis00600x",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "PACIFICI E DE MAGISTRIS",
+		"indirizzo": "VIA CAPPUCCINI SNC",
+		"cap": "04018",
+		"comune": "SEZZE",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic80200c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VALERIO FLACCO",
+		"indirizzo": "VIA        BARI",
+		"cap": "04018",
+		"comune": "SEZZE",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltis02300n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "FERMI",
+		"indirizzo": "PIAZZA  TRIESTE N.1",
+		"cap": "04024",
+		"comune": "GAETA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic803008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO CARDUCCI",
+		"indirizzo": "PIAZZA TRIESTE 5",
+		"cap": "04024",
+		"comune": "GAETA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic83500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ISTITUTO COMPRENSIVO ITRI",
+		"indirizzo": "PIAZZALE RODARI, SNC",
+		"cap": "04020",
+		"comune": "ITRI",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic81600a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C DON MILANI",
+		"indirizzo": "VIA CILEA N. 4",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic81500e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C NATALE PRAMPOLINI",
+		"indirizzo": "VIA  ACQUE ALTE SNC",
+		"cap": "04010",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic80500x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.  V. FABIANO BORGO SABOTINO",
+		"indirizzo": "VIA DON VINCENZO ONORATI 1/3",
+		"cap": "04010",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic804004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C.ALDO MANUZIO",
+		"indirizzo": "VIA DELL OLEANDRO, 4-6",
+		"cap": "04013",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltic846006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. N.7 - VIA BACHELET",
+		"indirizzo": "VIA BACHELET  5",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "lttd02000b",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "ITC VITTORIO VENETO SALVEMINI",
+		"indirizzo": "VIALE    MAZZINI",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltsl02000c",
+		"tipo": "LICEO ARTISTICO",
+		"nome": "LICEO ARTISTICO",
+		"indirizzo": "VIALE GIULIO CESARE N.20",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltps05000b",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "MAJORANA",
+		"indirizzo": "VIA SEZZE SNC",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltps02000g",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "LS G. B. GRASSI",
+		"indirizzo": "VIA S. AGOSTINO 8",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltpm030007",
+		"tipo": "ISTITUTO MAGISTRALE",
+		"nome": "LICEO STATALE ALESSANDRO MANZONI",
+		"indirizzo": "VIALE LE CORBUSIER SNC",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltpc080004",
+		"tipo": "LICEO CLASSICO",
+		"nome": "LC  DANTE ALIGHIERI",
+		"indirizzo": "VIALE MAZZINI",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+	,
+	{
+		"codMec": "ltmm14200r",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA  9",
+		"indirizzo": "VIA BOTTICELLI 33",
+		"cap": "04100",
+		"comune": "LATINA",
+		"provincia": "LT"
+	}
+]

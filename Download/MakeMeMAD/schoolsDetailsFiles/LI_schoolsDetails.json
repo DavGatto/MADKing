@@ -1,0 +1,431 @@
+[
+	{
+		"codMec": "liic81000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"G.MARCONI\"",
+		"indirizzo": "VIA DELLA FIERA",
+		"cap": "57021",
+		"comune": "CAMPIGLIA MARITTIMA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic803009",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"GIUSTI GIUSEPPE\"",
+		"indirizzo": "P.ZZA VITTIME PIR. \"SGARALLINO\" N. 1",
+		"cap": "57034",
+		"comune": "CAMPO NELL\\'ELBA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic80800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOSUE\\' BORSI",
+		"indirizzo": "VIA MATTEOTTI, N.4",
+		"cap": "57022",
+		"comune": "CASTAGNETO CARDUCCI",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "lips02000l",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "ENRICO FERMI",
+		"indirizzo": "VIA AMBROGI SNC",
+		"cap": "57023",
+		"comune": "CECINA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm063002",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GALILEO GALILEI",
+		"indirizzo": "VIA R. FUCINI, 3",
+		"cap": "57023",
+		"comune": "CECINA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis00200n",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "\"M.POLO\"",
+		"indirizzo": "VIA MONTESANTO 1",
+		"cap": "57023",
+		"comune": "CECINA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee06000g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "F.D.GUERRAZZI",
+		"indirizzo": "VIA G.B. VICO N. 1",
+		"cap": "57023",
+		"comune": "CECINA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee06100b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "COLLODI CARLO",
+		"indirizzo": "VIA SFORZA 6",
+		"cap": "57023",
+		"comune": "CECINA",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic81600b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MINERVA BENEDETTINI",
+		"indirizzo": "VIA DELLA COSTITUZIONE, 1",
+		"cap": "57017",
+		"comune": "COLLESALVETTI",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic817007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANCHISE PICCHI",
+		"indirizzo": "VIA ROMA, 47",
+		"cap": "57014",
+		"comune": "COLLESALVETTI",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee013002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "\"B.BRIN\"",
+		"indirizzo": "VIA SARDEGNA N.25",
+		"cap": "57127",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee00900a",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD \"LA ROSA\"",
+		"indirizzo": "VIA VILLARI",
+		"cap": "57128",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee00700p",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD DE AMICIS EDMONDO",
+		"indirizzo": "VIA FERRIGNI 1",
+		"cap": "57125",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee004007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD CARLO COLLODI",
+		"indirizzo": "VIA DI SALVIANO 87",
+		"cap": "57124",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "litf030009",
+		"tipo": "ISTITUTO TECNICO INDUSTRIALE",
+		"nome": "G. GALILEI",
+		"indirizzo": "VIA  GALILEI 66",
+		"cap": "57122",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis01100c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "CARDUCCI-VOLTA-PACINOTTI",
+		"indirizzo": "VIA DELLA PACE, N.27/29",
+		"cap": "57025",
+		"comune": "PIOMBINO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm10100g",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "CPIA 1 LIVORNO",
+		"indirizzo": "VIA LA PIRA",
+		"cap": "57025",
+		"comune": "PIOMBINO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee076005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD  LOC. GHIACCIONI",
+		"indirizzo": "VIA MODIGLIANI, N.2",
+		"cap": "57025",
+		"comune": "PIOMBINO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis004009",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS LUIGI EINAUDI ALBERTO CECCHERELLI",
+		"indirizzo": "VIA        MICHELANGELO 16/B",
+		"cap": "57025",
+		"comune": "PIOMBINO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic805001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G.CARDUCCI",
+		"indirizzo": "VIA G. MARCONI 25",
+		"cap": "57036",
+		"comune": "PORTO AZZURRO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis00100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "RAFFAELLO FORESI",
+		"indirizzo": "VIA C. BINI 4",
+		"cap": "57037",
+		"comune": "PORTOFERRAIO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic811008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "VIALE ELBA",
+		"indirizzo": "VIALE ELBA",
+		"cap": "57037",
+		"comune": "PORTOFERRAIO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "litd030003",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "G. CERBONI",
+		"indirizzo": "PIAZZALE ANNA RITA BUTTAFUOCO, 1",
+		"cap": "57037",
+		"comune": "PORTOFERRAIO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis006001",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "MATTEI",
+		"indirizzo": "VIA DELLA REPUBBLICA,N.16",
+		"cap": "57016",
+		"comune": "ROSIGNANO MARITTIMO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm08700e",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "\"FATTORI GIOVANNI\"",
+		"indirizzo": "VIA  FRATELLI BANDIERA   1",
+		"cap": "57013",
+		"comune": "ROSIGNANO MARITTIMO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee09000b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "\"G.CARDUCCI\"",
+		"indirizzo": "PIAZZA CARDUCCI,N.13",
+		"cap": "57016",
+		"comune": "ROSIGNANO MARITTIMO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee091007",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CD ERNESTO SOLVAY",
+		"indirizzo": "VIA SOLVAY 31",
+		"cap": "57016",
+		"comune": "ROSIGNANO MARITTIMO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic80700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "\"MASCAGNI PIETRO\"",
+		"indirizzo": "VIA TITO SPERI, N.1",
+		"cap": "57027",
+		"comune": "SAN VINCENZO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee00200g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "BENCI ANTONIO",
+		"indirizzo": "VIA BERNARDINA,N.35",
+		"cap": "57125",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee00300b",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "CARDUCCI GIOSUE\\'",
+		"indirizzo": "PIAZZA SFORZINI 18",
+		"cap": "57128",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "lips030007",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "FRANCESCO CECIONI",
+		"indirizzo": "VIA        GALILEI 58/60",
+		"cap": "57122",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "lips010002",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "FEDERIGO ENRIQUES",
+		"indirizzo": "VIA  DELLA BASSATA 19/21",
+		"cap": "57126",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm098001",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "BARTOLENA GIOVANNI",
+		"indirizzo": "VIA MICHEL 8",
+		"cap": "57128",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm00800d",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GIUSEPPE MAZZINI",
+		"indirizzo": "VIA GIOVANNI TARGIONI TOZZETTI 5",
+		"cap": "57124",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm00100p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "G.BORSI",
+		"indirizzo": "VIA DEI CAVALIERI 30",
+		"cap": "57123",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis00900c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "BUONTALENTI-CAPPELLINI-ORLANDO",
+		"indirizzo": "VIA        E.ZOLA,N.6B",
+		"cap": "57122",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis00800l",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "VESPUCCI-COLOMBO",
+		"indirizzo": "VIA        CHIARINI 1",
+		"cap": "57123",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liis00700r",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "IS NICCOLINI-PALLI",
+		"indirizzo": "VIA        E.ROSSI, N. 6",
+		"cap": "57125",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic81500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "DON  ROBERTO ANGELI",
+		"indirizzo": "VIA DUDLEY 3",
+		"cap": "57121",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic81400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. G. MICHELI / G.  BOLOGNESI",
+		"indirizzo": "VIA NICCOLO\\' STENONE 18",
+		"cap": "57122",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liic81300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC MICALI GIUSEPPE",
+		"indirizzo": "VIA DEGLI ARCHI N.66",
+		"cap": "57126",
+		"comune": "LIVORNO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "limm096009",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "ANDREA GUARDI",
+		"indirizzo": "VIA TORINO , 21",
+		"cap": "57025",
+		"comune": "PIOMBINO",
+		"provincia": "LI"
+	}
+	,
+	{
+		"codMec": "liee075009",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "ALIGHIERI DANTE",
+		"indirizzo": "PIAZZA ALIGHIERI,N 5",
+		"cap": "57025",
+		"comune": "PIOMBINO",
+		"provincia": "LI"
+	}
+]

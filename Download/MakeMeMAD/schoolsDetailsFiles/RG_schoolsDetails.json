@@ -1,0 +1,561 @@
+[
+	{
+		"codMec": "rgic832004",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CAP. PUGLISI",
+		"indirizzo": "VIA DUCA D\\'AOSTA, 91",
+		"cap": "97011",
+		"comune": "ACATE",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic80600g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S.A.GUASTELLA",
+		"indirizzo": "CORSO      EUROPA              1",
+		"cap": "97012",
+		"comune": "CHIARAMONTE GULFI",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee01400l",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "PRIMO CIRCOLO COMISO  DE AMICIS",
+		"indirizzo": "VIA DEGLI STUDI N.22",
+		"cap": "97013",
+		"comune": "COMISO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgmm00700c",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "L.PIRANDELLO",
+		"indirizzo": "VIA        DELLA RESISTENZA",
+		"cap": "97013",
+		"comune": "COMISO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic816006",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. VERGA",
+		"indirizzo": "VIA ROMA, SN",
+		"cap": "97013",
+		"comune": "COMISO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis003008",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIOSUE\\' CARDUCCI",
+		"indirizzo": "VIA        ROMA",
+		"cap": "97013",
+		"comune": "COMISO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic80500q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMPR. \"GESUALDO BUFALINO\"",
+		"indirizzo": "VIA SALSO, 40",
+		"cap": "97013",
+		"comune": "COMISO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee01500c",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "SECONDO CIRCOLO COMISO",
+		"indirizzo": "VIA DEI LARICI",
+		"cap": "97013",
+		"comune": "COMISO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic80100c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IST. COMP. LUIGI CAPUANA",
+		"indirizzo": "P.ZZA MARTIRI D\\'UNGHERIA N.4",
+		"cap": "97010",
+		"comune": "GIARRATANA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic83000c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PADRE PIO DA PIETRELCINA",
+		"indirizzo": "VIA VITTORIO VENETO N. 79",
+		"cap": "97014",
+		"comune": "ISPICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis00200c",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GAETANO CURCIO",
+		"indirizzo": "VIA  ANDREOLI N. 2",
+		"cap": "97014",
+		"comune": "ISPICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic80700b",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LEONARDO DA  VINCI",
+		"indirizzo": "CORSO      UMBERTO             88",
+		"cap": "97014",
+		"comune": "ISPICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic810007",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "CARLO AMORE",
+		"indirizzo": "PIAZZA CARMELO OTTAVIANO, S.N.",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic809003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. MARTA",
+		"indirizzo": "VIA VITTORIO VENETO",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee02200g",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "GIACOMO ALBO",
+		"indirizzo": "VIA FURIO CAMILLO 40",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee02100q",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "PIANO GESU\\'",
+		"indirizzo": "VIA PASCOLI",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic825001",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "RAFFAELE POIDOMANI",
+		"indirizzo": "VIA RESISTENZA PARTIGIANA,165",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgrh020005",
+		"tipo": "IST PROF  ALBERGHIERO",
+		"nome": "PRINCIPI GRIMALDI",
+		"indirizzo": "VIALE DEGLI OLEANDRI 19",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgmm02300a",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "GIOVANNI XXIII",
+		"indirizzo": "VIA        FABRIZIO",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis02100t",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ARCHIMEDE",
+		"indirizzo": "VIA        FABRIZIO 10",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis01600a",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "I.I.S \"GALILEI-CAMPAILLA\"",
+		"indirizzo": "PIAZZALE BADEN POWELL N.10",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis004004",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIOVANNI VERGA",
+		"indirizzo": "PIAZZA BADEN POWELL 1",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic817002",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "E. CIACERI",
+		"indirizzo": "CORSO UMBERTO I N. 454",
+		"cap": "97015",
+		"comune": "MODICA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee02600v",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "POZZALLO CIRCOLO DIDATTICO",
+		"indirizzo": "VIA ISOLE FILIPPINE SNC",
+		"cap": "97016",
+		"comune": "POZZALLO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis00600q",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIORGIO LA PIRA",
+		"indirizzo": "VIA E. GIUNTA N. 5",
+		"cap": "97016",
+		"comune": "POZZALLO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic81800t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. ROGASI",
+		"indirizzo": "CORSO      VITTORIO VENETO     36",
+		"cap": "97016",
+		"comune": "POZZALLO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic811003",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ANTONIO AMORE",
+		"indirizzo": "VIALE PAPA GIOVANNI XXIII",
+		"cap": "97016",
+		"comune": "POZZALLO",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgtd03000t",
+		"tipo": "IST TEC COMMERCIALE E PER GEOMETRI",
+		"nome": "F. BESTA",
+		"indirizzo": "VIA ALDO MORO N. 2",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic824005",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "MARIA SCHININA\\'",
+		"indirizzo": "VIA CANOVA",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic82200d",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRANCESCO CRISPI",
+		"indirizzo": "VIA        V.E.ORLANDO,7",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis01400p",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GIUSEPPE MAZZINI",
+		"indirizzo": "VIA CURTATONE S.N.",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee03500n",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "VITTORIA QUARTO CIRCOLO",
+		"indirizzo": "VIA EMANUELA LOI, 21",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic829008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PORTELLA DELLA GINESTRA",
+		"indirizzo": "VIA G. PASCOLI, 27",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic83500g",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "G. CARUANO",
+		"indirizzo": "VIA A. DE GASPERI N. 1",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic83400q",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. \"GIOVANNI XXIII - COLONNA\"",
+		"indirizzo": "VIA MILANO, N. 21",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic82800c",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FILIPPO TRAINA",
+		"indirizzo": "VIA CACCIATORI DELLE ALPI,  N^401",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic82700l",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "FRANCESCO PAPPALARDO",
+		"indirizzo": "VIA G. DI VITTORIO  S.N.",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic81500a",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "SAN BIAGIO",
+		"indirizzo": "PIAZZA GIORDANO BRUNO 9",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis012003",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G.MARCONI.",
+		"indirizzo": "PIAZZA GRAMSCI 4",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic802008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "LEONARDO SCIASCIA",
+		"indirizzo": "VIA MALFA\\' 32",
+		"cap": "97010",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis017006",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "ENRICO FERMI",
+		"indirizzo": "VIA  COMO N.435",
+		"cap": "97019",
+		"comune": "VITTORIA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic82000t",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "BERLINGUER",
+		"indirizzo": "VIA BERLINGUER",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgmm07700p",
+		"tipo": "SCUOLA PRIMO GRADO",
+		"nome": "C.P.I.A. RAGUSA",
+		"indirizzo": "VIA GIORDANO BRUNO S.N.",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis018002",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "G.B. VICO - UMBERTO I - R. GAGLIARDI",
+		"indirizzo": "VIALE DEI PLATANI N.180",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgps01000r",
+		"tipo": "LICEO SCIENTIFICO",
+		"nome": "FERMI",
+		"indirizzo": "V.LE       EUROPA",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis01300v",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "GALILEO FERRARIS",
+		"indirizzo": "VIA NICCOLO\\' TOMMASEO,5",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee004002",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "PALAZZELLO",
+		"indirizzo": "VIA MONTE CERVINO",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee009005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "MARIELE VENTRE",
+		"indirizzo": "VIA PICCININI S.N.",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgee011005",
+		"tipo": "CIRCOLO DIDATTICO",
+		"nome": "PAOLO VETRI",
+		"indirizzo": "VIA DELLE PALME 13",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic83300x",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. VANN\\'ANTO\\'",
+		"indirizzo": "VIA        LEONCAVALLO N? 3",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic831008",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "S. QUASIMODO",
+		"indirizzo": "VIA FIERAMOSCA 39",
+		"cap": "97100",
+		"comune": "RAGUSA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic81400e",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "PSAUMIDE CAMARINENSE",
+		"indirizzo": "PIAZZA DEGLI STUDI, 3",
+		"cap": "97017",
+		"comune": "SANTA CROCE CAMERINA",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic82600r",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "GIOVANNI DANTONI",
+		"indirizzo": "VIA PERASSO, 2",
+		"cap": "97018",
+		"comune": "SCICLI",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic81300p",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "ELIO VITTORINI",
+		"indirizzo": "VIA ALLENDE - DONNALUCATA",
+		"cap": "97018",
+		"comune": "SCICLI",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgic81200v",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "I.C. DON LORENZO MILANI",
+		"indirizzo": "VIA BIANCOSPINO",
+		"cap": "97018",
+		"comune": "SCICLI",
+		"provincia": "RG"
+	}
+	,
+	{
+		"codMec": "rgis00800b",
+		"tipo": "ISTITUTO SUPERIORE",
+		"nome": "QUINTINO CATAUDELLA",
+		"indirizzo": "VIALE DEI FIORI, 13 - SCICLI",
+		"cap": "97018",
+		"comune": "SCICLI",
+		"provincia": "RG"
+	}
+]
