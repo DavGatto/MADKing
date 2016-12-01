@@ -1,0 +1,21 @@
+[
+	{
+		"codMec": "fake010101",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC UNO",
+		"indirizzo": "VIA SCOLASTICA 1",
+		"cap": "88060",
+		"comune": "COMUNE_SCUOLA_UNO",
+		"provincia": "CZ"
+	}
+	,
+	{
+		"codMec": "fake020202",
+		"tipo": "ISTITUTO COMPRENSIVO",
+		"nome": "IC DUE \" G. SABATONI\"",
+		"indirizzo": "VIA  A. MORO, 10",
+		"cap": "88021",
+		"comune": "BORGIA",
+		"provincia": "CZ"
+	}
+]

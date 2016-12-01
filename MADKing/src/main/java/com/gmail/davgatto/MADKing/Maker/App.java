@@ -24,24 +24,42 @@
 package com.gmail.davgatto.MADKing.Maker;
 
 import java.io.IOException;
-import java.nio.charset.Charset;
+import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Properties;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import com.itextpdf.text.BadElementException;
 import com.itextpdf.text.DocumentException;
 
 public class App {
 
-	public final static String BLANK_MAD_MODEL_PATH = "/ModelloMAD.pdf";
-	public final static String TARGET_FOLDER_PATH = "MADKing-ModuliCompilati";
+	private static final Logger log4j = LogManager.getLogger(App.class.getName());
+
+	//public final static String BLANK_MAD_MODEL_PATH = "${'model.blankMADpdf'}"; //"/ModelloMAD.pdf";
+	//public final static String TARGET_FOLDER_PATH = "MADKing-ModuliCompilati";
 	public final static String FILE_SEPARATOR = System.getProperty("file.separator");
 
 
 
 	public static int makeMad(String[] args) {
-
-		String targetDir = TARGET_FOLDER_PATH;
+		
+		log4j.info("MADking:MADMaker: makeMad invoked");
+		
+		InputStream is = Thread.currentThread().getContextClassLoader().
+			    getResourceAsStream("etc/application.properties");
+		Properties props = new Properties();
+		try {
+			props.load(is);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		String blankMadModelPath = props.get("model.blankMADpdf").toString();
+		
+		String targetDir = props.get("default.targetDirectory").toString();
 		boolean teacherdetailsarg = false;
 		String teacherJsonPath = "";
 		boolean schoolsarg = false;
@@ -58,18 +76,18 @@ public class App {
 					teacherdetailsarg = true;
 					teacherJsonPath = s.substring(17);
 					if (Files.exists(Paths.get(teacherJsonPath))) {
-						System.out.println("MADking:MADMaker: Teacher details found at: " + teacherJsonPath);
-						if(Utils.IS_NOT_UTF8){
-							System.out.println("Teacher JSON file encoding appears to be not UTF-8. Rewriting it as such...");
-							try {
-								Utils.encodeFile(teacherJsonPath);
-							} catch (IOException e) {
-								System.err.println("ERROR while encoding file: "+ teacherJsonPath);
-								e.printStackTrace();
-							}
-						}
+						log4j.info("MADking:MADMaker: Teacher details found at: " + teacherJsonPath);
+//						if(Utils.IS_NOT_UTF8){
+//							log4j.info("Teacher JSON file encoding appears to be not UTF-8. Rewriting it as such...");
+//							try {
+//								Utils.encodeFile(teacherJsonPath);
+//							} catch (IOException e) {
+//								log4j.error("ERROR while encoding file: "+ teacherJsonPath);
+//								e.printStackTrace();
+//							}
+//						}
 					} else {
-						System.out.println("MADKing:MADMaker: ERROR! Couldn't find Teacher details JSON file at: "
+						log4j.error("MADKing:MADMaker: ERROR! Couldn't find Teacher details JSON file at: "
 								+ teacherJsonPath + "\nAborting...");
 						return -1;
 					}
@@ -79,45 +97,45 @@ public class App {
 					schoolsarg = true;
 					schoolsJsonPath = s.substring(10);
 					if (Files.exists(Paths.get(schoolsJsonPath))) {
-						System.out.println("MADking:MADMaker: School list found at: " + schoolsJsonPath);
-						if(Utils.IS_NOT_UTF8){
-							System.out.println("Schools JSON file encoding appears to be not UTF-8. Rewriting it as such...");
-							try {
-								Utils.encodeFile(schoolsJsonPath);
-							} catch (IOException e) {
-								System.err.println("ERROR while encoding file: "+ schoolsJsonPath);
-								e.printStackTrace();
-							}
-						}
+						log4j.info("MADking:MADMaker: School list found at: " + schoolsJsonPath);
+//						if(Utils.IS_NOT_UTF8){
+//							log4j.info("Schools JSON file encoding appears to be not UTF-8. Rewriting it as such...");
+//							try {
+//								Utils.encodeFile(schoolsJsonPath);
+//							} catch (IOException e) {
+//								log4j.error("ERROR while encoding file: "+ schoolsJsonPath);
+//								e.printStackTrace();
+//							}
+//						}
 					} else {
-						System.out.println("MADKing:MADMaker: ERROR!! Couldn't find schools JSON file at: "
+						log4j.error("MADKing:MADMaker: ERROR!! Couldn't find schools JSON file at: "
 								+ schoolsJsonPath + "\nAborting...");
 						return -1;
 						}
 				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
-					System.out.println("MADking:MADMaker: Output directory set as " + targetDir);
-				} else if (s.startsWith("--pecmaildetails=") || s.startsWith("--debug") || s.startsWith("--simulate=")) {
+					log4j.info("MADking:MADMaker: Output directory set as " + targetDir);
+				} else if (s.startsWith("--pecmaildetails=") || s.startsWith("--simulate=")) {
 					// Do nothing
 				} else {
-					System.out.println("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");
+					log4j.error("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");
 					printHelp();
 					return -1;
 				}
 				
 			}
 			if (!teacherdetailsarg) {
-				System.out.println("MADKing:MADMaker: ERROR!! Teacher details JSON file not specified!\nAborting...");
+				log4j.error("MADKing:MADMaker: ERROR!! Teacher details JSON file not specified!\nAborting...");
 				printHelp();
 				return -1;
 			}
 			if (!schoolsarg) {
-				System.out.println("MADKing:MADMaker: ERROR!! Schools JSON file not specified!\nAborting...");
+				log4j.error("MADKing:MADMaker: ERROR!! Schools JSON file not specified!\nAborting...");
 				printHelp();
 				return -1;
 			}
 		} else {
-			System.out.println(
+			log4j.error(
 					"MADking:MADMaker: WARNING!! Maker won't run with no arguments");
 			printHelp();
 			return -1;
@@ -126,7 +144,7 @@ public class App {
 		try {
 			Files.createDirectories(Paths.get(targetDir));
 		} catch (IOException e1) {
-			System.out.println("MADking:MADMaker: could not create directory " + targetDir);
+			log4j.error("MADking:MADMaker: could not create directory " + targetDir);
 			e1.printStackTrace();
 		}
 
@@ -137,33 +155,33 @@ public class App {
 			teacherDetails.setFromJsonObj(teacherJsonPath);
 			teacherSpecificMADPath += teacherDetails.getRecapitoName().replaceAll("\\s|\'", "") + "_MAD.pdf";
 		} catch (IOException e) {
-			System.out.println("MADking:MADMaker: teacherDetails.json not found");
+			log4j.error("MADking:MADMaker: teacherDetails.json not found");
 			e.printStackTrace();
 		} catch (BadElementException e) {
-			System.out.println("MADking:MADMaker: teacherDetails.json could not be read properly");
+			log4j.error("MADking:MADMaker: teacherDetails.json could not be read properly");
 			e.printStackTrace();
 		}
 
 		try {
 			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, annoScolastico, teacherSpecificMADPath,
-					BLANK_MAD_MODEL_PATH);
-			System.out.println("MADking:MADMaker: Teacher-specific MAD file created!");
+					blankMadModelPath);
+			log4j.trace("MADking:MADMaker: Teacher-specific MAD file created!");
 		} catch (IOException e) {
-			System.out.println("MADking:MADMaker: IOExceprion occurred while generating teacher-specific MAD pdf file");
+			log4j.error("MADking:MADMaker: IOExceprion occurred while generating teacher-specific MAD pdf file");
 			e.printStackTrace();
 		} catch (DocumentException e) {
-			System.out.println("MADking:MADMaker: DocumentException occurred while generating teacher-specific MAD pdf file");
+			log4j.error("MADking:MADMaker: DocumentException occurred while generating teacher-specific MAD pdf file");
 			e.printStackTrace();
 		}
 
 		try {
 			SchoolSpecificMADMaker.generateSchoolSpecificMADFiles(schoolsJsonPath, teacherSpecificMADPath);
-			System.out.println("MADking:MADMaker: School-specific MAD files created!");
+			log4j.trace("MADking:MADMaker: School-specific MAD files created!");
 		} catch (DocumentException e) {
-			System.out.println("MADking:MADMaker: DocumentException occurred while generating school-specific MAD pdf file");
+			log4j.error("MADking:MADMaker: DocumentException occurred while generating school-specific MAD pdf file");
 			e.printStackTrace();
 		} catch (IOException e) {
-			System.out.println("MADking:MADMaker: IOExceprion occurred while generating school-specific MAD pdf file");
+			log4j.error("MADking:MADMaker: IOExceprion occurred while generating school-specific MAD pdf file");
 			e.printStackTrace();
 		}
 

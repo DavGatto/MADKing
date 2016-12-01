@@ -24,7 +24,6 @@
 package com.gmail.davgatto.MADKing.all;
 
 import java.awt.Button;
-import java.awt.Checkbox;
 import java.awt.FlowLayout;
 import java.awt.Frame;
 import java.awt.Label;
@@ -34,11 +33,18 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.io.File;
-import java.nio.charset.Charset;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 public class App extends Frame implements ActionListener, WindowListener {
 
 	private static final long serialVersionUID = 1L;
+
+	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 
 	private static String pathSeparator = System.getProperty("file.separator");
 
@@ -48,7 +54,6 @@ public class App extends Frame implements ActionListener, WindowListener {
 	private String target;
 	private String simMail;
 	private String anno;
-	private boolean debug;
 
 	private String getTeachDet() {
 		return teachDet;
@@ -98,14 +103,6 @@ public class App extends Frame implements ActionListener, WindowListener {
 		this.anno = anno;
 	}
 
-	private boolean isDebug() {
-		return debug;
-	}
-
-	private void setDebug(boolean debug) {
-		this.debug = debug;
-	}
-
 	private Label lblTeachDet;
 	private TextField tfTeachDet;
 
@@ -124,12 +121,20 @@ public class App extends Frame implements ActionListener, WindowListener {
 	private Label lblSimMail;
 	private TextField tfSimMail;
 
-	private Checkbox cbDebug;
-
 	private Button btnMake;
 	private Button btnSend;
 
 	public App() {
+		
+		InputStream is = Thread.currentThread().getContextClassLoader().
+			    getResourceAsStream("etc/application.properties");
+		Properties props = new Properties();
+		try {
+			props.load(is);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		String defaultWorkDir = props.get("default.workDirectory").toString();
 
 		setLayout(new FlowLayout());
 
@@ -138,7 +143,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 		lblTarget = new Label("Cartella di lavoro");
 		add(lblTarget);
 
-		tfTarget = new TextField(System.getProperty("user.home") + pathSeparator + "MakeMeMAD", fieldWidth);
+		tfTarget = new TextField(System.getProperty("user.home") + pathSeparator + defaultWorkDir, fieldWidth);
 
 		add(tfTarget);
 
@@ -170,8 +175,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 		tfAnno = new TextField("2016/17", 8);
 		add(tfAnno);
 
-		cbDebug = new Checkbox("Debug", false);
-		add(cbDebug);
+		// cbDebug = new Checkbox("Debug", false);
+		// add(cbDebug);
 
 		btnMake = new Button("Crea (senza inviare)");
 		add(btnMake);
@@ -191,11 +196,14 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 	public static void main(String[] args) {
 
+		log4j.info("Started!");
+
 		new App();
 
 	}
 
 	public void actionPerformed(ActionEvent e) {
+		log4j.info("Richiesta creazione senza invio");
 		setTarget(tfTarget.getText());
 
 		if (!getTarget().endsWith(pathSeparator)) {
@@ -208,7 +216,6 @@ public class App extends Frame implements ActionListener, WindowListener {
 		setPecDet(getTarget() + tfPecDet.getText());
 
 		setSimMail(tfSimMail.getText());
-		setDebug(cbDebug.getState());
 
 		File schoolsFile = new File(getSchools());
 
@@ -221,128 +228,77 @@ public class App extends Frame implements ActionListener, WindowListener {
 					executeWithSingleSchoolsFile(e, schools.getPath());
 				}
 			} else {
-				System.err.println("Il percorso: " + getSchools() + " non è una directory valida");
+				log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
 				return;
 			}
 		} else {
-			System.err.println("Il percorso: " + getSchools() + " non è una directory valida");
+			log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
 			return;
 		}
 
 	}
 
 	private void executeWithSingleSchoolsFile(ActionEvent e, String schools) {
-		String dirName = "FilesGenerati" + pathSeparator + schools.substring(schools.indexOf("_schoolsDetails.json")-2, schools.indexOf("_schoolsDetails.json"));
+		String dirName = "FilesGenerati" + pathSeparator + schools
+				.substring(schools.indexOf("_schoolsDetails.json") - 2, schools.indexOf("_schoolsDetails.json"));
 		if (e.getSource() == btnMake) {
-			if (isDebug()) {
-				System.out.println("##### DEBUG : Default Charset = " + Charset.defaultCharset());
-				System.out.println("##### DEBUG : file.encoding = " + System.getProperty("file.encoding"));
 
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-						"--pecmaildetails=" + getPecDet(),
-						"--directory=" + getTarget() + dirName,
-						"--debug" };
-				System.out.println("### DEBUG: Passed args[]:");
-				for (String s : args) {
-					System.out.println(s);
-				}
-
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-				if (m == 0) {
-					System.out.println("MADKing: MADMaker successfully executed");
-				} else {
-					System.out.println("MADKing: MADMaker exit status: " + m);
-				}
-				return;
-			} else if (!isDebug()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-				if (m == 0) {
-					System.out.println("MADKing: MADMaker successfully executed");
-				} else {
-					System.out.println("MADKing: MADMaker exit status: " + m);
-				}
-				return;
+			String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
+					"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
+			int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+			if (m == 0) {
+				log4j.info("MADKing: MADMaker successfully executed");
+			} else {
+				log4j.info("MADKing: MADMaker exit status: " + m);
 			}
+			return;
+
 		}
 
 		if (e.getSource() == btnSend) {
-			if (isDebug() && !getSimMail().isEmpty()) {
+			if (!getSimMail().isEmpty()) {
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
-						"--simulate=" + getSimMail(), "--debug" };
+						"--simulate=" + getSimMail() };
 
-				System.out.println("### DEBUG: Passed args[]:");
+				log4j.debug("### DEBUG: Passed args[]:");
 				for (String s : args) {
-					System.out.println(s);
+					log4j.debug(s);
 				}
 
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
-					System.out.println("MADKing: MADMaker successfully executed");
+					log4j.info("MADKing: MADMaker successfully executed");
 				} else {
-					System.out.println("MADKing: MADMaker exit status: " + m);
+					log4j.info("MADKing: MADMaker exit status: " + m);
 				}
 				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
 				if (s == 0) {
-					System.out.println("MADKing: MADSender successfully executed");
+					log4j.info("MADKing: MADSender successfully executed");
 				} else {
-					System.out.println("MADKing: MADSender exit status: " + m);
+					log4j.info("MADKing: MADSender exit status: " + m);
 				}
 				return;
-			} else if (isDebug() && getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName, "--debug" };
-
-				System.out.println("### DEBUG: Passed args[]:");
-				for (String s : args) {
-					System.out.println(s);
-				}
-
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-				if (m == 0) {
-					System.out.println("MADKing: MADMaker successfully executed");
-				} else {
-					System.out.println("MADKing: MADMaker exit status: " + m);
-				}
-				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-				if (s == 0) {
-					System.out.println("MADKing: MADSender successfully executed");
-				} else {
-					System.out.println("MADKing: MADSender exit status: " + m);
-				}
-				return;
-			} else if (!isDebug() && !getSimMail().isEmpty()) {
+			} else {
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
+
+				log4j.debug("Passed args[]:");
+				for (String s : args) {
+					log4j.info(s);
+				}
+
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
-					System.out.println("MADKing: MADMaker successfully executed");
+					log4j.info("MADKing: MADMaker successfully executed");
 				} else {
-					System.out.println("MADKing: MADMaker exit status: " + m);
+					log4j.info("MADKing: MADMaker exit status: " + m);
 				}
 				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
 				if (s == 0) {
-					System.out.println("MADKing: MADSender successfully executed");
+					log4j.info("MADKing: MADSender successfully executed");
 				} else {
-					System.out.println("MADKing: MADSender exit status: " + m);
-				}
-				return;
-			} else if (!isDebug() && getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-				if (m == 0) {
-					System.out.println("MADKing: MADMaker successfully executed");
-				} else {
-					System.out.println("MADKing: MADMaker exit status: " + m);
-				}
-				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-				if (s == 0) {
-					System.out.println("MADKing: MADSender successfully executed");
-				} else {
-					System.out.println("MADKing: MADSender exit status: " + m);
+					log4j.info("MADKing: MADSender exit status: " + m);
 				}
 				return;
 			}
@@ -352,24 +308,31 @@ public class App extends Frame implements ActionListener, WindowListener {
 	/* WindowEvent handlers */
 
 	public void windowClosing(WindowEvent evt) {
+		log4j.trace("windowClosing event");
 		System.exit(0);
 	}
 
 	public void windowOpened(WindowEvent evt) {
+		log4j.trace("windowOpened event");
 	}
 
 	public void windowClosed(WindowEvent evt) {
+		log4j.trace("windowClosed event");
 	}
 
 	public void windowIconified(WindowEvent evt) {
+		log4j.trace("windowIconified event");
 	}
 
 	public void windowDeiconified(WindowEvent evt) {
+		log4j.trace("windowDeiconified event");
 	}
 
 	public void windowActivated(WindowEvent evt) {
+		log4j.trace("windowActivated event");
 	}
 
 	public void windowDeactivated(WindowEvent evt) {
+		log4j.trace("windowDeactivated event");
 	}
 }

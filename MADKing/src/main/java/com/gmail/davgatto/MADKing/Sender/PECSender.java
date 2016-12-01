@@ -24,6 +24,7 @@
 package com.gmail.davgatto.MADKing.Sender;
 
 import java.io.IOException;
+
 import java.util.Date;
 import java.util.Properties;
 
@@ -49,7 +50,7 @@ public class PECSender {
 	private String host;
 	private String username;
 	private String password;
-	private boolean debug;
+	//private boolean debug;
 
 	private String to;
 	private String subject;
@@ -88,13 +89,13 @@ public class PECSender {
 		this.password = password;
 	}
 
-	private boolean isDebug() {
-		return debug;
-	}
-
-	private void setDebug(boolean debug) {
-		this.debug = debug;
-	}
+//	private boolean isDebug() {
+//		return debug;
+//	}
+//
+//	private void setDebug(boolean debug) {
+//		this.debug = debug;
+//	}
 
 	private String getTo() {
 		return to;
@@ -128,7 +129,9 @@ public class PECSender {
 		this.attachment = attachment;
 	}
 
-	public PECSender(JsonObject jsoMail, JsonObject jsoTeach, String folderPath, boolean debug) {
+	public PECSender(JsonObject jsoMail, JsonObject jsoTeach, String folderPath) {
+		
+		
 
 		setUsername(jsoMail.getString("username"));
 
@@ -138,7 +141,7 @@ public class PECSender {
 
 		setHost(jsoMail.getString("host"));
 
-		setDebug(debug);
+//		setDebug(debug);
 
 		setSubject(jsoMail.getString("subject"));
 		setBody(jsoMail.getString("body"));
@@ -158,7 +161,7 @@ public class PECSender {
 			body += "\n \t DEBUG: Questa mail sarebbe stata inviata alla scuola " + jsoSchool.getString("codMec") + "\n";
 		}
 
-		setDebug(isDebug());
+//		setDebug(isDebug());
 
 		String basicAttachmentName = getAttachment();
 
