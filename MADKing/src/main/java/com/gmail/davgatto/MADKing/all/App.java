@@ -140,14 +140,14 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		final int fieldWidth = 50;
 
-		lblTarget = new Label("Cartella di lavoro");
+		lblTarget = new Label(props.getProperty("label.workDir"));
 		add(lblTarget);
 
 		tfTarget = new TextField(System.getProperty("user.home") + pathSeparator + defaultWorkDir, fieldWidth);
 
 		add(tfTarget);
 
-		lblTeachDet = new Label("File dettagli insegnante");
+		lblTeachDet = new Label(props.getProperty("label.teachDet"));
 
 		add(lblTeachDet);
 
@@ -155,40 +155,40 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		add(tfTeachDet);
 
-		lblSchools = new Label("Dettagli scuole");
+		lblSchools = new Label(props.getProperty("label.schoolsDet"));
 		add(lblSchools);
-		tfSchools = new TextField("file o cartella di files schoolDetails.json", fieldWidth);
+		tfSchools = new TextField(props.getProperty("placeholder.schoolsDet"), fieldWidth);
 		add(tfSchools);
 
-		lblPecDet = new Label("File dettagli PEC");
+		lblPecDet = new Label(props.getProperty("label.pecDet"));
 		add(lblPecDet);
 		tfPecDet = new TextField("pecDetails.json", fieldWidth);
 		add(tfPecDet);
 
-		lblSimMail = new Label("Indirizzo per invio simulato");
+		lblSimMail = new Label(props.getProperty("label.simMail"));
 		add(lblSimMail);
-		tfSimMail = new TextField("<Lascia vuoto per invio reale tramite PEC>", fieldWidth);
+		tfSimMail = new TextField(props.getProperty("placeholder.simMail"), fieldWidth);
 		add(tfSimMail);
 
-		lblAnno = new Label("Anno Scolastico");
+		lblAnno = new Label(props.getProperty("label.as"));
 		add(lblAnno);
-		tfAnno = new TextField("2016/17", 8);
+		tfAnno = new TextField(props.getProperty("placeholder.as"), 8);
 		add(tfAnno);
 
 		// cbDebug = new Checkbox("Debug", false);
 		// add(cbDebug);
 
-		btnMake = new Button("Crea (senza inviare)");
+		btnMake = new Button(props.getProperty("button.make"));
 		add(btnMake);
 		btnMake.addActionListener(this);
 
-		btnSend = new Button("Invia");
+		btnSend = new Button(props.getProperty("button.send"));
 		add(btnSend);
 		btnSend.addActionListener(this);
 
 		addWindowListener(this);
 
-		setTitle("MADKing -- Burn them all!");
+		setTitle(props.getProperty("label.title"));
 		setSize(650, 255);
 
 		setVisible(true);
@@ -252,7 +252,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 			if (m == 0) {
 				log4j.info("MADKing: MADMaker successfully executed");
 			} else {
-				log4j.info("MADKing: MADMaker exit status: " + m);
+				log4j.debug("MADKing: MADMaker exit status: " + m);
 			}
 			return;
 
@@ -264,44 +264,44 @@ public class App extends Frame implements ActionListener, WindowListener {
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
 						"--simulate=" + getSimMail() };
 
-				log4j.debug("### DEBUG: Passed args[]:");
-				for (String s : args) {
-					log4j.debug(s);
-				}
+//				log4j.debug("### DEBUG: Passed args[]:");
+//				for (String s : args) {
+//					log4j.debug(s);
+//				}
 
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
 					log4j.info("MADKing: MADMaker successfully executed");
 				} else {
-					log4j.info("MADKing: MADMaker exit status: " + m);
+					log4j.debug("MADKing: MADMaker exit status: " + m);
 				}
 				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
 				if (s == 0) {
 					log4j.info("MADKing: MADSender successfully executed");
 				} else {
-					log4j.info("MADKing: MADSender exit status: " + m);
+					log4j.debug("MADKing: MADSender exit status: " + m);
 				}
 				return;
 			} else {
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
 
-				log4j.debug("Passed args[]:");
-				for (String s : args) {
-					log4j.info(s);
-				}
+//				log4j.debug("Passed args[]:");
+//				for (String s : args) {
+//					log4j.debug(s);
+//				}
 
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
 					log4j.info("MADKing: MADMaker successfully executed");
 				} else {
-					log4j.info("MADKing: MADMaker exit status: " + m);
+					log4j.debug("MADKing: MADMaker exit status: " + m);
 				}
 				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
 				if (s == 0) {
 					log4j.info("MADKing: MADSender successfully executed");
 				} else {
-					log4j.info("MADKing: MADSender exit status: " + m);
+					log4j.debug("MADKing: MADSender exit status: " + m);
 				}
 				return;
 			}

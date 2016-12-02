@@ -6,6 +6,7 @@
 	<packaging>jar</packaging>
 	<version>1.0</version>
 	<name>MADKing</name>
+	<description>Compila e invia automaticamente moduli di messa a disposizione per supplenze.</description>
 	<url>https://github.com/DavGatto/MADKing</url>
 	<licenses>
 		<license>
@@ -23,6 +24,9 @@
 				<role>developer</role>
 			</roles>
 			<timezone>Europe/Rome</timezone>
+			<properties>
+				<picUrl>https://avatars1.githubusercontent.com/u/7951448?v=3&amp;s=460</picUrl>
+			</properties>
 		</developer>
 	</developers>
 	<dependencies>
@@ -60,25 +64,23 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/javax.mail/javax.mail-api -->
-		<dependency>
-			<groupId>javax.mail</groupId>
-			<artifactId>javax.mail-api</artifactId>
-			<version>1.5.1</version>
-		</dependency>
+		<!-- dependency> <groupId>javax.mail</groupId> <artifactId>javax.mail-api</artifactId> 
+			<version>1.5.6</version> </dependency -->
 
 		<!-- https://mvnrepository.com/artifact/javax.activation/activation -->
 		<dependency>
 			<groupId>javax.activation</groupId>
 			<artifactId>activation</artifactId>
-			<version>1.1.1</version>
+			<version>1.1</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
 		<dependency>
 			<groupId>com.sun.mail</groupId>
 			<artifactId>javax.mail</artifactId>
-			<version>1.5.1</version>
+			<version>1.5.6</version>
 		</dependency>
+
 
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>
@@ -122,6 +124,15 @@
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
 				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id> <!-- this is used for inheritance merges -->
+						<phase>package</phase> <!-- bind to the packaging phase -->
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 
 

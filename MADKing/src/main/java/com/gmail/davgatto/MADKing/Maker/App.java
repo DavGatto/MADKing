@@ -52,7 +52,10 @@ public class App {
 	 */
 	public static int makeMad(String[] args) {
 		
-		log4j.info("MADking:MADMaker: makeMad invoked");
+		log4j.debug("MADking:MADMaker: makeMad invoked with arguments:");
+		for (String string : args) {
+			log4j.debug(string);
+		}
 		
 		InputStream is = Thread.currentThread().getContextClassLoader().
 			    getResourceAsStream("etc/application.properties");
@@ -73,10 +76,10 @@ public class App {
 
 		if (args.length > 0) {
 			for (String s : args) {
-				if ("--help".equals(s.substring(0, 6))) {
-					printHelp();
-					return 0;
-				}
+//				if ("--help".equals(s.substring(0, 6))) {
+//					printHelp();
+//					return 0;
+//				}
 				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
 					teacherJsonPath = s.substring(17);
@@ -124,25 +127,25 @@ public class App {
 					// Do nothing
 				} else {
 					log4j.error("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");
-					printHelp();
+//					printHelp();
 					return -1;
 				}
 				
 			}
 			if (!teacherdetailsarg) {
 				log4j.error("MADKing:MADMaker: ERROR!! Teacher details JSON file not specified!\nAborting...");
-				printHelp();
+//				printHelp();
 				return -1;
 			}
 			if (!schoolsarg) {
 				log4j.error("MADKing:MADMaker: ERROR!! Schools JSON file not specified!\nAborting...");
-				printHelp();
+//				printHelp();
 				return -1;
 			}
 		} else {
 			log4j.error(
 					"MADking:MADMaker: WARNING!! Maker won't run with no arguments");
-			printHelp();
+//			printHelp();
 			return -1;
 		}
 
@@ -194,12 +197,12 @@ public class App {
 		return 0;
 	}
 
-	private static void printHelp() {
-		System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS] [OPTIONS]\n\n" + "PARAMS:\n"
-				+ "--teacherdetails\t\tPath to the JSON file containing teacher's details\n"
-				+ "--schools\t\tPath to the JSON file containing school list\n\n" + "OPTIONS:\n"
-				+ "--as\t\tScholastic Year\n"
-				+ "--directory\t\tAlternative directory for the generated pdf files");
-	}
+//	private static void printHelp() {
+//		System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS] [OPTIONS]\n\n" + "PARAMS:\n"
+//				+ "--teacherdetails\t\tPath to the JSON file containing teacher's details\n"
+//				+ "--schools\t\tPath to the JSON file containing school list\n\n" + "OPTIONS:\n"
+//				+ "--as\t\tScholastic Year\n"
+//				+ "--directory\t\tAlternative directory for the generated pdf files");
+//	}
 	
 }

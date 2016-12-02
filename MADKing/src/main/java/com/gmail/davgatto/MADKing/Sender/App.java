@@ -42,20 +42,25 @@ import org.apache.logging.log4j.Logger;
 import com.gmail.davgatto.MADKing.Maker.Utils;
 
 public class App {
-	
+
 	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 
 	/**
 	 * Invia a mezzo PEC tutti i file pdf (moduli di MAD) generati
-	 * @param args - argomenti in stile command-line
+	 * 
+	 * @param args
+	 *            - argomenti in stile command-line
 	 * @return status code
 	 */
 	public static int send(String[] args) {
-		
-		log4j.trace("MADKing:MADSender: send invoked");
-		
-		InputStream is = Thread.currentThread().getContextClassLoader().
-			    getResourceAsStream("etc/application.properties");
+
+		log4j.debug("MADKing:MADSender: send invoked with arguments:");
+		for (String string : args) {
+			log4j.debug(string);
+		}
+
+		InputStream is = Thread.currentThread().getContextClassLoader()
+				.getResourceAsStream("etc/application.properties");
 		Properties props = new Properties();
 		try {
 			props.load(is);
@@ -71,15 +76,15 @@ public class App {
 		String pecJsonPath = "";
 		boolean pecarg = false;
 		String schoolsJsonPath = "";
-//		boolean debug = DEBUG;
-//		String targetMail = PEC_ISTRUZIONE;
+		// boolean debug = DEBUG;
+		// String targetMail = PEC_ISTRUZIONE;
 		boolean simulating = false;
 		if (args.length > 0) {
 			for (String s : args) {
-				if ("--help".equals(s.substring(0, 6))) {
-					printHelp();
-					return 0;
-				}
+				// if ("--help".equals(s.substring(0, 6))) {
+				// printHelp();
+				// return 0;
+				// }
 				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
 					teacherJsonPath = s.substring(17);
@@ -96,8 +101,8 @@ public class App {
 					if (Files.exists(Paths.get(schoolsJsonPath))) {
 						log4j.info("MADKing:MADSender: School list found at: " + schoolsJsonPath);
 					} else {
-						log4j.error("MADKing:MADSender: ERROR!! Couldn't find schools JSON file at: "
-								+ schoolsJsonPath + "\nAborting...");
+						log4j.error("MADKing:MADSender: ERROR!! Couldn't find schools JSON file at: " + schoolsJsonPath
+								+ "\nAborting...");
 						return -1;
 					}
 				} else if (s.startsWith("--directory=")) {
@@ -108,18 +113,18 @@ public class App {
 					pecJsonPath = s.substring(17);
 					if (Files.exists(Paths.get(pecJsonPath))) {
 						log4j.info("MADKing:MADSender: PEC details found at " + pecJsonPath);
-						if(Utils.IS_NOT_UTF8){
+						if (Utils.IS_NOT_UTF8) {
 							log4j.info("PEC JSON file encoding appears to be not UTF-8. Rewriting it as such...");
 							try {
 								Utils.encodeFile(pecJsonPath);
 							} catch (IOException e) {
-								log4j.error("ERROR while encoding file: "+ pecJsonPath);
+								log4j.error("ERROR while encoding file: " + pecJsonPath);
 								e.printStackTrace();
 							}
 						}
 					} else {
-						log4j.error("MADKing:MADSender: ERROR!! Couldn't find PEC details JSON file at "
-								+ pecJsonPath + "\nAborting...");
+						log4j.error("MADKing:MADSender: ERROR!! Couldn't find PEC details JSON file at " + pecJsonPath
+								+ "\nAborting...");
 						return -1;
 					}
 				} else if (s.startsWith("--as=")) {
@@ -130,28 +135,28 @@ public class App {
 					log4j.info("MADKing:MADSender: Simulated run -- actually sending to " + targetMail);
 				} else {
 					log4j.error("MADKing:MADSender: Invalid argument:" + s + "\nAborting...\n\n");
-					printHelp();
+					// printHelp();
 					return -1;
 				}
 			}
 			if (!teacherdetailsarg) {
 				log4j.error("MADKing:MADSender: ERROR!! Teacher details JSON file not specified!\nAborting...");
-				printHelp();
+				// printHelp();
 				return -1;
 			}
 			if (!schoolsarg) {
 				log4j.error("MADKing:MADSender: ERROR!! Schools JSON file not specified!\nAborting...");
-				printHelp();
+				// printHelp();
 				return -1;
 			}
 			if (!pecarg) {
 				log4j.error("MADKing:MADSender: ERROR!! PEC details JSON file not specified!\nAborting...");
-				printHelp();
+				// printHelp();
 				return -1;
 			}
 		} else {
 			log4j.error("MADKing:MADSender: ERROR!! Sender won't run with no arguments\n\n");
-			printHelp();
+			// printHelp();
 			return -1;
 		}
 
@@ -167,10 +172,9 @@ public class App {
 			PECSender sender = new PECSender(jsoMail, jsoTeach, targetDir);
 
 			for (JsonValue jsoSchool : jsarr) {
-				log4j.trace(
-						"MADKing:MADSender: Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
+				log4j.info("MADKing:MADSender: Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
 				sender.sendMail((JsonObject) jsoSchool, targetMail, simulating);
-				log4j.trace("MADKing:MADSender: Sent!");
+				log4j.info("MADKing:MADSender: Sent!");
 			}
 
 		} catch (Exception e) {
@@ -181,14 +185,19 @@ public class App {
 
 	}
 
-	private static void printHelp() {
-		System.out.print("MADKing Sender -- Usage:\n" + "madkingsender [PARAMS] [OPTIONS]\n\n"
-				+ "send\t\tSend the PEC mails\n" + "simulate" + "PARAMS:\n"
-				+ "--teacherdetails=PATH\t\tPath to the JSON file containing teacher's details\n"
-				+ "--pecmaildetails=PATH\t\tPath to the JSON file containing PEC mail details\n"
-				+ "--schools=PATH\t\tPath to the JSON file containing school list\n\n"
-				+ "--directory=PATH\t\tdirectory of the MADMAker generated pdf files\n" + "OPTIONS:\n"
-				+ "--simulate=EXAMPLE@MAILADDRESS.COM\t\tAvoid sending real PEC, send to alternate email instead\n"
-				);
-	}
+	// private static void printHelp() {
+	// System.out.print("MADKing Sender -- Usage:\n" + "madkingsender [PARAMS]
+	// [OPTIONS]\n\n"
+	// + "send\t\tSend the PEC mails\n" + "simulate" + "PARAMS:\n"
+	// + "--teacherdetails=PATH\t\tPath to the JSON file containing teacher's
+	// details\n"
+	// + "--pecmaildetails=PATH\t\tPath to the JSON file containing PEC mail
+	// details\n"
+	// + "--schools=PATH\t\tPath to the JSON file containing school list\n\n"
+	// + "--directory=PATH\t\tdirectory of the MADMAker generated pdf files\n" +
+	// "OPTIONS:\n"
+	// + "--simulate=EXAMPLE@MAILADDRESS.COM\t\tAvoid sending real PEC, send to
+	// alternate email instead\n"
+	// );
+	// }
 }
