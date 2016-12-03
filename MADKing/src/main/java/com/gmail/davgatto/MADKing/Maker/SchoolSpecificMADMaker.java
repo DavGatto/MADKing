@@ -37,6 +37,9 @@ import javax.json.JsonObject;
 import javax.json.JsonReader;
 import javax.json.JsonValue;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.pdf.BaseFont;
 import com.itextpdf.text.pdf.PdfContentByte;
@@ -44,6 +47,8 @@ import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.PdfStamper;
 
 public class SchoolSpecificMADMaker {
+	
+	private static final Logger log4j = LogManager.getLogger(SchoolSpecificMADMaker.class.getName());
 
 	private static ArrayList<School> getSchoolsFromJsonFile(String pathToJsonFile) throws FileNotFoundException {
 
@@ -59,10 +64,22 @@ public class SchoolSpecificMADMaker {
 
 	}
 
-	public static void generateSchoolSpecificMADFiles(String jsonSchoolsFilePath, String teacherSpecificMADPath)
-			throws DocumentException, IOException {
+	public static void generateSchoolSpecificMADFiles(String jsonSchoolsFilePath, String teacherSpecificMADPath,
+			ArrayList<String> unwanted) throws DocumentException, IOException {
 
 		ArrayList<School> schools = getSchoolsFromJsonFile(jsonSchoolsFilePath);
+
+		if (unwanted != null && !unwanted.isEmpty()) {
+			ArrayList<School> keep = new ArrayList<School>(schools);
+			log4j.debug("unwanted is not null nor empty");
+			for (School school : schools) {
+				if(unwanted.contains(school.getTipo())){
+					keep.remove(school);
+					log4j.debug("removed: " + school.getCodMec() + " - " + school.getTipo());
+				}
+			}
+			schools = keep;
+		}
 
 		for (School school : schools) {
 

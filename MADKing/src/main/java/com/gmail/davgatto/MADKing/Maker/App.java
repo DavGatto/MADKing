@@ -27,6 +27,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
@@ -39,26 +41,28 @@ public class App {
 
 	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 
-	//public final static String BLANK_MAD_MODEL_PATH = "${'model.blankMADpdf'}"; //"/ModelloMAD.pdf";
-	//public final static String TARGET_FOLDER_PATH = "MADKing-ModuliCompilati";
+	// public final static String BLANK_MAD_MODEL_PATH =
+	// "${'model.blankMADpdf'}"; //"/ModelloMAD.pdf";
+	// public final static String TARGET_FOLDER_PATH =
+	// "MADKing-ModuliCompilati";
 	public final static String FILE_SEPARATOR = System.getProperty("file.separator");
-
-
 
 	/**
 	 * Genera i moduli compilati di MAD in pdf
-	 * @param args - argomenti in stile command-line
+	 * 
+	 * @param args
+	 *            - argomenti in stile command-line
 	 * @return status code
 	 */
 	public static int makeMad(String[] args) {
-		
+
 		log4j.debug("MADking:MADMaker: makeMad invoked with arguments:");
 		for (String string : args) {
 			log4j.debug(string);
 		}
-		
-		InputStream is = Thread.currentThread().getContextClassLoader().
-			    getResourceAsStream("etc/application.properties");
+
+		InputStream is = Thread.currentThread().getContextClassLoader()
+				.getResourceAsStream("etc/application.properties");
 		Properties props = new Properties();
 		try {
 			props.load(is);
@@ -66,34 +70,37 @@ public class App {
 			e.printStackTrace();
 		}
 		String blankMadModelPath = props.get("model.blankMADpdf").toString();
-		
+
 		String targetDir = props.get("default.targetDirectory").toString();
 		boolean teacherdetailsarg = false;
 		String teacherJsonPath = "";
 		boolean schoolsarg = false;
 		String schoolsJsonPath = "";
 		String annoScolastico = "";
+		ArrayList<String> unwanted = null;
 
 		if (args.length > 0) {
 			for (String s : args) {
-//				if ("--help".equals(s.substring(0, 6))) {
-//					printHelp();
-//					return 0;
-//				}
+				// if ("--help".equals(s.substring(0, 6))) {
+				// printHelp();
+				// return 0;
+				// }
 				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
 					teacherJsonPath = s.substring(17);
 					if (Files.exists(Paths.get(teacherJsonPath))) {
 						log4j.info("MADking:MADMaker: Teacher details found at: " + teacherJsonPath);
-//						if(Utils.IS_NOT_UTF8){
-//							log4j.info("Teacher JSON file encoding appears to be not UTF-8. Rewriting it as such...");
-//							try {
-//								Utils.encodeFile(teacherJsonPath);
-//							} catch (IOException e) {
-//								log4j.error("ERROR while encoding file: "+ teacherJsonPath);
-//								e.printStackTrace();
-//							}
-//						}
+						// if(Utils.IS_NOT_UTF8){
+						// log4j.info("Teacher JSON file encoding appears to be
+						// not UTF-8. Rewriting it as such...");
+						// try {
+						// Utils.encodeFile(teacherJsonPath);
+						// } catch (IOException e) {
+						// log4j.error("ERROR while encoding file: "+
+						// teacherJsonPath);
+						// e.printStackTrace();
+						// }
+						// }
 					} else {
 						log4j.error("MADKing:MADMaker: ERROR! Couldn't find Teacher details JSON file at: "
 								+ teacherJsonPath + "\nAborting...");
@@ -106,46 +113,52 @@ public class App {
 					schoolsJsonPath = s.substring(10);
 					if (Files.exists(Paths.get(schoolsJsonPath))) {
 						log4j.info("MADking:MADMaker: School list found at: " + schoolsJsonPath);
-//						if(Utils.IS_NOT_UTF8){
-//							log4j.info("Schools JSON file encoding appears to be not UTF-8. Rewriting it as such...");
-//							try {
-//								Utils.encodeFile(schoolsJsonPath);
-//							} catch (IOException e) {
-//								log4j.error("ERROR while encoding file: "+ schoolsJsonPath);
-//								e.printStackTrace();
-//							}
-//						}
+						// if(Utils.IS_NOT_UTF8){
+						// log4j.info("Schools JSON file encoding appears to be
+						// not UTF-8. Rewriting it as such...");
+						// try {
+						// Utils.encodeFile(schoolsJsonPath);
+						// } catch (IOException e) {
+						// log4j.error("ERROR while encoding file: "+
+						// schoolsJsonPath);
+						// e.printStackTrace();
+						// }
+						// }
 					} else {
-						log4j.error("MADKing:MADMaker: ERROR!! Couldn't find schools JSON file at: "
-								+ schoolsJsonPath + "\nAborting...");
+						log4j.error("MADKing:MADMaker: ERROR!! Couldn't find schools JSON file at: " + schoolsJsonPath
+								+ "\nAborting...");
 						return -1;
-						}
+					}
 				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
 					log4j.info("MADking:MADMaker: Output directory set as " + targetDir);
 				} else if (s.startsWith("--pecmaildetails=") || s.startsWith("--simulate=")) {
 					// Do nothing
+				} else if (s.startsWith("--unwanted=")) {
+					String unwantedString = s.substring(11);
+					log4j.debug("unwantedString set to:\n" + unwantedString);
+					unwanted = new ArrayList<String>(Arrays.asList(unwantedString.split("\\|")));
+					log4j.debug("unwanted set to:\n" + unwanted.toString());
 				} else {
 					log4j.error("MADking:MADMaker: Invalid argument: " + s + "\nAborting...\n\n");
-//					printHelp();
+					// printHelp();
 					return -1;
 				}
-				
+
 			}
 			if (!teacherdetailsarg) {
 				log4j.error("MADKing:MADMaker: ERROR!! Teacher details JSON file not specified!\nAborting...");
-//				printHelp();
+				// printHelp();
 				return -1;
 			}
 			if (!schoolsarg) {
 				log4j.error("MADKing:MADMaker: ERROR!! Schools JSON file not specified!\nAborting...");
-//				printHelp();
+				// printHelp();
 				return -1;
 			}
 		} else {
-			log4j.error(
-					"MADking:MADMaker: WARNING!! Maker won't run with no arguments");
-//			printHelp();
+			log4j.error("MADking:MADMaker: WARNING!! Maker won't run with no arguments");
+			// printHelp();
 			return -1;
 		}
 
@@ -171,8 +184,8 @@ public class App {
 		}
 
 		try {
-			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, annoScolastico, teacherSpecificMADPath,
-					blankMadModelPath);
+			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, annoScolastico,
+					teacherSpecificMADPath, blankMadModelPath);
 			log4j.trace("MADking:MADMaker: Teacher-specific MAD file created!");
 		} catch (IOException e) {
 			log4j.error("MADking:MADMaker: IOExceprion occurred while generating teacher-specific MAD pdf file");
@@ -183,7 +196,7 @@ public class App {
 		}
 
 		try {
-			SchoolSpecificMADMaker.generateSchoolSpecificMADFiles(schoolsJsonPath, teacherSpecificMADPath);
+			SchoolSpecificMADMaker.generateSchoolSpecificMADFiles(schoolsJsonPath, teacherSpecificMADPath, unwanted);
 			log4j.trace("MADking:MADMaker: School-specific MAD files created!");
 		} catch (DocumentException e) {
 			log4j.error("MADking:MADMaker: DocumentException occurred while generating school-specific MAD pdf file");
@@ -193,16 +206,18 @@ public class App {
 			e.printStackTrace();
 		}
 
-		
 		return 0;
 	}
 
-//	private static void printHelp() {
-//		System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS] [OPTIONS]\n\n" + "PARAMS:\n"
-//				+ "--teacherdetails\t\tPath to the JSON file containing teacher's details\n"
-//				+ "--schools\t\tPath to the JSON file containing school list\n\n" + "OPTIONS:\n"
-//				+ "--as\t\tScholastic Year\n"
-//				+ "--directory\t\tAlternative directory for the generated pdf files");
-//	}
-	
+	// private static void printHelp() {
+	// System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS]
+	// [OPTIONS]\n\n" + "PARAMS:\n"
+	// + "--teacherdetails\t\tPath to the JSON file containing teacher's
+	// details\n"
+	// + "--schools\t\tPath to the JSON file containing school list\n\n" +
+	// "OPTIONS:\n"
+	// + "--as\t\tScholastic Year\n"
+	// + "--directory\t\tAlternative directory for the generated pdf files");
+	// }
+
 }

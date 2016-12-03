@@ -54,6 +54,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 	private String target;
 	private String simMail;
 	private String anno;
+	private String unwanted;
 
 	private String getTeachDet() {
 		return teachDet;
@@ -103,6 +104,14 @@ public class App extends Frame implements ActionListener, WindowListener {
 		this.anno = anno;
 	}
 
+	private String getUnwanted() {
+		return unwanted;
+	}
+
+	private void setUnwanted(String unwanted) {
+		this.unwanted = unwanted;
+	}
+
 	private Label lblTeachDet;
 	private TextField tfTeachDet;
 
@@ -121,13 +130,16 @@ public class App extends Frame implements ActionListener, WindowListener {
 	private Label lblSimMail;
 	private TextField tfSimMail;
 
+	private Label lblUnwanted;
+	private TextField tfUnwanted;
+
 	private Button btnMake;
 	private Button btnSend;
 
 	public App() {
-		
-		InputStream is = Thread.currentThread().getContextClassLoader().
-			    getResourceAsStream("etc/application.properties");
+
+		InputStream is = Thread.currentThread().getContextClassLoader()
+				.getResourceAsStream("etc/application.properties");
 		Properties props = new Properties();
 		try {
 			props.load(is);
@@ -138,7 +150,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		setLayout(new FlowLayout());
 
-		final int fieldWidth = 50;
+		final int fieldWidth = Integer.parseInt(props.getProperty("textfield.length"));
 
 		lblTarget = new Label(props.getProperty("label.workDir"));
 		add(lblTarget);
@@ -159,6 +171,11 @@ public class App extends Frame implements ActionListener, WindowListener {
 		add(lblSchools);
 		tfSchools = new TextField(props.getProperty("placeholder.schoolsDet"), fieldWidth);
 		add(tfSchools);
+
+		lblUnwanted = new Label(props.getProperty("label.unwanted"));
+		add(lblUnwanted);
+		tfUnwanted = new TextField(props.getProperty("placeholder.unwanted"), fieldWidth);
+		add(tfUnwanted);
 
 		lblPecDet = new Label(props.getProperty("label.pecDet"));
 		add(lblPecDet);
@@ -189,7 +206,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 		addWindowListener(this);
 
 		setTitle(props.getProperty("label.title"));
-		setSize(650, 255);
+		setSize(Integer.parseInt(props.getProperty("window.width")), Integer.parseInt(props.getProperty("window.height")));
 
 		setVisible(true);
 	}
@@ -214,8 +231,13 @@ public class App extends Frame implements ActionListener, WindowListener {
 		}
 
 		setTeachDet(getTarget() + tfTeachDet.getText());
+
 		setAnno(tfAnno.getText());
+
 		setSchools(getTarget() + tfSchools.getText());
+
+		setUnwanted(tfUnwanted.getText());
+
 		setPecDet(getTarget() + tfPecDet.getText());
 
 		setSimMail(tfSimMail.getText());
@@ -235,7 +257,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 				return;
 			}
 		} else {
-			log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
+			log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è un file o una directory valida");
 			return;
 		}
 
@@ -247,7 +269,8 @@ public class App extends Frame implements ActionListener, WindowListener {
 		if (e.getSource() == btnMake) {
 
 			String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-					"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
+					"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
+					"--unwanted=" + getUnwanted() };
 			int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 			if (m == 0) {
 				log4j.info("MADKing: MADMaker successfully executed");
@@ -264,10 +287,10 @@ public class App extends Frame implements ActionListener, WindowListener {
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
 						"--simulate=" + getSimMail() };
 
-//				log4j.debug("### DEBUG: Passed args[]:");
-//				for (String s : args) {
-//					log4j.debug(s);
-//				}
+				// log4j.debug("### DEBUG: Passed args[]:");
+				// for (String s : args) {
+				// log4j.debug(s);
+				// }
 
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
@@ -286,10 +309,10 @@ public class App extends Frame implements ActionListener, WindowListener {
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
 
-//				log4j.debug("Passed args[]:");
-//				for (String s : args) {
-//					log4j.debug(s);
-//				}
+				// log4j.debug("Passed args[]:");
+				// for (String s : args) {
+				// log4j.debug(s);
+				// }
 
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
