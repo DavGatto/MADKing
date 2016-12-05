@@ -32,8 +32,12 @@ import java.awt.Label;
 import java.awt.TextField;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.InputMethodEvent;
+import java.awt.event.InputMethodListener;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
+import java.awt.event.TextEvent;
+import java.awt.event.TextListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.io.File;
@@ -51,7 +55,7 @@ import com.gmail.davgatto.MADKing.Retriever.SchoolRetriever;
 
 import org.apache.logging.log4j.LogManager;
 
-public class App extends Frame implements ActionListener, WindowListener, ItemListener {
+public class App extends Frame implements ActionListener, WindowListener, ItemListener, TextListener {
 
 	private static final long serialVersionUID = 1L;
 
@@ -182,6 +186,9 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		lblSchools = new Label(props.getProperty("label.schoolsDet"));
 		add(lblSchools);
 		tfSchools = new TextField(props.getProperty("placeholder.schoolsDet"), fieldWidth);
+		//tfSchools.addInputMethodListener(this);
+		tfSchools.addTextListener(this);
+		
 		add(tfSchools);
 
 //		lblUnwanted = new Label(props.getProperty("label.unwanted"));
@@ -193,18 +200,24 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		add(lblTipi);
 		
 		bxsTipi = new HashMap<String, Checkbox>();
-		try {
-			for (String t : SchoolRetriever.getAllValuesForField("tipo", defaultWorkDir + pathSeparator + props.getProperty("default.schoolsDetails"))) {
-				Checkbox checkbox = new Checkbox(t, true);
-				bxsTipi.put(t,checkbox);
-				add(bxsTipi.get(t));
-				bxsTipi.get(t).addItemListener(this);
-			}
-		} catch (IllegalArgumentException e) {
-			e.printStackTrace();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
+		for (String t : bxsTipi.keySet()){
+			Checkbox checkbox = new Checkbox(t, true);
+			bxsTipi.put(t,checkbox);
+			add(bxsTipi.get(t));
+			bxsTipi.get(t).addItemListener(this);
 		}
+//		try {
+//			for (String t : SchoolRetriever.getAllValuesForField("tipo", defaultWorkDir + pathSeparator + props.getProperty("default.schoolsDetails"))) {
+//				Checkbox checkbox = new Checkbox(t, true);
+//				bxsTipi.put(t,checkbox);
+//				add(bxsTipi.get(t));
+//				bxsTipi.get(t).addItemListener(this);
+//			}
+//		} catch (IllegalArgumentException e) {
+//			e.printStackTrace();
+//		} catch (FileNotFoundException e) {
+//			e.printStackTrace();
+//		}
 		Checkbox tutti = new Checkbox("(Seleziona/Deseleziona tutti)", true); //TODO label in filter
 		add(tutti);
 		tutti.addItemListener(this);
@@ -405,11 +418,13 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 				for (String key : bxsTipi.keySet()){
 					bxsTipi.get(key).setState(true);
 				}
+				setUnwanted("");
 				log4j.info("String unwanted = " + getUnwanted());
 				return;
 			} else {
 				for (String key : bxsTipi.keySet()){
 					bxsTipi.get(key).setState(false);
+					setUnwanted(getUnwanted() + "|" + key);
 				}
 				log4j.info("String unwanted = " + getUnwanted());
 				return;
@@ -417,11 +432,36 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		}
 		if (state == 1){
 			if (unwanted.contains("|" + item)){
-				setUnwanted(unwanted.replace("|" + item, ""));
+				setUnwanted(getUnwanted().replace("|" + item, ""));
 			}
 		} else if(state == 2){
 			setUnwanted(unwanted + "|" + item);
 		}
 		log4j.info("String unwanted = " + getUnwanted());
+	}
+
+
+	@Override
+	public void textValueChanged(TextEvent e) {
+		log4j.info("Text field value changed: " + e.getSource() + " -> " + ((TextField) e.getSource()).getText());
+		bxsTipi = new HashMap<String, Checkbox>();
+		try {
+			for (String t : SchoolRetriever.getAllValuesForField("tipo", ((TextField) e.getSource()).getText()) ) {
+				log4j.info("Found: " + t);
+				Checkbox checkbox = new Checkbox(t, true);
+				bxsTipi.put(t,checkbox);
+//				add(bxsTipi.get(t));
+//				bxsTipi.get(t).addItemListener(this);
+				// FIXME Ci siamo quasi ma vengono fuori mille finestre e non compaiono i checkbox!!
+			}
+		} catch (IllegalArgumentException ex) {
+			ex.printStackTrace();
+		} catch (FileNotFoundException ex) {
+			ex.printStackTrace();
+		}
+//		Checkbox tutti = new Checkbox("(Seleziona/Deseleziona tutti)", true); //TODO label in filter
+//		add(tutti);
+//		tutti.addItemListener(this);
+		new App();
 	}
 }
