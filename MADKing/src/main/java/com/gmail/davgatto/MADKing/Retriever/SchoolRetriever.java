@@ -22,8 +22,50 @@ public class SchoolRetriever {
 	
 	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 	
-	public ArrayList<School> getAllSchools(String jsonFiles) throws Exception{
-		log4j.debug("getAllSchools called with argument: " + jsonFiles);
+	public static ArrayList<String> getAllValuesForField(String field, String jsonFiles) throws IllegalArgumentException, FileNotFoundException{
+		log4j.debug(App.class.getName() + "getAllValuesForField called with arguments: " + field + ", " + jsonFiles);
+		ArrayList<School> schools = getAllSchools(jsonFiles);
+		ArrayList<String> ans = new ArrayList<String>();
+		
+			if("codMec".equals(field)){
+				for (School s : schools) {
+					if(!ans.contains(s.getCodMec())){
+						ans.add(s.getCodMec());
+					}
+				}
+			} else if("nome".equals(field)){
+				for (School s : schools) {
+					if(!ans.contains(s.getNome())){
+						ans.add(s.getNome());
+					}
+				}
+			} else if("comune".equals(field)){
+				for (School s : schools) {
+					if(!ans.contains(s.getComune())){
+						ans.add(s.getComune());
+					}
+				}
+			} else if("provincia".equals(field)){
+				for (School s : schools) {
+					if(!ans.contains(s.getProvincia())){
+						ans.add(s.getProvincia());
+					}
+				}
+			} else if("tipo".equals(field)){
+				for (School s : schools) {
+					if(!ans.contains(s.getTipo())){
+						ans.add(s.getTipo());
+					}
+				}
+			} else {
+				throw new IllegalArgumentException("School JavaBean does not contain required field: " + field);
+			}
+		
+		return ans;
+	}
+	
+	public static ArrayList<School> getAllSchools(String jsonFiles) throws FileNotFoundException{
+		log4j.debug(App.class.getName() + "getAllSchools called with argument: " + jsonFiles);
 		ArrayList<School> ans = new ArrayList<School>();
 		File schoolsFile = new File(jsonFiles);
 		if(schoolsFile.isFile()){
@@ -38,16 +80,18 @@ public class SchoolRetriever {
 					}
 				}
 			} else {
-				//log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
-				throw new Exception();
+				log4j.error(App.class.getName() + " Il percorso: " + schoolsFile.getAbsolutePath() + " produce un File[] = null");
+				throw new FileNotFoundException();
 			}
 		} else {
-			throw new Exception();
+			log4j.error(App.class.getName() + " Il percorso: " + schoolsFile.getAbsolutePath() + " non è un file o una directory valida");
+			throw new FileNotFoundException();
 		}
 		return ans;
 	}
 	
-	private ArrayList<School> getFromFile(File f) throws FileNotFoundException{
+	private static ArrayList<School> getFromFile(File f) throws FileNotFoundException{
+		log4j.debug(App.class.getName() + "SchoolRetriever.getFromFile called with argument: " + f);
 		JsonReader reader = Json.createReader(new FileReader(f));
 		JsonArray jsarr = (JsonArray) reader.read();
 		ArrayList<School> ans = new ArrayList<School>();

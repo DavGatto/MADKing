@@ -24,23 +24,34 @@
 package com.gmail.davgatto.MADKing.all;
 
 import java.awt.Button;
+import java.awt.Checkbox;
 import java.awt.FlowLayout;
 import java.awt.Frame;
+import java.awt.ItemSelectable;
 import java.awt.Label;
 import java.awt.TextField;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Properties;
 
+
 import org.apache.logging.log4j.Logger;
+
+import com.gmail.davgatto.MADKing.Retriever.SchoolRetriever;
+
 import org.apache.logging.log4j.LogManager;
 
-public class App extends Frame implements ActionListener, WindowListener {
+public class App extends Frame implements ActionListener, WindowListener, ItemListener {
 
 	private static final long serialVersionUID = 1L;
 
@@ -54,7 +65,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 	private String target;
 	private String simMail;
 	private String anno;
-	private String unwanted;
+	private String unwanted = "";
 
 	private String getTeachDet() {
 		return teachDet;
@@ -130,8 +141,9 @@ public class App extends Frame implements ActionListener, WindowListener {
 	private Label lblSimMail;
 	private TextField tfSimMail;
 
-	private Label lblUnwanted;
-	private TextField tfUnwanted;
+	private Label lblTipi;
+//	private TextField tfUnwanted;
+	private HashMap<String,Checkbox> bxsTipi;
 
 	private Button btnMake;
 	private Button btnSend;
@@ -146,7 +158,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		String defaultWorkDir = props.get("default.workDirectory").toString();
+		String defaultWorkDir = System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory");
 
 		setLayout(new FlowLayout());
 
@@ -155,7 +167,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 		lblTarget = new Label(props.getProperty("label.workDir"));
 		add(lblTarget);
 
-		tfTarget = new TextField(System.getProperty("user.home") + pathSeparator + defaultWorkDir, fieldWidth);
+		tfTarget = new TextField(defaultWorkDir, fieldWidth);
 
 		add(tfTarget);
 
@@ -172,10 +184,30 @@ public class App extends Frame implements ActionListener, WindowListener {
 		tfSchools = new TextField(props.getProperty("placeholder.schoolsDet"), fieldWidth);
 		add(tfSchools);
 
-		lblUnwanted = new Label(props.getProperty("label.unwanted"));
-		add(lblUnwanted);
-		tfUnwanted = new TextField(props.getProperty("placeholder.unwanted"), fieldWidth);
-		add(tfUnwanted);
+//		lblUnwanted = new Label(props.getProperty("label.unwanted"));
+//		add(lblUnwanted);
+////		tfUnwanted = new TextField(props.getProperty("placeholder.unwanted"), fieldWidth);
+//		tfUnwanted = new TextField(getUnwanted(), fieldWidth);
+//		add(tfUnwanted);
+		lblTipi = new Label(props.getProperty("label.tipi"));
+		add(lblTipi);
+		
+		bxsTipi = new HashMap<String, Checkbox>();
+		try {
+			for (String t : SchoolRetriever.getAllValuesForField("tipo", defaultWorkDir + pathSeparator + props.getProperty("default.schoolsDetails"))) {
+				Checkbox checkbox = new Checkbox(t, true);
+				bxsTipi.put(t,checkbox);
+				add(bxsTipi.get(t));
+				bxsTipi.get(t).addItemListener(this);
+			}
+		} catch (IllegalArgumentException e) {
+			e.printStackTrace();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		Checkbox tutti = new Checkbox("(Seleziona/Deseleziona tutti)", true); //TODO label in filter
+		add(tutti);
+		tutti.addItemListener(this);
 
 		lblPecDet = new Label(props.getProperty("label.pecDet"));
 		add(lblPecDet);
@@ -236,7 +268,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 		setSchools(getTarget() + tfSchools.getText());
 
-		setUnwanted(tfUnwanted.getText());
+		//setUnwanted(tfUnwanted.getText());
 
 		setPecDet(getTarget() + tfPecDet.getText());
 
@@ -360,5 +392,36 @@ public class App extends Frame implements ActionListener, WindowListener {
 
 	public void windowDeactivated(WindowEvent evt) {
 		log4j.trace("windowDeactivated event");
+	}
+
+	@Override
+	public void itemStateChanged(ItemEvent e) {
+		log4j.info("Checkbox " + e.getItem() + " -> " + e.getStateChange()); //TODO set log level to debug when done
+		int state = e.getStateChange();
+		String item = e.getItem().toString();
+		if("(Seleziona/Deseleziona tutti)".equals(item)){
+			if(state == 1){
+				//TODO Implementa "seleziona/deseleziona tutti"
+				for (String key : bxsTipi.keySet()){
+					bxsTipi.get(key).setState(true);
+				}
+				log4j.info("String unwanted = " + getUnwanted());
+				return;
+			} else {
+				for (String key : bxsTipi.keySet()){
+					bxsTipi.get(key).setState(false);
+				}
+				log4j.info("String unwanted = " + getUnwanted());
+				return;
+			}
+		}
+		if (state == 1){
+			if (unwanted.contains("|" + item)){
+				setUnwanted(unwanted.replace("|" + item, ""));
+			}
+		} else if(state == 2){
+			setUnwanted(unwanted + "|" + item);
+		}
+		log4j.info("String unwanted = " + getUnwanted());
 	}
 }
