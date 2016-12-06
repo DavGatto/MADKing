@@ -15,7 +15,7 @@
 	<Loggers>
 		<Logger name="com.gmail.davgatto.MADKing" level="all">
 			<AppenderRef ref="FileLogger" />
-			<AppenderRef ref="STDOUT" level="info"/>
+			<AppenderRef ref="STDOUT" level="debug"/>
 			<AppenderRef ref="STDERR" level="error"/>
 		</Logger>
 		<Root level = "trace">

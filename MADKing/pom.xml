@@ -129,7 +129,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.gmail.davgatto.MADKing.all.App</mainClass>
+							<mainClass>com.gmail.davgatto.MADKing.ui.Gui</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
@@ -160,7 +160,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.gmail.davgatto.MADKing.all.App</mainClass>
+							<mainClass>com.gmail.davgatto.MADKing.ui.Gui</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
