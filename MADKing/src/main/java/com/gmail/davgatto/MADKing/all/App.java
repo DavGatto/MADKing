@@ -24,39 +24,28 @@
 package com.gmail.davgatto.MADKing.all;
 
 import java.awt.Button;
-import java.awt.Checkbox;
 import java.awt.FlowLayout;
 import java.awt.Frame;
-import java.awt.GridBagLayout;
-import java.awt.ItemSelectable;
 import java.awt.Label;
 import java.awt.TextField;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.InputMethodEvent;
-import java.awt.event.InputMethodListener;
-import java.awt.event.ItemEvent;
-import java.awt.event.ItemListener;
-import java.awt.event.TextEvent;
-import java.awt.event.TextListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Properties;
-
-
 import org.apache.logging.log4j.Logger;
-
-import com.gmail.davgatto.MADKing.Retriever.SchoolRetriever;
-
 import org.apache.logging.log4j.LogManager;
 
-public class App extends Frame implements ActionListener, WindowListener, ItemListener, TextListener {
+/**
+ * Vecchia GUI rudimentale, indipendente da Swing
+ * @author Davide Gatto
+ *
+ */
+@Deprecated
+public class App extends Frame implements ActionListener, WindowListener {
 
 	private static final long serialVersionUID = 1L;
 
@@ -146,9 +135,8 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 	private Label lblSimMail;
 	private TextField tfSimMail;
 
-	private Label lblTipi;
-//	private TextField tfUnwanted;
-	private HashMap<String,Checkbox> bxsTipi;
+	private TextField tfUnwanted;
+	private Label lblUnwanted;
 
 	private Button btnMake;
 	private Button btnSend;
@@ -165,8 +153,8 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		}
 		String defaultWorkDir = System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory");
 
-//		setLayout(new FlowLayout());
-		setLayout(new GridBagLayout());
+		setLayout(new FlowLayout());
+
 
 		final int fieldWidth = Integer.parseInt(props.getProperty("textfield.length"));
 
@@ -188,41 +176,14 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		lblSchools = new Label(props.getProperty("label.schoolsDet"));
 		add(lblSchools);
 		tfSchools = new TextField(props.getProperty("placeholder.schoolsDet"), fieldWidth);
-		//tfSchools.addInputMethodListener(this);
-		tfSchools.addTextListener(this);
 		
 		add(tfSchools);
 
-//		lblUnwanted = new Label(props.getProperty("label.unwanted"));
-//		add(lblUnwanted);
-////		tfUnwanted = new TextField(props.getProperty("placeholder.unwanted"), fieldWidth);
-//		tfUnwanted = new TextField(getUnwanted(), fieldWidth);
-//		add(tfUnwanted);
-		lblTipi = new Label(props.getProperty("label.tipi"));
-		add(lblTipi);
+		lblUnwanted = new Label(props.getProperty("label.unwanted"));
+		add(lblUnwanted);
+		tfUnwanted = new TextField(getUnwanted(), fieldWidth);
+		add(tfUnwanted);
 		
-		bxsTipi = new HashMap<String, Checkbox>();
-		for (String t : bxsTipi.keySet()){
-			Checkbox checkbox = new Checkbox(t, true);
-			bxsTipi.put(t,checkbox);
-			add(bxsTipi.get(t));
-			bxsTipi.get(t).addItemListener(this);
-		}
-		try {
-			for (String t : SchoolRetriever.getAllValuesForField("tipo", defaultWorkDir + pathSeparator + props.getProperty("default.schoolsDetails"))) {
-				Checkbox checkbox = new Checkbox(t, true);
-				bxsTipi.put(t,checkbox);
-				add(bxsTipi.get(t));
-				bxsTipi.get(t).addItemListener(this);
-			}
-		} catch (IllegalArgumentException e) {
-			e.printStackTrace();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
-		Checkbox tutti = new Checkbox("(Seleziona/Deseleziona tutti)", true); //TODO label in filter
-		add(tutti);
-		tutti.addItemListener(this);
 
 		lblPecDet = new Label(props.getProperty("label.pecDet"));
 		add(lblPecDet);
@@ -238,9 +199,6 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		add(lblAnno);
 		tfAnno = new TextField(props.getProperty("placeholder.as"), 8);
 		add(tfAnno);
-
-		// cbDebug = new Checkbox("Debug", false);
-		// add(cbDebug);
 
 		btnMake = new Button(props.getProperty("button.make"));
 		add(btnMake);
@@ -283,7 +241,7 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 
 		setSchools(getTarget() + tfSchools.getText());
 
-		//setUnwanted(tfUnwanted.getText());
+		setUnwanted(tfUnwanted.getText());
 
 		setPecDet(getTarget() + tfPecDet.getText());
 
@@ -334,11 +292,6 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
 						"--simulate=" + getSimMail() };
 
-				// log4j.debug("### DEBUG: Passed args[]:");
-				// for (String s : args) {
-				// log4j.debug(s);
-				// }
-
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
 					log4j.info("MADKing: MADMaker successfully executed");
@@ -355,11 +308,6 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 			} else {
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
-
-				// log4j.debug("Passed args[]:");
-				// for (String s : args) {
-				// log4j.debug(s);
-				// }
 
 				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
 				if (m == 0) {
@@ -409,61 +357,4 @@ public class App extends Frame implements ActionListener, WindowListener, ItemLi
 		log4j.trace("windowDeactivated event");
 	}
 
-	@Override
-	public void itemStateChanged(ItemEvent e) {
-		log4j.info("Checkbox " + e.getItem() + " -> " + e.getStateChange()); //TODO set log level to debug when done
-		int state = e.getStateChange();
-		String item = e.getItem().toString();
-		if("(Seleziona/Deseleziona tutti)".equals(item)){
-			if(state == 1){
-				//TODO Implementa "seleziona/deseleziona tutti"
-				for (String key : bxsTipi.keySet()){
-					bxsTipi.get(key).setState(true);
-				}
-				setUnwanted("");
-				log4j.info("String unwanted = " + getUnwanted());
-				return;
-			} else {
-				for (String key : bxsTipi.keySet()){
-					bxsTipi.get(key).setState(false);
-					setUnwanted(getUnwanted() + "|" + key);
-				}
-				log4j.info("String unwanted = " + getUnwanted());
-				return;
-			}
-		}
-		if (state == 1){
-			if (unwanted.contains("|" + item)){
-				setUnwanted(getUnwanted().replace("|" + item, ""));
-			}
-		} else if(state == 2){
-			setUnwanted(unwanted + "|" + item);
-		}
-		log4j.info("String unwanted = " + getUnwanted());
-	}
-
-
-	@Override
-	public void textValueChanged(TextEvent e) {
-//		log4j.info("Text field value changed: " + e.getSource() + " -> " + ((TextField) e.getSource()).getText());
-//		bxsTipi = new HashMap<String, Checkbox>();
-//		try {
-//			for (String t : SchoolRetriever.getAllValuesForField("tipo", ((TextField) e.getSource()).getText()) ) {
-//				log4j.info("Found: " + t);
-//				Checkbox checkbox = new Checkbox(t, true);
-//				bxsTipi.put(t,checkbox);
-////				add(bxsTipi.get(t));
-////				bxsTipi.get(t).addItemListener(this);
-//				// FIXME Ci siamo quasi ma vengono fuori mille finestre e non compaiono i checkbox!!
-//			}
-//		} catch (IllegalArgumentException ex) {
-//			ex.printStackTrace();
-//		} catch (FileNotFoundException ex) {
-//			ex.printStackTrace();
-//		}
-////		Checkbox tutti = new Checkbox("(Seleziona/Deseleziona tutti)", true); //TODO label in filter
-////		add(tutti);
-////		tutti.addItemListener(this);
-//		new App();
-	}
 }

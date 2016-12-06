@@ -23,7 +23,12 @@
  */
 package com.gmail.davgatto.MADKing.ui;
 
-import java.awt.*;
+import java.awt.ComponentOrientation;
+import java.awt.Container;
+import java.awt.Font;
+import java.awt.FontFormatException;
+import java.awt.GridBagConstraints;
+import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ItemEvent;
@@ -40,17 +45,16 @@ import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.gmail.davgatto.MADKing.Retriever.SchoolRetriever;
-import com.gmail.davgatto.MADKing.all.App;
 
 public class Gui extends JFrame implements ActionListener, ItemListener {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 	private static final Logger log4j = LogManager.getLogger(Gui.class.getName());
@@ -168,7 +172,9 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	private JTextField textFieldSim;
 	private JTextField textFieldSchools;
 
-	String defaultWorkDir = ""; //TODO Metti listener su textFieldTarget e caccia sto cunno di defaultWorkDir, soprattutto dai metodi responsive
+	String defaultWorkDir = ""; // TODO Metti listener su textFieldTarget e
+								// caccia sto cunno di defaultWorkDir,
+								// soprattutto dai metodi responsive
 
 	private String getDefaultWorkDir() {
 		return defaultWorkDir;
@@ -202,6 +208,15 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		setMainFrame(new JFrame(props.getProperty("label.title")));
 		getMainFrame().setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
+		
+		try {
+			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+		} catch (ClassNotFoundException | InstantiationException | IllegalAccessException
+				| UnsupportedLookAndFeelException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+       
 		// Set up the content pane.
 		addComponentsToPane(getMainFrame().getContentPane());
 
@@ -220,6 +235,17 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 	public void addComponentsToPane(Container pane) {
 		log4j.debug(Gui.class.getName() + ".addComponentsToPane invoked");
+		
+//		InputStream is = Thread.currentThread().getContextClassLoader()
+//				.getResourceAsStream("fonts/fontawesome-webfont.ttf");
+//		Font font = new Font(Font.SANS_SERIF,10,0);
+//		try {
+//			font = Font.createFont(Font.TRUETYPE_FONT, is);
+//		} catch (FontFormatException | IOException e1) {
+//			e1.printStackTrace();
+//		}
+//        font = font.deriveFont(Font.PLAIN, 24f);
+
 
 		setDefaultWorkDir(System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory"));
 
@@ -234,6 +260,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		int y = -1;
 
 		JLabel label = new JLabel(props.getProperty("label.workDir"));
+//		label.setFont(font);
 		c.anchor = GridBagConstraints.BASELINE_TRAILING;
 		c.gridx = 0;
 		c.gridy = ++y;
@@ -382,7 +409,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		log4j.debug("Action: " + e.getActionCommand() + "\n\t" + e.getSource());
-		
+
 		if (getMakeAction().equals(e.getActionCommand()) || getSendAction().equals(e.getActionCommand())) {
 			setTarget(textFieldTarget.getText());
 			if (!getTarget().endsWith(pathSeparator)) {
@@ -403,11 +430,11 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 						executeWithSingleSchoolsFile(e, schools.getPath());
 					}
 				} else {
-					log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
+					log4j.error(Gui.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
 					return;
 				}
 			} else {
-				log4j.error(App.class.getName() + " Il percorso: " + getSchools()
+				log4j.error(Gui.class.getName() + " Il percorso: " + getSchools()
 						+ " non è un file o una directory valida");
 				return;
 			}
