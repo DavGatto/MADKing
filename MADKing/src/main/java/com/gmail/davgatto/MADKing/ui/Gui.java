@@ -168,7 +168,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	private JTextField textFieldSim;
 	private JTextField textFieldSchools;
 
-	String defaultWorkDir = "";
+	String defaultWorkDir = ""; //TODO Metti listener su textFieldTarget e caccia sto cunno di defaultWorkDir, soprattutto dai metodi responsive
 
 	private String getDefaultWorkDir() {
 		return defaultWorkDir;
@@ -239,7 +239,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridy = ++y;
 		pane.add(label, c);
 		if (textFieldTarget == null) {
-			textFieldTarget = new JTextField(defaultWorkDir);
+			textFieldTarget = new JTextField(getDefaultWorkDir());
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
@@ -376,11 +376,13 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(btnSend, c);
+		btnSend.addActionListener(this);
 	}
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		log4j.debug("Action: " + e.getActionCommand() + "\n\t" + e.getSource());
+		
 		if (getMakeAction().equals(e.getActionCommand()) || getSendAction().equals(e.getActionCommand())) {
 			setTarget(textFieldTarget.getText());
 			if (!getTarget().endsWith(pathSeparator)) {
