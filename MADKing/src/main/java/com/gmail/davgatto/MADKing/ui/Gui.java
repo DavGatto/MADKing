@@ -57,6 +57,18 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 	final private static String pathSeparator = System.getProperty("file.separator");
 
+	private static Properties props;
+
+	private JFrame mainFrame;
+
+	private JFrame getMainFrame() {
+		return mainFrame;
+	}
+
+	private void setMainFrame(JFrame mainFrame) {
+		this.mainFrame = mainFrame;
+	}
+
 	private HashMap<String, JCheckBox> bxsTipi;
 	private String makeAction = "";
 	private String sendAction = "";
@@ -156,19 +168,60 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	private JTextField textFieldSim;
 	private JTextField textFieldSchools;
 
-	public void addComponentsToPane(Container pane) {
-		log4j.debug(Gui.class.getName() + ".addComponentsToPane invoked");
+	String defaultWorkDir = "";
+
+	private String getDefaultWorkDir() {
+		return defaultWorkDir;
+	}
+
+	private void setDefaultWorkDir(String defaultWorkDir) {
+		this.defaultWorkDir = defaultWorkDir;
+	}
+
+	public static void main(String[] args) {
+
+		log4j.info("Started!");
 
 		InputStream is = Thread.currentThread().getContextClassLoader()
 				.getResourceAsStream("etc/application.properties");
-		Properties props = new Properties();
+		props = new Properties();
 		try {
 			props.load(is);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		String defaultWorkDir = System.getProperty("user.home") + pathSeparator
-				+ props.getProperty("default.workDirectory");
+
+		new Gui();
+
+	}
+
+	private Gui() {
+		log4j.debug(Gui.class.getName() + " constructor invoked");
+
+		// Create and set up the window.
+		setMainFrame(new JFrame(props.getProperty("label.title")));
+		getMainFrame().setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		// Set up the content pane.
+		addComponentsToPane(getMainFrame().getContentPane());
+
+		// Display the window.
+		getMainFrame().pack();
+		getMainFrame().setVisible(true);
+	}
+
+	private void refresh(JFrame frame) {
+		frame.getContentPane().removeAll();
+		addComponentsToPane(frame.getContentPane());
+
+		frame.pack();
+		frame.setVisible(true);
+	}
+
+	public void addComponentsToPane(Container pane) {
+		log4j.debug(Gui.class.getName() + ".addComponentsToPane invoked");
+
+		setDefaultWorkDir(System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory"));
 
 		pane.setComponentOrientation(ComponentOrientation.LEFT_TO_RIGHT);
 
@@ -177,7 +230,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 		c.weightx = 1;
 		c.weighty = 1;
-		
+
 		int y = -1;
 
 		JLabel label = new JLabel(props.getProperty("label.workDir"));
@@ -185,7 +238,9 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
-		textFieldTarget = new JTextField(defaultWorkDir);
+		if (textFieldTarget == null) {
+			textFieldTarget = new JTextField(defaultWorkDir);
+		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
@@ -196,7 +251,9 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
-		textFieldTeacher = new JTextField(props.getProperty("placeholder.teachDet"));
+		if (textFieldTeacher == null) {
+			textFieldTeacher = new JTextField(props.getProperty("placeholder.teachDet"));
+		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
@@ -207,18 +264,23 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
-		textFieldSchools = new JTextField(props.getProperty("placeholder.schoolsDet"));
+		if (textFieldSchools == null) {
+			textFieldSchools = new JTextField(props.getProperty("placeholder.schoolsDet"));
+		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(textFieldSchools, c);
+		textFieldSchools.addActionListener(this);
 
 		label = new JLabel(props.getProperty("label.pecDet"));
 		c.fill = GridBagConstraints.EAST;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
-		textFieldPec = new JTextField(props.getProperty("placeholder.pecDet"));
+		if (textFieldPec == null) {
+			textFieldPec = new JTextField(props.getProperty("placeholder.pecDet"));
+		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
@@ -229,7 +291,9 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
-		textFieldAs = new JTextField(props.getProperty("placeholder.as"));
+		if (textFieldAs == null) {
+			textFieldAs = new JTextField(props.getProperty("placeholder.as"));
+		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
@@ -240,7 +304,9 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
-		textFieldSim = new JTextField(props.getProperty("placeholder.simMail"));
+		if (textFieldSim == null) {
+			textFieldSim = new JTextField(props.getProperty("placeholder.simMail"));
+		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
@@ -285,6 +351,18 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 				e.printStackTrace();
 			}
 		}
+		for (String key : getBxsTipi().keySet()) {
+			if (shift) {
+				c.gridx = 1;
+				c.gridy = y;
+			} else {
+				c.gridx = 0;
+				c.gridy = ++y;
+			}
+			shift = !shift;
+			pane.add(getBxsTipi().get(key), c);
+			getBxsTipi().get(key).addItemListener(this);
+		}
 
 		setMakeAction(props.getProperty("button.make"));
 		JButton btnMake = new JButton(getMakeAction());
@@ -300,74 +378,61 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		pane.add(btnSend, c);
 	}
 
-	private Gui() {
-		log4j.debug(Gui.class.getName() + " constructor invoked");
-
-		InputStream is = Thread.currentThread().getContextClassLoader()
-				.getResourceAsStream("etc/application.properties");
-		Properties props = new Properties();
-		try {
-			props.load(is);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		// Create and set up the window.
-		JFrame frame = new JFrame(props.getProperty("label.title"));
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-		// Set up the content pane.
-		addComponentsToPane(frame.getContentPane());
-
-		// Display the window.
-		frame.pack();
-		frame.setVisible(true);
-	}
-
-	public static void main(String[] args) {
-
-		log4j.info("Started!");
-
-		new Gui();
-
-	}
-
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		log4j.debug("Action: " + e.getActionCommand() + "\n\t" + e.getSource());
-		setTarget(textFieldTarget.getText());
-
-		if (!getTarget().endsWith(pathSeparator)) {
-			setTarget(getTarget() + pathSeparator);
-		}
-
-		setTeachDet(getTarget() + textFieldTeacher.getText());
-
-		setAnno(textFieldAs.getText());
-
-		setSchools(getTarget() + textFieldSchools.getText());
-
-		setPecDet(getTarget() + textFieldPec.getText());
-
-		setSimMail(textFieldSim.getText());
-
-		File schoolsFile = new File(getSchools());
-
-		if (schoolsFile.isFile()) {
-			executeWithSingleSchoolsFile(e, getSchools());
-		} else if (schoolsFile.isDirectory()) {
-			File[] directoryListing = schoolsFile.listFiles();
-			if (directoryListing != null) {
-				for (File schools : directoryListing) {
-					executeWithSingleSchoolsFile(e, schools.getPath());
+		if (getMakeAction().equals(e.getActionCommand()) || getSendAction().equals(e.getActionCommand())) {
+			setTarget(textFieldTarget.getText());
+			if (!getTarget().endsWith(pathSeparator)) {
+				setTarget(getTarget() + pathSeparator);
+			}
+			setTeachDet(getTarget() + textFieldTeacher.getText());
+			setAnno(textFieldAs.getText());
+			setSchools(getTarget() + textFieldSchools.getText());
+			setPecDet(getTarget() + textFieldPec.getText());
+			setSimMail(textFieldSim.getText());
+			File schoolsFile = new File(getSchools());
+			if (schoolsFile.isFile()) {
+				executeWithSingleSchoolsFile(e, getSchools());
+			} else if (schoolsFile.isDirectory()) {
+				File[] directoryListing = schoolsFile.listFiles();
+				if (directoryListing != null) {
+					for (File schools : directoryListing) {
+						executeWithSingleSchoolsFile(e, schools.getPath());
+					}
+				} else {
+					log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
+					return;
 				}
 			} else {
-				log4j.error(App.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
+				log4j.error(App.class.getName() + " Il percorso: " + getSchools()
+						+ " non è un file o una directory valida");
 				return;
 			}
-		} else {
-			log4j.error(
-					App.class.getName() + " Il percorso: " + getSchools() + " non è un file o una directory valida");
-			return;
+		} else if (e.getSource().equals(textFieldSchools)) {
+			log4j.debug("Schools text field set by user: " + e.getActionCommand());
+			try {
+				getBxsTipi().clear();
+				setUnwanted("");
+				for (String t : SchoolRetriever.getAllValuesForField("tipo",
+						defaultWorkDir + pathSeparator + e.getActionCommand())) {
+					JCheckBox checkbox = new JCheckBox(t, true);
+					getBxsTipi().put(t, checkbox);
+				}
+				refresh(mainFrame);
+			} catch (IllegalArgumentException ex) {
+				getBxsTipi().clear();
+				setUnwanted("");
+				refresh(mainFrame);
+				ex.printStackTrace();
+				return;
+			} catch (FileNotFoundException ex) {
+				getBxsTipi().clear();
+				setUnwanted("");
+				refresh(mainFrame);
+				ex.printStackTrace();
+				return;
+			}
 		}
 
 	}

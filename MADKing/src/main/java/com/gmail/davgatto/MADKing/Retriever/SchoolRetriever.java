@@ -23,7 +23,7 @@ public class SchoolRetriever {
 	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 	
 	public static ArrayList<String> getAllValuesForField(String field, String jsonFiles) throws IllegalArgumentException, FileNotFoundException{
-		log4j.debug(App.class.getName() + "getAllValuesForField called with arguments: " + field + ", " + jsonFiles);
+		log4j.debug(SchoolRetriever.class.getName() + " getAllValuesForField called with arguments: " + field + ", " + jsonFiles);
 		ArrayList<School> schools = getAllSchools(jsonFiles);
 		ArrayList<String> ans = new ArrayList<String>();
 		
@@ -65,7 +65,7 @@ public class SchoolRetriever {
 	}
 	
 	public static ArrayList<School> getAllSchools(String jsonFiles) throws FileNotFoundException{
-		log4j.debug(App.class.getName() + "getAllSchools called with argument: " + jsonFiles);
+		log4j.debug(SchoolRetriever.class.getName() + " getAllSchools called with argument: " + jsonFiles);
 		ArrayList<School> ans = new ArrayList<School>();
 		File schoolsFile = new File(jsonFiles);
 		if(schoolsFile.isFile()){
@@ -91,7 +91,7 @@ public class SchoolRetriever {
 	}
 	
 	private static ArrayList<School> getFromFile(File f) throws FileNotFoundException{
-		log4j.debug(App.class.getName() + "SchoolRetriever.getFromFile called with argument: " + f);
+		log4j.debug(SchoolRetriever.class.getName() + " getFromFile called with argument: " + f);
 		JsonReader reader = Json.createReader(new FileReader(f));
 		JsonArray jsarr = (JsonArray) reader.read();
 		ArrayList<School> ans = new ArrayList<School>();
