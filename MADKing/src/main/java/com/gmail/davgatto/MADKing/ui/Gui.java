@@ -175,10 +175,13 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		pane.setLayout(new GridBagLayout());
 		GridBagConstraints c = new GridBagConstraints();
 
+		c.weightx = 1;
+		c.weighty = 1;
+		
 		int y = -1;
 
 		JLabel label = new JLabel(props.getProperty("label.workDir"));
-		c.fill = GridBagConstraints.EAST;
+		c.anchor = GridBagConstraints.BASELINE_TRAILING;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
@@ -245,6 +248,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 		label = new JLabel(props.getProperty("label.tipi"));
 		c.fill = GridBagConstraints.EAST;
+		c.anchor = GridBagConstraints.CENTER;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
@@ -256,6 +260,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		ckboxAllTipi.addItemListener(this);
 
 		boolean shift = false;
+		c.anchor = GridBagConstraints.ABOVE_BASELINE_LEADING;
 		if (getBxsTipi() == null) {
 			setBxsTipi(new HashMap<String, JCheckBox>());
 			try {
