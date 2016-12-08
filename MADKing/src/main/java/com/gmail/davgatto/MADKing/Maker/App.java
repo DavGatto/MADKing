@@ -54,7 +54,63 @@ public class App {
 	 *            - argomenti in stile command-line
 	 * @return status code
 	 */
-	public static int makeMad(String[] args) {
+	public static void makeMad(String teacherJsonPath, String schoolsJsonPath, String targetDir, String annoScolastico,
+			ArrayList<String> unwanted, String blankMadModelPath) {
+
+		log4j.debug("MADking:MADMaker: makeMad invoked with arguments: " + teacherJsonPath + ", " + schoolsJsonPath
+				+ ", " + targetDir + ", " + annoScolastico + ", (");
+		for (String string : unwanted) {
+			log4j.debug(string);
+		}
+		log4j.debug("), " + blankMadModelPath);
+
+		try {
+			Files.createDirectories(Paths.get(targetDir));
+		} catch (IOException e1) {
+			log4j.error("MADking:MADMaker: Could not create directory " + targetDir);
+			e1.printStackTrace();
+		}
+
+		TeacherDetails teacherDetails = new TeacherDetails();
+		String finalFileName = targetDir + FILE_SEPARATOR;
+
+		try {
+			teacherDetails.setFromJsonObj(teacherJsonPath);
+			finalFileName += teacherDetails.getRecapitoName().replaceAll("\\s|\'", "") + "_MAD.pdf";
+		} catch (IOException e) {
+			log4j.error("MADking:MADMaker: teacherDetails.json not found");
+			e.printStackTrace();
+		} catch (BadElementException e) {
+			log4j.error("MADking:MADMaker: teacherDetails.json could not be read properly");
+			e.printStackTrace();
+		}
+
+		try {
+			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, annoScolastico, finalFileName,
+					blankMadModelPath);
+			log4j.trace("MADking:MADMaker: Teacher-specific MAD file created!");
+		} catch (IOException e) {
+			log4j.error("MADking:MADMaker: IOExceprion occurred while generating teacher-specific MAD pdf file");
+			e.printStackTrace();
+		} catch (DocumentException e) {
+			log4j.error("MADking:MADMaker: DocumentException occurred while generating teacher-specific MAD pdf file");
+			e.printStackTrace();
+		}
+
+		try {
+			SchoolSpecificMADMaker.generateSchoolSpecificMADFiles(schoolsJsonPath, finalFileName, unwanted);
+			log4j.trace("MADking:MADMaker: School-specific MAD files created!");
+		} catch (DocumentException e) {
+			log4j.error("MADking:MADMaker: DocumentException occurred while generating school-specific MAD pdf file");
+			e.printStackTrace();
+		} catch (IOException e) {
+			log4j.error("MADking:MADMaker: IOExceprion occurred while generating school-specific MAD pdf file");
+			e.printStackTrace();
+		}
+
+	}
+
+	public static int main(String[] args) {
 
 		log4j.debug("MADking:MADMaker: makeMad invoked with arguments:");
 		for (String string : args) {
@@ -81,10 +137,10 @@ public class App {
 
 		if (args.length > 0) {
 			for (String s : args) {
-				// if ("--help".equals(s.substring(0, 6))) {
-				// printHelp();
-				// return 0;
-				// }
+				if ("--help".equals(s.substring(0, 6))) {
+					printHelp();
+					return 0;
+				}
 				if (s.startsWith("--teacherdetails=")) {
 					teacherdetailsarg = true;
 					teacherJsonPath = s.substring(17);
@@ -162,62 +218,24 @@ public class App {
 			return -1;
 		}
 
-		try {
-			Files.createDirectories(Paths.get(targetDir));
-		} catch (IOException e1) {
-			log4j.error("MADking:MADMaker: could not create directory " + targetDir);
-			e1.printStackTrace();
-		}
-
-		TeacherDetails teacherDetails = new TeacherDetails();
-		String teacherSpecificMADPath = targetDir + FILE_SEPARATOR;
-
-		try {
-			teacherDetails.setFromJsonObj(teacherJsonPath);
-			teacherSpecificMADPath += teacherDetails.getRecapitoName().replaceAll("\\s|\'", "") + "_MAD.pdf";
-		} catch (IOException e) {
-			log4j.error("MADking:MADMaker: teacherDetails.json not found");
-			e.printStackTrace();
-		} catch (BadElementException e) {
-			log4j.error("MADking:MADMaker: teacherDetails.json could not be read properly");
-			e.printStackTrace();
-		}
-
-		try {
-			TeacherSpecificMADMaker.generateTeacherSpecificMADFile(teacherDetails, annoScolastico,
-					teacherSpecificMADPath, blankMadModelPath);
-			log4j.trace("MADking:MADMaker: Teacher-specific MAD file created!");
-		} catch (IOException e) {
-			log4j.error("MADking:MADMaker: IOExceprion occurred while generating teacher-specific MAD pdf file");
-			e.printStackTrace();
-		} catch (DocumentException e) {
-			log4j.error("MADking:MADMaker: DocumentException occurred while generating teacher-specific MAD pdf file");
-			e.printStackTrace();
-		}
-
-		try {
-			SchoolSpecificMADMaker.generateSchoolSpecificMADFiles(schoolsJsonPath, teacherSpecificMADPath, unwanted);
-			log4j.trace("MADking:MADMaker: School-specific MAD files created!");
-		} catch (DocumentException e) {
-			log4j.error("MADking:MADMaker: DocumentException occurred while generating school-specific MAD pdf file");
-			e.printStackTrace();
-		} catch (IOException e) {
-			log4j.error("MADking:MADMaker: IOExceprion occurred while generating school-specific MAD pdf file");
-			e.printStackTrace();
-		}
+		makeMad(teacherJsonPath, schoolsJsonPath, targetDir, annoScolastico, unwanted, blankMadModelPath);
 
 		return 0;
 	}
 
-	// private static void printHelp() {
-	// System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS]
-	// [OPTIONS]\n\n" + "PARAMS:\n"
-	// + "--teacherdetails\t\tPath to the JSON file containing teacher's
-	// details\n"
-	// + "--schools\t\tPath to the JSON file containing school list\n\n" +
-	// "OPTIONS:\n"
-	// + "--as\t\tScholastic Year\n"
-	// + "--directory\t\tAlternative directory for the generated pdf files");
-	// }
+	private static void printHelp() {
+
+		System.out.println("Sorry, help message for MADKing:MADMaker is still not ready!"); // TODO
+																							// Scrivi
+																							// help
+		// System.out.print("MADKing Maker -- Usage:\n" + "madkingmaker [PARAMS]
+		// [OPTIONS]\n\n" + "PARAMS:\n"
+		// + "--teacherdetails\t\tPath to the JSON file containing teacher's
+		// details\n"
+		// + "--schools\t\tPath to the JSON file containing school list\n\n" +
+		// "OPTIONS:\n"
+		// + "--as\t\tScholastic Year\n" + "--directory\t\tAlternative directory
+		// for the generated pdf files");
+	}
 
 }

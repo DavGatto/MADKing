@@ -45,12 +45,12 @@ import javax.mail.internet.MimeMultipart;
 public class PECSender {
 
 	String pathSeparator = System.getProperty("file.separator");
-	
+
 	private int port;
 	private String host;
 	private String username;
 	private String password;
-	//private boolean debug;
+	// private boolean debug;
 
 	private String to;
 	private String subject;
@@ -89,13 +89,13 @@ public class PECSender {
 		this.password = password;
 	}
 
-//	private boolean isDebug() {
-//		return debug;
-//	}
-//
-//	private void setDebug(boolean debug) {
-//		this.debug = debug;
-//	}
+	// private boolean isDebug() {
+	// return debug;
+	// }
+	//
+	// private void setDebug(boolean debug) {
+	// this.debug = debug;
+	// }
 
 	private String getTo() {
 		return to;
@@ -130,8 +130,6 @@ public class PECSender {
 	}
 
 	public PECSender(JsonObject jsoMail, JsonObject jsoTeach, String folderPath) {
-		
-		
 
 		setUsername(jsoMail.getString("username"));
 
@@ -141,7 +139,7 @@ public class PECSender {
 
 		setHost(jsoMail.getString("host"));
 
-//		setDebug(debug);
+		// setDebug(debug);
 
 		setSubject(jsoMail.getString("subject"));
 		setBody(jsoMail.getString("body"));
@@ -158,21 +156,22 @@ public class PECSender {
 			setTo(jsoSchool.getString("codMec") + pecIstruzione);
 		} else {
 			setTo(pecIstruzione);
-			body += "\n \t DEBUG: Questa mail sarebbe stata inviata alla scuola " + jsoSchool.getString("codMec") + "\n";
+			body += " <br> <br> <b> DEBUG </b>: Questa mail sarebbe stata inviata alla scuola: " + jsoSchool.getString("codMec")
+					+ " - " + jsoSchool.getString("nome") + " - " + jsoSchool.getString("tipo") + " - "
+					+ jsoSchool.getString("comune") + " - " + jsoSchool.getString("provincia");
 		}
 
-//		setDebug(isDebug());
+		// setDebug(isDebug());
 
 		String basicAttachmentName = getAttachment();
 
-		setAttachment(basicAttachmentName 
-				+ jsoSchool.getString("codMec") + "_MAD.pdf");
+		setAttachment(basicAttachmentName + jsoSchool.getString("codMec") + "_MAD.pdf");
 
 		String[] attachments = new String[1];
 		attachments[0] = getAttachment();
 
-		sendEmailWithAttachments(getHost(), getPort() + "", getUsername(), getPassword(), getTo(),
-				getSubject(), body, attachments);
+		sendEmailWithAttachments(getHost(), getPort() + "", getUsername(), getPassword(), getTo(), getSubject(), body,
+				attachments);
 
 		setAttachment(basicAttachmentName);
 
@@ -181,7 +180,7 @@ public class PECSender {
 	private static void sendEmailWithAttachments(String host, String port, final String userName, final String password,
 			String toAddress, String subject, String message, String[] attachFiles)
 			throws AddressException, MessagingException {
-		
+
 		Properties properties = new Properties();
 		properties.put("mail.smtp.host", host);
 		properties.put("mail.smtp.port", port);
@@ -190,7 +189,6 @@ public class PECSender {
 		properties.put("mail.user", userName);
 		properties.put("mail.password", password);
 
-		
 		Authenticator auth = new Authenticator() {
 			public PasswordAuthentication getPasswordAuthentication() {
 				return new PasswordAuthentication(userName, password);
@@ -198,7 +196,6 @@ public class PECSender {
 		};
 		Session session = Session.getInstance(properties, auth);
 
-		
 		Message msg = new MimeMessage(session);
 
 		msg.setFrom(new InternetAddress(userName));
@@ -207,15 +204,12 @@ public class PECSender {
 		msg.setSubject(subject);
 		msg.setSentDate(new Date());
 
-		
 		MimeBodyPart messageBodyPart = new MimeBodyPart();
 		messageBodyPart.setContent(message, "text/html");
 
-		
 		Multipart multipart = new MimeMultipart();
 		multipart.addBodyPart(messageBodyPart);
 
-		
 		if (attachFiles != null && attachFiles.length > 0) {
 			for (String filePath : attachFiles) {
 				MimeBodyPart attachPart = new MimeBodyPart();

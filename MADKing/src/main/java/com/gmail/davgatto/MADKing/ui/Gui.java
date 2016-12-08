@@ -25,8 +25,6 @@ package com.gmail.davgatto.MADKing.ui;
 
 import java.awt.ComponentOrientation;
 import java.awt.Container;
-import java.awt.Font;
-import java.awt.FontFormatException;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
@@ -37,6 +35,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Properties;
 
@@ -65,15 +64,8 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 	private JFrame mainFrame;
 
-	private JFrame getMainFrame() {
-		return mainFrame;
-	}
-
-	private void setMainFrame(JFrame mainFrame) {
-		this.mainFrame = mainFrame;
-	}
-
 	private HashMap<String, JCheckBox> bxsTipi;
+
 	private String makeAction = "";
 	private String sendAction = "";
 
@@ -81,9 +73,29 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	private String schools;
 	private String pecDet;
 	private String target;
-	private String simMail;
+	private String simMail = "";
 	private String anno;
-	private String unwanted = "";
+	private ArrayList<String> unwanted;
+
+	private JTextField textFieldTarget;
+	private JTextField textFieldTeacher;
+	private JTextField textFieldPec;
+	private JTextField textFieldAs;
+	private JTextField textFieldSim;
+	private JTextField textFieldSchools;
+
+	private String defaultWorkDir = ""; // TODO Metti listener su
+										// textFieldTarget e
+	// caccia sto cunno di defaultWorkDir,
+	// soprattutto dai metodi responsive
+
+	private JFrame getMainFrame() {
+		return mainFrame;
+	}
+
+	private void setMainFrame(JFrame mainFrame) {
+		this.mainFrame = mainFrame;
+	}
 
 	private String getTeachDet() {
 		return teachDet;
@@ -133,11 +145,11 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		this.anno = anno;
 	}
 
-	private String getUnwanted() {
+	private ArrayList<String> getUnwanted() {
 		return unwanted;
 	}
 
-	private void setUnwanted(String unwanted) {
+	private void setUnwanted(ArrayList<String> unwanted) {
 		this.unwanted = unwanted;
 	}
 
@@ -165,17 +177,6 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		this.sendAction = sendAction;
 	}
 
-	private JTextField textFieldTarget;
-	private JTextField textFieldTeacher;
-	private JTextField textFieldPec;
-	private JTextField textFieldAs;
-	private JTextField textFieldSim;
-	private JTextField textFieldSchools;
-
-	String defaultWorkDir = ""; // TODO Metti listener su textFieldTarget e
-								// caccia sto cunno di defaultWorkDir,
-								// soprattutto dai metodi responsive
-
 	private String getDefaultWorkDir() {
 		return defaultWorkDir;
 	}
@@ -185,7 +186,6 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	}
 
 	public static void main(String[] args) {
-
 		log4j.info("Started!");
 
 		InputStream is = Thread.currentThread().getContextClassLoader()
@@ -198,7 +198,6 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		}
 
 		new Gui();
-
 	}
 
 	private Gui() {
@@ -208,15 +207,15 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		setMainFrame(new JFrame(props.getProperty("label.title")));
 		getMainFrame().setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-		
+		setUnwanted(new ArrayList<String>());
+
 		try {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 		} catch (ClassNotFoundException | InstantiationException | IllegalAccessException
 				| UnsupportedLookAndFeelException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-       
+
 		// Set up the content pane.
 		addComponentsToPane(getMainFrame().getContentPane());
 
@@ -235,17 +234,6 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 	public void addComponentsToPane(Container pane) {
 		log4j.debug(Gui.class.getName() + ".addComponentsToPane invoked");
-		
-//		InputStream is = Thread.currentThread().getContextClassLoader()
-//				.getResourceAsStream("fonts/fontawesome-webfont.ttf");
-//		Font font = new Font(Font.SANS_SERIF,10,0);
-//		try {
-//			font = Font.createFont(Font.TRUETYPE_FONT, is);
-//		} catch (FontFormatException | IOException e1) {
-//			e1.printStackTrace();
-//		}
-//        font = font.deriveFont(Font.PLAIN, 24f);
-
 
 		setDefaultWorkDir(System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory"));
 
@@ -260,7 +248,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		int y = -1;
 
 		JLabel label = new JLabel(props.getProperty("label.workDir"));
-//		label.setFont(font);
+		// label.setFont(font);
 		c.anchor = GridBagConstraints.BASELINE_TRAILING;
 		c.gridx = 0;
 		c.gridy = ++y;
@@ -442,7 +430,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			log4j.debug("Schools text field set by user: " + e.getActionCommand());
 			try {
 				getBxsTipi().clear();
-				setUnwanted("");
+				getUnwanted().clear();
 				for (String t : SchoolRetriever.getAllValuesForField("tipo",
 						defaultWorkDir + pathSeparator + e.getActionCommand())) {
 					JCheckBox checkbox = new JCheckBox(t, true);
@@ -451,13 +439,13 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 				refresh(mainFrame);
 			} catch (IllegalArgumentException ex) {
 				getBxsTipi().clear();
-				setUnwanted("");
+				getUnwanted().clear();
 				refresh(mainFrame);
 				ex.printStackTrace();
 				return;
 			} catch (FileNotFoundException ex) {
 				getBxsTipi().clear();
-				setUnwanted("");
+				getUnwanted().clear();
 				refresh(mainFrame);
 				ex.printStackTrace();
 				return;
@@ -468,59 +456,20 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 	private void executeWithSingleSchoolsFile(ActionEvent e, String schools) {
 		log4j.debug(Gui.class.getName() + ".executeWithSingleSchoolsFile invoked");
-		String dirName = "FilesGenerati" + pathSeparator + schools
+		String dirName = getTarget() + props.getProperty("default.senderLookupDir") + pathSeparator + schools
 				.substring(schools.indexOf("_schoolsDetails.json") - 2, schools.indexOf("_schoolsDetails.json"));
-		if (getMakeAction().equals(e.getActionCommand())) {
 
-			String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-					"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
-					"--unwanted=" + getUnwanted() };
-			int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-			if (m == 0) {
-				log4j.info("MADKing: MADMaker successfully executed");
-			} else {
-				log4j.debug("MADKing: MADMaker exit status: " + m);
-			}
+		if (getMakeAction().equals(e.getActionCommand())) {
+			com.gmail.davgatto.MADKing.Maker.App.makeMad(getTeachDet(), schools, dirName, getAnno(), getUnwanted(),
+					props.getProperty("model.blankMADpdf"));
 			return;
 		}
 
 		if (getSendAction().equals(e.getActionCommand())) {
-			if (!getSimMail().isEmpty()) {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
-						"--simulate=" + getSimMail() };
-
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-				if (m == 0) {
-					log4j.info("MADKing: MADMaker successfully executed");
-				} else {
-					log4j.debug("MADKing: MADMaker exit status: " + m);
-				}
-				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-				if (s == 0) {
-					log4j.info("MADKing: MADSender successfully executed");
-				} else {
-					log4j.debug("MADKing: MADSender exit status: " + m);
-				}
-				return;
-			} else {
-				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
-						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
-
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
-				if (m == 0) {
-					log4j.info("MADKing: MADMaker successfully executed");
-				} else {
-					log4j.debug("MADKing: MADMaker exit status: " + m);
-				}
-				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
-				if (s == 0) {
-					log4j.info("MADKing: MADSender successfully executed");
-				} else {
-					log4j.debug("MADKing: MADSender exit status: " + m);
-				}
-				return;
-			}
+			com.gmail.davgatto.MADKing.Maker.App.makeMad(getTeachDet(), schools, dirName, getAnno(), getUnwanted(),
+					props.getProperty("model.blankMADpdf"));
+			com.gmail.davgatto.MADKing.Sender.App.send(getTeachDet(), getPecDet(), schools, dirName, getSimMail());
+			return;
 		}
 	}
 
@@ -549,12 +498,12 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			}
 		}
 		if (state == 1) {
-			if (unwanted.contains("|" + item + "|")) {
-				setUnwanted(getUnwanted().replace("|" + item + "|", ""));
+			if (getUnwanted().contains(item)) {
+				getUnwanted().remove(item);
 			}
 		} else if (state == 2) {
-			setUnwanted(unwanted + "|" + item + "|");
+			getUnwanted().add(item);
 		}
-		log4j.debug("String unwanted = " + getUnwanted());
+		log4j.debug("ArrayList<String> unwanted = " + getUnwanted().toString());
 	}
 }

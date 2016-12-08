@@ -28,6 +28,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.Properties;
 
 import javax.json.Json;
@@ -52,13 +53,11 @@ public class App {
 	 *            - argomenti in stile command-line
 	 * @return status code
 	 */
-	public static int send(String[] args) {
+	public static int send(String teacherJsonPath, String pecJsonPath, String schoolsJsonPath, String targetDir,
+			String simMail) {
 
-		log4j.debug("MADKing:MADSender: send invoked with arguments:");
-		for (String string : args) {
-			log4j.debug(string);
-		}
-
+		log4j.debug("MADKing:MADSender: send invoked with arguments: " + teacherJsonPath + ", " + pecJsonPath + ", "
+				+ schoolsJsonPath + ", " + targetDir + ", " + simMail);
 		InputStream is = Thread.currentThread().getContextClassLoader()
 				.getResourceAsStream("etc/application.properties");
 		Properties props = new Properties();
@@ -67,8 +66,54 @@ public class App {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		String targetMail = props.get("suffix.pecIstruzione").toString();
+		
+		String targetMail = "";
+		boolean simulate = true;
+		/**
+		 * If simulated-run mail address is empty, targetMail must store the
+		 * value of suffix.pecIstruzione, otherwise it must store the
+		 * simMailAdderss itself
+		 */
+		if (simMail.isEmpty()) {
+			targetMail = props.get("suffix.pecIstruzione").toString();
+			simulate = false;
+		} else {
+			targetMail = simMail;
+		}
 
+		try {
+			JsonReader reader = Json.createReader(new FileReader(teacherJsonPath));
+			JsonObject jsoTeach = (JsonObject) reader.read();
+			reader = Json.createReader(new FileReader(pecJsonPath));
+			JsonObject jsoMail = (JsonObject) reader.read();
+
+			reader = Json.createReader(new FileReader(schoolsJsonPath));
+			JsonArray jsarr = (JsonArray) reader.read();
+
+			PECSender sender = new PECSender(jsoMail, jsoTeach, targetDir);
+
+			for (JsonValue jsoSchool : jsarr) {
+				log4j.info("MADKing:MADSender: Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
+				sender.sendMail((JsonObject) jsoSchool, targetMail, simulate);
+				log4j.info("MADKing:MADSender: Sent!");
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		return 0;
+
+	}
+
+	public static int main(String[] args) {
+
+		log4j.debug("MADKing:MADSender: send invoked with arguments:");
+		for (String string : args) {
+			log4j.debug(string);
+		}
+
+		String targetMail = "";
 		String targetDir = "";
 		boolean teacherdetailsarg = false;
 		String teacherJsonPath = "";
@@ -77,8 +122,6 @@ public class App {
 		boolean pecarg = false;
 		String schoolsJsonPath = "";
 		// boolean debug = DEBUG;
-		// String targetMail = PEC_ISTRUZIONE;
-		boolean simulating = false;
 		if (args.length > 0) {
 			for (String s : args) {
 				// if ("--help".equals(s.substring(0, 6))) {
@@ -130,7 +173,6 @@ public class App {
 				} else if (s.startsWith("--as=")) {
 					// Do nothing
 				} else if (s.startsWith("--simulate=")) {
-					simulating = true;
 					targetMail = s.substring(11);
 					log4j.info("MADKing:MADSender: Simulated run -- actually sending to " + targetMail);
 				} else {
@@ -160,26 +202,30 @@ public class App {
 			return -1;
 		}
 
-		try {
-			JsonReader reader = Json.createReader(new FileReader(teacherJsonPath));
-			JsonObject jsoTeach = (JsonObject) reader.read();
-			reader = Json.createReader(new FileReader(pecJsonPath));
-			JsonObject jsoMail = (JsonObject) reader.read();
+		send(teacherJsonPath, pecJsonPath, schoolsJsonPath, targetDir, targetMail);
 
-			reader = Json.createReader(new FileReader(schoolsJsonPath));
-			JsonArray jsarr = (JsonArray) reader.read();
-
-			PECSender sender = new PECSender(jsoMail, jsoTeach, targetDir);
-
-			for (JsonValue jsoSchool : jsarr) {
-				log4j.info("MADKing:MADSender: Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
-				sender.sendMail((JsonObject) jsoSchool, targetMail, simulating);
-				log4j.info("MADKing:MADSender: Sent!");
-			}
-
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		// try {
+		// JsonReader reader = Json.createReader(new
+		// FileReader(teacherJsonPath));
+		// JsonObject jsoTeach = (JsonObject) reader.read();
+		// reader = Json.createReader(new FileReader(pecJsonPath));
+		// JsonObject jsoMail = (JsonObject) reader.read();
+		//
+		// reader = Json.createReader(new FileReader(schoolsJsonPath));
+		// JsonArray jsarr = (JsonArray) reader.read();
+		//
+		// PECSender sender = new PECSender(jsoMail, jsoTeach, targetDir);
+		//
+		// for (JsonValue jsoSchool : jsarr) {
+		// log4j.info("MADKing:MADSender: Attempting to send to " +
+		// ((JsonObject) jsoSchool).getString("nome"));
+		// sender.sendMail((JsonObject) jsoSchool, targetMail, simulating);
+		// log4j.info("MADKing:MADSender: Sent!");
+		// }
+		//
+		// } catch (Exception e) {
+		// e.printStackTrace();
+		// }
 
 		return 0;
 

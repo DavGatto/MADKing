@@ -276,7 +276,7 @@ public class App extends Frame implements ActionListener, WindowListener {
 			String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 					"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
 					"--unwanted=" + getUnwanted() };
-			int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+			int m = com.gmail.davgatto.MADKing.Maker.App.main(args);
 			if (m == 0) {
 				log4j.info("MADKing: MADMaker successfully executed");
 			} else {
@@ -292,13 +292,13 @@ public class App extends Frame implements ActionListener, WindowListener {
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName,
 						"--simulate=" + getSimMail() };
 
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+				int m = com.gmail.davgatto.MADKing.Maker.App.main(args);
 				if (m == 0) {
 					log4j.info("MADKing: MADMaker successfully executed");
 				} else {
 					log4j.debug("MADKing: MADMaker exit status: " + m);
 				}
-				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
+				int s = com.gmail.davgatto.MADKing.Sender.App.main(args);
 				if (s == 0) {
 					log4j.info("MADKing: MADSender successfully executed");
 				} else {
@@ -309,13 +309,13 @@ public class App extends Frame implements ActionListener, WindowListener {
 				String[] args = { "--teacherdetails=" + getTeachDet(), "--as=" + getAnno(), "--schools=" + schools,
 						"--pecmaildetails=" + getPecDet(), "--directory=" + getTarget() + dirName };
 
-				int m = com.gmail.davgatto.MADKing.Maker.App.makeMad(args);
+				int m = com.gmail.davgatto.MADKing.Maker.App.main(args);
 				if (m == 0) {
 					log4j.info("MADKing: MADMaker successfully executed");
 				} else {
 					log4j.debug("MADKing: MADMaker exit status: " + m);
 				}
-				int s = com.gmail.davgatto.MADKing.Sender.App.send(args);
+				int s = com.gmail.davgatto.MADKing.Sender.App.main(args);
 				if (s == 0) {
 					log4j.info("MADKing: MADSender successfully executed");
 				} else {
