@@ -50,7 +50,6 @@ public class PECSender {
 	private String host;
 	private String username;
 	private String password;
-	// private boolean debug;
 
 	private String to;
 	private String subject;
@@ -88,14 +87,6 @@ public class PECSender {
 	private void setPassword(String password) {
 		this.password = password;
 	}
-
-	// private boolean isDebug() {
-	// return debug;
-	// }
-	//
-	// private void setDebug(boolean debug) {
-	// this.debug = debug;
-	// }
 
 	private String getTo() {
 		return to;
@@ -139,8 +130,6 @@ public class PECSender {
 
 		setHost(jsoMail.getString("host"));
 
-		// setDebug(debug);
-
 		setSubject(jsoMail.getString("subject"));
 		setBody(jsoMail.getString("body"));
 
@@ -161,10 +150,8 @@ public class PECSender {
 					+ jsoSchool.getString("comune") + " - " + jsoSchool.getString("provincia");
 		}
 
-		// setDebug(isDebug());
-
 		String basicAttachmentName = getAttachment();
-
+		//TODO implementa invio CV come secondo allegato
 		setAttachment(basicAttachmentName + jsoSchool.getString("codMec") + "_MAD.pdf");
 
 		String[] attachments = new String[1];

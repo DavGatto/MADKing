@@ -1,3 +1,6 @@
+# Ignore the Download folder, as it is already pushed as download.zip
+Download
+
 # Ignore files which name ends in ~ (ie, temporary files from many editors)
 *~
 

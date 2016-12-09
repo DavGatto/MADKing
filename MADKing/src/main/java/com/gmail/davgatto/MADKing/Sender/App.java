@@ -29,6 +29,7 @@ import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Properties;
 
 import javax.json.Json;
@@ -46,15 +47,8 @@ public class App {
 
 	private static final Logger log4j = LogManager.getLogger(App.class.getName());
 
-	/**
-	 * Invia a mezzo PEC tutti i file pdf (moduli di MAD) generati
-	 * 
-	 * @param args
-	 *            - argomenti in stile command-line
-	 * @return status code
-	 */
 	public static int send(String teacherJsonPath, String pecJsonPath, String schoolsJsonPath, String targetDir,
-			String simMail) {
+			String simMail, ArrayList<String> unwanted) {
 
 		log4j.debug("MADKing:MADSender: send invoked with arguments: " + teacherJsonPath + ", " + pecJsonPath + ", "
 				+ schoolsJsonPath + ", " + targetDir + ", " + simMail);
@@ -66,7 +60,7 @@ public class App {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+
 		String targetMail = "";
 		boolean simulate = true;
 		/**
@@ -93,9 +87,11 @@ public class App {
 			PECSender sender = new PECSender(jsoMail, jsoTeach, targetDir);
 
 			for (JsonValue jsoSchool : jsarr) {
-				log4j.info("MADKing:MADSender: Attempting to send to " + ((JsonObject) jsoSchool).getString("nome"));
-				sender.sendMail((JsonObject) jsoSchool, targetMail, simulate);
-				log4j.info("MADKing:MADSender: Sent!");
+				if (!unwanted.contains(((JsonObject) jsoSchool).getString("tipo"))) {
+					log4j.info("Tentativo di invio a " + ((JsonObject) jsoSchool).getString("nome"));
+					sender.sendMail((JsonObject) jsoSchool, targetMail, simulate);
+					log4j.info("Inviata!");
+				}
 			}
 
 		} catch (Exception e) {
@@ -121,6 +117,7 @@ public class App {
 		String pecJsonPath = "";
 		boolean pecarg = false;
 		String schoolsJsonPath = "";
+		ArrayList<String> unwanted = new ArrayList<String>();
 		// boolean debug = DEBUG;
 		if (args.length > 0) {
 			for (String s : args) {
@@ -148,6 +145,11 @@ public class App {
 								+ "\nAborting...");
 						return -1;
 					}
+				} else if (s.startsWith("--unwanted=")) {
+					String unwantedString = s.substring(11);
+					log4j.debug("unwantedString set to:\n" + unwantedString);
+					unwanted = new ArrayList<String>(Arrays.asList(unwantedString.split("\\|")));
+					log4j.debug("unwanted set to:\n" + unwanted.toString());
 				} else if (s.startsWith("--directory=")) {
 					targetDir = s.substring(12);
 					log4j.info("MADKing:MADSender: MAD files directory set as " + targetDir);
@@ -196,13 +198,15 @@ public class App {
 				// printHelp();
 				return -1;
 			}
-		} else {
-			log4j.error("MADKing:MADSender: ERROR!! Sender won't run with no arguments\n\n");
-			// printHelp();
-			return -1;
-		}
+		}else
 
-		send(teacherJsonPath, pecJsonPath, schoolsJsonPath, targetDir, targetMail);
+	{
+		log4j.error("MADKing:MADSender: ERROR!! Sender won't run with no arguments\n\n");
+		// printHelp();
+		return -1;
+	}
+
+	send(teacherJsonPath, pecJsonPath, schoolsJsonPath, targetDir, targetMail, unwanted);
 
 		// try {
 		// JsonReader reader = Json.createReader(new

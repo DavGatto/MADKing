@@ -38,46 +38,49 @@ IMPORTANTE: MADKing non è un prodotto né un servizio: è un
 		java -jar MADKing-executable.jar
 	NB se non hai installato la JRE non funzionerà nulla.
 	Installala (cerca su Google "jre download")
-5 - dovrebbe comparire un form molto brutto e in buona parte
-	già compilato. Assicurati che:
-	a - il primo campo contenga il percorso alla cartella di lavoro
-	b - il secondo campo contenga il nome del file json nel quale
-		hai scritto il tuoi dati anagrafici
-	c - il terzo campo ne parliamo dopo che è importante
-	d - il quarto contenga il nome del file dove hai scritto i
-		dati della tua PEC
-	e - il quinto campo contenga la tua mail non-pec (poi ti spiego)
-	f - il sesto l'anno scolastico in corso
+5 - dovrebbe comparire una finestra con un form in buona parte
+	già compilato. Assicurati che i campi siano correttamente
+	compilati. Il programma dovrebbe avvertirti se qualcosa
+	non va. Il form si aggiorna QUANDO PREMI INVIO mentre stai
+	scrivendo in un campo, oppure quando clicchi su uno dei
+	due bottoni. Quando modifichi il campo 'dettagli scuole',
+	il programma mostra un checkbox per ogni tipo di scuola
+	(liceo scientifico, scuola primaria ecc) che trova.
+	Puoi selezionare i tipi di scuola a cui vuoi inviare la MAD
 	
 6 - Adesso farai un invio simulato in una provincia con poche scuole:
 	a - nel terzo campo scrivi
-		schoolsDetailsFiles/KR_schoolsDetails.json
-	b - MI RACCOMANDO, il punto 'e' di sopra
+			schoolsDetailsFiles/KR_schoolsDetails.json
+		Magari deseleziona buona paete dei tipi di scuola
+	b - inserisci il tuo indirizzo mail non-pec nel campo
+		'indirizzo per invio simulato'
 	c - clicca su Crea (senza inviare)
 	d - controlla che sia comparsa la cartella MADKing/FilesGenerati/KR
 		contenente una caterva di pdf. Aprine uno e controlla che sia
-		tutto a posto: è una delle MAD che invierai
+		tutto a posto: è una delle MAD che invierai.
+		Assicurati di cancellare la cartella FilesGenerati se esiste già
+		prima di un nuovo utilizzo del programma
 	e - a questo punto clicca su Invia
-	f - nel terminale vedrai che il programma scrive "Attempting to send
-		to gnegnegne", seguito da "Sent!". Dopo un paio di righe ti
-		conviene dare CTRL-C, altrimenti la tua casella e-mail riceverà
-		una mail dalla tua PEC per ogni singola scuola della provincia di
-		Crotone
+	f - nel terminale vedrai che il programma scrive "tenntativo di invio
+		 a gnegnegne", seguito da "Inviato!"
 	g - controlla che le mail che ti sei inviato da solo siano esattamente
-		come quelle che vorresti inviare alle scuole
+		come quelle che vorresti inviare alle scuole. Nel corpo delle mail
+		comparirà una riga "DEBUG" che ti dice a quale scuola sarebbe stata
+		inviata la mad. Controlla che il pdf allegato sia corretto
 		
 7 - Se è andato tutto bene, sei pronto per l'invio vero e proprio.
 	Il campo "Dettagli scuole" può accettare sia un singolo file
 	che una cartella, e ovviamente nel secondo caso il programma
 	farà il suo noioso lavoro su tutti i file della cartella.
-	Affincheè l'invio non sia simulato ma reale, cancella tutto
+	Affinché l'invio non sia simulato ma reale, cancella tutto
 	nel campo "Indirizzo per invio simulato".
 	Puoi inviare quindi a (tutta!) una singola provincia, oppure
 	indicare la cartella schoolsDetailsFiles e catapultare su
 	tutto il Paese, oppure copiare i file json relativi alle provincie
 	che ti interessano dentro una cartella e indicare quella al
 	programma. Puoi anche modificare i files json, basta che
-	rispetti la sintassi di quelli che hai già
+	rispetti la sintassi di quelli che hai già.
+	Da questa versione, puoi selezionare i tipi di scuole
 	
 
 AVVERTENZE: l'Invio Supermassiccio a tutte le scuole italiane che ho fatto
@@ -92,9 +95,17 @@ AVVERTENZE: l'Invio Supermassiccio a tutte le scuole italiane che ho fatto
 			che stavo usando una connessione con limite giornaliero
 			(se un amico non mi avesse fatto notare la cazzata che stavo
 			facendo ne avrei spesi molti molti di più)
+			
+AGGIORNAMENTO: in effetti il problema con l'inio che ho fatto era la
+			   dimensione del file immagine della mia firma (circa
+			   400 KB), mentre il modello in pdf, di suo, pesa solo
+			   75 KB. Usando un file immagine della firma più piccolo
+			   (circa 80 KB), la cartella FilesGenerati è poco più
+			   pesante di 1 GB, e probabilmente anche l'invio è ben
+			   più rapido (credo!).
 
 Se qualcosa va storto, cerca di cavartela da solo.
-Se proprio non va, copia il file <data>-<ora>_MADKing.log
+Se proprio non va, trova il file <data>-<ora>_MADKing.log
 nella cartella MADKing_logs che sarà comparsa accanto al
 jar (o comunque nella directory da cui hai lanciato il
 comando) e mandami una mail (davgatto@gmail.com).
@@ -109,8 +120,7 @@ come tali e che siano a loro volta rilasciate con licenza GPL.
 Il funzionamento non è garantito e l'autore declina ogni responsabilità
 su eventuali danni provocati dal software.
 
-Chi trova lavoro mi offre da bere (postilla alla licenza, non so cosa ne
-pensi Linus Torvalds - al quale devo molte birre, dovessi beccarlo)
+Chi trova lavoro mi offre da bere (postilla alla licenza)
 
 PROVINCE MANCANTI:
 Il sito da cui ho ricavato le liste di scuole non è aggiornatissimo in
@@ -165,6 +175,11 @@ che si potrebbe usare per permettere all'utente di selezionare i tipi
 di scuola ai quali vuole mandare la MAD (io l'ho mandata anche alle
 elementari, per esempio - per loro è solo UNA e-mail da cancellare!)
 Poi ci starebbe la documentazione, una GUI guardabile e chissà che altro.
+
+AGGIORNAMENTO: Ho scritto una nuova GUI e ho reso i vecchi metodi un po'
+			   più ragionevoli, inoltre ho de-cablato un po' di cose,
+			   che ora si trovano in filters/filter.properties e
+			   vengono filtrate etc/application.properties
 
 
 Ci sono i giro dei lordoni che offrono questo servizio a prezzi tipo settanta euro o

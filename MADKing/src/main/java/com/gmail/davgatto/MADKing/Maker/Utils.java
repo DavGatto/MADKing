@@ -3,10 +3,7 @@ package com.gmail.davgatto.MADKing.Maker;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
-
 import org.apache.commons.io.FileUtils;
-
-
 
 public class Utils {
 	

@@ -43,6 +43,7 @@ import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
@@ -76,6 +77,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	private String simMail = "";
 	private String anno;
 	private ArrayList<String> unwanted;
+	private ArrayList<String> messages = new ArrayList<String>();
 
 	private JTextField textFieldTarget;
 	private JTextField textFieldTeacher;
@@ -83,11 +85,8 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	private JTextField textFieldAs;
 	private JTextField textFieldSim;
 	private JTextField textFieldSchools;
-
-	private String defaultWorkDir = ""; // TODO Metti listener su
-										// textFieldTarget e
-	// caccia sto cunno di defaultWorkDir,
-	// soprattutto dai metodi responsive
+	private JButton btnMake;
+	private JButton btnSend;
 
 	private JFrame getMainFrame() {
 		return mainFrame;
@@ -177,12 +176,12 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		this.sendAction = sendAction;
 	}
 
-	private String getDefaultWorkDir() {
-		return defaultWorkDir;
+	public ArrayList<String> getMessages() {
+		return messages;
 	}
 
-	private void setDefaultWorkDir(String defaultWorkDir) {
-		this.defaultWorkDir = defaultWorkDir;
+	public void setMessages(ArrayList<String> messages) {
+		this.messages = messages;
 	}
 
 	public static void main(String[] args) {
@@ -197,6 +196,21 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			e.printStackTrace();
 		}
 
+		Object[] options = { "Ho capito, voglio usare il programma", "Non lanciare il programma" };
+		int n = JOptionPane.showOptionDialog(new JFrame(),
+				"Questo programma è rialsciato con licenza GPL versione 3,\n"
+						+ "e di conseguenza NON C'È ALCUNA GARANZIA PER IL PROGRAMMA.\n\n"
+						+ "L'autore fornisce il programma \"così com'è\" SENZA GARANZIA DI ALCUN TIPO, NÈ ESPRESSA NÈ IMPLICITA, \n"
+						+ "INCLUSE, MA NON LIMITATE A, LE GARANZIE DI COMMERCIABILITÀ O DI UTILIZZABILITÀ PER UN PARTICOLARE SCOPO.\n\n"
+						+ "L'INTERO RISCHIO CONCERNENTE LA QUALITÀ E LE PRESTAZIONI DEL PROGRAMMA È DELL'UTENTE FINALE.",
+				props.getProperty("label.title"), JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, null,
+				options, // the titles of buttons
+				options[1]); // default button title
+
+		if (n != 0) {
+			return;
+		}
+
 		new Gui();
 	}
 
@@ -208,6 +222,8 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		getMainFrame().setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		setUnwanted(new ArrayList<String>());
+		getMessages().add(props.getProperty("message.error.simMail"));
+		setTarget(System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory"));
 
 		try {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
@@ -235,8 +251,6 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	public void addComponentsToPane(Container pane) {
 		log4j.debug(Gui.class.getName() + ".addComponentsToPane invoked");
 
-		setDefaultWorkDir(System.getProperty("user.home") + pathSeparator + props.getProperty("default.workDirectory"));
-
 		pane.setComponentOrientation(ComponentOrientation.LEFT_TO_RIGHT);
 
 		pane.setLayout(new GridBagLayout());
@@ -254,12 +268,15 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridy = ++y;
 		pane.add(label, c);
 		if (textFieldTarget == null) {
-			textFieldTarget = new JTextField(getDefaultWorkDir());
+			textFieldTarget = new JTextField(getTarget());
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(textFieldTarget, c);
+		if (textFieldTarget.getActionListeners().length == 0) {
+			textFieldTarget.addActionListener(this);
+		}
 
 		label = new JLabel(props.getProperty("label.teachDet"));
 		c.fill = GridBagConstraints.EAST;
@@ -273,6 +290,9 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(textFieldTeacher, c);
+		if (textFieldTeacher.getActionListeners().length == 0) {
+			textFieldTeacher.addActionListener(this);
+		}
 
 		label = new JLabel(props.getProperty("label.schoolsDet"));
 		c.fill = GridBagConstraints.EAST;
@@ -281,12 +301,12 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		pane.add(label, c);
 		if (textFieldSchools == null) {
 			textFieldSchools = new JTextField(props.getProperty("placeholder.schoolsDet"));
+			textFieldSchools.addActionListener(this);
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(textFieldSchools, c);
-		textFieldSchools.addActionListener(this);
 
 		label = new JLabel(props.getProperty("label.pecDet"));
 		c.fill = GridBagConstraints.EAST;
@@ -295,6 +315,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		pane.add(label, c);
 		if (textFieldPec == null) {
 			textFieldPec = new JTextField(props.getProperty("placeholder.pecDet"));
+			textFieldPec.addActionListener(this);
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
@@ -308,6 +329,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		pane.add(label, c);
 		if (textFieldAs == null) {
 			textFieldAs = new JTextField(props.getProperty("placeholder.as"));
+			textFieldAs.addActionListener(this);
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
@@ -321,44 +343,19 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		pane.add(label, c);
 		if (textFieldSim == null) {
 			textFieldSim = new JTextField(props.getProperty("placeholder.simMail"));
+			textFieldSim.addActionListener(this);
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(textFieldSim, c);
 
-		label = new JLabel(props.getProperty("label.tipi"));
-		c.fill = GridBagConstraints.EAST;
-		c.anchor = GridBagConstraints.CENTER;
-		c.gridx = 0;
-		c.gridy = ++y;
-		pane.add(label, c);
-		JCheckBox ckboxAllTipi = new JCheckBox(props.getProperty("checkbox.allTipi"), true);
-		c.fill = GridBagConstraints.HORIZONTAL;
-		c.gridx = 1;
-		c.gridy = y;
-		pane.add(ckboxAllTipi, c);
-		ckboxAllTipi.addItemListener(this);
-
-		boolean shift = false;
-		c.anchor = GridBagConstraints.ABOVE_BASELINE_LEADING;
 		if (getBxsTipi() == null) {
 			setBxsTipi(new HashMap<String, JCheckBox>());
 			try {
 				for (String t : SchoolRetriever.getAllValuesForField("tipo",
-						defaultWorkDir + pathSeparator + props.getProperty("default.schoolsDetails"))) {
-					JCheckBox checkbox = new JCheckBox(t, true);
-					if (shift) {
-						c.gridx = 1;
-						c.gridy = y;
-					} else {
-						c.gridx = 0;
-						c.gridy = ++y;
-					}
-					shift = !shift;
-					getBxsTipi().put(t, checkbox);
-					pane.add(bxsTipi.get(t), c);
-					getBxsTipi().get(t).addItemListener(this);
+						getTarget() + pathSeparator + props.getProperty("default.schoolsDetails"))) {
+					getBxsTipi().put(t, new JCheckBox(t, true));
 				}
 			} catch (IllegalArgumentException e) {
 				e.printStackTrace();
@@ -366,6 +363,25 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 				e.printStackTrace();
 			}
 		}
+
+		if (!getBxsTipi().isEmpty()) {
+			label = new JLabel(props.getProperty("label.tipi"));
+			c.fill = GridBagConstraints.EAST;
+			c.anchor = GridBagConstraints.CENTER;
+			c.gridx = 0;
+			c.gridy = ++y;
+			pane.add(label, c);
+			JCheckBox ckboxAllTipi = new JCheckBox(props.getProperty("checkbox.allTipi"), true);
+			c.fill = GridBagConstraints.HORIZONTAL;
+			c.gridx = 1;
+			c.gridy = y;
+			pane.add(ckboxAllTipi, c);
+			if (ckboxAllTipi.getItemListeners().length == 0) {
+				ckboxAllTipi.addItemListener(this);
+			}
+		}
+		boolean shift = false;
+		c.anchor = GridBagConstraints.ABOVE_BASELINE_LEADING;
 		for (String key : getBxsTipi().keySet()) {
 			if (shift) {
 				c.gridx = 1;
@@ -376,47 +392,71 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			}
 			shift = !shift;
 			pane.add(getBxsTipi().get(key), c);
-			getBxsTipi().get(key).addItemListener(this);
+			if (getBxsTipi().get(key).getItemListeners().length == 0) {
+				getBxsTipi().get(key).addItemListener(this);
+			}
+		}
+
+		for (String msg : getMessages()) {
+			label = new JLabel(msg);
+			c.gridwidth = 2;
+			c.gridx = 0;
+			c.gridy = ++y;
+			pane.add(label, c);
 		}
 
 		setMakeAction(props.getProperty("button.make"));
-		JButton btnMake = new JButton(getMakeAction());
+		if (btnMake == null) {
+			btnMake = new JButton(getMakeAction());
+		}
+		c.gridwidth = 1;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(btnMake, c);
-		btnMake.addActionListener(this);
+		if (btnMake.getActionListeners().length == 0) {
+			btnMake.addActionListener(this);
+		}
 
 		setSendAction(props.getProperty("button.send"));
-		JButton btnSend = new JButton(getSendAction());
+		if (btnSend == null) {
+			btnSend = new JButton(getSendAction());
+			btnSend.setEnabled(false);
+		}
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(btnSend, c);
-		btnSend.addActionListener(this);
+		if (btnSend.getActionListeners().length == 0) {
+			btnSend.addActionListener(this);
+		}
+
 	}
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		log4j.debug("Action: " + e.getActionCommand() + "\n\t" + e.getSource());
 
+		getMessages().clear();
+		int valid = validateUserInput();
+
 		if (getMakeAction().equals(e.getActionCommand()) || getSendAction().equals(e.getActionCommand())) {
-			setTarget(textFieldTarget.getText());
-			if (!getTarget().endsWith(pathSeparator)) {
-				setTarget(getTarget() + pathSeparator);
+			if (valid == 2) {
+				return;
 			}
-			setTeachDet(getTarget() + textFieldTeacher.getText());
-			setAnno(textFieldAs.getText());
-			setSchools(getTarget() + textFieldSchools.getText());
-			setPecDet(getTarget() + textFieldPec.getText());
-			setSimMail(textFieldSim.getText());
+			if (valid == 1 && getSendAction().equals(e.getActionCommand())) {
+				return;
+			}
 			File schoolsFile = new File(getSchools());
 			if (schoolsFile.isFile()) {
 				executeWithSingleSchoolsFile(e, getSchools());
+				// TODO implementa dialog o messaggio "inviato!"
+				return;
 			} else if (schoolsFile.isDirectory()) {
 				File[] directoryListing = schoolsFile.listFiles();
 				if (directoryListing != null) {
 					for (File schools : directoryListing) {
 						executeWithSingleSchoolsFile(e, schools.getPath());
 					}
+					return;
 				} else {
 					log4j.error(Gui.class.getName() + " Il percorso: " + getSchools() + " non è una directory valida");
 					return;
@@ -432,7 +472,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 				getBxsTipi().clear();
 				getUnwanted().clear();
 				for (String t : SchoolRetriever.getAllValuesForField("tipo",
-						defaultWorkDir + pathSeparator + e.getActionCommand())) {
+						getTarget() + pathSeparator + e.getActionCommand())) {
 					JCheckBox checkbox = new JCheckBox(t, true);
 					getBxsTipi().put(t, checkbox);
 				}
@@ -451,7 +491,6 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 				return;
 			}
 		}
-
 	}
 
 	private void executeWithSingleSchoolsFile(ActionEvent e, String schools) {
@@ -468,7 +507,8 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		if (getSendAction().equals(e.getActionCommand())) {
 			com.gmail.davgatto.MADKing.Maker.App.makeMad(getTeachDet(), schools, dirName, getAnno(), getUnwanted(),
 					props.getProperty("model.blankMADpdf"));
-			com.gmail.davgatto.MADKing.Sender.App.send(getTeachDet(), getPecDet(), schools, dirName, getSimMail());
+			com.gmail.davgatto.MADKing.Sender.App.send(getTeachDet(), getPecDet(), schools, dirName, getSimMail(),
+					getUnwanted());
 			return;
 		}
 	}
@@ -478,7 +518,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		log4j.debug("ItemEvent " + ((JCheckBox) e.getSource()).getText() + " -> " + e.getStateChange());
 		int state = e.getStateChange();
 		String item = ((JCheckBox) e.getSource()).getText();
-		if ("(Seleziona/Deseleziona tutti)".equals(item)) {
+		if (props.getProperty("checkbox.allTipi").equals(item)) {
 			if (state == 1) {
 				for (String key : getBxsTipi().keySet()) {
 					if (!getBxsTipi().get(key).isSelected()) {
@@ -505,5 +545,113 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			getUnwanted().add(item);
 		}
 		log4j.debug("ArrayList<String> unwanted = " + getUnwanted().toString());
+	}
+
+	private int validateUserInput() {
+
+		btnMake.setEnabled(true);
+		btnSend.setEnabled(true);
+		boolean valid = true;
+		boolean couldSend = true;
+		getMessages().clear();
+
+		/** Check work directory */
+		String input = textFieldTarget.getText();
+		if ((new File(input)).isDirectory()) {
+			// TODO implementa cancellazione vecchia cartella FilesGenerati con
+			// dialog
+			setTarget(input);
+			if (!getTarget().endsWith(pathSeparator)) {
+				setTarget(getTarget() + pathSeparator);
+			}
+		} else {
+			getMessages().add(props.getProperty("message.error.workDir") + " " + input);
+			btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			valid = false;
+			refresh(mainFrame);
+			return 2;
+		}
+
+		/** Check teacher details json file */
+		input = getTarget() + textFieldTeacher.getText();
+		if (Utils.validateTeacherFile(input) == null) {
+			setTeachDet(input);
+		} else {
+			getMessages().add(props.getProperty("message.error.teachDet") + " " + input);
+			btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			valid = false;
+		}
+
+		/** Check anno scolastico */
+		input = textFieldAs.getText();
+		if (!input.isEmpty()) { // TODO implementa controllo formato NNNN/NN
+			setAnno(input);
+		} else {
+			getMessages().add(props.getProperty("message.error.as") + " " + input);
+			btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			valid = false;
+		}
+
+		/** Check schools details file or directory */
+		input = getTarget() + textFieldSchools.getText();
+		ArrayList<String> invalidSchoolsFiles = Utils.getInvalidSchoolsFiles(input);
+		if (invalidSchoolsFiles == null) {
+			getMessages().add(props.getProperty("message.error.schoolsDet.missing") + " " + input);
+			btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			getBxsTipi().clear();
+			valid = false;
+		} else if (invalidSchoolsFiles.isEmpty()) {
+			setSchools(input);
+		} else {
+			getMessages().add(props.getProperty("message.error.schoolsDet.invalid"));
+			for (String str : invalidSchoolsFiles) {
+				getMessages().add(str);
+			}
+			btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			getBxsTipi().clear();
+			valid = false;
+		}
+
+		/** Check PEC details json file */
+		input = getTarget() + textFieldPec.getText();
+		if (Utils.validatePecFile(input) == null) {
+			setPecDet(input);
+		} else {
+			getMessages().add(props.getProperty("message.error.pecDet") + " " + input);
+			// btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			couldSend = false;
+		}
+
+		/** Check address for simulated run */
+		input = textFieldSim.getText();
+		if (Utils.isValidEmailAddress(input)) {
+			setSimMail(input);
+		} else {
+			getMessages().add(props.getProperty("message.error.simMail") + " " + input);
+			// btnMake.setEnabled(false);
+			btnSend.setEnabled(false);
+			couldSend = false;
+		}
+
+		if (!valid) {
+			refresh(mainFrame);
+			return 2;
+		}
+
+		if (!couldSend) {
+			refresh(mainFrame);
+			return 1;
+		}
+
+		btnMake.setEnabled(true);
+		btnSend.setEnabled(true);
+		refresh(mainFrame);
+		return 0;
 	}
 }
