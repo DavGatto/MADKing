@@ -191,6 +191,7 @@
 						<nonFilteredFileExtension>pdf</nonFilteredFileExtension>
 						<nonFilteredFileExtension>swf</nonFilteredFileExtension>
 						<nonFilteredFileExtension>ttf</nonFilteredFileExtension>
+						<nonFilteredFileExtension>png</nonFilteredFileExtension>
 					</nonFilteredFileExtensions>
 				</configuration>
 			</plugin>

@@ -43,11 +43,11 @@ import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -185,7 +185,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	}
 
 	public static void main(String[] args) {
-		log4j.info("Started!");
+		log4j.info("Avviato!");
 
 		InputStream is = Thread.currentThread().getContextClassLoader()
 				.getResourceAsStream("etc/application.properties");
@@ -196,21 +196,18 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			e.printStackTrace();
 		}
 
-		Object[] options = { "Ho capito, voglio usare il programma", "Non lanciare il programma" };
-		int n = JOptionPane.showOptionDialog(new JFrame(),
-				"Questo programma è rialsciato con licenza GPL versione 3,\n"
+		if (!Utils.prompt("MADKing - Licenza d'uso e dichiarazione di non responsabilità",
+				"Questo programma, MADKing, è rialsciato con licenza GPL versione 3,\n"
 						+ "e di conseguenza NON C'È ALCUNA GARANZIA PER IL PROGRAMMA.\n\n"
 						+ "L'autore fornisce il programma \"così com'è\" SENZA GARANZIA DI ALCUN TIPO, NÈ ESPRESSA NÈ IMPLICITA, \n"
 						+ "INCLUSE, MA NON LIMITATE A, LE GARANZIE DI COMMERCIABILITÀ O DI UTILIZZABILITÀ PER UN PARTICOLARE SCOPO.\n\n"
 						+ "L'INTERO RISCHIO CONCERNENTE LA QUALITÀ E LE PRESTAZIONI DEL PROGRAMMA È DELL'UTENTE FINALE.",
-				props.getProperty("label.title"), JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, null,
-				options, // the titles of buttons
-				options[1]); // default button title
-
-		if (n != 0) {
+				"Ho capito, voglio usare il programma", "Non lanciare il programma", 1, "icons/gplv3-88x31.png")) {
+			log4j.info("L'utente ha rifiutato le condizioni di utilizzo. Chiudo MADKing");
 			return;
 		}
 
+		log4j.info("L'utente ha accettato le condizioni di utilizzo. Lancio MADKing!");
 		new Gui();
 	}
 
@@ -241,6 +238,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	}
 
 	private void refresh(JFrame frame) {
+		log4j.debug(Gui.class.getName() + ".refresh invoked");
 		frame.getContentPane().removeAll();
 		addComponentsToPane(frame.getContentPane());
 
@@ -558,8 +556,18 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		/** Check work directory */
 		String input = textFieldTarget.getText();
 		if ((new File(input)).isDirectory()) {
-			// TODO implementa cancellazione vecchia cartella FilesGenerati con
-			// dialog
+//			if ((new File(input + pathSeparator + props.getProperty("default.senderLookupDir"))).isDirectory()) {
+//				if (Utils.prompt("MADKing",
+//						"Trovata cartella di files generati da MADKing pre-esistente. Vuoi cancellarla? Se non lo fai, le vecchie MAD potrebbero essere spedite",
+//						"Cancella la cartella", "Non cancellare, sovrascrivi eventuali vecchie MAD", 0, null)) { // TODO esternalizza
+//					try {
+//						FileUtils.deleteDirectory(new File(input + pathSeparator + props.getProperty("default.senderLookupDir")));
+//						log4j.debug("Old FilesGenerati directory deleted");
+//					} catch (IOException e) {
+//						log4j.error(e.getMessage());
+//					}
+//				}
+//			} //TODO prompt in caso di cartella FilesGenerati già esistente
 			setTarget(input);
 			if (!getTarget().endsWith(pathSeparator)) {
 				setTarget(getTarget() + pathSeparator);

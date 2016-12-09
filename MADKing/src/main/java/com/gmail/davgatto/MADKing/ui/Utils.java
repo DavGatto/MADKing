@@ -1,21 +1,28 @@
 package com.gmail.davgatto.MADKing.ui;
 
+
 import java.io.File;
 import java.io.FileReader;
+import java.net.URL;
 import java.util.ArrayList;
-
 import javax.json.Json;
 import javax.json.JsonArray;
 import javax.json.JsonObject;
 import javax.json.JsonReader;
 import javax.json.JsonValue;
 import javax.mail.internet.InternetAddress;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
+
 import org.apache.commons.lang3.StringUtils;
 
 import com.gmail.davgatto.MADKing.Maker.TeacherDetails;
 
 public class Utils {
-	
+
 	public static String validateTeacherFile(String f) {
 		try {
 			(new TeacherDetails()).setFromJsonObj(f);
@@ -124,6 +131,28 @@ public class Utils {
 		}
 		return result;
 	}
-	
-	//TODO Implementa un metodo boolean per un dialog box con risposta si/no
+
+	// TODO Funziona ma non trova l'icona
+	public static boolean prompt(String title, String question, String yes, String no, int preselected,
+			String iconPath) {
+		
+		try {
+			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+		} catch (ClassNotFoundException | InstantiationException | IllegalAccessException
+				| UnsupportedLookAndFeelException e) {
+			e.printStackTrace();
+		}
+		
+		URL url = Thread.currentThread().getContextClassLoader().getResource(iconPath);
+		//System.out.println(iconPath);
+		Object[] options = { yes, no };
+		ImageIcon icon = null;
+		if (iconPath != null) {
+			icon = new ImageIcon(url);
+			//System.out.println(icon);
+		}
+		int n = JOptionPane.showOptionDialog(new JFrame(), question, title, JOptionPane.YES_NO_OPTION,
+				JOptionPane.QUESTION_MESSAGE, icon, options, options[preselected]);
+		return n == 0;
+	}
 }

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
 	<Appenders>
+		<File name="FileLoggerVerbose" fileName="${path.logs}/${date:yyyyMMdd-HHmmss}_MADKing_verbose.log" append="false">
+			<PatternLayout pattern="%d %t %-5p %c{2} - %m%n" />
+		</File>
 		<File name="FileLogger" fileName="${path.logs}/${date:yyyyMMdd-HHmmss}_MADKing.log" append="false">
 			<PatternLayout pattern="%d %t %-5p %c{2} - %m%n" />
 		</File>
@@ -14,8 +17,9 @@
 	</Appenders>
 	<Loggers>
 		<Logger name="com.gmail.davgatto.MADKing" level="all">
-			<AppenderRef ref="FileLogger" />
-			<AppenderRef ref="STDOUT" level="debug"/>
+			<AppenderRef ref="FileLoggerVerbose" />
+			<AppenderRef ref="FileLogger" level = "info" />
+			<AppenderRef ref="STDOUT" level="info"/>
 			<AppenderRef ref="STDERR" level="error"/>
 		</Logger>
 		<Root level = "trace">
