@@ -23,6 +23,7 @@
  */
 package com.gmail.davgatto.MADKing.ui;
 
+import java.awt.Color;
 import java.awt.ComponentOrientation;
 import java.awt.Container;
 import java.awt.GridBagConstraints;
@@ -41,19 +42,20 @@ import java.util.Properties;
 
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
+import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.gmail.davgatto.MADKing.Retriever.SchoolRetriever;
 
-public class Gui extends JFrame implements ActionListener, ItemListener {
+public class Gui extends JPanel implements ActionListener, ItemListener {
 
 	private static final long serialVersionUID = 1L;
 
@@ -248,7 +250,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 	public void addComponentsToPane(Container pane) {
 		log4j.debug(Gui.class.getName() + ".addComponentsToPane invoked");
-
+		// TODO Implementa conteggio delle scuole in diretta
 		pane.setComponentOrientation(ComponentOrientation.LEFT_TO_RIGHT);
 
 		pane.setLayout(new GridBagLayout());
@@ -276,13 +278,19 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			textFieldTarget.addActionListener(this);
 		}
 
+		JButton chooseDir = new JButton("Scegli...");
+		chooseDir.setActionCommand("chooseWorkDir");
+		c.gridx = 2;
+		pane.add(chooseDir, c);
+		chooseDir.addActionListener(this);
+
 		label = new JLabel(props.getProperty("label.teachDet"));
 		c.fill = GridBagConstraints.EAST;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
 		if (textFieldTeacher == null) {
-			textFieldTeacher = new JTextField(props.getProperty("placeholder.teachDet"));
+			textFieldTeacher = new JTextField(getTarget() + pathSeparator + props.getProperty("placeholder.teachDet"));
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
@@ -292,13 +300,20 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			textFieldTeacher.addActionListener(this);
 		}
 
+		JButton chooseTeach = new JButton("Scegli...");
+		chooseTeach.setActionCommand("chooseTeacher");
+		c.gridx = 2;
+		pane.add(chooseTeach, c);
+		chooseTeach.addActionListener(this);
+
 		label = new JLabel(props.getProperty("label.schoolsDet"));
 		c.fill = GridBagConstraints.EAST;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
 		if (textFieldSchools == null) {
-			textFieldSchools = new JTextField(props.getProperty("placeholder.schoolsDet"));
+			textFieldSchools = new JTextField(
+					getTarget() + pathSeparator + props.getProperty("placeholder.schoolsDet"));
 			textFieldSchools.addActionListener(this);
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
@@ -306,19 +321,33 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		c.gridy = y;
 		pane.add(textFieldSchools, c);
 
+		JButton chooseSch = new JButton("Scegli...");
+		chooseSch.setActionCommand("chooseSchool");
+		c.gridx = 2;
+		pane.add(chooseSch, c);
+		chooseSch.addActionListener(this);
+
 		label = new JLabel(props.getProperty("label.pecDet"));
 		c.fill = GridBagConstraints.EAST;
 		c.gridx = 0;
 		c.gridy = ++y;
 		pane.add(label, c);
 		if (textFieldPec == null) {
-			textFieldPec = new JTextField(props.getProperty("placeholder.pecDet"));
+			textFieldPec = new JTextField(getTarget() + pathSeparator + props.getProperty("placeholder.pecDet"));
 			textFieldPec.addActionListener(this);
+		} else {
+			textFieldPec.setText(getPecDet());
 		}
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 1;
 		c.gridy = y;
 		pane.add(textFieldPec, c);
+
+		JButton choosePec = new JButton("Scegli...");
+		choosePec.setActionCommand("choosePec");
+		c.gridx = 2;
+		pane.add(choosePec, c);
+		choosePec.addActionListener(this);
 
 		label = new JLabel(props.getProperty("label.as"));
 		c.fill = GridBagConstraints.EAST;
@@ -397,7 +426,8 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 
 		for (String msg : getMessages()) {
 			label = new JLabel(msg);
-			c.gridwidth = 2;
+			label.setForeground(Color.RED);
+			c.gridwidth = 3;
 			c.gridx = 0;
 			c.gridy = ++y;
 			pane.add(label, c);
@@ -432,6 +462,72 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		log4j.debug("Action: " + e.getActionCommand() + "\n\t" + e.getSource());
+		//System.out.println("Action: " + e.getActionCommand() + "\n\t" + e.getSource());
+
+		if (e.getActionCommand().startsWith("choose")) {
+			log4j.debug("Choose file button " + e.getActionCommand());
+			//System.out.println("Choose file button " + e.getActionCommand());
+			if ("chooseWorkDir".equals(e.getActionCommand())) {
+				JFileChooser fc = new JFileChooser();
+				fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+				int returnVal = fc.showOpenDialog(mainFrame);
+				//System.out.println("returnval: " + returnVal);
+				if (returnVal == 0) {
+					setTarget(fc.getSelectedFile().getAbsolutePath());
+					textFieldTarget.setText(getTarget());
+					//System.out.println("pecdet: " + getTarget());
+					ActionEvent chosen = new ActionEvent(textFieldTarget, 0, "workDirChosen");
+					actionPerformed(chosen);
+				} else {
+					return;
+				}
+			} else if ("choosePec".equals(e.getActionCommand())) {
+				JFileChooser fc = new JFileChooser();
+				fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
+				int returnVal = fc.showOpenDialog(mainFrame);
+				if (returnVal == 0) {
+					//System.out.println("returnval: " + returnVal);
+					setPecDet(fc.getSelectedFile().getAbsolutePath());
+					textFieldPec.setText(getPecDet());
+					//System.out.println("pecdet: " + getPecDet());
+					ActionEvent chosen = new ActionEvent(textFieldPec, 0, "pecFileChosen");
+					actionPerformed(chosen);
+				} else {
+					return;
+				}
+			} else if ("chooseTeacher".equals(e.getActionCommand())) {
+				JFileChooser fc = new JFileChooser();
+				fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
+				int returnVal = fc.showOpenDialog(mainFrame);
+				if (returnVal == 0) {
+					//System.out.println("returnval: " + returnVal);
+					setTeachDet(fc.getSelectedFile().getAbsolutePath());
+					textFieldTeacher.setText(getTeachDet());
+					//System.out.println("teachdet: " + getTeachDet());
+					ActionEvent chosen = new ActionEvent(textFieldTeacher, 0, "teacherFileChosen");
+					actionPerformed(chosen);
+				} else {
+					return;
+				}
+			} else if ("chooseSchool".equals(e.getActionCommand())) {
+				JFileChooser fc = new JFileChooser();
+				fc.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
+				int returnVal = fc.showOpenDialog(mainFrame);
+				//System.out.println("returnval: " + returnVal);
+				if (returnVal == 0) {
+					setSchools(fc.getSelectedFile().getAbsolutePath());
+					textFieldSchools.setText(getSchools());
+					//System.out.println("schoolsdet: " + getTeachDet());
+					ActionEvent chosen = new ActionEvent(textFieldSchools, 0, getSchools());
+					actionPerformed(chosen);
+				} else {
+					return;
+				}
+			} else {
+				log4j.error("Invalid action command from choose button: " + e.getActionCommand());
+				return;
+			}
+		}
 
 		getMessages().clear();
 		int valid = validateUserInput();
@@ -466,11 +562,11 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 			}
 		} else if (e.getSource().equals(textFieldSchools)) {
 			log4j.debug("Schools text field set by user: " + e.getActionCommand());
+			//System.out.println("Schools text field set by user: " + e.getActionCommand());
 			try {
 				getBxsTipi().clear();
 				getUnwanted().clear();
-				for (String t : SchoolRetriever.getAllValuesForField("tipo",
-						getTarget() + pathSeparator + e.getActionCommand())) {
+				for (String t : SchoolRetriever.getAllValuesForField("tipo", e.getActionCommand())) {
 					JCheckBox checkbox = new JCheckBox(t, true);
 					getBxsTipi().put(t, checkbox);
 				}
@@ -556,18 +652,23 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		/** Check work directory */
 		String input = textFieldTarget.getText();
 		if ((new File(input)).isDirectory()) {
-//			if ((new File(input + pathSeparator + props.getProperty("default.senderLookupDir"))).isDirectory()) {
-//				if (Utils.prompt("MADKing",
-//						"Trovata cartella di files generati da MADKing pre-esistente. Vuoi cancellarla? Se non lo fai, le vecchie MAD potrebbero essere spedite",
-//						"Cancella la cartella", "Non cancellare, sovrascrivi eventuali vecchie MAD", 0, null)) { // TODO esternalizza
-//					try {
-//						FileUtils.deleteDirectory(new File(input + pathSeparator + props.getProperty("default.senderLookupDir")));
-//						log4j.debug("Old FilesGenerati directory deleted");
-//					} catch (IOException e) {
-//						log4j.error(e.getMessage());
-//					}
-//				}
-//			} //TODO prompt in caso di cartella FilesGenerati già esistente
+			// if ((new File(input + pathSeparator +
+			// props.getProperty("default.senderLookupDir"))).isDirectory()) {
+			// if (Utils.prompt("MADKing",
+			// "Trovata cartella di files generati da MADKing pre-esistente.
+			// Vuoi cancellarla? Se non lo fai, le vecchie MAD potrebbero essere
+			// spedite",
+			// "Cancella la cartella", "Non cancellare, sovrascrivi eventuali
+			// vecchie MAD", 0, null)) { // TODO esternalizza
+			// try {
+			// FileUtils.deleteDirectory(new File(input + pathSeparator +
+			// props.getProperty("default.senderLookupDir")));
+			// log4j.debug("Old FilesGenerati directory deleted");
+			// } catch (IOException e) {
+			// log4j.error(e.getMessage());
+			// }
+			// }
+			// } //TODO prompt in caso di cartella FilesGenerati già esistente
 			setTarget(input);
 			if (!getTarget().endsWith(pathSeparator)) {
 				setTarget(getTarget() + pathSeparator);
@@ -582,7 +683,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		}
 
 		/** Check teacher details json file */
-		input = getTarget() + textFieldTeacher.getText();
+		input = textFieldTeacher.getText();
 		if (Utils.validateTeacherFile(input) == null) {
 			setTeachDet(input);
 		} else {
@@ -604,7 +705,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		}
 
 		/** Check schools details file or directory */
-		input = getTarget() + textFieldSchools.getText();
+		input = textFieldSchools.getText();
 		ArrayList<String> invalidSchoolsFiles = Utils.getInvalidSchoolsFiles(input);
 		if (invalidSchoolsFiles == null) {
 			getMessages().add(props.getProperty("message.error.schoolsDet.missing") + " " + input);
@@ -626,7 +727,7 @@ public class Gui extends JFrame implements ActionListener, ItemListener {
 		}
 
 		/** Check PEC details json file */
-		input = getTarget() + textFieldPec.getText();
+		input = textFieldPec.getText();
 		if (Utils.validatePecFile(input) == null) {
 			setPecDet(input);
 		} else {

@@ -89,6 +89,7 @@ public class Utils {
 		return null;
 	}
 
+	// TODO cambia in modo da CONTARE le scuole
 	public static boolean validateSchoolsFile(String f) {
 		// System.out.println("validateSchoolsFile on " + f);
 		JsonReader reader;
