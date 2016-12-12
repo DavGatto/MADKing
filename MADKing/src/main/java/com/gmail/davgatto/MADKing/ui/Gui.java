@@ -695,7 +695,7 @@ public class Gui extends JPanel implements ActionListener, ItemListener {
 
 		/** Check anno scolastico */
 		input = textFieldAs.getText();
-		if (!input.isEmpty()) { // TODO implementa controllo formato NNNN/NN
+		if (input.matches("[0-9][0-9][0-9][0-9]/[0-9][0-9]")) {
 			setAnno(input);
 		} else {
 			getMessages().add(props.getProperty("message.error.as") + " " + input);
